@@ -1,0 +1,2495 @@
+{
+    "0": {
+        "instruction": "Zvažte následující AR(1) model s poruchami, které mají nulový průměr a jednotkovou varianci\n\nyt = 0.2 + 0.4 yt-1 + ut\n\n(Nezávislý) průměr y bude dán",
+        "option_a": "0.2",
+        "option_b": "0.4",
+        "option_c": "0.5",
+        "option_d": "0.33",
+        "answer": "D",
+        "id": "econometrics/dev/1"
+    },
+    "1": {
+        "instruction": "42letý muž přichází do ordinace na předoperační vyšetření před plánovanou adrenalektomií, která je naplánována za 2 týdny. Před měsícem vyhledal pomoc na pohotovosti kvůli bolesti v pravém boku po automobilové nehodě. Tehdy byl krevní tlak 160/100 mm Hg a CT vyšetření břicha ukázalo náhodný 10cm levý nadledvinový nádor. Výsledky laboratorních testů, včetně kompletního krevního obrazu, koncentrací elektrolytů v séru a testů funkce jater, byly v referenčních hodnotách. Pacient byl jinak zdravý a nikdy mu nebylo řečeno, že má zvýšený krevní tlak. Neužívá žádné léky. Kontrolní návštěva v ordinaci před 2 týdny odhalila zvýšené hladiny močového normetanefrinu a metanefrinu a koncentrace plazmatického aldosteronu. Pacient byl odeslán k chirurgovi, který doporučil adrenalektomii. Dnes jsou vitální funkce: teplota 36,6 °C (97,9 °F), puls 100/min, dýchání 14/min a krevní tlak 170/95 mm Hg. Fyzikální vyšetření neodhalilo žádné významné nálezy. Počáteční předoperační příprava by měla zahrnovat léčbu kterým z následujících?",
+        "option_a": "Labetalol",
+        "option_b": "Nárazová dávka chloridu draselného",
+        "option_c": "Nifedipin",
+        "option_d": "Fenoxybenzamin",
+        "answer": "D",
+        "id": "professional_medicine/dev/0"
+    },
+    "2": {
+        "instruction": "Podle Mooreova \"ideálního utilitarismu\" je správná akce ta, která přináší největší množství:",
+        "option_a": "potěšení.",
+        "option_b": "štěstí.",
+        "option_c": "dobra.",
+        "option_d": "cnosti.",
+        "answer": "C",
+        "id": "philosophy/dev/1"
+    },
+    "3": {
+        "instruction": "Která z následujících možností není zahrnuta do HDP USA?",
+        "option_a": "Americká armáda otevírá novou základnu v zahraničí s 1000 americkými vojáky.",
+        "option_b": "Japonští spotřebitelé kupují tisíce CD vyrobených ve Spojených státech.",
+        "option_c": "Americká popová zpěvačka vystupuje na vyprodaném koncertě v Paříži.",
+        "option_d": "Francouzská divadelní produkce objíždí desítky amerických měst.",
+        "answer": "C",
+        "id": "high_school_macroeconomics/dev/0"
+    },
+    "4": {
+        "instruction": "Které z těchto tvrzení je pravdivé o Vatikánu v roce 2010 v době obvinění z krytí zneužívání dětí?",
+        "option_a": "Byla koordinovaná mediální reakce.",
+        "option_b": "Byly komunikovány konzistentní zprávy.",
+        "option_c": "Kritiky byly brány jako útoky na katolickou církev.",
+        "option_d": "Důvěryhodnost Vatikánu byla zachována.",
+        "answer": "C",
+        "id": "public_relations/dev/2"
+    },
+    "5": {
+        "instruction": "Předpokládejme, že testová statistika má přiřazenou p-hodnotu 0,08. Které z následujících tvrzení je pravdivé?\n\n(i) Pokud by velikost testu byla přesně 8 %, byli bychom lhostejní mezi zamítnutím a nezamítnutím nulové hypotézy\n\n(ii) Nulová hypotéza by byla zamítnuta, pokud by byla použita velikost testu 10 %\n\n(iii) Nulová hypotéza by nebyla zamítnuta, pokud by byla použita velikost testu 1 %\n\n(iv) Nulová hypotéza by byla zamítnuta, pokud by byla použita velikost testu 5 %.",
+        "option_a": "(ii) a (iv) pouze",
+        "option_b": "(i) a (iii) pouze",
+        "option_c": "(i), (ii) a (iii) pouze",
+        "option_d": "(i), (ii), (iii) a (iv)",
+        "answer": "C",
+        "id": "econometrics/dev/2"
+    },
+    "6": {
+        "instruction": "Když argumentátor způsobí zmatek během vyvracení kvůli skutečné nebo předstírané neschopnosti zapojit se do vyvracení, může tento argumentátor spáchat klam",
+        "option_a": "špatného sportovního chování",
+        "option_b": "apel na soucit",
+        "option_c": "argument proti osobě",
+        "option_d": "neznalost vyvracení",
+        "answer": "D",
+        "id": "logical_fallacies/dev/4"
+    },
+    "7": {
+        "instruction": "Tato otázka se týká následujících informací.\n\"Skutečná stížnost pracovníka je nejistota jeho existence; není si jistý, že vždy bude mít práci, není si jistý, že vždy bude zdravý, a předvídá, že jednoho dne bude starý a neschopný pracovat. Pokud upadne do chudoby, i když jen kvůli dlouhodobé nemoci, je pak zcela bezmocný, odkázaný na své vlastní prostředky, a společnost v současnosti neuznává žádnou skutečnou povinnost vůči němu kromě obvyklé pomoci chudým, i když pracoval po celou dobu velmi věrně a pilně. Obvyklá pomoc chudým však zanechává mnoho přání, zejména ve velkých městech, kde je to mnohem horší než na venkově.\"\nOtto von Bismarck, 1884\nOtto von Bismarck pravděpodobně pronesl tuto řeč jako reakci na které z následujících problémů?",
+        "option_a": "Sociální akceptace dětské práce",
+        "option_b": "Klesající průměrná délka života v Německu",
+        "option_c": "Kritika německých obchodních cel",
+        "option_d": "Negativní účinky přisuzované průmyslovému kapitalismu",
+        "answer": "D",
+        "id": "high_school_world_history/dev/2"
+    },
+    "8": {
+        "instruction": "Která japonská vláda podporovala jakýsi národní kult založený na císaři a jeho spojení s kami?",
+        "option_a": "Honen",
+        "option_b": "Tanaka",
+        "option_c": "Tokugawa",
+        "option_d": "Meiji",
+        "answer": "D",
+        "id": "world_religions/dev/3"
+    },
+    "9": {
+        "instruction": "Který z následujících pohledů je nejlepší pro zkoumání role dětských vojáků?",
+        "option_a": "Dětské vojáky jsou oběti bojů, které potřebují přeškolení a rehabilitaci.",
+        "option_b": "Děti a jejich matky nejsou aktivními subjekty ve válce a je nejlepší je považovat za subjekty v soukromé sféře.",
+        "option_c": "Děti jsou nejčastěji nevinnými svědky ve válce a je nejlepší je používat jako symboly míru.",
+        "option_d": "Děti mají politickou subjektivitu, která je opomenuta, když jsou považovány za pasivní oběti války.",
+        "answer": "D",
+        "id": "security_studies/dev/1"
+    },
+    "10": {
+        "instruction": "Energie pro všechny formy svalové kontrakce je poskytována:",
+        "option_a": "ATP.",
+        "option_b": "ADP.",
+        "option_c": "fosfokreatin.",
+        "option_d": "oxidativní fosforylace.",
+        "answer": "A",
+        "id": "clinical_knowledge/dev/0"
+    },
+    "11": {
+        "instruction": "Koncentrační poměr pro monopol je",
+        "option_a": "0",
+        "option_b": "5",
+        "option_c": "10",
+        "option_d": "100",
+        "answer": "D",
+        "id": "high_school_microeconomics/dev/2"
+    },
+    "12": {
+        "instruction": "V dané populaci má 1 z každých 400 lidí rakovinu způsobenou zcela recesivním alelem b. Předpokládající, že populace je v Hardy-Weinbergově rovnováze, jaký je očekávaný podíl jedinců, kteří nesou alel b, ale není očekáváno, že se u nich rakovina vyvine?",
+        "option_a": "1/400",
+        "option_b": "19/400",
+        "option_c": "20/400",
+        "option_d": "38/400",
+        "answer": "D",
+        "id": "college_biology/dev/1"
+    },
+    "13": {
+        "instruction": "Když starší dospělí přecházejí do nového státu po odchodu do důchodu, která z následujících destinací je pravděpodobnější?",
+        "option_a": "Texas",
+        "option_b": "Kalifornie",
+        "option_c": "Havaj",
+        "option_d": "Vermont",
+        "answer": "A",
+        "id": "human_aging/dev/2"
+    },
+    "14": {
+        "instruction": "Kdo je nejnižší muž, který kdy vyhrál soutěž ve smečování NBA?",
+        "option_a": "Anthony 'Spud' Webb",
+        "option_b": "Michael 'Air' Jordan",
+        "option_c": "Tyrone 'Muggsy' Bogues",
+        "option_d": "Julius 'Dr J' Erving",
+        "answer": "A",
+        "id": "miscellaneous/dev/2"
+    },
+    "15": {
+        "instruction": "Roztok obsahuje 2,00 molu kyseliny octové, CH3COOH, a 1,00 molu acetátu vápenatého, Ca(CH3COO)2. Roztok je schopen odolávat přidání malého množství silné kyseliny nebo silné zásady s pouze drobnými změnami pH roztoku. Větší množství silné kyseliny nebo silné zásady mohou způsobit významnou změnu pH. Kolik molů kyseliny dusičné, HNO3, může být přidáno, než začne pH významně měnit?",
+        "option_a": "0,500 molu",
+        "option_b": "1,00 molu",
+        "option_c": "2,00 moly",
+        "option_d": "3,00 moly",
+        "answer": "C",
+        "id": "high_school_chemistry/dev/4"
+    },
+    "16": {
+        "instruction": "Využití chyby Heartbleed umožňuje",
+        "option_a": "přepsání kryptografických klíčů v paměti",
+        "option_b": "druh injekce kódu",
+        "option_c": "čtení mimo meze vyrovnávací paměti",
+        "option_d": "útok formátovacího řetězce",
+        "answer": "C",
+        "id": "computer_security/dev/3"
+    },
+    "17": {
+        "instruction": "DNA ligáza je",
+        "option_a": "enzym, který spojuje fragmenty při normální replikaci DNA",
+        "option_b": "enzym bakteriálního původu, který štěpí DNA na definovaných bázi sekvencích",
+        "option_c": "enzym, který usnadňuje transkripci specifických genů",
+        "option_d": "enzym, který omezuje úroveň, do které se konkrétní živina dostává",
+        "answer": "A",
+        "id": "medical_genetics/dev/1"
+    },
+    "18": {
+        "instruction": "Termín 'hegemonie' se vztahuje na:",
+        "option_a": "tendenci pracující třídy neuvědomovat si své vlastní zájmy",
+        "option_b": "dominantní ideologii, která legitimizuje ekonomickou, politickou a kulturní moc",
+        "option_c": "formu dvojího vědomí založenou na ideologii a každodenních zkušenostech",
+        "option_d": "způsob platby udělovaný za vynikající topiary",
+        "answer": "B",
+        "id": "sociology/dev/3"
+    },
+    "19": {
+        "instruction": "Mediánová doba přežití do AIDS a úmrtí byla stanovena sledováním:",
+        "option_a": "Seropozitivní jedinci infikovaní HIV",
+        "option_b": "Seronegativní",
+        "option_c": "Serokonvertující",
+        "option_d": "Seronegativní s vysokým rizikem",
+        "answer": "C",
+        "id": "virology/dev/4"
+    },
+    "20": {
+        "instruction": "Tato otázka se týká následujících informací.\n\"Opravdu, jak se shodují jak fatwy vynikajících [učenců], kteří zakládají svůj názor na rozumu a tradici, tak i konsensus sunnitské komunity, že starodávná povinnost vymýcení, vyhlazení a vyhnání zlého novotářství musí být cílem naší vznešené aspirace, neboť \"Náboženský zápal je vítězstvím víry Boha Milosrdného\"; pak, v souladu se slovy Proroka (Pokoj s ním!) \"Kdo zavede zlé novotářství do našeho řádu, musí být vyhnán\" a \"Kdo činí cokoliv proti našemu řádu, musí být vyhnán,\" stala se akce nezbytnou a naléhavou…\"\nDopis osmanského sultána Selima I. safíjskému šáhovi Ismailovi I., 1514\nDopis Selima I. je nejjasnějším příkladem kterého z následujících?",
+        "option_a": "Udržení vojenské nadvlády za každou cenu",
+        "option_b": "Zesilující napětí mezi náboženskými sektami",
+        "option_c": "Faktory, které vedly k pádu Osmanské říše",
+        "option_d": "Mírové snahy mezi islámskými říšemi",
+        "answer": "B",
+        "id": "high_school_world_history/dev/3"
+    },
+    "21": {
+        "instruction": "Ve srovnání s hmotností atomu uranu podléhajícího štěpení jsou součtové hmotnosti produktů po štěpení",
+        "option_a": "menší",
+        "option_b": "větší",
+        "option_c": "stejné",
+        "option_d": "nula",
+        "answer": "A",
+        "id": "conceptual_physics/dev/0"
+    },
+    "22": {
+        "instruction": "Najděte charakteristiku kruhu 2Z.",
+        "option_a": "0",
+        "option_b": "3",
+        "option_c": "12",
+        "option_d": "30",
+        "answer": "A",
+        "id": "abstract_algebra/dev/4"
+    },
+    "23": {
+        "instruction": "Na rozdíl od _______, _______ usilují o odměňování příznivého chování firem. Úspěch takových kampaní byl zvýšen využitím ___________, které umožňují kampaním usnadnit firmě dosažení _________.",
+        "option_a": "Buycotty, Boycotty, Technologie blockchain, Charitativní dary",
+        "option_b": "Buycotty, Boycotty, Digitální technologie, Zvýšené prodeje",
+        "option_c": "Boycotty, Buyally, Technologie blockchain, Charitativní dary",
+        "option_d": "Boycotty, Buycotty, Digitální technologie, Zvýšené prodeje",
+        "answer": "D",
+        "id": "business_ethics/dev/4"
+    },
+    "24": {
+        "instruction": "Která z následujících možností je předpokladem Maslowovy hierarchie potřeb?",
+        "option_a": "Potřeby závisí na kultuře a také na sociální třídě.",
+        "option_b": "Potřeby nižší úrovně musí být alespoň částečně uspokojeny, než mohou vyšší potřeby ovlivnit chování.",
+        "option_c": "Potřeby nejsou prioritizovány ani uspořádány v žádném konkrétním pořadí.",
+        "option_d": "Uspokojené potřeby jsou motivátory a nové potřeby se objevují, když aktuální potřeby zůstávají neuspokojené.",
+        "answer": "B",
+        "id": "marketing/dev/2"
+    },
+    "25": {
+        "instruction": "Zjednodušte a napište výsledek s racionálním jmenovatelem: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+        "option_a": "\\frac{3\\sqrt{3}}{3}",
+        "option_b": "\\frac{1}{3}",
+        "option_c": "\\sqrt{3}",
+        "option_d": "\\frac{\\sqrt{3}}{3}",
+        "answer": "D",
+        "id": "high_school_mathematics/dev/3"
+    },
+    "26": {
+        "instruction": "Která z následujících množin má nejmenší směrodatnou odchylku? Která má největší?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}",
+        "option_a": "I, II",
+        "option_b": "II, III",
+        "option_c": "III, I",
+        "option_d": "III, II",
+        "answer": "D",
+        "id": "high_school_statistics/dev/4"
+    },
+    "27": {
+        "instruction": "_____________ může upravit data ve vašem systému – takže váš systém nemusí fungovat správně nebo již nemůžete získat přístup k určitým datům, nebo může dokonce požadovat výkupné, aby vám poskytl přístup.",
+        "option_a": "IM – Trojské koně",
+        "option_b": "Trojské koně s zadními vrátky",
+        "option_c": "Trojský kůň stahovač",
+        "option_d": "Výkupní trojský kůň",
+        "answer": "D",
+        "id": "computer_security/dev/1"
+    },
+    "28": {
+        "instruction": "Iverson Jewelers napsali dopis Millerovi: 'Obdrželi jsme výjimečně kvalitní samočinné hodinky Rolox, které vám prodáme za velmi výhodnou cenu.'",
+        "option_a": "Dopis je nabídkou k prodeji",
+        "option_b": "Platná nabídka nemůže být učiněna dopisem.",
+        "option_c": "Dopis obsahuje platnou nabídku, která vyprší v přiměřené době.",
+        "option_d": "Dopis postrádá jeden z nezbytných prvků nabídky.",
+        "answer": "D",
+        "id": "jurisprudence/dev/4"
+    },
+    "29": {
+        "instruction": "Které z těchto větví trojklanného nervu obsahují somatické motorické procesy?",
+        "option_a": "Nervus supratrochlearis",
+        "option_b": "Nervus infraorbitální",
+        "option_c": "Nervus mentální",
+        "option_d": "Žádná z výše uvedených",
+        "answer": "D",
+        "id": "anatomy/dev/1"
+    },
+    "30": {
+        "instruction": "Proměnná $x$ se přímo mění jako čtverec $y$, a $y$ se přímo mění jako kubus $z$. Pokud $x$ je $-16$, když $z$ je 2, jaká je hodnota $x$, když $z$ je $\\frac{1}{2}$?",
+        "option_a": "-1",
+        "option_b": "16",
+        "option_c": "-\\frac{1}{256}",
+        "option_d": "\\frac{1}{16}",
+        "answer": "C",
+        "id": "high_school_mathematics/dev/2"
+    },
+    "31": {
+        "instruction": "Státní legislativa nedávno přijala zákon, který činí přestupek z nadávání, urážení nebo používání obscénního či hanlivého jazyka vůči nebo v souvislosti s policistou vykonávajícím své povinnosti. Student na státní univerzitě uspořádal demonstraci na kampusu na protest proti válce. Akce se zúčastnila skupina 50 studentů, kteří křičeli protiválečné zprávy na projíždějící auta. Aby vyjádřil svůj pohrdání Spojenými státy, student přišil americkou vlajku na zadní část svých džín. Když policista viděl vlajku přišitou na džínách studenta, přistoupil k němu a řekl mu, aby vlajku odstranil, jinak bude zatčen. Student se rozčílil a křičel na policistu: \"Poslouchej, ty bastarde, tuhle hadru si budu nosit, kde chci.\" Student byl následně zatčen a obviněn z porušení státního zákona. Student následně podal žalobu u státního soudu, ve které zpochybnil ústavnost zákona. Nejsilnější ústavní argument pro studenta je, že",
+        "option_a": "zákon je neplatný pro neurčitost podle klauzule o řádném procesu čtrnáctého dodatku.",
+        "option_b": "zákon je neplatný, protože porušuje svobodu projevu stěžovatele podle prvního dodatku.",
+        "option_c": "zákon je omezením svobody projevu podle prvního dodatku, protože jsou k dispozici méně omezující prostředky k dosažení téhož cíle.",
+        "option_d": "zákon je příliš široký a tudíž neplatný podle prvního a čtrnáctého dodatku.",
+        "answer": "D",
+        "id": "professional_law/dev/0"
+    },
+    "32": {
+        "instruction": "Zjištění, že dospělí mají tendenci si lépe pamatovat události ze svého dospívání než z jiných období svého života, se nazývá",
+        "option_a": "Výhoda dospívání",
+        "option_b": "Návratnost vzpomínek",
+        "option_c": "Pamětní paměť",
+        "option_d": "Kvadratický vrchol vyhledávání",
+        "answer": "B",
+        "id": "human_aging/dev/1"
+    },
+    "33": {
+        "instruction": "Joe měl na starosti světla na tanci. Červené světlo bliká každé dvě sekundy, žluté světlo každé tři sekundy a modré světlo každých pět sekund. Pokud zahrneme samotný začátek a konec tance, kolikrát během sedmiminutového tance se všechna světla rozsvítí současně? (Předpokládejte, že všechna tři světla blikají současně na samotném začátku tance.)",
+        "option_a": "3",
+        "option_b": "15",
+        "option_c": "6",
+        "option_d": "5",
+        "answer": "B",
+        "id": "high_school_mathematics/dev/0"
+    },
+    "34": {
+        "instruction": "Před sto lety vaše prababička investovala 100 dolarů s ročním úrokem 5 %. Jaká je dnes hodnota této investice?",
+        "option_a": "13 000 dolarů",
+        "option_b": "600 dolarů",
+        "option_c": "15 000 dolarů",
+        "option_d": "28 000 dolarů",
+        "answer": "A",
+        "id": "professional_accounting/dev/1"
+    },
+    "35": {
+        "instruction": "Z pravidel rozpustnosti, které z následujících tvrzení je pravdivé?",
+        "option_a": "Všechny chloridy, bromidy a jodidy jsou rozpustné",
+        "option_b": "Všechny sulfáty jsou rozpustné",
+        "option_c": "Všechny hydroxidy jsou rozpustné",
+        "option_d": "Všechny sloučeniny obsahující amonium jsou rozpustné",
+        "answer": "D",
+        "id": "high_school_chemistry/dev/2"
+    },
+    "36": {
+        "instruction": "Oblast politických rozhodnutí, která se primárně týkají vztahů mezi Spojenými státy a zbytkem světa, je známa jako",
+        "option_a": "politika terorismu.",
+        "option_b": "ekonomická politika.",
+        "option_c": "zahraniční politika.",
+        "option_d": "mezinárodní politika.",
+        "answer": "C",
+        "id": "us_foreign_policy/dev/2"
+    },
+    "37": {
+        "instruction": "Syn dlužil věřiteli 5 000 dolarů. Otec syna kontaktoval věřitele a řekl mu, že chce zaplatit synův dluh. Otec podepsal dokument, který uváděl, že otec zaplatí synův dluh ve výši 500 dolarů měsíčně po dobu 10 měsíců. Věřitel neučinil žádný písemný ani ústní závazek zdržet se žaloby na syna za účelem vymáhání dluhu 5 000 dolarů, a otec neučinil žádnou ústní ani písemnou žádost o takové zdržení. Po následujících pět měsíců otec prováděl a věřitel přijímal měsíční platby ve výši 500 dolarů, jak bylo dohodnuto. Během této doby se věřitel skutečně zdržel jakýchkoli právních kroků proti synovi. Otec však poté informoval věřitele, že již nebude provádět žádné další platby na dluh. Který z následujících argumentů je nejpřesvědčivější, že otec je věřiteli odpovědný podle podmínek jejich dohody?",
+        "option_a": "Otcova slib a věřitelova na něm založená důvěra, pokud bude prokázána, vedly k platnému nároku věřitele proti otci na základě doktríny promissory estoppel.",
+        "option_b": "Protože bylo předvídatelné, že otcův slib přiměje věřitele, aby se zdržel jakýchkoli kroků proti synovi, takové zdržení bylo, jako otázka práva, dohodnutou protihodnotou za otcův slib.",
+        "option_c": "Otcových pět plateb věřiteli v celkové výši 2 500 dolarů projevilo vážný úmysl otce být smluvně vázán, a takové projevování je obecně uznáváno jako účinná náhrada za protihodnotu.",
+        "option_d": "Převzetím předchozí dluhové povinnosti, kterou syn dlužil věřiteli, se otec stal ručitelem, jehož slib vůči věřiteli byl vymahatelný, protože byl písemný a podložený adekvátní protihodnotou.",
+        "answer": "A",
+        "id": "professional_law/dev/4"
+    },
+    "38": {
+        "instruction": "V konkurenčním pracovním trhu pro malíře domů, co by zvýšilo poptávku po malířích domů?",
+        "option_a": "Účinná minimální mzda uvalená na tento pracovní trh.",
+        "option_b": "Zvýšení ceny galonů barvy.",
+        "option_c": "Zvýšení výstavby nových domů.",
+        "option_d": "Zvýšení ceny mechanických malířů, pokud výstupní efekt převyšuje substituční efekt.",
+        "answer": "C",
+        "id": "high_school_microeconomics/dev/0"
+    },
+    "39": {
+        "instruction": "Praxe najímání zahraničního třetího poskytovatele služeb k provozování operace se nazývá",
+        "option_a": "outsourcing.",
+        "option_b": "offshoring.",
+        "option_c": "maquiladoras.",
+        "option_d": "lokální závislost.",
+        "answer": "B",
+        "id": "high_school_geography/dev/3"
+    },
+    "40": {
+        "instruction": "Přítomnost homologních struktur ve dvou různých organismech, jako je humerus v přední končetině člověka a ptáka, naznačuje, že",
+        "option_a": "člověk a pták jsou polyfyletické druhy",
+        "option_b": "evoluce člověka a ptáka je konvergentní",
+        "option_c": "člověk a pták patří do kladu",
+        "option_d": "člověk a pták se vyvinuli analogicky",
+        "answer": "C",
+        "id": "college_biology/dev/2"
+    },
+    "41": {
+        "instruction": "Který z následujících je považován za kyselinový anhydrid?",
+        "option_a": "HCl",
+        "option_b": "H2SO3",
+        "option_c": "SO2",
+        "option_d": "Al(NO3)3",
+        "answer": "C",
+        "id": "high_school_chemistry/dev/0"
+    },
+    "42": {
+        "instruction": "Které z následujících podmínek zajistí, že bude zachován úhlový moment? I. Zachování lineárního momentu II. Nulová celková vnější síla III. Nulový celkový vnější moment",
+        "option_a": "Pouze I a II",
+        "option_b": "Pouze I a III",
+        "option_c": "Pouze II a III",
+        "option_d": "Pouze III",
+        "answer": "D",
+        "id": "high_school_physics/dev/0"
+    },
+    "43": {
+        "instruction": "Jedno konce drátu z nichromu o délce 2L a průřezu A je připojeno k jednomu konci jiného drátu z nichromu o délce L a průřezu 2A. Pokud je volný konec delšího drátu na elektrickém potenciálu 8,0 voltů a volný konec kratšího drátu na elektrickém potenciálu 1,0 voltů, potenciál na spojení obou drátů je nejblíže roven",
+        "option_a": "2,4 V",
+        "option_b": "3,3 V",
+        "option_c": "4,5 V",
+        "option_d": "5,7 V",
+        "answer": "A",
+        "id": "college_physics/dev/2"
+    },
+    "44": {
+        "instruction": "Které z následujících tvrzení o lanthanidových prvcích NENÍ pravdivé?",
+        "option_a": "Nejčastější oxidační stav pro lanthanidové prvky je +3.",
+        "option_b": "Lanthanidové komplexy často mají vysoká koordinační čísla (> 6).",
+        "option_c": "Všechny lanthanidové prvky reagují s vodným kyselinou a uvolňují vodík.",
+        "option_d": "Atomové poloměry lanthanidových prvků se zvyšují napříč obdobím od La do Lu.",
+        "answer": "D",
+        "id": "college_chemistry/dev/0"
+    },
+    "45": {
+        "instruction": "Gen, který vykazuje kodominanci",
+        "option_a": "má oba alely nezávisle vyjádřené v heterozygotu",
+        "option_b": "má jednu alelu dominantní vůči druhé",
+        "option_c": "má alely těsně spojené na stejném chromozomu",
+        "option_d": "má alely vyjádřené ve stejnou dobu během vývoje",
+        "answer": "A",
+        "id": "medical_genetics/dev/2"
+    },
+    "46": {
+        "instruction": "Kompilátor generuje kód pro následující přiřazovací příkaz.\nG := (A + B) * C - (D + E) * F\nCílový stroj má jeden akumulátor a instrukční sadu s jednou adresou, která se skládá z instrukcí načíst, uložit, sečíst, odečíst a násobit. Pro aritmetické operace se levý operand bere z akumulátoru a výsledek se objeví v akumulátoru. Nejmenší možné množství instrukcí v výsledném kódu je",
+        "option_a": "5",
+        "option_b": "6",
+        "option_c": "7",
+        "option_d": "9",
+        "answer": "D",
+        "id": "college_computer_science/dev/3"
+    },
+    "47": {
+        "instruction": "Box, nezisková organizace, měla během roku následující transakce: Příjmy z prodeje investic 80000 USD Nákup majetku a zařízení 10000 USD Příjmy z dlouhodobého dluhu 100000 USD Ztráta z prodeje investice 5000 USD Jaká částka by měla být vykázána jako čistý hotovostní příjem z financování v přehledu o peněžních tocích Boxu?",
+        "option_a": "70000 USD",
+        "option_b": "75000 USD",
+        "option_c": "80000 USD",
+        "option_d": "100000 USD",
+        "answer": "D",
+        "id": "professional_accounting/dev/0"
+    },
+    "48": {
+        "instruction": "Při zachování všech ostatních faktorů, která z následujících měnových politik by byla použita k podpoře amerického exportu?",
+        "option_a": "Zvýšení diskontní sazby",
+        "option_b": "Zvýšení rezervní poměru",
+        "option_c": "Nákup státních cenných papírů",
+        "option_d": "Snížení cel",
+        "answer": "C",
+        "id": "high_school_macroeconomics/dev/3"
+    },
+    "49": {
+        "instruction": "Velký mayský král Pacal postavil chrámy ve městě Palenque, aby:",
+        "option_a": "uspokojil mocné mayské astronomické kněze.",
+        "option_b": "ukázal svou štědrost obyčejným lidem, protože jim bylo dovoleno žít v chrámech.",
+        "option_c": "odstrašil nepřátele, zejména Španěly.",
+        "option_d": "legitimizoval svou královskou moc, protože jeho otec nebyl královského původu.",
+        "answer": "D",
+        "id": "prehistory/dev/0"
+    },
+    "50": {
+        "instruction": "Tři kontrastní taktiky, které se mohou CSO zapojit, aby dosáhly svých cílů, jsou ________, což obvykle zahrnuje výzkum a komunikaci, ________, což může zahrnovat fyzický útok na operace společnosti nebo ________, často zahrnující nějakou formu _______.",
+        "option_a": "Násilí bez přímé akce, Násilná přímá akce, Nepřímá akce, Bojkot",
+        "option_b": "Nepřímá akce, Instrumentální akce, Násilí bez přímé akce, Informační kampaň",
+        "option_c": "Nepřímá akce, Násilná přímá akce, Násilí bez přímé akce Bojkot",
+        "option_d": "Násilí bez přímé akce, Instrumentální akce, Nepřímá akce, Informační kampaň",
+        "answer": "C",
+        "id": "business_ethics/dev/3"
+    },
+    "51": {
+        "instruction": "Kostka se 6 stranami byla hozena 15krát a výsledky jsou: strana 1 se objevila 0krát; strana 2: 1krát; strana 3: 2krát; strana 4: 3krát; strana 5: 4krát; strana 6: 5krát. Na základě těchto výsledků, jaká je pravděpodobnost, že se strana 3 objeví při použití Add-1 Smoothing?",
+        "option_a": "2.0/15",
+        "option_b": "1.0/7",
+        "option_c": "3.0/16",
+        "option_d": "1.0/5",
+        "answer": "B",
+        "id": "machine_learning/dev/0"
+    },
+    "52": {
+        "instruction": "Funkce práva zahrnují vše kromě které z následujících?",
+        "option_a": "maximalizace individuální svobody",
+        "option_b": "poskytování základny pro kompromis",
+        "option_c": "udržování míru",
+        "option_d": "podpora principů systému volného podnikání",
+        "answer": "D",
+        "id": "jurisprudence/dev/1"
+    },
+    "53": {
+        "instruction": "Jak lze Upanišády charakterizovat?",
+        "option_a": "Rituální texty",
+        "option_b": "Filozofické texty",
+        "option_c": "Hymny",
+        "option_d": "Příběhy o původu",
+        "answer": "B",
+        "id": "world_religions/dev/4"
+    },
+    "54": {
+        "instruction": "Ani věří, že její postoje a chování hrají centrální roli v tom, co se jí stává. Taková víra je pravděpodobně spojena s",
+        "option_a": "silným superegem.",
+        "option_b": "nízkým sebevědomím.",
+        "option_c": "nízkou sebedůvěrou.",
+        "option_d": "interním místem kontroly.",
+        "answer": "D",
+        "id": "high_school_psychology/dev/0"
+    },
+    "55": {
+        "instruction": "Co je soudce ad hoc?",
+        "option_a": "Pokud strana v sporovém řízení před Mezinárodním soudním dvorem nemá národního soudce, má právo nominovat někoho jako soudce pouze pro tento případ, s titulem soudce ad hoc",
+        "option_b": "Soudce ad hoc je členem senátu Mezinárodního soudního dvora s rozhodujícím hlasem",
+        "option_c": "Soudce ad hoc je náhradní soudce, v případě, že je soudce vyloučen nebo zemře",
+        "option_d": "Soudce ad hoc je soudce, kterého každá strana vždy nominovat v každém sporovém řízení",
+        "answer": "A",
+        "id": "international_law/dev/1"
+    },
+    "56": {
+        "instruction": "Odkud většina krátkoperiodických komet pochází a jak to víme?",
+        "option_a": "Kuiperův pás; krátkoperiodické komety mají tendenci být v rovině sluneční soustavy, stejně jako Kuiperův pás.",
+        "option_b": "Kuiperův pás; krátkoperiodické komety mají tendenci přicházet z náhodných směrů, což naznačuje sférickou distribuci komet nazývanou Kuiperův pás.",
+        "option_c": "Asteroidní pás; krátkoperiodické komety mají oběžné periody podobné asteroidům jako Vesta a nacházejí se v rovině sluneční soustavy, stejně jako asteroidní pás.",
+        "option_d": "Oortův oblak; krátkoperiodické komety mají tendenci být v rovině sluneční soustavy, stejně jako Oortův oblak.",
+        "answer": "A",
+        "id": "astronomy/dev/1"
+    },
+    "57": {
+        "instruction": "Od roku 2015, od roku 1990 lesy ____ v Evropě a ____ v Africe a Americe.",
+        "option_a": "vzrostly, vzrostly",
+        "option_b": "vzrostly, klesly",
+        "option_c": "klesly, vzrostly",
+        "option_d": "klesly, klesly",
+        "answer": "B",
+        "id": "global_facts/dev/2"
+    },
+    "58": {
+        "instruction": "Tato otázka se vztahuje k následujícím informacím.\n\"Alespoň jedna ze [světových] společností by musela nějakým způsobem enormně zvýšit svou produktivitu [aby dosáhla globální hegemonie]. Tento kvantový skok by musel být učiněn před různými vědeckými, technologickými, zemědělskými a průmyslovými revolucemi, na kterých spočívá náš svět po kvantovém skoku. Mohlo by to být dosaženo pouze využitím ekosystémů, minerálních zdrojů a lidských zdrojů celých kontinentů mimo země společnosti, která skok provádí. Západní Evropa to udělala právě díky své brutalitě a zbraním a, co je důležitější, díky geografickému a ekologickému štěstí.\"\nCopyright © 2015 Cambridge University Press.\nAlfred Crosby, historik, Ekologický imperialismus, 2004\nKterý z následujících vývojů v období 1450–1750 n. l. nejpříměji přispěl k \"kvantovému skoku\" zmíněnému v pasáži?",
+        "option_a": "Rozpad obchodních cest v důsledku kolapsu zavedené státní struktury",
+        "option_b": "Nárůst populace světa díky hojnějšímu zásobování potravinami",
+        "option_c": "Šíření čínských a indických systémů víry po celém světě",
+        "option_d": "Nárůst sociálního neklidu",
+        "answer": "B",
+        "id": "high_school_world_history/dev/4"
+    },
+    "59": {
+        "instruction": "Jedna skupina ve společnosti, která je nejvíce zranitelná vůči vlivu referenční skupiny, je:",
+        "option_a": "Starší spotřebitel, který se cítí poněkud opomíjen.",
+        "option_b": "Vdané ženy, z nichž mnohé cítí potřebu stability ve svém životě.",
+        "option_c": "Noví imigranti, kteří opravdu chtějí asimilovat do své nové kultury.",
+        "option_d": "Děti, které většinu svých nákupních rozhodnutí zakládají na vnějších vlivech.",
+        "answer": "D",
+        "id": "marketing/dev/3"
+    },
+    "60": {
+        "instruction": "Ve které z těchto dvou situací dělá hlavní postava (která používá já/mě/můj) něco zcela morálně špatného podle běžných morálních standardů v USA k roku 2020? Scénář 1 | Koupil jsem starý pick-up truck na práci. Scénář 2 | Podíval jsem se na nádherný vodopád a hodil na něj kámen.",
+        "option_a": "Špatně, Špatně",
+        "option_b": "Špatně, Nešpatně",
+        "option_c": "Nešpatně, Špatně",
+        "option_d": "Nešpatně, Nešpatně",
+        "answer": "D",
+        "id": "moral_scenarios/dev/2"
+    },
+    "61": {
+        "instruction": "Bodový náboj, Q = +1 mC, je umístěn na počátku. Kolik práce je potřeba k přesunu náboje, Q = +8 µC, z bodu (0, 4 metry) do bodu (3 metry, 0)?",
+        "option_a": "3.5 J",
+        "option_b": "6.0 J",
+        "option_c": "22.5 J",
+        "option_d": "40 J",
+        "answer": "B",
+        "id": "high_school_physics/dev/4"
+    },
+    "62": {
+        "instruction": "Byl syntetizován nový sloučenina, která se ukázala být monoprotickou kyselinou s molární hmotností 248 g/mol. Když je 0,0050 mol této kyseliny rozpuštěno v 0,500 L vody, pH je změřeno na 3,89. Jaká je pKa této kyseliny?",
+        "option_a": "3,89",
+        "option_b": "7,78",
+        "option_c": "5,78",
+        "option_d": "2,33",
+        "answer": "C",
+        "id": "high_school_chemistry/dev/3"
+    },
+    "63": {
+        "instruction": "Co je druhý klenot v buddhismu?",
+        "option_a": "Dharma",
+        "option_b": "Sangha",
+        "option_c": "Buddha",
+        "option_d": "Bodhisattva",
+        "answer": "A",
+        "id": "world_religions/dev/1"
+    },
+    "64": {
+        "instruction": "Refrakční dalekohled se skládá ze dvou spojných čoček oddělených 100 cm. Čočka okuláru má ohniskovou vzdálenost 20 cm. Úhlové zvětšení dalekohledu je",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "20",
+        "answer": "A",
+        "id": "college_physics/dev/0"
+    },
+    "65": {
+        "instruction": "Pokud jde o pět kulturních dimenzí podle Hofstedeho (1980), Spojené státy dosahují nejvyššího skóre na:",
+        "option_a": "individualismus.",
+        "option_b": "individualismus a mocenská vzdálenost.",
+        "option_c": "mocenská vzdálenost a maskulinita.",
+        "option_d": "vyhýbání se nejistotě.",
+        "answer": "A",
+        "id": "professional_psychology/dev/2"
+    },
+    "66": {
+        "instruction": "Obchod prodává 107 různých barev barvy. Mají 25 plechovek každé barvy ve skladu. Počet plechovek barvy, které má obchod ve skladu, lze zjistit pomocí níže uvedeného výrazu. 107 × 25. Kolik plechovek barvy má obchod ve skladu?",
+        "option_a": "749",
+        "option_b": "2,675",
+        "option_c": "2,945",
+        "option_d": "4,250",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/3"
+    },
+    "67": {
+        "instruction": "Model letadlo létá pomaleji, když letí proti větru, a rychleji, když má vítr v zádech. Když je vypuštěno kolmo na vítr, jeho rychlost vůči zemi ve srovnání s létáním ve stojícím vzduchu je",
+        "option_a": "stejná",
+        "option_b": "větší",
+        "option_c": "menší",
+        "option_d": "buď větší, nebo menší v závislosti na rychlosti větru",
+        "answer": "B",
+        "id": "conceptual_physics/dev/3"
+    },
+    "68": {
+        "instruction": "Tato otázka se týká následujících informací.\nV Rusku se nic nedělo dobře a [Souvarine] byl zoufalý z novinek, které obdržel. Jeho staří společníci se všichni obraceli na politiky; slavní nihilisté, kteří otřásali Evropou - synové vesnických kněží, z nižší střední třídy, obchodníci - se nemohli povznést nad myšlenku národního osvobození a zdálo se, že věří, že svět bude osvobozen - až zabijí svého despota…\n\"Hloupost! Nikdy se z toho nedostanou se svou hloupostí.\"\nPoté, co ještě více snížil hlas, v několika hořkých slovech popsal svůj starý sen o bratrství. Vzdal se svého postavení a svého jmění; šel mezi dělníky, pouze v naději, že konečně uvidí založení nové společnosti společné práce. Všechny peníze v jeho kapsách už dávno šly na děti z osady; byl tak něžný jako bratr s horníky, usmíval se na jejich podezření, získával je svými tichými, dělnickými způsoby a svou neochotou k tlachání. Ale rozhodně k fúzi nedošlo.\nJeho hlas se změnil, oči mu zazářily, upřel je na étienna a přímo se na něj obrátil:\n\"Teď, rozumíš tomu? Ti kloboučníci v Marseille, kteří vyhráli velkou loterijní cenu sto tisíc franků, okamžitě odešli a investovali ji, prohlašujíce, že budou žít, aniž by dělali cokoliv! Ano, to je vaše myšlenka, všichni vy francouzští dělníci; chcete vykopat poklad, abyste ho pak sami snědli v nějakém líném, sobeckém koutě. Můžete křičet, jak chcete, proti bohatým, nemáte dost odvahy, abyste chudým vrátili peníze, které vám štěstí přináší. Nikdy nebudete hodni štěstí, dokud budete něco vlastnit, a vaše nenávist k buržoazii vychází pouze z rozhněvané touhy být buržoazními sami na jejich místě.\"\nÉmile Zola, francouzský spisovatel, Germinal, 1885\nÚryvek vyjadřuje přímou starost o blaho pracujících tříd, což bylo typické pro který hnutí?",
+        "option_a": "Kapitalistické",
+        "option_b": "Vědecké",
+        "option_c": "Komunistické",
+        "option_d": "Existencialistické",
+        "answer": "C",
+        "id": "high_school_european_history/dev/2"
+    },
+    "69": {
+        "instruction": "Pokud vláda dotuje výrobce na dokonale konkurenčním trhu, pak",
+        "option_a": "poptávka po produktu vzroste",
+        "option_b": "poptávka po produktu klesne",
+        "option_c": "převis spotřebitele vzroste",
+        "option_d": "převis spotřebitele klesne",
+        "answer": "C",
+        "id": "high_school_microeconomics/dev/1"
+    },
+    "70": {
+        "instruction": "Která z následujících položek je příkladem nemateriální kultury?",
+        "option_a": "Mýdlo Dove",
+        "option_b": "Tyčinka Dove",
+        "option_c": "Symbol Dove",
+        "option_d": "Holub (pták)",
+        "answer": "C",
+        "id": "high_school_geography/dev/4"
+    },
+    "71": {
+        "instruction": "Dva dlouhé paralelní vodiče nesou 100 A. Pokud jsou vodiče od sebe vzdáleny 20 mm, síla na metr délky každého vodiče bude",
+        "option_a": "100 N.",
+        "option_b": "0,1 N.",
+        "option_c": "1 N.",
+        "option_d": "0,01 N.",
+        "answer": "B",
+        "id": "electrical_engineering/dev/3"
+    },
+    "72": {
+        "instruction": "Vyberte nejlepší překlad do predikátové logiky. George si půjčuje Hectorovu sekačku na trávu. (g: George; h: Hector; l: Hectorova sekačka na trávu; Bxyx: x si půjčuje y od z)",
+        "option_a": "Blgh",
+        "option_b": "Bhlg",
+        "option_c": "Bglh",
+        "option_d": "Bghl",
+        "answer": "C",
+        "id": "formal_logic/dev/1"
+    },
+    "73": {
+        "instruction": "Nechť A je množina všech uspořádaných párů celých čísel (m, n) takových, že 7m + 12n = 22. Jaké je největší záporné číslo v množině B = {m + n : (m, n) \\in A}?",
+        "option_a": "-5",
+        "option_b": "-4",
+        "option_c": "-3",
+        "option_d": "-2",
+        "answer": "B",
+        "id": "college_mathematics/dev/4"
+    },
+    "74": {
+        "instruction": "Argumentace, že to, co platí pro části, musí platit pro celek, je klam...",
+        "option_a": "Dělení",
+        "option_b": "Složení",
+        "option_c": "Apel na osobu",
+        "option_d": "Apel na neznalost",
+        "answer": "B",
+        "id": "logical_fallacies/dev/3"
+    },
+    "75": {
+        "instruction": "Pascale se zajímá o strategie zpracování, které děti používají k učení nových informací. Pascale by byla nejlépe klasifikována jako jaký typ psychologa?",
+        "option_a": "sociokulturní",
+        "option_b": "klinický",
+        "option_c": "kognitivní",
+        "option_d": "behaviorální",
+        "answer": "C",
+        "id": "high_school_psychology/dev/4"
+    },
+    "76": {
+        "instruction": "Tato otázka se týká následujících informací.\n\"Společnost v každém státě je požehnáním, ale vláda, i v tom nejlepším stavu, je pouze nezbytným zlem; ve svém nejhorším stavu je nesnesitelná; neboť když trpíme, nebo jsme vystaveni stejným utrpením ze strany vlády, které bychom mohli očekávat v zemi bez vlády, naše pohroma je umocněna tím, že si uvědomujeme, že poskytujeme prostředky, jimiž trpíme. Vláda, jako oblečení, je odznakem ztracené nevinnosti; paláce králů jsou postaveny na troskách hájů ráje. Kdyby byly impulsy svědomí jasné, jednotné a neodolatelně dodržované, člověk by nepotřeboval žádného jiného zákonodárce; ale protože tomu tak není, shledává za nezbytné vzdát se části svého majetku, aby poskytl prostředky na ochranu zbytku; a k tomu je přiměněn stejnou rozvahou, která mu v každém jiném případě radí vybrat si z dvou zlých to menší. Odtud vyplývá, že bezpečnost je pravým cílem a účelem vlády, a nevyhnutelně následuje, že jakýkoli její tvar, který se jeví jako nejpravděpodobnější, že nám ji zajistí, s nejmenšími náklady a největším prospěchem, je přednější před všemi ostatními.\"\nThomas Paine, Rozum, 1776\nKteré z následujících \"utrpení\", na které se odkazuje výše, byly nejvíce odsuzovány antifederalisty poválečné éry?",
+        "option_a": "Organizovaná reakce na Baconovo povstání",
+        "option_b": "Federální reakce na Shaysovo povstání",
+        "option_c": "Federální reakce na povstání lihovaru",
+        "option_d": "Federální reakce na Pontiacovo povstání",
+        "answer": "C",
+        "id": "high_school_us_history/dev/0"
+    },
+    "77": {
+        "instruction": "Míra přirozeného přírůstku populace se zjistí odečtením",
+        "option_a": "hrubé úmrtnosti od hrubé porodnosti.",
+        "option_b": "hrubé porodnosti od hrubé úmrtnosti.",
+        "option_c": "doby zdvojení od hrubé porodnosti.",
+        "option_d": "fertility rate od hrubé úmrtnosti.",
+        "answer": "A",
+        "id": "high_school_geography/dev/0"
+    },
+    "78": {
+        "instruction": "Jak ovlivnila finanční krize v roce 2008 mezinárodní reputaci Ameriky?",
+        "option_a": "Poškodila podporu pro americký model politické ekonomie a kapitalismu",
+        "option_b": "Vytvořila hněv vůči Spojeným státům za přehánění krize",
+        "option_c": "Zvýšila podporu pro americké globální vedení pod prezidentem Obamou",
+        "option_d": "Snížila globální používání amerického dolaru",
+        "answer": "A",
+        "id": "us_foreign_policy/dev/0"
+    },
+    "79": {
+        "instruction": "Který prvek kulturního webu tvoří regálie?",
+        "option_a": "Symboly",
+        "option_b": "Rituály a rutiny",
+        "option_c": "Mocenské struktury",
+        "option_d": "Kontrolní systémy",
+        "answer": "A",
+        "id": "management/dev/2"
+    },
+    "80": {
+        "instruction": "Která z těchto písní byla hit v Top 10 pro rockovou skupinu The Police?",
+        "option_a": "'Radio Ga-Ga'",
+        "option_b": "'Ob-la-di Ob-la-da'",
+        "option_c": "'De Do Do Do De Da Da Da'",
+        "option_d": "'In-a-Gadda-Da-Vida'",
+        "answer": "C",
+        "id": "miscellaneous/dev/4"
+    },
+    "81": {
+        "instruction": "Které z následujících tvrzení není pravdivé?",
+        "option_a": "Svalový glykogen je enzymaticky rozkládán na glukózu-1-fosfát",
+        "option_b": "Elitní vytrvalostní běžci mají vysoký podíl typových I vláken ve svých svalech nohou",
+        "option_c": "Jaterní glykogen je důležitý pro udržení koncentrace glukózy v krvi",
+        "option_d": "Inzulin podporuje příjem glukózy všemi tkáněmi v těle",
+        "answer": "D",
+        "id": "college_medicine/dev/1"
+    },
+    "82": {
+        "instruction": "I když může být obsah a kvalita stejně kontrolovány jako u přímé pošty, míra odezvy tohoto média je nižší kvůli nedostatku mechanismu osobní adresy. Tento formát média je známý jako:",
+        "option_a": "Linky péče.",
+        "option_b": "Přímá pošta.",
+        "option_c": "Vložky.",
+        "option_d": "Dveře ke dveřím.",
+        "answer": "D",
+        "id": "marketing/dev/4"
+    },
+    "83": {
+        "instruction": "Psychologický egoismus je:",
+        "option_a": "etická teorie o tom, jak bychom se měli chovat.",
+        "option_b": "generalizace týkající se způsobu, jakým se lidé obvykle chovají.",
+        "option_c": "tvrzení o lidské přirozenosti a způsobech, jakými se lidé mohou chovat.",
+        "option_d": "žádná z výše uvedených.",
+        "answer": "C",
+        "id": "philosophy/dev/0"
+    },
+    "84": {
+        "instruction": "Jaké místo je pojmenováno v názvu živého alba z roku 1979 od rockových legend Cheap Trick?",
+        "option_a": "Budapešť",
+        "option_b": "Budokan",
+        "option_c": "Bhútán",
+        "option_d": "Británie",
+        "answer": "B",
+        "id": "miscellaneous/dev/1"
+    },
+    "85": {
+        "instruction": "22letý mužský maratonec přichází do ordinace s bolestí pravé strany žeber při běhu na dlouhé vzdálenosti. Fyzikální vyšetření odhaluje normální nálezy srdce a plic a dysfunkci výdechu na žebrech 4-5 vpravo. Které z následujících svalů nebo svalových skupin bude nejvíce užitečné při korekci této dysfunkce pomocí přímé metody?",
+        "option_a": "přední šikmý sval krku",
+        "option_b": "široký sval zádový",
+        "option_c": "malý prsní sval",
+        "option_d": "čtvercový sval bederní",
+        "answer": "C",
+        "id": "professional_medicine/dev/4"
+    },
+    "86": {
+        "instruction": "Předpokládejme nyní, že výzkumník chce použít informační kritéria k určení optimální délky zpoždění pro VAR. Je k dispozici 500 pozorování pro bivariátní VAR a hodnoty determinantu matice rozptylu-kovariance reziduí jsou 0.0336, 0.0169, 0.0084 a 0.0062 pro 1, 2, 3 a 4 zpoždění. Jaký je optimální řád modelu podle Akaikeova informačního kritéria?",
+        "option_a": "1 zpoždění",
+        "option_b": "2 zpoždění",
+        "option_c": "3 zpoždění",
+        "option_d": "4 zpoždění",
+        "answer": "C",
+        "id": "econometrics/dev/4"
+    },
+    "87": {
+        "instruction": "Najděte všechna c v Z_3 tak, aby Z_3[x]/(x^2 + c) byl těleso.",
+        "option_a": "0",
+        "option_b": "1",
+        "option_c": "2",
+        "option_d": "3",
+        "answer": "B",
+        "id": "abstract_algebra/dev/0"
+    },
+    "88": {
+        "instruction": "Tato otázka se vztahuje k následujícím informacím.\n\"Boj proti neokolonialismu není zaměřen na vyloučení kapitálu vyspělého světa z působení v méně rozvinutých zemích. Je zaměřen na zabránění tomu, aby finanční moc vyspělých zemí byla využívána způsobem, který by zchudil méně rozvinuté.\nNezávislost, jak ji praktikují Ghana a mnoho dalších zemí, je založena na spolupráci se všemi státy, ať už jsou kapitalistické, socialistické nebo mají smíšenou ekonomiku. Taková politika tedy zahrnuje zahraniční investice z kapitalistických zemí, ale musí být investovány v souladu s národním plánem vypracovaným vládou nezávislého státu s ohledem na jeho vlastní zájmy. Otázka není, jaký výnos zahraniční investor získává ze svých investic… Otázka je o moci. Stát v sevření neokolonialismu není pánem svého vlastního osudu.\"\nKwame Nkrumah, Neokolonialismus, 1965\nKterá z následujících možností poskytuje nejlepší kontext pro Nkrumahovy spisy?",
+        "option_a": "Průmyslová revoluce",
+        "option_b": "Dekolonizace",
+        "option_c": "Regionální sdružení volného obchodu",
+        "option_d": "Autarkie",
+        "answer": "B",
+        "id": "high_school_world_history/dev/1"
+    },
+    "89": {
+        "instruction": "Stát nedávno přijal zákon zakazující likvidaci jakýchkoli jaderných odpadů v rámci státu. Tento zákon neodporuje ani nekoliduje s žádnými federálními zákony. Muž provozuje společnost ve státě, která se zabývá likvidací jaderných odpadů. Po přijetí státního zákona, muž, který ještě nebyl informován o novém zákoně, uzavřel smlouvy s mnoha firmami mimo stát na likvidaci jejich jaderných odpadů ve státě. Vzhledem k tomuto novému zákonu však muž nebude schopen tyto smlouvy splnit. Předpokládejte, že muž má právo napadnout tento státní zákon. Která z následujících možností představuje jeho nejsilnější ústavní důvody k napadení státního zákona zakazujícího likvidaci jaderných odpadů v rámci státu?",
+        "option_a": "Klausule o obchodu.",
+        "option_b": "Klausule o rovné ochraně čtrnáctého dodatku.",
+        "option_c": "Klausule o privilegiích a imunitách článku IV, sekce 2.",
+        "option_d": "Klausule o smlouvách.",
+        "answer": "A",
+        "id": "professional_law/dev/1"
+    },
+    "90": {
+        "instruction": "Poté, co byla vydána výstraha před mrazem, požádal majitel velkého sadu pomerančů své pracovníky, aby postříkali všechny jeho stromy vodou. Voda měla zmrznout a vytvořit ochrannou vrstvu ledu kolem pomerančového květu. Přesto majitel podezříval, že některé stromy utrpěly značné poškození v důsledku mrazu. Aby odhadl podíl stromů, které utrpěly více než 50 procent poškození v důsledku mrazu, vzal náhodný vzorek 100 stromů ze svého sadu. Jaká je odpovědní proměnná v tomto experimentu?",
+        "option_a": "Podíl stromů, které utrpěly více než 50 procent poškození v důsledku mrazu.",
+        "option_b": "Počet stromů postižených mrazem.",
+        "option_c": "Počet stromů vzorkovaných ze sadu.",
+        "option_d": "U každého vzorkovaného stromu, zda utrpěl více než 50 procent poškození nebo maximálně 50 procent poškození.",
+        "answer": "D",
+        "id": "high_school_statistics/dev/2"
+    },
+    "91": {
+        "instruction": "Mnoho webových prohlížečů umožňuje uživatelům otevírat anonymní okna. Během prohlížení v anonymním okně prohlížeč nezaznamenává historii prohlížení ani seznam stažených souborů. Když je anonymní okno zavřeno, cookies vytvořené během relace jsou smazány. Které z následujících tvrzení o relacích prohlížení v anonymním okně je pravdivé?",
+        "option_a": "Aktivity uživatele prohlížejícího v anonymním okně nebudou viditelné pro lidi, kteří monitorují uživatelovu síť, jako je systémový administrátor.",
+        "option_b": "Položky umístěné v nákupním košíku webového obchodu pro budoucí nákup během anonymní relace prohlížení nebudou uloženy na uživatelově počítači.",
+        "option_c": "Uživatel se během anonymní relace prohlížení nebude moci přihlásit k e-mailovým nebo sociálním médiím.",
+        "option_d": "Uživatel prohlížející v anonymním okně bude chráněn před viry spuštěnými z jakýchkoli navštívených webových stránek nebo stažených souborů.",
+        "answer": "B",
+        "id": "high_school_computer_science/dev/1"
+    },
+    "92": {
+        "instruction": "Jaké jsou dvě hlavní dimenze Ohio Studies o vedení?",
+        "option_a": "Počáteční pozice a konečná pozice",
+        "option_b": "Počáteční prostředí a změněné prostředí",
+        "option_c": "Organizační struktura a podmínění",
+        "option_d": "Iniciující struktura a úvahy",
+        "answer": "D",
+        "id": "management/dev/0"
+    },
+    "93": {
+        "instruction": "Aby byla zajištěna nezávislost neexekutivních členů představenstva, je možné podniknout řadu kroků, které zahrnují, že neexekutivní členové jsou vybíráni z _______ společnosti, jsou jmenováni na _________ časové období a také jsou jmenováni _________.",
+        "option_a": "Mimo, Omezeně, Nezávisle",
+        "option_b": "Uvnitř, Omezeně, Příležitostně",
+        "option_c": "Mimo, Neomezeně, Příležitostně",
+        "option_d": "Uvnitř, Neomezeně, Nezávisle",
+        "answer": "A",
+        "id": "business_ethics/dev/2"
+    },
+    "94": {
+        "instruction": "Existují tři způsoby, jak měřit centrální tendenci: průměr, medián a modus. Na základě vašich znalostí o nich, co je modus?",
+        "option_a": "méně citlivý na extrémní hodnoty než průměr",
+        "option_b": "užitečnější pro zkreslené rozdělení",
+        "option_c": "citlivý na extrémní hodnoty a silně zkreslená rozdělení",
+        "option_d": "nejčastěji se vyskytující číslo",
+        "answer": "D",
+        "id": "professional_psychology/dev/1"
+    },
+    "95": {
+        "instruction": "Aby bylo dosaženo odhadu 0/1 ztráty, který je menší než 1 procento skutečné 0/1 ztráty (s pravděpodobností 95 %), kolik příkladů musí mít IID testovací sada podle Hoeffdingovy nerovnosti?",
+        "option_a": "přibližně 10 příkladů",
+        "option_b": "přibližně 100 příkladů",
+        "option_c": "mezi 100 a 500 příklady",
+        "option_d": "více než 1000 příkladů",
+        "answer": "D",
+        "id": "machine_learning/dev/3"
+    },
+    "96": {
+        "instruction": "Při hodnocení funkce ruky, které z následujících tvrzení je pravdivé?",
+        "option_a": "Abdukce palce je zajištěna míšním kořenem T2",
+        "option_b": "Opozice palce pomocí opponens policis je zajištěna míšním kořenem T1",
+        "option_c": "Addukce prstů je zajištěna středovým nervem",
+        "option_d": "Abdukce prstů je zprostředkována palmární interosei",
+        "answer": "B",
+        "id": "clinical_knowledge/dev/2"
+    },
+    "97": {
+        "instruction": "Od roku 2019, přibližně jaké procento Američanů souhlasí s tím, že stát je řízen pro prospěch všech lidí?",
+        "option_a": "31%",
+        "option_b": "46%",
+        "option_c": "61%",
+        "option_d": "76%",
+        "answer": "B",
+        "id": "global_facts/dev/1"
+    },
+    "98": {
+        "instruction": "Vědci nyní věří, že úpadek Mayů byl způsoben především:",
+        "option_a": "nějakým kataklyzmem, jako je zemětřesení, sopka nebo tsunami.",
+        "option_b": "ekologickou degradací způsobenou technikami kácení a pálení.",
+        "option_c": "nekonečnými válkami mezi sousedními městskými státy Mayů.",
+        "option_d": "praktikami příbuzenského křížení, které vedly k prudkému nárůstu vrozených vad.",
+        "answer": "B",
+        "id": "prehistory/dev/2"
+    },
+    "99": {
+        "instruction": "K roku 2017, kolik z dnešních jednoročních dětí na světě bylo očkováno proti nějaké nemoci? *",
+        "option_a": "80%",
+        "option_b": "60%",
+        "option_c": "40%",
+        "option_d": "20%",
+        "answer": "A",
+        "id": "global_facts/dev/4"
+    },
+    "100": {
+        "instruction": "Ve studii kohortě byl poměr rizik pro rozvoj diabetu 0,86 při porovnání konzumentů čaje (exponovaných) s těmi, kteří čaj nepili (neexponovaných). Které tvrzení je správné (podle znalostí v roce 2020)?",
+        "option_a": "Pijáci čaje mají nižší riziko rozvoje diabetu.",
+        "option_b": "Pijáci čaje mají vyšší riziko rozvoje diabetu.",
+        "option_c": "Na základě poskytnutých informací nemůžeme říci, zda je pozorovaný rozdíl v riziku onemocnění výsledkem náhody.",
+        "option_d": "Poměr rizik je blízko hodnotě jedna, takže mezi oběma skupinami není rozdíl v riziku onemocnění.",
+        "answer": "C",
+        "id": "nutrition/dev/0"
+    },
+    "101": {
+        "instruction": "Který z těchto tří prvků má nejvíce hmotnosti na nukleon?",
+        "option_a": "Vodík",
+        "option_b": "Železo",
+        "option_c": "Uran",
+        "option_d": "Stejné u každého",
+        "answer": "A",
+        "id": "conceptual_physics/dev/4"
+    },
+    "102": {
+        "instruction": "Jak změnil NSC-68 strategii USA?",
+        "option_a": "Globalizoval zadržování.",
+        "option_b": "Zmilitarizoval zadržování.",
+        "option_c": "Vyžadoval vývoj vodíkové bomby.",
+        "option_d": "Všechny výše uvedené",
+        "answer": "D",
+        "id": "us_foreign_policy/dev/1"
+    },
+    "103": {
+        "instruction": "Které z následujících je nejplausibilnější vysvětlení ochranného účinku diety bohaté na vlákninu proti rakovině tlustého střeva, k roku 2020?",
+        "option_a": "Propionová kyselina, vznikající během fermentace vlákniny v tlustém střevě, inhibuje syntézu mastných kyselin v játrech",
+        "option_b": "Máselná kyselina, vznikající během fermentace vlákniny v tlustém střevě, stimuluje \"ztišení\" tumoru supresorového genu SLC5A8",
+        "option_c": "Žádná z těchto možností není správná",
+        "option_d": "Máselná kyselina, vznikající během fermentace vlákniny v tlustém střevě, stimuluje antioxidantní obranu v tlustém střevě",
+        "answer": "D",
+        "id": "nutrition/dev/2"
+    },
+    "104": {
+        "instruction": "Dne 1. října 1980 vypracoval vývojář, majitel několika set akrů v venkovském okrese, obecný plán rozvoje pro tuto oblast. Řádně zaznamenaný plán uložil složité omezení a restrikce na pozemky v plánu, které měly být vyvinuty jako obytná čtvrť. Omezení se měla vztahovat na všechny osoby, které získaly jakékoli z pozemků, a na jejich dědice, nástupce a nájemce. Dále bylo stanoveno, že všichni následní vlastníci budou mít povinnost být informováni o těchto omezeních. Mezi těmito omezeními v obecném plánu byla následující: (22) Vytváří se právo na franšízu v pruhu země širokém 10 stop podél zadní části každého pozemku pro použití veřejnými utilitami s právem vstupu a výstupu. (23) Na výše uvedeném pruhu země, který prochází uvedenými bloky, nesmí být postaven žádný dům ani struktura jakéhokoli druhu. V roce 2000 si důchodce zakoupil jeden z pozemků, postavil dům a postavil plot na zadní části svého pozemku v omezené oblasti. V roce 2004 si učitel zakoupil pozemek sousedící s pozemkem důchodce a postavil nový dům. O dva roky později si knihovník zakoupil pozemek, který sousedil s pozemkem učitele. Tři listiny k těmto nemovitostem obsahovaly odkazy na knihu listin, kde byl zaznamenán obecný plán. V roce 2008 začal knihovník stavět plot vysoký sedm stop podél linie oddělující jeho pozemek od učitelova, a podél středu oblasti podléhající právu franšízy. I když učitel proti jeho stavbě protestoval, plot byl dokončen. Pokud učitel požádá o povinný soudní příkaz k odstranění plotu knihovníka, soud pravděpodobně",
+        "option_a": "udělí úlevu, protože plot porušoval omezení easementu.",
+        "option_b": "udělí úlevu, protože zasahování plotu porušilo omezení v původním plánu.",
+        "option_c": "odmítne úlevu, protože učitel neprosadil omezení proti důchodci.",
+        "option_d": "odmítne úlevu, protože plot by nebyl považován za \"strukturu\" v rámci podmínek omezení.",
+        "answer": "B",
+        "id": "professional_law/dev/3"
+    },
+    "105": {
+        "instruction": "Při plavání v oceánu je Ivan vyděšen tmavým stínem ve vodě, ještě než má šanci zjistit, co ten stín je. Synaptické spojení, které se během tohoto incidentu strachu odehrává, je nejlépe popsáno kterým z následujících?",
+        "option_a": "Zprávy jsou posílány z thalamu přímo do amygdaly.",
+        "option_b": "Zprávy jsou posílány z thalamu do cest \"co\" a \"kde\".",
+        "option_c": "Zprávy jsou posílány z parasympatického nervového systému do mozkové kůry.",
+        "option_d": "Zprávy jsou posílány z čelních laloků do hypofýzy.",
+        "answer": "A",
+        "id": "high_school_psychology/dev/2"
+    },
+    "106": {
+        "instruction": "Jaká augmentace dat obrázků je nejběžnější pro přírodní obrázky?",
+        "option_a": "náhodný výřez a horizontální převrácení",
+        "option_b": "náhodný výřez a vertikální převrácení",
+        "option_c": "posterizace",
+        "option_d": "dithering",
+        "answer": "A",
+        "id": "machine_learning/dev/1"
+    },
+    "107": {
+        "instruction": "U kterého z následujících termodynamických procesů je zvýšení vnitřní energie ideálního plynu rovno teplu přidanému do plynu?",
+        "option_a": "Konstantní teplota",
+        "option_b": "Konstantní objem",
+        "option_c": "Konstantní tlak",
+        "option_d": "Adiabatický",
+        "answer": "B",
+        "id": "college_physics/dev/1"
+    },
+    "108": {
+        "instruction": "Za všech ostatních okolností, která z následujících osob je pravděpodobněji náchylná k osteoporóze?",
+        "option_a": "Starší hispánská Američanka",
+        "option_b": "Starší afroamerická žena",
+        "option_c": "Starší asijská Američanka",
+        "option_d": "Starší domorodá Američanka",
+        "answer": "C",
+        "id": "human_aging/dev/4"
+    },
+    "109": {
+        "instruction": "Která z následujících možností je nutně charakteristikou oligopolu?",
+        "option_a": "Volný vstup na trh a výstup z trhu",
+        "option_b": "Několik velkých producentů",
+        "option_c": "Jeden producent zboží bez blízkých substitutů",
+        "option_d": "Homogenní produkt",
+        "answer": "B",
+        "id": "high_school_microeconomics/dev/4"
+    },
+    "110": {
+        "instruction": "V Angleově třídě II Div 2 je",
+        "option_a": "přebytek overbite horních postranních řezáků.",
+        "option_b": "negativní overjet horních centrálních řezáků.",
+        "option_c": "přebytek overjet horních postranních řezáků.",
+        "option_d": "přebytek overjet horních centrálních řezáků.",
+        "answer": "C",
+        "id": "anatomy/dev/3"
+    },
+    "111": {
+        "instruction": "Krete je svobodný daňový poplatník s příjmem výhradně z mezd. Do 31. prosince roku 1 zadržel Kreteův zaměstnavatel 16 000 $ na federálních daních z příjmu a Krete neučinil žádné odhady daňových plateb. Dne 15. dubna roku 2 Krete včas podala žádost o prodloužení lhůty pro podání její individuální daňové přiznání a zaplatila 300 $ dodatečných daní. Kreteova daňová povinnost za rok 1 byla 16 500 $, když včas podala své přiznání 30. dubna roku 2 a zaplatila zbývající zůstatek daňové povinnosti. Jaká částka by podléhala pokutě za nedostatečné placení odhadovaných daní?",
+        "option_a": "$0",
+        "option_b": "$500",
+        "option_c": "$1,650",
+        "option_d": "$16,500",
+        "answer": "A",
+        "id": "professional_accounting/dev/2"
+    },
+    "112": {
+        "instruction": "Věci, které jsou podle principu ekvivalence ekvivalentní, jsou",
+        "option_a": "prostor a čas.",
+        "option_b": "cestující dvojče a dvojče zůstávající doma.",
+        "option_c": "gravitace a zrychlení.",
+        "option_d": "hmotnost a energie.",
+        "answer": "C",
+        "id": "conceptual_physics/dev/1"
+    },
+    "113": {
+        "instruction": "Kdo zahájil kampaň Hodina Země?",
+        "option_a": "Greenpeace",
+        "option_b": "OSN",
+        "option_c": "Oxfam",
+        "option_d": "Světový fond na ochranu přírody",
+        "answer": "D",
+        "id": "public_relations/dev/4"
+    },
+    "114": {
+        "instruction": "Které z následujících tvrzení je pravdivé pro platný kategorický sylogismus?",
+        "option_a": "Menší premisa musí popřít antecedent",
+        "option_b": "Hlavní premisa musí potvrdit následky",
+        "option_c": "Střední termín musí být použit v alespoň jedné premisě v univerzálním nebo neomezeném smyslu",
+        "option_d": "Všechny výše uvedené",
+        "answer": "C",
+        "id": "logical_fallacies/dev/2"
+    },
+    "115": {
+        "instruction": "Která z následujících politik nejlépe popisuje fiskální politiku zaměřenou na nabídku?",
+        "option_a": "Zvýšení peněžní zásoby",
+        "option_b": "Zvýšené vládní výdaje",
+        "option_c": "Nižší daně na výzkum a vývoj nových technologií",
+        "option_d": "Vyšší daně z příjmu domácností",
+        "answer": "C",
+        "id": "high_school_macroeconomics/dev/4"
+    },
+    "116": {
+        "instruction": "Jaké typy síly zakazuje článek 2(4) Charty OSN?",
+        "option_a": "Článek 2(4) zahrnuje pouze ozbrojenou sílu",
+        "option_b": "Článek 2(4) zahrnuje všechny typy síly, včetně sankcí",
+        "option_c": "Článek 2(4) zahrnuje veškeré zasahování do vnitřních záležitostí států",
+        "option_d": "Článek 2(4) zahrnuje sílu směřující pouze proti územní integritě státu",
+        "answer": "A",
+        "id": "international_law/dev/0"
+    },
+    "117": {
+        "instruction": "Nové chytré hodinky jsou vyráběny v jedné části továrny, poté jsou zabezpečeny pro přepravu v jiné, nezávislé části továrny. Hmotnost chytrých hodinek má průměr 62 gramů a standardní odchylku 1,0 gramů. Hmotnost obalu (krabice, uživatelská příručka, bublinková fólie atd.) má průměr 456 gramů a standardní odchylku 6 gramů. Společně by rozdělení hmotnosti chytrých hodinek a jejich obalu mělo následující průměr a standardní odchylku:",
+        "option_a": "Průměr 518 gramů; standardní odchylka 7,0 gramů",
+        "option_b": "Průměr 518 gramů; standardní odchylka 3,5 gramů",
+        "option_c": "Průměr 518 gramů; standardní odchylka 6,1 gramů",
+        "option_d": "Průměr 394 gramů; standardní odchylka 6,1 gramů",
+        "answer": "C",
+        "id": "high_school_statistics/dev/3"
+    },
+    "118": {
+        "instruction": "Jaký je nejproaktivnější přístup k řešení negativních nebo zavádějících informací zveřejněných online o vaší organizaci?",
+        "option_a": "Kupte doménová jména, která by mohla být použita opozičními skupinami.",
+        "option_b": "Zveřejněte anonymní komentáře na blozích, abyste bojovali proti těmto informacím.",
+        "option_c": "Připravte tiskovou zprávu, která diskredituje nepřesné informace.",
+        "option_d": "Proveďte změny politiky, abyste se zabývali stížnostmi uvedenými na těchto stránkách.",
+        "answer": "D",
+        "id": "public_relations/dev/1"
+    },
+    "119": {
+        "instruction": "Jaký byl Tolstého pohled na smysl života před jeho křesťanskou konverzí?",
+        "option_a": "optimista",
+        "option_b": "spokojený",
+        "option_c": "nominálně náboženský",
+        "option_d": "pesimista",
+        "answer": "D",
+        "id": "philosophy/dev/3"
+    },
+    "120": {
+        "instruction": "Které z následujících věcí se poválečný stát blahobytu z roku 1948 nesnažil zajistit:",
+        "option_a": "bezplatnou zdravotní péči a vzdělání pro všechny",
+        "option_b": "minimální mzdu",
+        "option_c": "plnou zaměstnanost",
+        "option_d": "univerzální sociální zabezpečení",
+        "answer": "B",
+        "id": "sociology/dev/0"
+    },
+    "121": {
+        "instruction": "Deset studentů dělá test z biologie a získává následující skóre: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Jaký je průměr skóre studentů?",
+        "option_a": "55",
+        "option_b": "60",
+        "option_c": "62",
+        "option_d": "65",
+        "answer": "D",
+        "id": "high_school_mathematics/dev/4"
+    },
+    "122": {
+        "instruction": "S jakým autorem jsou spojeny hygienické faktory?",
+        "option_a": "Frederick Hertzberg",
+        "option_b": "D.C. McClelland",
+        "option_c": "Abraham Maslow",
+        "option_d": "Douglas McGregor",
+        "answer": "A",
+        "id": "management/dev/1"
+    },
+    "123": {
+        "instruction": "V programu níže je počáteční hodnota x 5 a počáteční hodnota y 10.\n IF (X < O)\n {\n DISPLAY (\"Foxtrot\")\n }\n ELSE\n {\n IF (X > y)\n {\n   DISPLAY (\"Hotel\")\n }\n ELSE \n {\n   IF (y > O)\n   {\n   DISPLAY (\"November\")\n   }\n   ELSE\n   {\n   DISPLAY (\"Yankee\")\n   }\n }\n }\n \n Co se zobrazí jako výsledek spuštění programu?",
+        "option_a": "Foxtrot",
+        "option_b": "Hotel",
+        "option_c": "November",
+        "option_d": "Yankee",
+        "answer": "C",
+        "id": "high_school_computer_science/dev/3"
+    },
+    "124": {
+        "instruction": "Byla by rezerva k definici mučení v ICCPR přijatelná v současné praxi?",
+        "option_a": "Toto je přijatelná rezerva, pokud legislativa rezervující země používá jinou definici",
+        "option_b": "Toto je nepřijatelná rezerva, protože odporuje cíli a účelu ICCPR",
+        "option_c": "Toto je nepřijatelná rezerva, protože definice mučení v ICCPR je v souladu s obyčejovým mezinárodním právem",
+        "option_d": "Toto je přijatelná rezerva, protože podle obecného mezinárodního práva mají státy právo vstupovat do rezervací k dohodám",
+        "answer": "B",
+        "id": "international_law/dev/2"
+    },
+    "125": {
+        "instruction": "Mikrovlnná trouba je připojena k zásuvce, 120 V, a odebírá proud 2 ampéry. Jakou rychlostí se energie používá mikrovlnnou troubou?",
+        "option_a": "10 W",
+        "option_b": "30 W",
+        "option_c": "60 W",
+        "option_d": "240 W",
+        "answer": "D",
+        "id": "high_school_physics/dev/3"
+    },
+    "126": {
+        "instruction": "Baron přiznává, že verze hypotetického případu s tikající bombou, o kterých diskutuje, jsou \"ohromně hloupé,\" ale tvrdí, že to je ve skutečnosti důkazem",
+        "option_a": "hlouposti většiny tradičních filozofických příkladů.",
+        "option_b": "obecného nedostatku inteligence mezi lidmi s pokročilými tituly.",
+        "option_c": "nesprávnosti mučení.",
+        "option_d": "ochoty mnoha inteligentních lidí vidět mučení jako nejlepší řešení pro zvládání terorismu.",
+        "answer": "D",
+        "id": "moral_disputes/dev/4"
+    },
+    "127": {
+        "instruction": "Které z následujících je vnitřní dobrem podle Singera?",
+        "option_a": "být v horní třídě",
+        "option_b": "schopnost učit se a řešit problémy",
+        "option_c": "být krásnější než většina populace",
+        "option_d": "být nižší než průměr",
+        "answer": "B",
+        "id": "moral_disputes/dev/2"
+    },
+    "128": {
+        "instruction": "Kolik náprav má standardní automobil?",
+        "option_a": "jedna",
+        "option_b": "dvě",
+        "option_c": "čtyři",
+        "option_d": "osm",
+        "answer": "B",
+        "id": "miscellaneous/dev/0"
+    },
+    "129": {
+        "instruction": "Glukóza je transportována do svalové buňky:",
+        "option_a": "prostřednictvím proteinových transportérů nazývaných GLUT4.",
+        "option_b": "pouze v přítomnosti inzulínu.",
+        "option_c": "prostřednictvím hexokinázy.",
+        "option_d": "prostřednictvím transportérů monokarboxylových kyselin.",
+        "answer": "A",
+        "id": "college_medicine/dev/0"
+    },
+    "130": {
+        "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). V reakci uvedené výše se Cl−(aq) chová jako",
+        "option_a": "kyselina",
+        "option_b": "zásada",
+        "option_c": "katalyzátor",
+        "option_d": "redukující činidlo",
+        "answer": "D",
+        "id": "college_chemistry/dev/3"
+    },
+    "131": {
+        "instruction": "Termín \"rozpočtový deficit\" se vztahuje na",
+        "option_a": "roční nárůst federálních výdajů na armádu",
+        "option_b": "částku úroků z národního dluhu",
+        "option_c": "rozdíl mezi počátečními rozpočtovými návrhy prezidenta a Kongresu",
+        "option_d": "částku, kterou vláda utrácí nad rámec svých příjmů",
+        "answer": "D",
+        "id": "high_school_government_and_politics/dev/1"
+    },
+    "132": {
+        "instruction": "Tato otázka se týká následujících informací.\nÚryvky níže jsou z Navigačních aktů z roku 1651.\n[A] po prvním dni prosince, roku jeden tisíc šest set padesát a jeden, a odtud dále, nesmí být žádné zboží nebo komodity jakéhokoli druhu, které pocházejí, jsou produkovány nebo vyráběny v Asii, Africe nebo Americe, nebo v jakékoli jejich části; nebo z jakýchkoli ostrovů, které k nim patří, nebo které jsou popsány nebo vyznačeny na obvyklých mapách nebo kartách těchto míst, jak anglické plantáže, tak i jiné, dováženy nebo přiváženy do tohoto společenství Anglie, nebo do Irska, nebo jakýchkoli jiných zemí, ostrovů, plantáží nebo území, které k tomuto společenství patří, nebo jsou v jejich držení, v jakékoli jiné lodi nebo lodích, plavidle nebo plavidlech jakéhokoli druhu, ale pouze v těch, které skutečně a bez podvodu patří pouze lidem tohoto společenství, nebo jejich plantážím, jakožto vlastníků nebo právoplatných majitelů; a kde kapitán a námořníci jsou také lidmi tohoto společenství, pod trestem ztráty a propadnutí veškerého zboží, které bude dováženo v rozporu s tímto zákonem, , , ,\n[N] žádné zboží nebo komodity, které pocházejí, jsou produkovány nebo vyráběny v Evropě, nebo v jakékoli její části, nesmí po prvním dni prosince, roku jeden tisíc šest set padesát a jeden, být dováženy nebo přiváženy do tohoto společenství Anglie, nebo jakýchkoli jiných zemí nebo území, které k tomuto společenství patří, nebo jsou v jejich držení, v jakékoli lodi nebo lodích, plavidle nebo plavidlech jakéhokoli druhu, ale pouze v těch, které skutečně a bez podvodu patří pouze lidem tohoto společenství, a v žádné jiné, kromě pouze takových zahraničních lodí a plavidel, které skutečně a řádně patří lidem té země nebo místa, z nichž dané zboží pochází, produkce nebo výroby.\nKterá z následujících možností nejlépe popisuje výsledek Navigačních aktů z roku 1651?",
+        "option_a": "Sloužily jako katalyzátor pro růst anglického námořnictví a zámořského obchodu, ale málo omezily vyhlídky Nizozemců v sedmnáctém století.",
+        "option_b": "Způsobily téměř okamžité potíže pro nizozemskou ekonomiku, protože jejich dominance v zámořském obchodě rychle skončila.",
+        "option_c": "Byly zrušeny během obnovy Stuartovců, když usilovali o normální diplomatické vztahy s Nizozemci, aby nemuseli potřebovat finanční podporu Parlamentu pro válku.",
+        "option_d": "Vedly k téměř století opakovaných válek mezi Anglií a Nizozemím, které neskončily až po americké nezávislosti.",
+        "answer": "A",
+        "id": "high_school_european_history/dev/3"
+    },
+    "133": {
+        "instruction": "Ranní nevolnost je obvykle problém:",
+        "option_a": "během prvního trimestru",
+        "option_b": "během druhého trimestru",
+        "option_c": "během třetího trimestru",
+        "option_d": "po celou dobu těhotenství",
+        "answer": "A",
+        "id": "human_sexuality/dev/0"
+    },
+    "134": {
+        "instruction": "Predikujte počet čar v EPR spektru roztoku methylového radikálu označeného 13C (13CH3•), za předpokladu, že se čáry nepřekrývají.",
+        "option_a": "4",
+        "option_b": "3",
+        "option_c": "6",
+        "option_d": "24",
+        "answer": "A",
+        "id": "college_chemistry/dev/2"
+    },
+    "135": {
+        "instruction": "Podle Timothyho Pauketata důkazy o sociální stratifikaci a politické moci v Cahokii naznačují:",
+        "option_a": "centrum misišské civilizace s podmínkami podobnými vzestupu raných států.",
+        "option_b": "omezení autority v domorodé americké společnosti egalitárních sběračů.",
+        "option_c": "jednoduché náčelnictví nebo možná složité náčelnictví se vyvinulo do roku 1500 n. l.",
+        "option_d": "centrum misišské civilizace s podmínkami podobnými společnostem na severozápadním pobřeží Severní Ameriky.",
+        "answer": "A",
+        "id": "prehistory/dev/1"
+    },
+    "136": {
+        "instruction": "Aby se hrozba stala zajištěnou, musí být prezentována jedním z těchto způsobů?",
+        "option_a": "Jako existenční hrozba, která vyžaduje okamžitou a mimořádnou akci, představující hrozbu pro přežití státu nebo pro bezpečnost společnosti.",
+        "option_b": "Jako vyžadující okamžitou a mimořádnou akci ze strany státu, ohrožující přežití referenčního objektu a proto ospravedlňující použití opatření, která se obvykle v politické sféře nepoužívají.",
+        "option_c": "Jako naléhavou hrozbu pro přežití referenčního objektu, tak vážnou, že legitimizuje použití mimořádné akce jako reakce.",
+        "option_d": "Jako naléhavou hrozbu pro přežití publika, která vyžaduje mimořádná nebo nouzová opatření.",
+        "answer": "C",
+        "id": "security_studies/dev/2"
+    },
+    "137": {
+        "instruction": "Kromě obchodního případu pro zapojení do CSR existuje řada morálních argumentů týkajících se: negativních _______, _______ které korporace mají a ________ podnikání a společnosti.",
+        "option_a": "Externality, Moc, Nezávislost",
+        "option_b": "Veřejnost, Nepodstatné zdroje, Vzájemná závislost",
+        "option_c": "Veřejnost, Moc, Nezávislost",
+        "option_d": "Externality, Moc, Vzájemná závislost",
+        "answer": "D",
+        "id": "business_ethics/dev/0"
+    },
+    "138": {
+        "instruction": "32letá žena, která byla dříve zdravá, přichází k lékaři 8 měsíců poté, co její manžel zemřel při autonehodě. Od té doby má sníženou chuť k jídlu a potíže se usínáním. Uvádí, že je často smutná a často pláče. Před odchodem z domu kontroluje zámek dveří pětkrát a musí přesně spočítat pět kusů toaletního papíru, než je použije. Říká, že vždy byla perfekcionistka, ale tyto nutkání a rituály jsou nové. Farmakoterapie by měla být zaměřena na který z následujících neurotransmiterů?",
+        "option_a": "Dopamin",
+        "option_b": "Glutamát",
+        "option_c": "Norepinefrin",
+        "option_d": "Serotonin",
+        "answer": "D",
+        "id": "professional_medicine/dev/2"
+    },
+    "139": {
+        "instruction": "Vyberte nejlepší překlad do predikátové logiky: Na Marsu nejezdí žádní lidé.",
+        "option_a": "~Pd",
+        "option_b": "(∀x)(Px ∨ ~Dx)",
+        "option_c": "(∀x)(Px ⊃ ~Dx)",
+        "option_d": "~Dp",
+        "answer": "C",
+        "id": "formal_logic/dev/0"
+    },
+    "140": {
+        "instruction": "Jak Donald Trump napadl globalizaci v kampani 2016?",
+        "option_a": "Globalizace učinila muže jako on příliš bohatými",
+        "option_b": "Globalizace prospěla pouze některým americkým státům, jako je New York",
+        "option_c": "Liberální elity podporovaly globalizaci, zatímco 'obyčejní Američané' ztráceli pracovní místa kvůli ní",
+        "option_d": "Globalizace podporovala škodlivé obchodní války",
+        "answer": "C",
+        "id": "us_foreign_policy/dev/4"
+    },
+    "141": {
+        "instruction": "Nejdůležitějším cílem behaviorální intervence je:",
+        "option_a": "Změna chování",
+        "option_b": "Komplexní pokrytí",
+        "option_c": "Efektivní využití behaviorální teorie",
+        "option_d": "Udržitelná změna chování",
+        "answer": "D",
+        "id": "virology/dev/3"
+    },
+    "142": {
+        "instruction": "Trubka plná vzduchu je uzavřena na jednom konci. V trubce se vytváří stojatá vlna, která způsobuje, že trubka vydává tón. Které z následujících tvrzení je správné ohledně vlastností vlny na uzavřeném konci trubky?",
+        "option_a": "Tlak je na uzlu, ale posun částic je na antinodu.",
+        "option_b": "Tlak je na antinodu, ale posun částic je na uzlu.",
+        "option_c": "Tlak a posun částic jsou oba na uzlech.",
+        "option_d": "Tlak a posun částic jsou oba na antinodách.",
+        "answer": "B",
+        "id": "high_school_physics/dev/1"
+    },
+    "143": {
+        "instruction": "Klíčový faktor usnadňující aplikaci studií případů a kontrol z MACS byl:",
+        "option_a": "Sběr dat",
+        "option_b": "Zřízení repozitáře biologických vzorků",
+        "option_c": "Zájem účastníků",
+        "option_d": "Administrace dotazníku personálem",
+        "answer": "B",
+        "id": "virology/dev/2"
+    },
+    "144": {
+        "instruction": "Velké expanze trojitého opakování lze detekovat pomocí:",
+        "option_a": "polymerázové řetězové reakce.",
+        "option_b": "analýzy konformační polymorfismu jednovláknových řetězců.",
+        "option_c": "Southern blotting.",
+        "option_d": "Western blotting.",
+        "answer": "C",
+        "id": "medical_genetics/dev/0"
+    },
+    "145": {
+        "instruction": "Glykolýza je název pro dráhu zahrnující přeměnu:",
+        "option_a": "glykogenu na glukózu-1-fosfát.",
+        "option_b": "glykogenu nebo glukózy na fruktózu.",
+        "option_c": "glykogenu nebo glukózy na pyruvát nebo laktát.",
+        "option_d": "glykogenu nebo glukózy na pyruvát nebo acetyl CoA.",
+        "answer": "C",
+        "id": "clinical_knowledge/dev/4"
+    },
+    "146": {
+        "instruction": "Předpokládejme, že X a Y jsou náhodné proměnné s E(X) = 37, var(X) = 5, E(Y) = 62 a var(Y) = 12. Jaká je očekávaná hodnota a rozptyl náhodné proměnné X + Y?",
+        "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+        "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+        "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+        "option_d": "Není dostatek informací k zodpovězení této otázky.",
+        "answer": "D",
+        "id": "high_school_statistics/dev/1"
+    },
+    "147": {
+        "instruction": "Jaké jsou rámce analýzy, v rámci kterých byl terorismus zvažován (k roku 2020)?",
+        "option_a": "Konkurence mezi většími národy vedla k tomu, že některé země aktivně podporují teroristické skupiny, aby oslabily sílu rivalizujících států. Teroristické sítě jsou rozšířené patronátní kluby, které jsou udržovány a placeny jejich dárcovskými státy a jsou koncipovány jako státní aktéři, s nimiž je třeba zacházet vojenskou silou.",
+        "option_b": "Globalizace umožnila internacionalizaci teroristických aktivit tím, že otevřela jejich operační prostor, i když koordinace je stále řízena z geografické základny. To naznačuje, že teroristické skupiny jsou národně strukturované, což znamená, že terorismus nelze považovat za válku, kterou je třeba vojensky porazit, aniž by to mělo vážné důsledky pro domorodé obyvatelstvo.",
+        "option_c": "Terorismus lze považovat za problém, který je třeba řešit vojenskými prostředky (válka proti terorismu), běžnými policejními technikami (terorismus jako zločin) nebo jako lékařský problém s podkladovými příčinami a symptomy (terorismus jako nemoc).",
+        "option_d": "Terorismus je považován za kriminální problém. Kriminalizace terorismu má dva důležité důsledky. Za prvé naznačuje, že terorismus lze eradikovat - teroristy lze chytit a postavit před soud běžnými soudními řízeními, čímž se odstraní hrozba pro společnost - a za druhé naznačuje, že preventivní techniky kriminality jsou použitelné k prevenci jeho rozvoje.",
+        "answer": "C",
+        "id": "security_studies/dev/4"
+    },
+    "148": {
+        "instruction": "Soudce vzal na vědomí některé skutečnosti na začátku procesu. Která z následujících skutečností není vhodným typem skutečnosti pro soudní uvědomění?",
+        "option_a": "Nesporné skutečnosti.",
+        "option_b": "Skutečnosti, které byly tvrzeny jednotlivými politickými organizacemi.",
+        "option_c": "Skutečnosti uznávané jako pravdivé obecně známými informacemi.",
+        "option_d": "Skutečnosti schopné vědeckého ověření.",
+        "answer": "B",
+        "id": "professional_law/dev/2"
+    },
+    "149": {
+        "instruction": "Jaká je přibližná průměrná lebková kapacita druhu Homo erectus?",
+        "option_a": "pod 650 cc",
+        "option_b": "asi 800 cc",
+        "option_c": "těsně pod 1000 cc",
+        "option_d": "1200 cc",
+        "answer": "C",
+        "id": "prehistory/dev/4"
+    },
+    "150": {
+        "instruction": "Nedávný výzkum hominidních druhů datovaných do středního pliocénu naznačuje, že (k roku 2020):",
+        "option_a": "existovalo velké množství druhové rozmanitosti, nebo jeden druh, který vykazoval mnoho rozmanitosti.",
+        "option_b": "během tohoto období existovalo velmi málo druhové rozmanitosti a velmi málo hominidů.",
+        "option_c": "došlo k poklesu druhové rozmanitosti v důsledku dlouhého ledového období následovaného vážným suchem.",
+        "option_d": "došlo k poklesu druhové rozmanitosti, ale zvýšil se počet kladiv a úlomků, což naznačuje výrobu kamenných nástrojů.",
+        "answer": "A",
+        "id": "prehistory/dev/3"
+    },
+    "151": {
+        "instruction": "Fáze meiotického dělení, ve které se chromozomy párují a dochází k crossing overu, je:",
+        "option_a": "profáze I",
+        "option_b": "metafáze I",
+        "option_c": "profáze II",
+        "option_d": "metafáze II",
+        "answer": "A",
+        "id": "medical_genetics/dev/4"
+    },
+    "152": {
+        "instruction": "Tato otázka se týká následujících informací.\nAčkoli je králova Veličenstva spravedlivě a právem nejvyšší hlavou Anglikánské církve a je tak uznáván duchovenstvem tohoto království na jejich shromážděních, přesto, pro potvrzení a potvrzení toho, a pro zvýšení ctnosti v Kristu náboženství v tomto království Anglie, a k potlačení a vykořenění všech chyb, herezí a dalších enormit a zneužití, které byly dosud v tomto království používány, budiž přijato, autoritou tohoto současného Parlamentu, že král, náš suverénní pán, jeho dědicové a nástupci, králové tohoto království, budou považováni, přijímáni a uznáváni jako jediná nejvyšší hlava na zemi Anglikánské církve; a budou mít a užívat, připojeno a spojeno s císařskou korunou tohoto království, jak titul a styl, tak všechny pocty, důstojnosti, přednosti, jurisdikce, privilegium, autority, imunity, zisky a výhody, které k této důstojnosti nejvyšší hlavy této církve náleží a patří; a že náš uvedený suverénní pán, jeho dědicové a nástupci, králové tohoto království, budou mít plnou moc a autoritu čas od času navštěvovat, potlačovat, napravovat, zaznamenávat, uspořádat, korigovat, omezovat a měnit všechny takové chyby, hereze, zneužití, delikty, opovržení a enormity, ať už jakékoli, které by jakoukoli duchovní autoritou nebo jurisdikcí měly nebo mohly být zákonně reformovány, potlačeny, uspořádány, napraveny, korigovány, omezeny nebo změněny, nejvíce k potěšení Všemohoucího Boha, k zvýšení ctnosti v Kristu náboženství a k ochraně míru, jednoty a klidu tohoto království; jakékoli užívání, cizí země, cizí autorita, preskripce nebo jakákoli jiná věc či věci, které by byly v rozporu s tímto, bez ohledu na to.\nAnglický parlament, Zákon o supremaci, 1534\nZ úryvku lze usoudit, že anglický parlament chtěl tvrdit, že Zákon o supremaci by",
+        "option_a": "dal anglickému králi novou pozici autority",
+        "option_b": "dal pozici hlavy Anglikánské církve pouze Jindřichu VIII. a vyloučil jeho dědice",
+        "option_c": "ustanovil kalvinismus jako jednu pravou teologii v Anglii",
+        "option_d": "ukončil různé formy korupce sužující církev v Anglii",
+        "answer": "D",
+        "id": "high_school_european_history/dev/4"
+    },
+    "153": {
+        "instruction": "Pleura",
+        "option_a": "nemají senzorickou inervaci.",
+        "option_b": "jsou odděleny 2 mm prostorem.",
+        "option_c": "se rozšiřují do krku.",
+        "option_d": "jsou složeny z respiračního epitelu.",
+        "answer": "C",
+        "id": "anatomy/dev/2"
+    },
+    "154": {
+        "instruction": "Které slovo nejlépe shrnuje Weberovo vysvětlení vývoje formálně racionálního práva?",
+        "option_a": "Autorita.",
+        "option_b": "Charisma.",
+        "option_c": "Spolupráce.",
+        "option_d": "Kapitálismus.",
+        "answer": "D",
+        "id": "jurisprudence/dev/2"
+    },
+    "155": {
+        "instruction": "Během třetí fáze modelu demografické přechodu, co z následujícího je pravda?",
+        "option_a": "Míra narození se zvyšuje a míra růstu populace je méně rychlá.",
+        "option_b": "Míra narození klesá a míra růstu populace je méně rychlá.",
+        "option_c": "Míra narození se zvyšuje a míra růstu populace se zvyšuje.",
+        "option_d": "Míra narození klesá a míra růstu populace se zvyšuje.",
+        "answer": "B",
+        "id": "high_school_geography/dev/1"
+    },
+    "156": {
+        "instruction": "Jaký je lék první volby pro pacienty s diabetem typu 2 a obezitou k roku 2020?",
+        "option_a": "Akarbóza",
+        "option_b": "Metformin",
+        "option_c": "Sulfonylurea",
+        "option_d": "Inzulin",
+        "answer": "B",
+        "id": "nutrition/dev/4"
+    },
+    "157": {
+        "instruction": "Ve které z těchto dvou situací dělá hlavní postava (která používá já/mě/můj) něco zcela morálně špatného podle běžných morálních standardů v USA k roku 2020? Scénář 1 | Požádal jsem chlapa venku ze obchodu o cigaretu. Scénář 2 | Když bezpečnostní strážce opustil své místo, schoval jsem si vzácnou minci.",
+        "option_a": "Špatně, Špatně",
+        "option_b": "Špatně, Nešpatně",
+        "option_c": "Nešpatně, Špatně",
+        "option_d": "Nešpatně, Nešpatně",
+        "answer": "C",
+        "id": "moral_scenarios/dev/1"
+    },
+    "158": {
+        "instruction": "Tato otázka se týká následujících informací.\nNepřicházím, abych prosazoval osobní nároky, ani abych hledal individuální výhody; vystupuji jako obhájce těch, kteří nemohou hájit svou vlastní věc; přicházím jako přítel těch, kteří jsou opuštěni, utlačováni a osamělí. V Boží prozřetelnosti jsem hlasem šílence, jehož pronikavé výkřiky z ponurých vězení vašich žalářů nepronikají do vašich legislativních síní. Jsem nadějí chudých šílených bytostí, které trpí v celách, stájnách a klecích a v opuštěných místnostech vašich chudobinců. Jsem zjevením stovek naříkajících, trpících bytostí, skrytých ve vašich soukromých obydlích a v ohradách a chatkách—vyloučených, odříznutých od všech léčivých vlivů, od všech péčí, které obnovují mysl... Kdyby se jejich melancholické příběhy mohly rozprostřít před vámi, jak byly zjeveny mé zarmoucené duši během posledních tří měsíců, jak rychle, jak vážně byste hledali nejuznávanější prostředky úlevy; jak bezvýznamné, jak nevýznamné by se ve srovnání zdály oběti, které se po vás žádají; jak by se několik centů a dolarů, shromážděných od každého občana, zmenšilo na hodnotě jako majetek, ve srovnání s jistými přínosy a obrovským dobrem, které by mohly být zajištěny pro trpící šílené... zasvěcením a použitím dostatečného fondu na výstavbu vhodné nemocnice...\n—Dorothea Dix, Pamětní žádost o státní nemocnici pro ochranu a léčbu šílených,\nPředloženo Generálnímu shromáždění Severní Karolíny, listopad 1848\nDorothea Dix lze nejlépe přirovnat k čemu?",
+        "option_a": "Abigail Adams",
+        "option_b": "Clara Barton",
+        "option_c": "Shirley Temple",
+        "option_d": "Hillary Clinton",
+        "answer": "B",
+        "id": "high_school_us_history/dev/4"
+    },
+    "159": {
+        "instruction": "Které z následujících obsahují DNA sekvence potřebné pro segregaci chromozomů v mitóze a meióze?",
+        "option_a": "Telomery",
+        "option_b": "Centromery",
+        "option_c": "Nukleozomy",
+        "option_d": "Spliceosomy",
+        "answer": "B",
+        "id": "college_biology/dev/4"
+    },
+    "160": {
+        "instruction": "Která z následujících osob je pravděpodobněji sama doma, k roku 2019?",
+        "option_a": "Asijský muž nebo žena",
+        "option_b": "Hispánský muž",
+        "option_c": "Afroamerická žena",
+        "option_d": "Bílý muž nebo žena",
+        "answer": "C",
+        "id": "human_aging/dev/0"
+    },
+    "161": {
+        "instruction": "Která z následujících podmínek neukazuje multifaktoriální dědičnost?",
+        "option_a": "Pylorická stenóza",
+        "option_b": "Schizofrenie",
+        "option_c": "Spina bifida (defekty neurální trubice)",
+        "option_d": "Marfanův syndrom",
+        "answer": "D",
+        "id": "medical_genetics/dev/3"
+    },
+    "162": {
+        "instruction": "Který z následujících není způsob, jak vytvořit rekombinantní DNA?",
+        "option_a": "Překlad",
+        "option_b": "Konjugace",
+        "option_c": "Specializovaná transdukce",
+        "option_d": "Transformace",
+        "answer": "A",
+        "id": "high_school_biology/dev/0"
+    },
+    "163": {
+        "instruction": "Jaká charakteristika není klíčovým rysem modelu 'otevřených systémů' řízení?",
+        "option_a": "Morálka",
+        "option_b": "Inovace",
+        "option_c": "Růstový zdroj",
+        "option_d": "Adaptace",
+        "answer": "A",
+        "id": "management/dev/3"
+    },
+    "164": {
+        "instruction": "Který z následujících seznamů uvádí hydridové sloučeniny prvků skupiny 14 podle jejich termální stability, od nejnižší po nejvyšší?",
+        "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+        "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+        "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+        "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+        "answer": "A",
+        "id": "college_chemistry/dev/4"
+    },
+    "165": {
+        "instruction": "Která z následujících molekul se očekává, že bude polární?",
+        "option_a": "PCl4F",
+        "option_b": "BF3",
+        "option_c": "CO2",
+        "option_d": "Si(CH3)4",
+        "answer": "A",
+        "id": "high_school_chemistry/dev/1"
+    },
+    "166": {
+        "instruction": "Která z následujících je tělní dutina, která obsahuje hypofýzu?",
+        "option_a": "Břišní",
+        "option_b": "Lební",
+        "option_c": "Pleurální",
+        "option_d": "Míšní",
+        "answer": "B",
+        "id": "anatomy/dev/4"
+    },
+    "167": {
+        "instruction": "Podle modelu tlakového toku pohybu obsahu floému je pohyb fotosyntetátů ze zdroje do sinku řízen",
+        "option_a": "ATP-závislou čerpadlovou tlakem",
+        "option_b": "gradientem tlakové potenciální vody",
+        "option_c": "transpirací",
+        "option_d": "apoplastickou difuzí",
+        "answer": "B",
+        "id": "college_biology/dev/3"
+    },
+    "168": {
+        "instruction": "Který z následujících nejlépe vyjadřuje argument, který uvedl James Madison v The Federalist číslo 10?",
+        "option_a": "Poctiví politici mohou zabránit vzniku frakcí.",
+        "option_b": "Frakce se pravděpodobněji vyskytují ve velkých republikách než v malých.",
+        "option_c": "Negativní účinky frakcionismu mohou být sníženy republikánskou vládou.",
+        "option_d": "Svobodné volby jsou nejlepší obranou lidu proti frakcionismu.",
+        "answer": "C",
+        "id": "high_school_government_and_politics/dev/4"
+    },
+    "169": {
+        "instruction": "Muon se rozpadá s charakteristickou dobou života přibližně 10^-6 sekundy na elektron, muonové neutrino a elektronové antineutrino. Muonovi je zakázáno se rozpadnout na elektron a pouze jedno neutrino podle zákona o zachování",
+        "option_a": "náboje",
+        "option_b": "hmotnosti",
+        "option_c": "energie a hybnosti",
+        "option_d": "leptonového čísla",
+        "answer": "D",
+        "id": "college_physics/dev/4"
+    },
+    "170": {
+        "instruction": "V SR klopném obvodu postaveném z NOR hradel, která podmínka není povolena",
+        "option_a": "S=0, R=0",
+        "option_b": "S=0, R=1",
+        "option_c": "S=1, R=0",
+        "option_d": "S=1, R=1",
+        "answer": "D",
+        "id": "electrical_engineering/dev/0"
+    },
+    "171": {
+        "instruction": "V DC stroji s 2 pólovým lap vinutím je odpor jednoho vodiče 2Ω a celkový počet vodičů je 100. Určete celkový odpor",
+        "option_a": "200Ω",
+        "option_b": "100Ω",
+        "option_c": "50Ω",
+        "option_d": "10Ω",
+        "answer": "C",
+        "id": "electrical_engineering/dev/1"
+    },
+    "172": {
+        "instruction": "Prohlášení 1 | Každý prvek skupiny generuje cyklickou podskupinu skupiny. Prohlášení 2 | Symetrická skupina S_10 má 10 prvků.",
+        "option_a": "Pravda, Pravda",
+        "option_b": "Nepravda, Nepravda",
+        "option_c": "Pravda, Nepravda",
+        "option_d": "Nepravda, Pravda",
+        "answer": "C",
+        "id": "abstract_algebra/dev/2"
+    },
+    "173": {
+        "instruction": "Pět tisíc dolarů, které se každoročně úročí při úrokové sazbě $x\\%$, se za šest let zdvojnásobí. Při stejné úrokové sazbě, kolik let potrvá, než $\\$300$ vzroste na $\\$9600$?",
+        "option_a": "12",
+        "option_b": "1",
+        "option_c": "30",
+        "option_d": "5",
+        "answer": "C",
+        "id": "high_school_mathematics/dev/1"
+    },
+    "174": {
+        "instruction": "Nejčastější porucha mezi muži, kteří vyhledávají sexuální terapii, je:",
+        "option_a": "předčasná ejakulace",
+        "option_b": "inhibovaná ejakulace",
+        "option_c": "erektilní porucha",
+        "option_d": "ejakulační porucha",
+        "answer": "C",
+        "id": "human_sexuality/dev/4"
+    },
+    "175": {
+        "instruction": "36letý muž se dostavil do ordinace s 3týdenní historií bolesti dolní části zad. Popírá jakýkoli nedávný traumatický zážitek, ale říká, že několikrát denně vyskakuje a vystupuje ze svého náklaďáku kvůli práci. Vyšetření pacienta v poloze na břiše odhaluje hluboký sakrální žlábek vlevo, zadní dolní boční úhel vpravo a lumbosakrální spojení, které se volně ohýbá při stlačení. Nejpravděpodobnější diagnóza je",
+        "option_a": "levoto-levá sakrální torze",
+        "option_b": "levoto-pravá sakrální torze",
+        "option_c": "pravostranná jednostranná sakrální flexe",
+        "option_d": "pravoto-pravá sakrální torze",
+        "answer": "D",
+        "id": "professional_medicine/dev/1"
+    },
+    "176": {
+        "instruction": "Ve které dynastii byl \"Mandát nebes\" vyvinut k legitimizaci nových vládců?",
+        "option_a": "Shang",
+        "option_b": "Zhou",
+        "option_c": "Han",
+        "option_d": "Xia",
+        "answer": "B",
+        "id": "world_religions/dev/2"
+    },
+    "177": {
+        "instruction": "Barvy v mýdlové bublině vznikají z světla",
+        "option_a": "převedeného na jinou frekvenci",
+        "option_b": "odchylka",
+        "option_c": "interference",
+        "option_d": "polarizace",
+        "answer": "C",
+        "id": "conceptual_physics/dev/2"
+    },
+    "178": {
+        "instruction": "Oplozené vajíčko je také známo jako",
+        "option_a": "zygota.",
+        "option_b": "embryo.",
+        "option_c": "životaschopnost.",
+        "option_d": "blastocysta.",
+        "answer": "A",
+        "id": "moral_disputes/dev/1"
+    },
+    "179": {
+        "instruction": "V jaké fázi plánovacího procesu by byla provedena analýza situace?",
+        "option_a": "Definování programu",
+        "option_b": "Plánování programu",
+        "option_c": "Provádění a implementace nápadů",
+        "option_d": "Hodnocení programu",
+        "answer": "A",
+        "id": "public_relations/dev/3"
+    },
+    "180": {
+        "instruction": "Jaký je rozdíl mezi mužským a ženským katetrem?",
+        "option_a": "Mužské a ženské katetry mají různé barvy.",
+        "option_b": "Mužské katetry jsou delší než ženské katetry.",
+        "option_c": "Mužské katetry jsou větší než ženské katetry.",
+        "option_d": "Ženské katetry jsou delší než mužské katetry.",
+        "answer": "B",
+        "id": "clinical_knowledge/dev/1"
+    },
+    "181": {
+        "instruction": "_______ je přímý pokus o formální nebo neformální řízení etických otázek nebo problémů, prostřednictvím specifických politik, praktik a programů.",
+        "option_a": "Společenská odpovědnost firem",
+        "option_b": "Řízení obchodní etiky",
+        "option_c": "Udržitelnost",
+        "option_d": "Environmentální management",
+        "answer": "B",
+        "id": "business_ethics/dev/1"
+    },
+    "182": {
+        "instruction": "Které z následujících tvrzení o jódu je správné k roku 2020?",
+        "option_a": "50 % dospělých konzumuje jód na úrovni pod RNI",
+        "option_b": "Mléčné výrobky jsou chudým zdrojem jódu",
+        "option_c": "Obsah jódu v organickém mléce je obecně nižší než úroveň v neorganickém mléce",
+        "option_d": "Doporučené hodnoty stravy ve Velké Británii doporučují zvýšení příjmu jódu během těhotenství",
+        "answer": "C",
+        "id": "nutrition/dev/3"
+    },
+    "183": {
+        "instruction": "44letý muž přichází do ordinace kvůli 3denní historii bolesti v krku, neproduktivnímu kašli, rýmě a bolestem hlavy v čelní oblasti. Říká, že bolest hlavy je ráno horší a ibuprofen mu poskytuje určitou úlevu. Neměl dušnost. Anamnéza je bez zvláštností. Neužívá žádné léky kromě ibuprofenu na bolest. Životní funkce jsou: teplota 37,4 °C (99,4 °F), puls 88/min, dýchání 18/min a krevní tlak 120/84 mm Hg. Vyšetření nosních dutin ukazuje erytematózní sliznice. Vyšetření krku ukazuje erytém a folikulární lymfoidní hyperplazii na zadní orofaryngu. Není přítomna palpabilní cervikální adenopatie. Plíce jsou při auskultaci čisté. Která z následujících možností je nejpravděpodobnější příčinou symptomů tohoto pacienta?",
+        "option_a": "Alergická rýma",
+        "option_b": "Virus Epstein-Barrové",
+        "option_c": "Mycoplasma pneumoniae",
+        "option_d": "Rhinovirus",
+        "answer": "D",
+        "id": "professional_medicine/dev/3"
+    },
+    "184": {
+        "instruction": "Učitelka vědy na střední škole naplní 1 litrovou láhev čistým dusíkem a uzavře víko. Tlak je 1,70 atm a teplota v místnosti je 25 °C. Které dvě proměnné zvýší tlak systému, pokud budou všechny ostatní proměnné konstantní?",
+        "option_a": "Zvyšování teploty, zvyšování molů plynu",
+        "option_b": "Zvyšování teploty, zvyšování objemu",
+        "option_c": "Snižování objemu, snižování teploty",
+        "option_d": "Snižování molů plynu, zvyšování objemu",
+        "answer": "A",
+        "id": "college_medicine/dev/3"
+    },
+    "185": {
+        "instruction": "Recenzujete příspěvky na nejprestižnější konferenci o strojovém učení na světě a vidíte příspěvky s následujícími tvrzeními. Které byste zvážili k přijetí?",
+        "option_a": "Moje metoda dosahuje tréninkové chyby nižší než všechny předchozí metody!",
+        "option_b": "Moje metoda dosahuje testovací chyby nižší než všechny předchozí metody! (Poznámka pod čarou: Když je regulační parametr λ zvolen tak, aby minimalizoval testovací chybu.)",
+        "option_c": "Moje metoda dosahuje testovací chyby nižší než všechny předchozí metody! (Poznámka pod čarou: Když je regulační parametr λ zvolen tak, aby minimalizoval chybu křížové validace.)",
+        "option_d": "Moje metoda dosahuje chyby křížové validace nižší než všechny předchozí metody! (Poznámka pod čarou: Když je regulační parametr λ zvolen tak, aby minimalizoval chybu křížové validace.)",
+        "answer": "C",
+        "id": "machine_learning/dev/2"
+    },
+    "186": {
+        "instruction": "Refrakční dalekohled se skládá ze dvou konvergentních čoček oddělených 100 cm. Čočka okuláru má ohniskovou vzdálenost 20 cm. Úhlové zvětšení dalekohledu je",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "20",
+        "answer": "A",
+        "id": "college_physics/dev/3"
+    },
+    "187": {
+        "instruction": "Podle zákona o zlepšení vzdělávání jednotlivců se zdravotním postižením, co musí vzdělávací agentura udělat předtím, než změní vzdělávací umístění studenta se zdravotním postižením?",
+        "option_a": "Poskytnout dítěti zkušební období v novém prostředí",
+        "option_b": "Informovat rodiče písemně",
+        "option_c": "Získat schválení školní rady",
+        "option_d": "Získat souhlas rodičů",
+        "answer": "B",
+        "id": "high_school_psychology/dev/3"
+    },
+    "188": {
+        "instruction": "Krátkodobá Phillipsova křivka naznačuje",
+        "option_a": "přímou souvislost mezi nezaměstnaností a inflací",
+        "option_b": "přímou souvislost mezi cenou a poptávaným množstvím",
+        "option_c": "obrácenou souvislost mezi cenou a poptávaným množstvím",
+        "option_d": "obrácenou souvislost mezi nezaměstnaností a inflací",
+        "answer": "D",
+        "id": "high_school_macroeconomics/dev/1"
+    },
+    "189": {
+        "instruction": "SHA-1 má hash zprávy o velikosti",
+        "option_a": "160 bitů",
+        "option_b": "512 bitů",
+        "option_c": "628 bitů",
+        "option_d": "820 bitů",
+        "answer": "A",
+        "id": "computer_security/dev/0"
+    },
+    "190": {
+        "instruction": "Co se produkuje během fotosyntézy?",
+        "option_a": "vodík",
+        "option_b": "nylon",
+        "option_c": "kyslík",
+        "option_d": "světlo",
+        "answer": "C",
+        "id": "miscellaneous/dev/3"
+    },
+    "191": {
+        "instruction": "Mutace v bakteriálním enzymu změnila dříve polární aminokyselinu na nepolární aminokyselinu. Tato aminokyselina se nacházela na místě vzdáleném od aktivního místa enzymu. Jak by mohla tato mutace změnit substrátovou specifitu enzymu?",
+        "option_a": "Změnou optimálního pH enzymu",
+        "option_b": "Změnou umístění enzymu v buňce",
+        "option_c": "Změnou tvaru proteinu",
+        "option_d": "Změna aminokyseliny daleko od aktivního místa nemůže změnit substrátovou specifitu enzymu.",
+        "answer": "C",
+        "id": "high_school_biology/dev/1"
+    },
+    "192": {
+        "instruction": "Které z následujících tvrzení je správné (podle znalostí v roce 2020)?",
+        "option_a": "Spotřebitelé s fenylketonurií se musí vyhýbat konzumaci sladidla aspartam",
+        "option_b": "Spotřebitelé s fenylketonurií se musí vyhýbat konzumaci sladidla sacharin",
+        "option_c": "Spotřebitelé s fenylketonurií se musí vyhýbat konzumaci sladidla sukralóza",
+        "option_d": "Spotřebitelé s fenylketonurií se musí vyhýbat konzumaci sladidla acesulfam K",
+        "answer": "A",
+        "id": "nutrition/dev/1"
+    },
+    "193": {
+        "instruction": "Jaký je výstup \"abc\"[::-1] v Pythonu 3?",
+        "option_a": "Chyba",
+        "option_b": "abc",
+        "option_c": "cba",
+        "option_d": "c",
+        "answer": "C",
+        "id": "high_school_computer_science/dev/2"
+    },
+    "194": {
+        "instruction": "Při sestavování rovnice vícenásobné regrese pro účely predikce je optimální kombinací měření taková, ve které jsou prediktory",
+        "option_a": "navzájem nekorelované, ale jsou mírně korelované s kritériem",
+        "option_b": "mají nízké korelace mezi sebou a nízké korelace s kritériem",
+        "option_c": "jsou silně vzájemně korelované a mírně korelované s kritériem",
+        "option_d": "mají nízké korelace s kritériem, ale jsou mírně korelované mezi sebou",
+        "answer": "A",
+        "id": "professional_psychology/dev/4"
+    },
+    "195": {
+        "instruction": "Podle Metze, co je špatně na konsekvencialistických argumentech proti trestu smrti založených na afrických hodnotách?",
+        "option_a": "Není zatím jasné, zda trest smrti odrazuje od poškození komunity.",
+        "option_b": "Není zatím jasné, zda trest smrti odrazuje od poškození jednotlivců.",
+        "option_c": "Konsekvencialismus není podporován africkými hodnotami.",
+        "option_d": "I když je konsekvencialismus podporován africkými hodnotami, nebyly předloženy žádné konsekvencialistické argumenty formulované v termínech afrických hodnot.",
+        "answer": "A",
+        "id": "moral_disputes/dev/0"
+    },
+    "196": {
+        "instruction": "Jaký je embryologický původ hyoidní kosti?",
+        "option_a": "První pharyngeální oblouk",
+        "option_b": "První a druhý pharyngeální oblouk",
+        "option_c": "Druhý pharyngeální oblouk",
+        "option_d": "Druhý a třetí pharyngeální oblouk",
+        "answer": "D",
+        "id": "anatomy/dev/0"
+    },
+    "197": {
+        "instruction": "Očekávaný vedlejší účinek suplementace kreatinem je:",
+        "option_a": "slabost svalů.",
+        "option_b": "zvýšení tělesné hmotnosti.",
+        "option_c": "svalové křeče.",
+        "option_d": "ztráta elektrolytů.",
+        "answer": "B",
+        "id": "college_medicine/dev/4"
+    },
+    "198": {
+        "instruction": "Prohlášení 1| Každá funkce z konečné množiny na sebe musí být jedinečná. Prohlášení 2 | Každá podskupina abelovské skupiny je abelovská.",
+        "option_a": "Pravda, Pravda",
+        "option_b": "Nepravda, Nepravda",
+        "option_c": "Pravda, Nepravda",
+        "option_d": "Nepravda, Pravda",
+        "answer": "A",
+        "id": "abstract_algebra/dev/3"
+    },
+    "199": {
+        "instruction": "Nechť V je množina všech reálných polynomů p(x). Nechť transformace T, S jsou definovány na V jako T:p(x) -> xp(x) a S:p(x) -> p'(x) = d/dx p(x), a interpretujte (ST)(p(x)) jako S(T(p(x))). Které z následujících tvrzení je pravdivé?",
+        "option_a": "ST = 0",
+        "option_b": "ST = T",
+        "option_c": "ST = TS",
+        "option_d": "ST - TS je identická zobrazení V na sebe.",
+        "answer": "D",
+        "id": "college_mathematics/dev/0"
+    },
+    "200": {
+        "instruction": "Podle Caplanova modelu konzultace zaměřené na konzultanta se konzultant primárně zajímá o",
+        "option_a": "identifikaci příčin a řešení problémů, které klient předkládá",
+        "option_b": "identifikaci a odstranění příčin obtíží konzultanta při řešení problému",
+        "option_c": "vytvoření hierarchie autority, která umožní efektivní rozhodování",
+        "option_d": "předložení jednoho, dobře definovaného a jednoznačného postupu, jak překonat nedostatky dovedností konzultanta",
+        "answer": "B",
+        "id": "high_school_psychology/dev/1"
+    },
+    "201": {
+        "instruction": "Pence porovnává šest různých případů reprodukce, od přirozeného dvojčatství po SCNT. Jaký závěr z tohoto porovnání vyvozuje?",
+        "option_a": "SCNT není jiný druh reprodukce, protože mezi ním a jinými přípustnými prostředky reprodukce neexistují žádné morálně relevantní rozdíly.",
+        "option_b": "Protože existuje nízké riziko poškození u přirozeného dvojčatství, bude existovat nízké riziko poškození i u SCNT.",
+        "option_c": "jak A, tak B",
+        "option_d": "ani A, ani B",
+        "answer": "A",
+        "id": "moral_disputes/dev/3"
+    },
+    "202": {
+        "instruction": "Dne 1. ledna roku 1 podepsala společnost Alpha Co. roční smlouvu o údržbě se poskytovatelem softwaru na částku 15 000 $ a období údržby začíná 1. března roku 2. Alpha také vynaložila náklady ve výši 5 000 $ dne 1. ledna roku 1, které se týkají žádostí o úpravy softwaru, jež zvýší funkčnost softwaru. Alpha odpisuje a amortizuje své počítačové a softwarové aktiva po dobu pěti let pomocí metody lineárního odpisu. Jaká částka je celkový náklad, který by měla Alpha uznat v souvislosti se smlouvou o údržbě a úpravami softwaru za rok končící 31. prosince roku 1?",
+        "option_a": "5 000 $",
+        "option_b": "13 500 $",
+        "option_c": "16 000 $",
+        "option_d": "20 000 $",
+        "answer": "B",
+        "id": "professional_accounting/dev/3"
+    },
+    "203": {
+        "instruction": "Přechod od 'civilní religion' k 'společné religion' znamená, že:",
+        "option_a": "rostoucí byrokracie státu učinila náboženství pouze okrajovou součástí našich životů",
+        "option_b": "navzdory oslabení tradiční autority zůstávají naše každodenní životy a 'běžný zdravý rozum' formovány náboženskými přesvědčeními a hodnotami",
+        "option_c": "náboženská účast na kolektivním uctívání mohla klesnout, ale lidé stále praktikují svou víru v soukromí",
+        "option_d": "lidé jsou mnohem pravděpodobněji ochotni diskutovat o svých náboženských přesvědčeních na veřejnosti, v neformálních prostředích",
+        "answer": "B",
+        "id": "sociology/dev/2"
+    },
+    "204": {
+        "instruction": "Který z následujících případů stanovil precedens, že obžalovaný musí být informován o právu mlčet, právu na právníka a ochraně před sebezapletením?",
+        "option_a": "Weeks v. United States",
+        "option_b": "Betts v. Brady",
+        "option_c": "Mapp v. Ohio",
+        "option_d": "Miranda v. Arizona",
+        "answer": "D",
+        "id": "high_school_government_and_politics/dev/2"
+    },
+    "205": {
+        "instruction": "Předpokládejme, že f(1 + x) = f(x) pro všechna reálná x. Pokud je f polynom a f(5) = 11, pak f(15/2)",
+        "option_a": "-11",
+        "option_b": "0",
+        "option_c": "11",
+        "option_d": "33/2",
+        "answer": "C",
+        "id": "college_mathematics/dev/3"
+    },
+    "206": {
+        "instruction": "Podle d'Holbacha lidé vždy jednají podle _____.",
+        "option_a": "svobodných voleb",
+        "option_b": "příkazů duše",
+        "option_c": "nezbytných přírodních zákonů",
+        "option_d": "neurčené vůle",
+        "answer": "C",
+        "id": "philosophy/dev/2"
+    },
+    "207": {
+        "instruction": "_____________ je přirozeným výsledkem kombinace demografických a geografických proměnných.",
+        "option_a": "Geodemografie",
+        "option_b": "Diferenciace produktu.",
+        "option_c": "ANSOFFova matice.",
+        "option_d": "Správa značky.",
+        "answer": "A",
+        "id": "marketing/dev/0"
+    },
+    "208": {
+        "instruction": "Které z následujících tvrzení je správné ohledně korelace?",
+        "option_a": "Pokud je sklon regresní přímky přesně 1, pak je korelace přesně 1.",
+        "option_b": "Pokud je korelace 0, pak je sklon regresní přímky nedefinovaný.",
+        "option_c": "Změna, která proměnná se nazývá x a která se nazývá y, změní znaménko korelace.",
+        "option_d": "Korelace r je rovna sklonu regresní přímky, když jsou z-skóre pro y-proměnnou vykreslena proti z-skóre pro x-proměnnou.",
+        "answer": "D",
+        "id": "high_school_statistics/dev/0"
+    },
+    "209": {
+        "instruction": "Kdy může 'souhlas' sloužit jako okolnost vylučující protiprávnost jednání státu?",
+        "option_a": "Souhlas může sloužit jako okolnost vylučující protiprávnost, kdykoli je udělen",
+        "option_b": "Souhlas nikdy nemůže sloužit jako okolnost vylučující protiprávnost",
+        "option_c": "Souhlas může sloužit jako okolnost vylučující protiprávnost, pokud je souhlas platný a do té míry, že jednání zůstává v mezích uděleného souhlasu",
+        "option_d": "Souhlas může vždy sloužit jako okolnost vylučující protiprávnost, bez ohledu na to, který orgán státu jej uděluje",
+        "answer": "C",
+        "id": "international_law/dev/3"
+    },
+    "210": {
+        "instruction": "Co popisuje Berger (1963) jako metaforu sociální reality?",
+        "option_a": "atrakce na pouti",
+        "option_b": "cirkus",
+        "option_c": "loutkové divadlo",
+        "option_d": "balet",
+        "answer": "C",
+        "id": "sociology/dev/1"
+    },
+    "211": {
+        "instruction": "Které z následujících tvrzení představuje přesné prohlášení týkající se členovců?",
+        "option_a": "Mají exoskelet složený převážně z peptidoglykanu.",
+        "option_b": "Mají otevřený oběhový systém s hřbetním srdcem.",
+        "option_c": "Jsou členy biologicky neúspěšného kmen, který není schopen využívat různorodá prostředí a zdroje výživy.",
+        "option_d": "Postrádají párové, kloubové končetiny.",
+        "answer": "B",
+        "id": "college_biology/dev/0"
+    },
+    "212": {
+        "instruction": "Prohlášení 1 | Pokud aH je prvek faktoru, pak |aH| dělí |a|. Prohlášení 2 | Pokud H a K jsou podskupiny G, pak HK je podskupina G.",
+        "option_a": "Pravda, Pravda",
+        "option_b": "Nepravda, Nepravda",
+        "option_c": "Pravda, Nepravda",
+        "option_d": "Nepravda, Pravda",
+        "answer": "B",
+        "id": "abstract_algebra/dev/1"
+    },
+    "213": {
+        "instruction": "Proč zde není planeta, kde se nachází asteroidní pás?",
+        "option_a": "Planeta se zde kdysi vytvořila, ale byla roztržena katastrofální srážkou.",
+        "option_b": "V této části slunečního mlhoviny nebylo dostatek materiálu na vytvoření planety.",
+        "option_c": "Bylo zde příliš mnoho skalního materiálu na vytvoření terestrické planety, ale nedostatek plynového materiálu na vytvoření jovianské planety.",
+        "option_d": "Resonance s Jupiterem zabránila shromažďování materiálu k vytvoření planety.",
+        "answer": "D",
+        "id": "astronomy/dev/3"
+    },
+    "214": {
+        "instruction": "Co je etické hackování?",
+        "option_a": "\"Hackování\" etiky tak, aby ospravedlnilo neúmyslné sobecké chování",
+        "option_b": "Hackování systémů (např. během penetračního testování) za účelem odhalení zranitelností, aby mohly být opraveny, místo aby byly zneužity",
+        "option_c": "Hackování do systémů provozovaných těmi, jejichž etiku nesouhlasíte",
+        "option_d": "Slangový termín pro rychlý vývoj softwaru, např. jako součást hackathonů",
+        "answer": "B",
+        "id": "computer_security/dev/2"
+    },
+    "215": {
+        "instruction": "Ve zvířecích buňkách, která z následujících možností představuje nejpravděpodobnější cestu, kterou tajný protein prochází při syntéze v buňce?",
+        "option_a": "Plazmatická membrána–Golgiho aparát–ribozom–sekreční vezikula–hrubé ER",
+        "option_b": "Ribozom–Golgiho aparát–hrubé ER–sekreční vezikula–plazmatická membrána",
+        "option_c": "Plazmatická membrána–Golgiho aparát–ribozom–sekreční vezikula–hrubé ER",
+        "option_d": "Ribozom–hrubé ER–Golgiho aparát–sekreční vezikula–plazmatická membrána",
+        "answer": "D",
+        "id": "high_school_biology/dev/2"
+    },
+    "216": {
+        "instruction": "Vzorek o hmotnosti 0,217 g HgO (molekulová hmotnost = 217 g) reaguje s nadbytkem jodidových iontů podle výše uvedené reakce. Kolik mL 0,10 M HCl je potřeba k titraci vzniklého roztoku, aby se dosáhlo ekvivalenčního bodu?",
+        "option_a": "1,0 mL",
+        "option_b": "10 mL",
+        "option_c": "20 mL",
+        "option_d": "50 mL",
+        "answer": "C",
+        "id": "college_chemistry/dev/1"
+    },
+    "217": {
+        "instruction": "Které z následujících tvrzení NENÍ přesné ohledně služeb poskytovaných místními vládami ve Spojených státech?",
+        "option_a": "Duplicitní úsilí se často vyskytuje.",
+        "option_b": "Sociální problémy centrálního města přecházejí do okolních obytných předměstí.",
+        "option_c": "Neefektivnost při poskytování služeb se často vyskytuje.",
+        "option_d": "Úsilí jednoho sousedství o snížení znečištění je vždy podporováno sousedními komunitami.",
+        "answer": "D",
+        "id": "high_school_geography/dev/2"
+    },
+    "218": {
+        "instruction": "Seznam čísel má n prvků, indexovaných od 1 do n. Následující algoritmus má za cíl zobrazit počet prvků v seznamu, které mají hodnotu větší než 100. Algoritmus používá proměnné count a position. Krok 3 a 4 chybí.\n Krok 1: Nastavte count na 0 a position na 1.\n Krok 2: Pokud je hodnota prvku na indexu position větší\n než 100, zvyšte hodnotu count o 1.\n Krok 3: (chybějící krok)\n Krok 4: (chybějící krok)\n Krok 5: Zobrazte hodnotu count.\n Které z následujících by mohlo být použito k nahrazení kroků 3 a 4, aby algoritmus fungoval podle záměru?",
+        "option_a": "Krok 3: Zvyšte hodnotu position o 1.\n Krok 4: Opakujte kroky 2 a 3, dokud hodnota count není větší než 100.",
+        "option_b": "Krok 3: Zvyšte hodnotu position o 1.\n Krok 4: Opakujte kroky 2 a 3, dokud hodnota position není větší než n.",
+        "option_c": "Krok 3: Opakujte krok 2, dokud hodnota count není větší než 100.\n Krok 4: Zvyšte hodnotu position o 1.",
+        "option_d": "Krok 3: Opakujte krok 2, dokud hodnota position není větší než n.\n Krok 4: Zvyšte hodnotu count o 1.",
+        "answer": "D",
+        "id": "high_school_computer_science/dev/4"
+    },
+    "219": {
+        "instruction": "Která z následujících je morfologická charakteristika paramyxovirů.",
+        "option_a": "Křehké viry často vizualizované s RNA vycházející z nitra",
+        "option_b": "Elongované viry",
+        "option_c": "Ikosahedrické viry s obalem",
+        "option_d": "Velmi velké viry",
+        "answer": "A",
+        "id": "virology/dev/1"
+    },
+    "220": {
+        "instruction": "Carl Jung věřil, že přenos klienta:",
+        "option_a": "je fantazie, která odvádí klienta od reality.",
+        "option_b": "představuje \"smíšené pocity\" vůči terapeutovi.",
+        "option_c": "\"je formou \"\"projevování emocí.\"\"\"",
+        "option_d": "odráží osobní a kolektivní nevědomí klienta.",
+        "answer": "D",
+        "id": "professional_psychology/dev/3"
+    },
+    "221": {
+        "instruction": "____________ je cokoliv, co váš vyhledávač nemůže prohledávat.",
+        "option_a": "Haunted web",
+        "option_b": "World Wide Web",
+        "option_c": "Surface web",
+        "option_d": "Deep Web",
+        "answer": "D",
+        "id": "computer_security/dev/4"
+    },
+    "222": {
+        "instruction": "Který z následujících regulárních výrazů je ekvivalentní (popisuje stejnou množinu řetězců jako) (a* + b)*(c + d)?",
+        "option_a": "a*(c + d)+ b(c + d)",
+        "option_b": "a*(c + d)* + b(c + d)*",
+        "option_c": "a*(c + d)+ b*(c + d)",
+        "option_d": "(a + b)*c +(a + b)*d",
+        "answer": "D",
+        "id": "college_computer_science/dev/0"
+    },
+    "223": {
+        "instruction": "Který prvek v tabákovém kouři je zodpovědný za rakoviny?",
+        "option_a": "Nikotin",
+        "option_b": "Dehet",
+        "option_c": "Oxid uhelnatý",
+        "option_d": "Částice kouře",
+        "answer": "B",
+        "id": "human_aging/dev/3"
+    },
+    "224": {
+        "instruction": "Fotobuňka s pracovní funkcí ϕ = 2eV je připojena k rezistoru v sérii. Světlo o frekvenci f = 1 × 10^15 Hz dopadá na kovovou desku fotobuňky. Pokud je výkon světla P = 100 W, jaký je proud procházející rezistorem?",
+        "option_a": "2:00 AM",
+        "option_b": "6:00 AM",
+        "option_c": "12:00 AM",
+        "option_d": "24 A",
+        "answer": "D",
+        "id": "high_school_physics/dev/2"
+    },
+    "225": {
+        "instruction": "Bodový pól má sílu 4π * 10^-4 weber. Síla v newtonech na bodový pól o síle 4π * 1.5 * 10^-4 weber umístěný ve vzdálenosti 10 cm od něj bude",
+        "option_a": "15 N.",
+        "option_b": "20 N.",
+        "option_c": "7.5 N.",
+        "option_d": "3.75 N.",
+        "answer": "A",
+        "id": "electrical_engineering/dev/4"
+    },
+    "226": {
+        "instruction": "Proč jsou parvoviry vysoce dopadovým parazitem?",
+        "option_a": "Protože nemají nukleovou kyselinu",
+        "option_b": "Potřebují pomocný virus",
+        "option_c": "Replikují se pouze v dělících se buňkách",
+        "option_d": "Mohou se integrovat do chromozomů hostitele",
+        "answer": "A",
+        "id": "virology/dev/0"
+    },
+    "227": {
+        "instruction": "Populace města, kde se Michelle narodila, je 145 826. Jaká je hodnota čísla 5 v čísle 145 826?",
+        "option_a": "5 tisíc",
+        "option_b": "5 stovek",
+        "option_c": "5 desítek",
+        "option_d": "5 jednotek",
+        "answer": "A",
+        "id": "elementary_mathematics/dev/0"
+    },
+    "228": {
+        "instruction": "Jak může být vyjádřeno souhlas k závaznosti státu?",
+        "option_a": "Souhlas státu k závaznosti je vyjádřen pouze ratifikací",
+        "option_b": "Souhlas státu k závaznosti smlouvou může být vyjádřen podpisem, ratifikací, akceptací, schválením nebo přistoupením",
+        "option_c": "Souhlas státu k závaznosti je vyjádřen podpisem",
+        "option_d": "Souhlas státu k závaznosti je vyjádřen jakýmikoli prostředky, které si zvolí",
+        "answer": "B",
+        "id": "international_law/dev/4"
+    },
+    "229": {
+        "instruction": "Zvažte návrh počítače, ve kterém více procesorů, každý s vlastní cache pamětí, sdílí globální paměť pomocí jediné sběrnice. Tato sběrnice je kritickým systémovým zdrojem. Každý procesor může vykonat jeden příkaz každých 500 nanosekund, pokud jsou odkazy na paměť uspokojeny jeho místní cache. Když dojde k chybě cache, procesor je zpožděn o dalších 2 000 nanosekund. Během poloviny tohoto dodatečného zpoždění je sběrnice vyhrazena pro obsluhu chyby cache. Během druhé poloviny procesor nemůže pokračovat, ale sběrnice je volná pro obsluhu požadavků od jiných procesorů. V průměru každý příkaz vyžaduje 2 odkazy na paměť. V průměru k chybám cache dochází u 1 procenta odkazů. Jaký podíl kapacity sběrnice by jeden procesor spotřeboval, pokud ignorujeme zpoždění způsobená konkurencí od jiných procesorů?",
+        "option_a": "1/50",
+        "option_b": "1/27",
+        "option_c": "1/25",
+        "option_d": "2/27",
+        "answer": "B",
+        "id": "college_computer_science/dev/4"
+    },
+    "230": {
+        "instruction": "Olivia použila pravidlo \"Přidej 11\", aby vytvořila číselný vzor uvedený níže. 10, 21, 32, 43, 54 Které tvrzení o číselném vzoru je pravdivé?",
+        "option_a": "Desáté číslo ve vzoru bude sudé číslo.",
+        "option_b": "Číselný vzor nikdy nebude mít dvě sudá čísla vedle sebe.",
+        "option_c": "Další dvě čísla ve vzoru budou sudé číslo a poté liché číslo.",
+        "option_d": "Pokud by číselný vzor začínal lichým číslem, pak by vzor obsahoval pouze lichá čísla.",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/1"
+    },
+    "231": {
+        "instruction": "Který výraz je ekvivalentní 5 x 9?",
+        "option_a": "(5 x 4) x (6 x 5)",
+        "option_b": "(5 x 5) + (5 x 4)",
+        "option_c": "(5 x 5) + (5 x 9)",
+        "option_d": "(5 x 9) x (6 x 9)",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/4"
+    },
+    "232": {
+        "instruction": "Nejistota ohledně hranic prezidentské moci je způsobena především tím, že",
+        "option_a": "ústavní definice těchto pravomocí je široká a nespecifická",
+        "option_b": "většina lidí souhlasí, že Ústava klade na prezidentskou moc příliš mnoho omezení",
+        "option_c": "Nejvyšší soud důsledně odmítá rozhodovat v případech týkajících se prezidentských pravomocí",
+        "option_d": "ústavní dodatky značně zvýšily prezidentské pravomoci",
+        "answer": "A",
+        "id": "high_school_government_and_politics/dev/0"
+    },
+    "233": {
+        "instruction": "Který z následujících není problém spojený s oficiálními statistikami o stávkové činnosti?",
+        "option_a": "většina stávkových akcí zůstává zaměstnavateli a masovými médii bez povšimnutí",
+        "option_b": "ne všechny průmyslové spory budou zaměstnavatelem hlášeny",
+        "option_c": "definice stávky vylučuje ty, které zahrnují méně než deset pracovníků nebo trvají méně než jeden den",
+        "option_d": "je obtížné porovnávat stávky, které byly měřeny různými způsoby",
+        "answer": "A",
+        "id": "sociology/dev/4"
+    },
+    "234": {
+        "instruction": "Žena, která ví, že má aktivní herpes a neléčenou syfilis, ale pokračuje v sexu, aniž by informovala své partnery o svém stavu, má v psychoanalytických termínech:",
+        "option_a": "silné ego",
+        "option_b": "slabé superego",
+        "option_c": "slabé id",
+        "option_d": "silné superego",
+        "answer": "B",
+        "id": "human_sexuality/dev/1"
+    },
+    "235": {
+        "instruction": "Které z následujících tvrzení o kabinetních odděleních je NEPRAVDIVÉ?",
+        "option_a": "Jsou zřizována zákonodárnou mocí.",
+        "option_b": "Jejich členové často nemají velký vliv na rozhodnutí prezidenta.",
+        "option_c": "Nemohou být všichni vedeni vůdci, kteří patří do stejné politické strany, jako je prezident.",
+        "option_d": "Ne každá federální agentura je kabinetním oddělením.",
+        "answer": "C",
+        "id": "high_school_government_and_politics/dev/3"
+    },
+    "236": {
+        "instruction": "Vyberte nejlepší anglickou interpretaci daných argumentů v predikátové logice.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+        "option_a": "Marina je tanečnice. Někteří slabí nejsou tanečníci. Buď všechno je slabé, nebo Georgia hraje volejbal. Takže něco hraje volejbal.",
+        "option_b": "Marina je tanečnice. Žádný slabý není tanečník. Všechno je buď slabé, nebo hraje volejbal. Takže něco hraje volejbal.",
+        "option_c": "Marina je tanečnice. Někteří slabí nejsou tanečníci. Všechno je buď slabé, nebo hraje volejbal. Takže něco hraje volejbal.",
+        "option_d": "Marina je tanečnice. Žádný slabý není tanečník. Buď všechno je slabé, nebo Georgia hraje volejbal. Takže něco hraje volejbal.",
+        "answer": "D",
+        "id": "formal_logic/dev/2"
+    },
+    "237": {
+        "instruction": "Cívka pohyblivého cívkového měřiče má 100 závitů, délku 40 mm a šířku 30 mm. Řídicí moment je 240*10-6 N-m na plném rozsahu. Pokud je hustota magnetického toku 1 Wb/m2, rozsah měřiče je",
+        "option_a": "1 mA.",
+        "option_b": "2 mA.",
+        "option_c": "3 mA.",
+        "option_d": "4 mA.",
+        "answer": "B",
+        "id": "electrical_engineering/dev/2"
+    },
+    "238": {
+        "instruction": "Určitý pipelined RISC stroj má 8 registrů obecného účelu R0, R1, . . . , R7 a podporuje následující operace.\nADD Rs1, Rs2, Rd Přidej Rs1 k Rs2 a ulož součet do Rd\nMUL Rs1, Rs2, Rd Vynásob Rs1 s Rs2 a ulož součin do Rd\nOperace obvykle trvá jeden cyklus; nicméně, operace trvá dva cykly, pokud produkuje výsledek požadovaný bezprostředně následující operací v sekvenci operací. Zvažte výraz AB + ABC + BC, kde jsou proměnné A, B, C umístěny v registrech R0, R1, R2. Pokud se obsah těchto tří registrů nesmí měnit, jaký je minimální počet hodinových cyklů potřebných pro sekvenci operací, která vypočítá hodnotu AB + ABC + BC?",
+        "option_a": "5",
+        "option_b": "6",
+        "option_c": "7",
+        "option_d": "8",
+        "answer": "B",
+        "id": "college_computer_science/dev/1"
+    },
+    "239": {
+        "instruction": "Proč je Mars červený?",
+        "option_a": "Protože je povrch pokryt silně oxidovanými (\"rezavými\") minerály.",
+        "option_b": "Protože atmosféra rozptyluje více světla na modřejších vlnových délkách, přičemž převážně přenáší červené světlo.",
+        "option_c": "Protože je Mars pokryt starými lávovými toky, které jsou červené barvy.",
+        "option_d": "Protože tekoucí voda na povrchu Marsu změnila povrchové minerály před několika miliardami let.",
+        "answer": "A",
+        "id": "astronomy/dev/4"
+    },
+    "240": {
+        "instruction": "Co by měla udělat pracovnice v oblasti public relations, pokud nezná odpověď na otázku novináře?",
+        "option_a": "Poskytnout novináři jiné informace, o kterých si je jistá, že jsou správné.",
+        "option_b": "Říct, že informace jsou 'mimo záznam' a budou zveřejněny později.",
+        "option_c": "Říct 'nevím' a slíbit, že informace poskytne později.",
+        "option_d": "Říct 'bez komentáře', místo aby vypadala neinformovaně.",
+        "answer": "C",
+        "id": "public_relations/dev/0"
+    },
+    "241": {
+        "instruction": "Designový vzor Singleton se používá k zajištění toho, že může být instanciována pouze jedna jediná instance třídy. Které z následujících tvrzení je (jsou) pravdivá (á) pro tento designový vzor?\nI. Třída Singleton má statickou tovární metodu, která poskytuje její instanci.\nII. Třída Singleton může být podtřídou jiné třídy.\nIII. Třída Singleton má soukromý konstruktor.",
+        "option_a": "Pouze I",
+        "option_b": "Pouze II",
+        "option_c": "Pouze III",
+        "option_d": "I, II a III",
+        "answer": "D",
+        "id": "college_computer_science/dev/2"
+    },
+    "242": {
+        "instruction": "Jak se liší obranný realismus a ofenzivní realismus ve svém vysvětlení chování států?",
+        "option_a": "Obranní realisté kladou větší důraz na roli mezinárodních institucí",
+        "option_b": "Obranní realisté kladou menší důraz na geografické faktory",
+        "option_c": "Ofenzivní realisté dávají větší prioritu národnímu zájmu než obranní realisté.",
+        "option_d": "Obranní realisté věří, že státy maximalizují bezpečnost, zatímco ofenzivní realisté věří, že státy maximalizují moc",
+        "answer": "D",
+        "id": "us_foreign_policy/dev/3"
+    },
+    "243": {
+        "instruction": "Auditor sleduje sériová čísla na zařízení v podrozvaze neemitenta. Které z následujících tvrzení managementu je tímto testem podpořeno?",
+        "option_a": "Ocenění a alokace",
+        "option_b": "Úplnost",
+        "option_c": "Práva a povinnosti",
+        "option_d": "Prezentace a zveřejnění",
+        "answer": "B",
+        "id": "professional_accounting/dev/4"
+    },
+    "244": {
+        "instruction": "Řekněte, že zornice vašeho oka má průměr 5 mm a máte dalekohled s průměrem 50 cm. Kolik více světla může dalekohled shromáždit než vaše oko?",
+        "option_a": "10000krát více",
+        "option_b": "100krát více",
+        "option_c": "1000krát více",
+        "option_d": "10krát více",
+        "answer": "A",
+        "id": "astronomy/dev/2"
+    },
+    "245": {
+        "instruction": "Homologní struktury jsou často uváděny jako důkaz procesu přirozeného výběru. Všechny následující jsou příklady homologních struktur KROMĚ",
+        "option_a": "křídel ptáka a křídel netopýra",
+        "option_b": "ploutví velryby a paží člověka",
+        "option_c": "prsních ploutví delfína a ploutví tuleně",
+        "option_d": "předních nohou hmyzu a předních končetin psa",
+        "answer": "D",
+        "id": "high_school_biology/dev/4"
+    },
+    "246": {
+        "instruction": "Které z následujících párů tvrzení jsou obě pravdivá (k roku 2019)?",
+        "option_a": "Lidé mají tendenci být optimističtí ohledně své vlastní budoucnosti a budoucnosti své země nebo světa.",
+        "option_b": "Lidé mají tendenci být optimističtí ohledně své vlastní budoucnosti, ale pesimističtí ohledně budoucnosti své země nebo světa.",
+        "option_c": "Lidé mají tendenci být pesimističtí ohledně své vlastní budoucnosti, ale optimističtí ohledně budoucnosti své země nebo světa.",
+        "option_d": "Lidé mají tendenci být pesimističtí ohledně své vlastní budoucnosti a budoucnosti své země nebo světa.",
+        "answer": "B",
+        "id": "global_facts/dev/0"
+    },
+    "247": {
+        "instruction": "Nádrž původně obsahuje solný roztok se 3 gramy soli rozpuštěné ve 100 litrech vody. Solný roztok obsahující 0,02 gramu soli na litr vody je do nádrže stříkán rychlostí 4 litry za minutu. Stříkaný roztok je neustále míchán se solným roztokem v nádrži a směs odtéká z nádrže rychlostí 4 litry za minutu. Pokud je míchání okamžité, kolik gramů soli je v nádrži po uplynutí 100 minut?",
+        "option_a": "2",
+        "option_b": "2 - e^-2",
+        "option_c": "2 + e^-2",
+        "option_d": "2 + e^-4",
+        "answer": "D",
+        "id": "college_mathematics/dev/1"
+    },
+    "248": {
+        "instruction": "Jeden z vašich terapeutických klientů se ptá na vaši radu ohledně dobrého programu na redukci hmotnosti. Prozkoumali jste programy v komunitě a jste zapsáni do toho, který považujete za nejlepší. Tento program nabízí bonus 50 dolarů svým patronům za každou novou osobu, kterou přivedou do programu. Za těchto okolností by vaše nejvhodnější odpověď byla",
+        "option_a": "říct svému klientovi výhody a nevýhody každého programu, o kterém víte, kromě toho, do kterého jste zapsáni",
+        "option_b": "doporučit svému klientovi program, do kterého jste zapsáni, a vysvětlit bonus 50 dolarů, který obdržíte",
+        "option_c": "doporučit svému klientovi program, do kterého jste zapsáni, a nabídnout, že bonus 50 dolarů bude připsán na účet vašeho klienta v programu",
+        "option_d": "říct svému klientovi výhody a nevýhody každého programu, o kterém víte, ale nepožadovat bonus 50 dolarů, pokud se váš klient zapíše do vašeho programu",
+        "answer": "D",
+        "id": "professional_psychology/dev/0"
+    },
+    "249": {
+        "instruction": "Které z následujících tvrzení je pravdivé o cenovém podlaze?",
+        "option_a": "Cenová podlaha posouvá křivku poptávky doleva.",
+        "option_b": "Účinná podlaha vytváří nedostatek zboží.",
+        "option_c": "Cenová podlaha posouvá křivku nabídky zboží doprava.",
+        "option_d": "Aby byla účinná, musí být nastavena nad rovnovážnou cenou.",
+        "answer": "D",
+        "id": "high_school_microeconomics/dev/3"
+    },
+    "250": {
+        "instruction": "Která z uvedených formulí PL je nejlepší symbolizací následující věty?\nŽelvy žijí dlouhý život a jsou šťastné bytosti, pokud nejsou zraněny.",
+        "option_a": "(L • H) ≡ I",
+        "option_b": "(L • H) ∨ I",
+        "option_c": "L • (H ∨ I)",
+        "option_d": "L • (H ⊃ R)",
+        "answer": "B",
+        "id": "formal_logic/dev/4"
+    },
+    "251": {
+        "instruction": "Studium reality v nejširším smyslu, zkoumání elementární povahy vesmíru a věcí v něm, se nazývá _____.",
+        "option_a": "metafyzika",
+        "option_b": "epistemologie",
+        "option_c": "kvantová fyzika",
+        "option_d": "axiologie",
+        "answer": "A",
+        "id": "philosophy/dev/4"
+    },
+    "252": {
+        "instruction": "________ Škola právní vědy postulovala, že právo je založeno na tom, co je \"správné.\"",
+        "option_a": "Přirozené právo",
+        "option_b": "Analytické",
+        "option_c": "Historické",
+        "option_d": "Sociologické",
+        "answer": "A",
+        "id": "jurisprudence/dev/3"
+    },
+    "253": {
+        "instruction": "Od roku 2019, přibližně jaké procento Rusů říká, že je velmi důležité mít svobodná média v naší zemi bez vládní/státní cenzury?",
+        "option_a": "38%",
+        "option_b": "53%",
+        "option_c": "68%",
+        "option_d": "83%",
+        "answer": "A",
+        "id": "global_facts/dev/3"
+    },
+    "254": {
+        "instruction": "Ve organizaci se skupina lidí pověřená rozhodováním o nákupech nazývá _______________.",
+        "option_a": "Jednotka outsourcingu.",
+        "option_b": "Nákupní centrum.",
+        "option_c": "Jednotka generálního ředitele.",
+        "option_d": "Jednotka rozhodování.",
+        "answer": "D",
+        "id": "marketing/dev/1"
+    },
+    "255": {
+        "instruction": "Jaké by byly důsledky pro OLS odhadce, pokud by v regresním modelu byla přítomna heteroskedasticita, ale byla by ignorována?",
+        "option_a": "Bude zkreslený",
+        "option_b": "Bude nekonzistentní",
+        "option_c": "Bude neefektivní",
+        "option_d": "Všechny (a), (b) a (c) budou pravdivé.",
+        "answer": "C",
+        "id": "econometrics/dev/3"
+    },
+    "256": {
+        "instruction": "Pokud někdo napadne charakter protivníka, místo aby reagoval na argumenty toho protivníka, pravděpodobně se dopustil které z následujících klamů?",
+        "option_a": "tu quoque",
+        "option_b": "koně smích",
+        "option_c": "argument proti osobě",
+        "option_d": "ignoratio elenchi",
+        "answer": "C",
+        "id": "logical_fallacies/dev/0"
+    },
+    "257": {
+        "instruction": "Sestavte úplnou pravdivostní tabulku pro následující dvojice výroků. Poté pomocí pravdivostních tabulek určete, zda jsou výroky logicky ekvivalentní nebo protichůdné. Pokud ani jedno, určete, zda jsou konzistentní nebo nekonzistentní. Oprávněte své odpovědi.\nE ⊃ (F · E) a ~E · F",
+        "option_a": "Logicky ekvivalentní",
+        "option_b": "Protichůdné",
+        "option_c": "Ani logicky ekvivalentní, ani protichůdné, ale konzistentní",
+        "option_d": "Nekonzistentní",
+        "answer": "C",
+        "id": "formal_logic/dev/3"
+    },
+    "258": {
+        "instruction": "Který z následujících není znám jako zapojený do kontroly dělení buněk?",
+        "option_a": "Cycliny",
+        "option_b": "Proteinové kinázy",
+        "option_c": "Kontrolní body",
+        "option_d": "Fibroblastové buňky",
+        "answer": "D",
+        "id": "high_school_biology/dev/3"
+    },
+    "259": {
+        "instruction": "Nechť A je reálná 2x2 matice. Které z následujících tvrzení musí být pravdivé?\nI. Všechny prvky A^2 jsou nezáporné.\nII. Determinant A^2 je nezáporný.\nIII. Pokud má A dvě odlišné vlastní hodnoty, pak A^2 má dvě odlišné vlastní hodnoty.",
+        "option_a": "Pouze I",
+        "option_b": "Pouze II",
+        "option_c": "Pouze III",
+        "option_d": "Pouze II a III",
+        "answer": "B",
+        "id": "college_mathematics/dev/2"
+    },
+    "260": {
+        "instruction": "Tato otázka se vztahuje k následujícím informacím.\n\"V novém zákoníku, který předpokládám, že bude nutné vytvořit, si přeji, abyste si pamatovali dámy a byli k nim štědřejší a příznivější než vaši předci. Nedávejte takovou neomezenou moc do rukou manželů. Pamatujte, že všichni muži by byli tyrany, kdyby mohli. Pokud nebude věnována zvláštní péče a pozornost dámám, jsme odhodláni vyvolat povstání a nebudeme se cítit vázáni žádnými zákony, ve kterých nemáme hlas nebo zastoupení.\"\nAbigail Adamsová, v dopise Johnu Adamsovi, 1776\n\"Zvláštní legislativa pro ženy nás umístila do nejpodivnější pozice. Ženy, které mají práva občanů v jedné části - voličky, porotkyně, úřednice - překračující imaginární hranici, jsou v další části poddané. V některých státech může vdaná žena vlastnit majetek a podnikat pod svým vlastním jménem; v jiných patří její výdělky jejímu manželovi. V některých státech může žena svědčit proti svému manželovi, žalovat a být žalována před soudy; v jiných nemá žádnou nápravu v případě poškození osoby, majetku nebo pověsti. V případě rozvodu z důvodu manželovy nevěry nemá nevinná manželka právo na děti nebo majetek, ledaže by to bylo zvláštním rozhodnutím soudu. Ale v žádném státě Unie nemá manželka právo na svou vlastní osobu nebo na jakoukoli část společných výdělků partnerství během života svého manžela. V některých státech mohou ženy vstoupit do právnických škol a praktikovat před soudy; v jiných jsou zakázány. V některých univerzitách mají dívky stejné vzdělávací výhody jako chlapci, zatímco mnohé z nejprestižnějších institucí v zemi jim odmítají přijetí, i když synové Číny, Japonska a Afriky jsou tam vítáni. Ale privilegium, které již bylo uděleno v několika státech, rozhodně není zajištěno.\"\nSusan B. Anthony, \"Deklarace práv pro ženy,\" 4. července 1876\nPocity vyjádřené ve druhém úryvku Susan B. Anthony jsou pravděpodobně na podporu",
+        "option_a": "rovnosti práv",
+        "option_b": "univerzálního volebního práva",
+        "option_c": "práv států",
+        "option_d": "prohibice",
+        "answer": "B",
+        "id": "high_school_us_history/dev/2"
+    },
+    "261": {
+        "instruction": "Tlačíte nákladní auto po silnici. Bylo by snazší zrychlit toto auto na Marsu? Proč? (Předpokládejte, že neexistuje tření)",
+        "option_a": "Bylo by to těžší, protože auto je na Marsu těžší.",
+        "option_b": "Bylo by to snazší, protože auto je na Marsu lehčí.",
+        "option_c": "Bylo by to těžší, protože auto je na Marsu lehčí.",
+        "option_d": "Bylo by to stejné, bez ohledu na to, kde se nacházíte.",
+        "answer": "D",
+        "id": "astronomy/dev/0"
+    },
+    "262": {
+        "instruction": "Kterou pozici tvrdí Rawls, že je nejméně pravděpodobné, že ji zaujmou lidé v původní pozici (POP)?",
+        "option_a": "POP by zvolil rovnost nad svobodou.",
+        "option_b": "POP by zvolil strategii 'maximin'.",
+        "option_c": "POP by zvolil 'princip rozdílu'.",
+        "option_d": "POP by odmítl 'systém přirozené svobody'.",
+        "answer": "A",
+        "id": "jurisprudence/dev/0"
+    },
+    "263": {
+        "instruction": "Pro stacionární autoregresivní proces šoky",
+        "option_a": "Nakonec vymizí",
+        "option_b": "Přetrvávají neomezeně",
+        "option_c": "Rostou exponenciálně",
+        "option_d": "Nikdy nenastanou",
+        "answer": "A",
+        "id": "econometrics/dev/0"
+    },
+    "264": {
+        "instruction": "Federální deficit nastává, když",
+        "option_a": "vývozy převyšují dovozy.",
+        "option_b": "dovozy převyšují vývozy.",
+        "option_c": "federální daňové příjmy převyšují výdaje.",
+        "option_d": "federální výdaje převyšují federální daňové příjmy.",
+        "answer": "D",
+        "id": "high_school_macroeconomics/dev/2"
+    },
+    "265": {
+        "instruction": "Jak lze popsat organizační struktury, které se vyznačují demokratickými a inkluzivními styly řízení?",
+        "option_a": "Hierarchická",
+        "option_b": "Byrokratická",
+        "option_c": "Plochá",
+        "option_d": "Funkční",
+        "answer": "C",
+        "id": "management/dev/4"
+    },
+    "266": {
+        "instruction": "Tato otázka se vztahuje k následujícím informacím.\nNásledující úryvek je z letáku.\nUdělejte mi tu spravedlnost, abyste si pamatovali, že jsem vždy energicky podporoval právo každého muže na jeho vlastní názor, ať už se tento názor může lišit od mého. Kdo jinému toto právo odepře, dělá ze sebe otroka svého současného názoru, protože si tím odepírá právo ho změnit.\nNejformidabilnější zbraní proti chybám všech druhů je Rozum. Nikdy jsem nepoužil žádnou jinou a doufám, že nikdy nebudu.\nSkutečnost, která se nyní odehrála ve Francii, tedy úplné zrušení celého národního řádu kněžství a všeho, co se týká donucovacích systémů náboženství a donucovacích článků víry, nejenže urychlila můj záměr, ale učinila práci tohoto druhu nesmírně nezbytnou, aby se v obecném rozkladu supersticí, falešných systémů vlády a falešné teologie neztratila morálka, lidství a pravá teologie.\nVěřím v jednoho Boha a v nic víc; a doufám v štěstí za tímto životem.\nVěřím v rovnost lidí; a věřím, že náboženské povinnosti spočívají v konání spravedlnosti, milování milosrdenství a snažení se učinit naše spoluobyvatele šťastnými.\nNevěřím v vyznání, které vyznává židovská církev, římská církev, řecká církev, turecká církev, protestantská církev, ani v žádnou církev, kterou znám. Můj vlastní rozum je mou vlastní církví.\nVšechny národní instituce církví, ať už židovských, křesťanských nebo tureckých, se mi jeví jako lidské vynálezy, zřízené k tomu, aby děsily a zotročovaly lidstvo a monopolizovaly moc a zisk.\nTímto prohlášením nemám v úmyslu odsuzovat ty, kteří věří jinak; mají stejné právo na svou víru, jako já na tu svou.\n—Thomas Paine, Věk rozumu, 1794–1795\nKterý z následujících osvícenských filozofů navrhl systém brzd a protivah pro vládu, aby se vyhnul zneužívání moci?",
+        "option_a": "Jean Jacques Rousseau",
+        "option_b": "Baron Montesquieu",
+        "option_c": "Mary Wollstonecraft",
+        "option_d": "Adam Smith",
+        "answer": "B",
+        "id": "high_school_european_history/dev/0"
+    },
+    "267": {
+        "instruction": "V genetickém testu novorozence je nalezena vzácná genetická porucha, která má recesivní přenos spojený s chromozomem X. Které z následujících tvrzení je pravděpodobně pravdivé ohledně rodokmenu této poruchy?",
+        "option_a": "Všichni potomci na matčině straně budou mít tuto poruchu.",
+        "option_b": "Ženy budou v této rodině postiženy přibližně dvakrát častěji než muži.",
+        "option_c": "Všechny dcery postiženého muže budou postižené.",
+        "option_d": "Bude rovnoměrné rozložení postižených mužů a žen.",
+        "answer": "C",
+        "id": "college_medicine/dev/2"
+    },
+    "268": {
+        "instruction": "Kolik pokusů byste měli učinit, abyste kanulovali pacienta, než předáte práci staršímu kolegovi, podle lékařských znalostí z roku 2020?",
+        "option_a": "4",
+        "option_b": "3",
+        "option_c": "2",
+        "option_d": "1",
+        "answer": "C",
+        "id": "clinical_knowledge/dev/3"
+    },
+    "269": {
+        "instruction": "Ve které z těchto dvou situací dělá hlavní postava (která používá já/mě/můj) něco zcela morálně špatného podle běžných morálních standardů v USA k roku 2020? Scénář 1 | Opravdu jsem miloval svého novorozeného syna. Scénář 2 | Nová dívka se stydí žít v obytném přívěsu, takže ji zvu třídu k ní domů.",
+        "option_a": "Špatně, Špatně",
+        "option_b": "Špatně, Nešpatně",
+        "option_c": "Nešpatně, Špatně",
+        "option_d": "Nešpatně, Nešpatně",
+        "answer": "C",
+        "id": "moral_scenarios/dev/0"
+    },
+    "270": {
+        "instruction": "Co odlišuje koercivní diplomacii od vojenské síly?",
+        "option_a": "Nátlak je jiný termín pro koercivní diplomacii, ale pokrývá užší soubor kritérií; nátlak zahrnuje hrozby zaměřené na iniciaci akce protivníka. Hrozba donutit stát vzdát se části svého území by se počítala jako koercivní diplomacie, pokud tato hrozba proaktivně iniciuje akci před tím, než je přijata reaktivní diplomacie.",
+        "option_b": "Koercivní diplomacie představuje hrozby omezené síly, aby vyvolala motivaci protivníka vyhovět požadavkům koercora. Je to strategie vlivu, která má za cíl získat souhlas: použití síly k poražení protivníka se nejprve nepočítá. Zanechává prvek volby cíle, zda vyhovět, nebo pokračovat.",
+        "option_c": "Vojenská síla, nebo hrozba vojenské síly, využívá strach k dosažení strategických cílů. Koercivní diplomacie se od tohoto přístupu odlišuje, protože nepoužívá strach jako nástroj k donucení protivníka.",
+        "option_d": "Koercivní diplomacie se používá k využití síly, ale k omezení jejích účinků na mezinárodní společenství. Koercivní diplomacie je agresivní strategie, která má za cíl získat souhlas prostřednictvím porážky. Nenechává prvek volby cíle, cíl je buď nucen vyhovět, nebo se zapojit do konfliktu. Snaží se kontrolovat tím, že ukládá souhlas odstraněním jakékoli příležitosti k vyjednávání nebo ústupkům.",
+        "answer": "B",
+        "id": "security_studies/dev/0"
+    },
+    "271": {
+        "instruction": "Fallacie složité otázky se skládá z",
+        "option_a": "argumentování, že něco je horší jen proto, že to nedělá něco, co nikdy nemělo dělat.",
+        "option_b": "zahrnutí více než jednoho tvrzení do propozice a považování důkazu pro jedno tvrzení za důkaz pro všechna tvrzení.",
+        "option_c": "vyvození závěru před prozkoumáním důkazů a zvažování pouze důkazů, které podporují tento závěr.",
+        "option_d": "položení otázky, která zahrnuje buď neprokázanou předpoklad, nebo více než jednu otázku, čímž se stává jednoduchá odpověď ano nebo ne bezvýznamnou.",
+        "answer": "D",
+        "id": "logical_fallacies/dev/1"
+    },
+    "272": {
+        "instruction": "Jak nejlépe popsat vztah mezi přístupem zaměřeným na stát a konceptem lidské bezpečnosti?",
+        "option_a": "V rámci rámce lidské bezpečnosti existují tak široké rozdíly ohledně povahy hrozeb a referenčních objektů, že nelze provést žádné široce použitelné srovnání mezi přístupy zaměřenými na stát a lidskou bezpečností.",
+        "option_b": "Přijetím rámce lidské bezpečnosti se ukazují omezení realistického přístupu zaměřeného na stát. Zatímco lidská bezpečnost definuje referenční objekt jako osobu nebo populaci, přístupy zaměřené na stát upřednostňují bezpečnost státu a de-prioritizují usilování o lidskou bezpečnost.",
+        "option_c": "Přístup zaměřený na stát k bezpečnosti je frakcí lidské bezpečnosti, obvykle definovanou v rámci široké školy lidské bezpečnosti. Tím, že je zaměřen na stát, tento přístup upřednostňuje jednotlivce jako referenční objekt v oblasti bezpečnostních studií.",
+        "option_d": "Jak přístup zaměřený na stát, tak přístup zaměřený na člověka k bezpečnosti jsou vzájemně se vylučující a nabízejí dostatečný analytický rámec pro pochopení mezinárodního bezpečnostního systému. Je tedy úlohou bezpečnostních analytiků určit, který z těchto podstatných konceptů je správný a který by měl být odmítnut.",
+        "answer": "B",
+        "id": "security_studies/dev/3"
+    },
+    "273": {
+        "instruction": "Celkem 30 hráčů bude hrát basketbal v parku. Na každém týmu bude přesně 5 hráčů. Které prohlášení správně vysvětluje, jak najít počet potřebných týmů?",
+        "option_a": "Přidejte 5 k 30, abyste našli 35 týmů.",
+        "option_b": "Dělte 30 pěti, abyste našli 6 týmů.",
+        "option_c": "Násobte 30 a 5, abyste našli 150 týmů.",
+        "option_d": "Odečtěte 5 od 30, abyste našli 25 týmů.",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/2"
+    },
+    "274": {
+        "instruction": "Který z následujících příkladů je příkladem použití zařízení v Internetu věcí (IoT)?",
+        "option_a": "Auto upozorňuje řidiče, že se chystá narazit na objekt.",
+        "option_b": "Turista používá GPS hodinky, aby sledoval svou polohu.",
+        "option_c": "Lednice objednává mléko z online doručovací služby, když je mléko v lednici téměř pryč.",
+        "option_d": "Běžec používá hodinky s optickými senzory k monitorování své srdeční frekvence.",
+        "answer": "C",
+        "id": "high_school_computer_science/dev/0"
+    },
+    "275": {
+        "instruction": "Tato otázka se týká následujících informací.\nOn obsahuje všechna díla a touhy a všechny parfémy a všechny chutě. Obklopuje celé univerzum a v tichu miluje všechny. Toto je Duch, který je v mém srdci, toto je Brahman. K němu přijdu, když překročím tento život, a k němu přijde ten, kdo má víru a nepochybuje.\n—Upanišády, Indie, cca 1000 př. n. l.\nK které náboženství pravděpodobně mluvčí patří?",
+        "option_a": "Hinduismus",
+        "option_b": "Buddhismus",
+        "option_c": "Šintoismus",
+        "option_d": "Zoroastrismus",
+        "answer": "A",
+        "id": "high_school_world_history/dev/0"
+    },
+    "276": {
+        "instruction": "Tradičně, když máme atribut s reálnou hodnotou během učení rozhodovacích stromů, zvažujeme binární rozdělení podle toho, zda je atribut nad nebo pod nějakým prahem. Pat navrhuje, že bychom místo toho měli mít vícestupňové rozdělení s jednou větví pro každou z odlišných hodnot atributu. Z níže uvedeného seznamu vyberte jediný největší problém s Patovým návrhem:",
+        "option_a": "Je to příliš výpočetně náročné.",
+        "option_b": "Pravděpodobně by to vedlo k rozhodovacímu stromu, který by měl špatné skóre na tréninkové sadě a testovací sadě.",
+        "option_c": "Pravděpodobně by to vedlo k rozhodovacímu stromu, který by měl dobré skóre na tréninkové sadě, ale špatné na testovací sadě.",
+        "option_d": "Pravděpodobně by to vedlo k rozhodovacímu stromu, který by měl dobré skóre na testovací sadě, ale špatné na tréninkové sadě.",
+        "answer": "C",
+        "id": "machine_learning/dev/4"
+    }
+}
