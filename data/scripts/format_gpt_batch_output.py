@@ -88,7 +88,7 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(
-        description="Parse JSONL chatGPT output into JSON. Discard faulty generated JSON strings.")
+        description="Parse nested JSONL chatGPT requests output into JSON. Discard faulty generated JSON strings.")
     parser.add_argument("--in_path", required=True,
                         help="Path to the folder containing lang-id folders with file-{xxxx}.jsonl chatGPT batch output files")
 
