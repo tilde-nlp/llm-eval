@@ -1,0 +1,2682 @@
+{
+    "0": {
+        "id": "ARC-Challenge/validation/Mercury_7099103",
+        "answer": "D",
+        "instruction": "Dzikie jeżyny rozmnażają się bezpłciowo, wypuszczając nowe korzenie, gdy łodygi dotykają ziemi. Rozmnażają się również płciowo przez swoje kwiaty. Jaka jest zaleta rośliny jeżyny, która może rozmnażać się płciowo i bezpłciowo?",
+        "option_a": "Pozwala to roślinom rosnąć wyżej.",
+        "option_b": "Produkuje kwiaty, które przyciągają owady.",
+        "option_c": "Produkuje jeżyny, które mają więcej smaku.",
+        "option_d": "Pozwala to roślinom jeżyny dostosować się do nowych warunków."
+    },
+    "1": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+        "answer": "C",
+        "instruction": "Które z poniższych opisuje energię mechaniczną wózka w spoczynku na szczycie stromej góry?",
+        "option_a": "Wózek nie ma energii mechanicznej.",
+        "option_b": "Cała energia mechaniczna wózka jest kinetyczna.",
+        "option_c": "Cała energia mechaniczna wózka jest potencjalna.",
+        "option_d": "Energia mechaniczna wózka jest w połowie potencjalna i w połowie kinetyczna."
+    },
+    "2": {
+        "id": "ARC-Challenge/validation/Mercury_7090738",
+        "answer": "A",
+        "instruction": "Które pytanie można odpowiedzieć poprzez badania naukowe?",
+        "option_a": "Jak energia słoneczna wpływa na formowanie się chmur?",
+        "option_b": "Dlaczego tygrysy są piękniejsze od iguan?",
+        "option_c": "Jaki jest najlepszy przedmiot do studiowania na uczelni?",
+        "option_d": "Czy ludzie powinni inwestować w podróże kosmiczne?"
+    },
+    "3": {
+        "id": "ARC-Challenge/validation/Mercury_7130883",
+        "answer": "B",
+        "instruction": "Klasa inżynieryjna została poproszona o opracowanie robota. Robot musi być zaprojektowany z wykorzystaniem energii elektromagnetycznej jako jedynego źródła zasilania. Jakim tematem klasa inżynieryjna najprawdopodobniej się zajmuje?",
+        "option_a": "użycie baterii i energii chemicznej",
+        "option_b": "jak energia promienista i kolektory słoneczne mogą być wykorzystywane",
+        "option_c": "przemiana energii kinetycznej w energię potencjalną",
+        "option_d": "jak energia cieplna może być przekształcana w energię elektryczną"
+    },
+    "4": {
+        "id": "ARC-Challenge/validation/Mercury_7190155",
+        "answer": "B",
+        "instruction": "W Amazonii żyje wiele różnych gatunków roślin i zwierząt. Jaki jest najbardziej prawdopodobny skutek dużych obszarów wylesienia w Amazonii?",
+        "option_a": "wzrost populacji zwierząt",
+        "option_b": "spadek produkcji tlenu",
+        "option_c": "wzrost opadów",
+        "option_d": "spadek zanieczyszczeń"
+    },
+    "5": {
+        "id": "ARC-Challenge/validation/Mercury_177398",
+        "answer": "B",
+        "instruction": "Samochód poruszający się w kierunku północno-wschodnim z prędkością 50 km/h reprezentuje które z poniższych?",
+        "option_a": "prędkość",
+        "option_b": "wektor prędkości",
+        "option_c": "przyspieszenie",
+        "option_d": "opóźnienie"
+    },
+    "6": {
+        "id": "ARC-Challenge/validation/Mercury_7246995",
+        "answer": "C",
+        "instruction": "Niektóre komórki roślinne potrzebują energii, aby przenieść składniki odżywcze przez błonę komórkową. Jakiego rodzaju transformacji energii używają te komórki roślinne, aby wprowadzić cząsteczkę składnika odżywczego do wnętrza błony komórkowej?",
+        "option_a": "energia cieplna na energię kinetyczną",
+        "option_b": "energia potencjalna na energię świetlną",
+        "option_c": "energia chemiczna na energię kinetyczną",
+        "option_d": "energia kinetyczna na energię potencjalną"
+    },
+    "7": {
+        "id": "ARC-Challenge/validation/Mercury_189490",
+        "answer": "A",
+        "instruction": "Obserwacja Gregora Mendela dotycząca roślin grochu jest przykładem",
+        "option_a": "dowodów opartych na badaniach wspierających teorię naukową.",
+        "option_b": "wniosku, który jest testowany przez hipotezę.",
+        "option_c": "losowego testowania podczas eksperymentu.",
+        "option_d": "dowodów za i przeciw modelowi naukowemu."
+    },
+    "8": {
+        "id": "ARC-Challenge/validation/Mercury_7139790",
+        "answer": "C",
+        "instruction": "Ośmiornica ma w swojej skórze specjalne komórki zwane chromatoforami, które umożliwiają jej niemal natychmiastową zmianę koloru. Chromatofory najprawdopodobniej pomagają ośmiornicy",
+        "option_a": "pływać szybciej.",
+        "option_b": "oddychać wolniej.",
+        "option_c": "ukrywać się przed drapieżnikami.",
+        "option_d": "regulować temperaturę ciała."
+    },
+    "9": {
+        "id": "ARC-Challenge/validation/Mercury_7282608",
+        "answer": "C",
+        "instruction": "Ścieki z domów nie są wszystkie takie same. Szare wody odnoszą się do ścieków domowych z zlewów i wanien. Nie zawierają ludzkich odpadów biologicznych, więc mogą być ponownie używane zamiast traktowane jako ścieki. Które zastosowania szarych wód demonstrują dobre zarządzanie?",
+        "option_a": "mycie naczyń i picie",
+        "option_b": "picie i nawadnianie rabat kwiatowych",
+        "option_c": "nawadnianie rabat kwiatowych i podlewanie drzew",
+        "option_d": "podlewanie drzew i mycie naczyń"
+    },
+    "10": {
+        "id": "ARC-Challenge/validation/Mercury_7145513",
+        "answer": "B",
+        "instruction": "Procesy życiowe wymagają energii. Procesy biochemiczne obejmują specyficzne reakcje. Jaka jest cecha procesów biochemicznych wspólna dla wszystkich zwierząt?",
+        "option_a": "działają w dowolnym poziomie pH",
+        "option_b": "ciepło wydzielane jako produkt",
+        "option_c": "używają tylko oddychania beztlenowego",
+        "option_d": "ilość energii wchłoniętej"
+    },
+    "11": {
+        "id": "ARC-Challenge/validation/Mercury_7018148",
+        "answer": "B",
+        "instruction": "WIĘKSZOŚĆ elementów znajdujących się w Układzie Okresowym Pierwiastków to",
+        "option_a": "gazy.",
+        "option_b": "metale.",
+        "option_c": "ciecze.",
+        "option_d": "niemetale."
+    },
+    "12": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401294",
+        "answer": "B",
+        "instruction": "Kształt liści roślin, które dobrze przetrwają w deszczowym klimacie, najczęściej jest",
+        "option_a": "czerwony i błyszczący.",
+        "option_b": "szeroki i płaski.",
+        "option_c": "gruby i woskowy.",
+        "option_d": "ostry i wąski."
+    },
+    "13": {
+        "id": "ARC-Challenge/validation/Mercury_7207410",
+        "answer": "C",
+        "instruction": "Łowcy burz to osoby, które zbliżają się do burz, aby je obserwować i dokonywać pomiarów. Jaką wiedzę wnieśli łowcy burz do badań nad burzami, która najbardziej pomogła w modyfikacji teorii powstawania burz?",
+        "option_a": "ich poglądy na temat szkód spowodowanych przez burze",
+        "option_b": "ich osobiste doświadczenia w burzach",
+        "option_c": "ich dane zebrane na początku burz",
+        "option_d": "ich entuzjazm do badania różnych burz"
+    },
+    "14": {
+        "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+        "answer": "A",
+        "instruction": "Które z poniższych najlepiej opisuje masę stałego bloku lodu?",
+        "option_a": "ilość materii w bloku",
+        "option_b": "ilość miejsca zajmowanego przez blok",
+        "option_c": "siła grawitacji działająca na blok",
+        "option_d": "odległość między cząsteczkami w bloku"
+    },
+    "15": {
+        "id": "ARC-Challenge/validation/Mercury_7201705",
+        "answer": "A",
+        "instruction": "W wielu częściach świata ziemia, która jest zbyt sucha do uprawy, jest wykorzystywana do wypasu bydła. Nadmierne wypasanie tych terenów niszczy rodzimą roślinność i narusza naturalną pokrywę gleby. Jak nadmierne wypasanie prowadzi do pustynnienia?",
+        "option_a": "poprzez zwiększenie tempa erozji wierzchniej warstwy gleby",
+        "option_b": "poprzez umożliwienie nie rodzimym gatunkom kolonizowania terenu",
+        "option_c": "poprzez zmniejszenie dostępności pożywienia dla bydła",
+        "option_d": "poprzez powodowanie, że ziemia szybciej wchłania opady deszczu"
+    },
+    "16": {
+        "id": "ARC-Challenge/validation/Mercury_7133858",
+        "answer": "B",
+        "instruction": "Materiał może przechodzić różne zmiany. Która z nich najlepiej demonstruje zmianę chemiczną?",
+        "option_a": "rozpuszczanie soli",
+        "option_b": "spalanie drewna",
+        "option_c": "wrzenie wody",
+        "option_d": "topnienie lodu"
+    },
+    "17": {
+        "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+        "answer": "D",
+        "instruction": "Które z tych zachowań nie jest instynktowne?",
+        "option_a": "ptak budujący gniazdo",
+        "option_b": "żółw zakopujący swoje jaja",
+        "option_c": "niedźwiedź hibernujący zimą",
+        "option_d": "koń ciągnący pług"
+    },
+    "18": {
+        "id": "ARC-Challenge/validation/Mercury_7198380",
+        "answer": "D",
+        "instruction": "Różne gatunki roślinożernych gryzoni żyły w tym samym ekosystemie. Który czynnik najprawdopodobniej wzrósł, powodując większą konkurencję o zasoby wśród gryzoni?",
+        "option_a": "płodność gleby",
+        "option_b": "populacja producentów w tym obszarze",
+        "option_c": "ilość resztek jedzenia pozostawionych przez drapieżniki",
+        "option_d": "tempo, w jakim pierwotni konsumenci wkraczali do tego obszaru"
+    },
+    "19": {
+        "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+        "answer": "C",
+        "instruction": "Gatunek jaszczurki głównie żywi się owocami z jednego konkretnego rodzaju drzewa. Jeśli wirus zabije większość tych drzew, które osobniki jaszczurek najprawdopodobniej przeżyją?",
+        "option_a": "jaszczurki, które potrafią wspinać się wyżej w drzewach owocowych",
+        "option_b": "jaszczurki, które mają ciemniejszą kolorystykę",
+        "option_c": "jaszczurki, które potrafią znaleźć inne rodzaje pożywienia",
+        "option_d": "jaszczurki, które produkują więcej potomstwa"
+    },
+    "20": {
+        "id": "ARC-Challenge/validation/Mercury_7217053",
+        "answer": "B",
+        "instruction": "Ewolucja biologiczna może zachodzić przez wszystkie z tych, z wyjątkiem",
+        "option_a": "konkurencji.",
+        "option_b": "fossylizacji.",
+        "option_c": "wariacji.",
+        "option_d": "adaptacji."
+    },
+    "21": {
+        "id": "ARC-Challenge/validation/Mercury_7233660",
+        "answer": "C",
+        "instruction": "Niektórzy naukowcy teoretyzują, że ruch płyt może zmieniać poziom wody w morzach Ziemi. W jaki sposób natura ruchu płyt ogranicza możliwe zmiany poziomu morza?",
+        "option_a": "poprzez wprowadzanie tylko małych zmian",
+        "option_b": "poprzez zmianę tylko kilku konkretnych basenów oceanicznych",
+        "option_c": "poprzez powodowanie zmian zachodzących w bardzo wolnym tempie",
+        "option_d": "poprzez powodowanie parowanych zmian o równych i przeciwnych efektach"
+    },
+    "22": {
+        "id": "ARC-Challenge/validation/Mercury_7115395",
+        "answer": "A",
+        "instruction": "Jakie zmiany najprawdopodobniej będą miały negatywny wpływ na ekosystem?",
+        "option_a": "budowa drogi",
+        "option_b": "sadzenie drzewa",
+        "option_c": "dodanie źródła wody słodkiej",
+        "option_d": "tworzenie rezerwatu przyrody"
+    },
+    "23": {
+        "id": "ARC-Challenge/validation/MSA_2013_8_3",
+        "answer": "D",
+        "instruction": "Geolodzy zidentyfikowali siedem głównych płyt tektonicznych na powierzchni Ziemi. Który dowód najlepiej wskazuje, że płyty tektoniczne kolidują?",
+        "option_a": "Wiatr eroduje powierzchniowe formacje skalne.",
+        "option_b": "Skamieniałości sięgają tysięcy lat wstecz.",
+        "option_c": "Małe kamienie pozostają, gdy lodowce się cofają.",
+        "option_d": "Starsze warstwy skał znajdują się powyżej młodszych warstw skał."
+    },
+    "24": {
+        "id": "ARC-Challenge/validation/Mercury_7205135",
+        "answer": "C",
+        "instruction": "Jak cząsteczki w bloku żelaza są wpływane, gdy blok jest topniony?",
+        "option_a": "Cząsteczki zyskują masę.",
+        "option_b": "Cząsteczki zawierają mniej energii.",
+        "option_c": "Cząsteczki poruszają się szybciej.",
+        "option_d": "Cząsteczki zwiększają objętość."
+    },
+    "25": {
+        "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+        "answer": "A",
+        "instruction": "Sara włącza latarkę i trzyma obiekt w świetle. Jak będzie mogła stwierdzić, czy obiekt jest nieprzezroczysty?",
+        "option_a": "Żadne światło nie przejdzie.",
+        "option_b": "Część światła zostanie odbita.",
+        "option_c": "Światło załamie się pod kątem.",
+        "option_d": "Światło przejdzie wyraźnie."
+    },
+    "26": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+        "answer": "E",
+        "instruction": "Który z poniższych narządów NIE znajduje się w jamie brzusznej?",
+        "option_a": "wątroba",
+        "option_b": "nerka",
+        "option_c": "żołądek",
+        "option_d": "pęcherz",
+        "option_e": "serce"
+    },
+    "27": {
+        "id": "ARC-Challenge/validation/Mercury_7181685",
+        "answer": "A",
+        "instruction": "Cechy koloru kwiatów są bardzo zmienne wśród niektórych gatunków róż, co prowadzi do powstawania kwiatów w różnych kolorach. Jak powstała zmienność koloru kwiatów w różach?",
+        "option_a": "poprzez mutację",
+        "option_b": "poprzez zapylanie",
+        "option_c": "poprzez dobór naturalny",
+        "option_d": "poprzez rozmnażanie bezpłciowe"
+    },
+    "28": {
+        "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+        "answer": "D",
+        "instruction": "Zając śnieżny zrzuca futro dwa razy w roku. Latem futro zająca jest brązowe. Zimą futro jest białe. Które z tych stwierdzeń najlepiej wyjaśnia zaletę zrzucania futra?",
+        "option_a": "Zrzucanie futra utrzymuje zająca w czystości.",
+        "option_b": "Zrzucanie futra pomaga zającowi poruszać się szybko.",
+        "option_c": "Zrzucanie futra utrzymuje dom zająca w cieple.",
+        "option_d": "Zrzucanie futra pomaga zającowi wtopić się w jego siedlisko."
+    },
+    "29": {
+        "id": "ARC-Challenge/validation/Mercury_7008120",
+        "answer": "A",
+        "instruction": "Podwójne gwiazdy są używane przez naukowców do określenia masy gwiazdy.",
+        "option_a": "masy.",
+        "option_b": "jasności.",
+        "option_c": "odległości od Ziemi.",
+        "option_d": "odległości od Słońca."
+    },
+    "30": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+        "answer": "B",
+        "instruction": "Chłopiec może zobaczyć swoją twarz, gdy patrzy w spokojne jezioro. Jaka właściwość fizyczna jeziora to powoduje?",
+        "option_a": "elastyczność",
+        "option_b": "odbijalność",
+        "option_c": "temperatura",
+        "option_d": "objętość"
+    },
+    "31": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+        "answer": "B",
+        "instruction": "Uczeń zasadził dwa nasiona fasoli w dwóch identycznych doniczkach zawierających ten sam rodzaj gleby. Jedną doniczkę umieścił w szafie, a drugą w pobliżu słonecznego okna. Każdego dnia wlewał 15 mililitrów wody do każdej doniczki. Jaki czynnik był inny dla dwóch doniczek?",
+        "option_a": "ilość wody",
+        "option_b": "ilość światła",
+        "option_c": "rodzaj gleby",
+        "option_d": "rodzaj nasiona"
+    },
+    "32": {
+        "id": "ARC-Challenge/validation/Mercury_7141698",
+        "answer": "B",
+        "instruction": "Gdy występuje piorun, podgrzewa otaczające powietrze. Gorące powietrze się rozszerza i produkuje grzmot. Energia pioruna jest przekształcana w jaki rodzaj energii, aby wyprodukować grzmot?",
+        "option_a": "grawitacyjna",
+        "option_b": "mechaniczna",
+        "option_c": "jądrowa",
+        "option_d": "promienista"
+    },
+    "33": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407314",
+        "answer": "A",
+        "instruction": "Uczniowie z dwóch klas przeprowadzili to samo badanie. Każda klasa uzyskała różne wyniki. Jaki jest najlepszy sposób, aby uczniowie ustalili, dlaczego wyniki były różne?",
+        "option_a": "Przejrzeć kroki podjęte podczas badań.",
+        "option_b": "Zmienić hipotezę badania.",
+        "option_c": "Zbadać dane dotyczące podobnych badań.",
+        "option_d": "Przeprowadzić inne badanie."
+    },
+    "34": {
+        "id": "ARC-Challenge/validation/Mercury_406781",
+        "answer": "C",
+        "instruction": "Która interakcja między zwierzętami najlepiej kontroluje populację gatunku?",
+        "option_a": "dzikie zwierzęta oznaczające swoje terytoria",
+        "option_b": "ryby remora podróżujące z rekinami",
+        "option_c": "lwy polujące na zebry",
+        "option_d": "wilki podróżujące w stadach"
+    },
+    "35": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400845",
+        "answer": "B",
+        "instruction": "Piorun może wytwarzać wszystkie te formy energii z wyjątkiem",
+        "option_a": "energii cieplnej.",
+        "option_b": "energii słonecznej.",
+        "option_c": "energii świetlnej.",
+        "option_d": "energii elektrycznej."
+    },
+    "36": {
+        "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+        "answer": "B",
+        "instruction": "Janet otrzymała kilka minerałów do zidentyfikowania. Jeden z jej próbek jest żółty. Który z tych minerałów jest najbardziej prawdopodobnie żółty?",
+        "option_a": "Talk",
+        "option_b": "Siarka",
+        "option_c": "Gips",
+        "option_d": "Hematyt"
+    },
+    "37": {
+        "id": "ARC-Challenge/validation/Mercury_7171938",
+        "answer": "D",
+        "instruction": "Pływy oceaniczne Ziemi są silnie wpływane przez Księżyc. W jakich fazach Księżyca pływy oceaniczne są najniższe na Ziemi?",
+        "option_a": "pełnia i pierwszy kwartał",
+        "option_b": "pełnia i nowiu",
+        "option_c": "ostatni kwartał i nowiu",
+        "option_d": "pierwszy kwartał i ostatni kwartał"
+    },
+    "38": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415354",
+        "answer": "C",
+        "instruction": "Które z tych zachowań delfin uczy się?",
+        "option_a": "jedzenie małych ryb",
+        "option_b": "pływanie w słonej wodzie",
+        "option_c": "utrzymywanie piłki na nosie",
+        "option_d": "oddychanie przez otwór oddechowy"
+    },
+    "39": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+        "answer": "C",
+        "instruction": "Jaką cechę kot najprawdopodobniej odziedziczy po swoich rodzicach?",
+        "option_a": "mieć bliznę",
+        "option_b": "gonić zabawkę",
+        "option_c": "mieć białe futro",
+        "option_d": "znać swoje imię"
+    },
+    "40": {
+        "id": "ARC-Challenge/validation/Mercury_7251685",
+        "answer": "B",
+        "instruction": "Która aktywność najskuteczniej zapewnia prawidłowe funkcjonowanie osteocytów?",
+        "option_a": "zwiększenie częstości oddechów",
+        "option_b": "spożywanie pokarmów bogatych w minerały",
+        "option_c": "redukcja stresującego wysiłku",
+        "option_d": "picie wody wolnej od jonów"
+    },
+    "41": {
+        "id": "ARC-Challenge/validation/Mercury_7267995",
+        "answer": "C",
+        "instruction": "Niektóre gatunki roślin i zwierząt zależą od siebie. Które z tych zwierząt pomagają tysiącom gatunków roślin w rozmnażaniu?",
+        "option_a": "wiewiórki",
+        "option_b": "dżdżownice",
+        "option_c": "pszczoły miodne",
+        "option_d": "chrząszcze"
+    },
+    "42": {
+        "id": "ARC-Challenge/validation/Mercury_7193043",
+        "answer": "B",
+        "instruction": "Rośliny obce mogą zająć obszary, które kiedyś były zasiedlone przez rodzime gatunki roślin. Który proces abiotyczny jest najmniej prawdopodobny, aby spowodować inwazję roślin obcych?",
+        "option_a": "powodzie",
+        "option_b": "wietrzenie",
+        "option_c": "burze pyłowe",
+        "option_d": "topnienie lodowców"
+    },
+    "43": {
+        "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+        "answer": "C",
+        "instruction": "Okręty podwodne zbadały wiele części oceanu. W miarę jak okręty podwodne opadają, naukowcy obserwują, że następuje wzrost -",
+        "option_a": "ilości światła",
+        "option_b": "temperatury wody",
+        "option_c": "ciśnienia wody",
+        "option_d": "rodzajów organizmów oceanicznych"
+    },
+    "44": {
+        "id": "ARC-Challenge/validation/Mercury_7154263",
+        "answer": "B",
+        "instruction": "Fitoplankton to roślinopodobne organizmy mikroskopijne, które unoszą się w wodach, takich jak ocean. Pobierają dwutlenek węgla podczas procesu fotosyntezy. Co najprawdopodobniej by się stało, gdyby populacja fitoplanktonu została zniszczona?",
+        "option_a": "Temperatury mórz by spadły.",
+        "option_b": "Gazy cieplarniane by wzrosły.",
+        "option_c": "Tlen w atmosferze by wzrósł.",
+        "option_d": "Poziom mórz by drastycznie spadł."
+    },
+    "45": {
+        "id": "ARC-Challenge/validation/Mercury_7032743",
+        "answer": "C",
+        "instruction": "Która cecha geparda jest bardziej prawdopodobna do nauczenia się niż do dziedziczenia?",
+        "option_a": "szybkość",
+        "option_b": "plamista sierść",
+        "option_c": "strategia polowania",
+        "option_d": "pazury, które się nie chowają"
+    },
+    "46": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+        "answer": "B",
+        "instruction": "W miarę jak kocięta dorastają do kotów, ich waga ciała zazwyczaj",
+        "option_a": "maleje",
+        "option_b": "wzrasta",
+        "option_c": "pozostaje taka sama"
+    },
+    "47": {
+        "id": "ARC-Challenge/validation/Mercury_7115273",
+        "answer": "C",
+        "instruction": "Duże zakwity glonów na powierzchni jeziora uniemożliwiają dotarcie którego czynnika abiotycznego do dna?",
+        "option_a": "woda",
+        "option_b": "sól",
+        "option_c": "światło",
+        "option_d": "tlen"
+    },
+    "48": {
+        "id": "ARC-Challenge/validation/Mercury_7205555",
+        "answer": "A",
+        "instruction": "Woda ma wiele unikalnych właściwości chemicznych. Która właściwość wody sprawia, że woda jest dobrym rozpuszczalnikiem soli krystalicznych?",
+        "option_a": "silna polarność",
+        "option_b": "słaba przewodność",
+        "option_c": "wysoka lepkość",
+        "option_d": "niskie pH"
+    },
+    "49": {
+        "id": "ARC-Challenge/validation/Mercury_7192990",
+        "answer": "A",
+        "instruction": "Pożary lasów występują w wielu obszarach z powodu warunków suszy. Jeśli warunki suszy będą się utrzymywać przez długi czas, co może zagrozić repopulacji drzew?",
+        "option_a": "zmniejszenie grubości gleby",
+        "option_b": "zmniejszenie ilości erozji",
+        "option_c": "wzrost populacji bakterii",
+        "option_d": "wzrost produkcji tlenu"
+    },
+    "50": {
+        "id": "ARC-Challenge/validation/Mercury_SC_408859",
+        "answer": "A",
+        "instruction": "Aligatory amerykańskie są powszechne w mokradłach Florydy. Znane są z tego, że jedzą żaby, żółwie, ryby, myszy i ptaki. Jaką rolę pełni aligator amerykański w swoim ekosystemie?",
+        "option_a": "konsument",
+        "option_b": "dekompozytor",
+        "option_c": "padlinożerca",
+        "option_d": "producent"
+    },
+    "51": {
+        "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+        "answer": "C",
+        "instruction": "Sue zmierzyła, ile cukru rozpuści się w filiżance zimnej wody, filiżance ciepłej wody i filiżance gorącej wody. Co prawdopodobnie zaobserwowała?",
+        "option_a": "Zimna woda rozpuściła najwięcej cukru.",
+        "option_b": "Ciepła woda rozpuściła najwięcej cukru.",
+        "option_c": "Gorąca woda rozpuściła najwięcej cukru.",
+        "option_d": "Zimna woda, ciepła woda i gorąca woda rozpuściły tę samą ilość cukru."
+    },
+    "52": {
+        "id": "ARC-Challenge/validation/Mercury_180058",
+        "answer": "A",
+        "instruction": "Skamieniałość odkryta w Kolorado pochodzi z wczesnej ery mezozoicznej. Rok później w Wyoming znaleziono podobną skamieniałość, która również pochodzi z wczesnej ery mezozoicznej. Te dwa organizmy najprawdopodobniej żyły w",
+        "option_a": "tym samym środowisku w mniej więcej tym samym czasie.",
+        "option_b": "tym samym środowisku w różnych czasach.",
+        "option_c": "różnych środowiskach w mniej więcej tym samym czasie.",
+        "option_d": "różnych środowiskach w różnych czasach."
+    },
+    "53": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400050",
+        "answer": "C",
+        "instruction": "Co się stanie, gdy temperatura w domu będzie niższa niż temperatura ustawiona na termostacie?",
+        "option_a": "Piec się przegrzeje.",
+        "option_b": "Termostat stanie się gorący.",
+        "option_c": "Piec automatycznie się włączy.",
+        "option_d": "Termostat wyda dźwięk sygnalizacyjny."
+    },
+    "54": {
+        "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+        "answer": "D",
+        "instruction": "Który z poniższych nie jest głównym kontrowersyjnym zagadnieniem związanym z wykorzystaniem energii jądrowej?",
+        "option_a": "usuwanie odpadów radioaktywnych",
+        "option_b": "zagrożenia zdrowotne w obszarach otaczających elektrownie jądrowe",
+        "option_c": "zanieczyszczenie termiczne zbiorników wodnych używanych do chłodzenia",
+        "option_d": "bezrobocie spowodowane przejściem na energię jądrową"
+    },
+    "55": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+        "answer": "A",
+        "instruction": "Który stan materii nie ma określonej objętości i nie ma określonego kształtu?",
+        "option_a": "gaz",
+        "option_b": "ciecz",
+        "option_c": "ciało stałe"
+    },
+    "56": {
+        "id": "ARC-Challenge/validation/Mercury_7233678",
+        "answer": "A",
+        "instruction": "Naukowcy uważają, że dryf kontynentów w historii geologicznej Ziemi miał znaczący wpływ na cykle cieplejszych i chłodniejszych klimatów Ziemi. Które stwierdzenie opisuje cechę kontynentów Ziemi, która najprawdopodobniej spowoduje zmiany w klimacie globalnym, gdy kontynenty będą dryfować?",
+        "option_a": "Lokalizacja kontynentu wpływa na jego refleksyjność powierzchniową.",
+        "option_b": "Głębokość płyty kontynentalnej określa jej ciepło właściwe.",
+        "option_c": "Dryf kontynentalny pochłania duże ilości energii kinetycznej.",
+        "option_d": "Temperatura kontynentu jest wpływana przez najbliższy ocean."
+    },
+    "57": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+        "answer": "B",
+        "instruction": "Rośliny zazwyczaj nie muszą jeść innych organizmów, ponieważ rośliny",
+        "option_a": "nie potrzebują energii pokarmowej do życia.",
+        "option_b": "przekształcają światło słoneczne w energię pokarmową.",
+        "option_c": "uzyskują całą swoją energię pokarmową z gleby.",
+        "option_d": "przechowują energię pokarmową w swoich korzeniach."
+    },
+    "58": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+        "answer": "A",
+        "instruction": "Substancja w fazie stałej (stan) materii ma",
+        "option_a": "określony kształt i określoną objętość",
+        "option_b": "określony kształt, ale bez określonej objętości",
+        "option_c": "brak określonego kształtu, ale określona objętość",
+        "option_d": "brak określonego kształtu i brak określonej objętości"
+    },
+    "59": {
+        "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+        "answer": "A",
+        "instruction": "Jak zmieniłyby się mierzalne właściwości piłki golfowej, gdyby została przeniesiona z Ziemi na Księżyc?",
+        "option_a": "Miałaby tę samą masę, ale inną wagę.",
+        "option_b": "Miałaby tę samą wagę, ale inną masę.",
+        "option_c": "Miałaby tę samą gęstość, ale inną masę.",
+        "option_d": "Miałaby tę samą masę, ale inną gęstość."
+    },
+    "60": {
+        "id": "ARC-Challenge/validation/LEAP__7_10354",
+        "answer": "D",
+        "instruction": "Nauczycielka nauk ścisłych Joanny ostrzegła klasę, aby była sceptyczna podczas nauki o nowych odkryciach naukowych. Dlaczego ważne jest, aby być sceptycznym wobec nowych odkryć w nauce?",
+        "option_a": "ponieważ wiele odkryć naukowych nie opiera się na faktach",
+        "option_b": "ponieważ większość odkryć naukowych nie ma wartości naukowej",
+        "option_c": "ponieważ większość naukowców popełnia błędy przy formułowaniu odkryć naukowych",
+        "option_d": "ponieważ wszystkie odkrycia naukowe muszą być krytycznie oceniane, zanim będą mogły zostać zaakceptowane"
+    },
+    "61": {
+        "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+        "answer": "B",
+        "instruction": "W samochodzie, który z poniższych komponentów jest zaprojektowany specjalnie, aby dawać informacje zwrotne kierowcy?",
+        "option_a": "kierownica",
+        "option_b": "prędkościomierz",
+        "option_c": "pedal hamulca",
+        "option_d": "klucz do samochodu"
+    },
+    "62": {
+        "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+        "answer": "C",
+        "instruction": "Które z poniższych definiuje związek chemiczny?",
+        "option_a": "różne substancje zmieszane razem",
+        "option_b": "atomy i cząsteczki zmieszane razem",
+        "option_c": "atomy różnych pierwiastków połączone razem",
+        "option_d": "atomy tego samego pierwiastka połączone razem"
+    },
+    "63": {
+        "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+        "answer": "D",
+        "instruction": "Lodówka używa energii elektrycznej, aby stworzyć zimne miejsce do przechowywania jedzenia. Jaki negatywny wpływ na środowisko ma użycie lodówki?",
+        "option_a": "Elektryczność potrzebna do utrzymania jedzenia w chłodzie może być kosztowna.",
+        "option_b": "Jeśli zaniknie prąd, jedzenie się zepsuje i może cię rozchorować.",
+        "option_c": "Dłuższe przechowywanie jedzenia zmniejsza liczbę wizyt w sklepie spożywczym i zużycie benzyny.",
+        "option_d": "Stare lodówki zawierają chemikalia i zajmują miejsce na wysypiskach."
+    },
+    "64": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+        "answer": "B",
+        "instruction": "Rośliny mają wyspecjalizowane tkanki na końcach swoich łodyg. W czym te tkanki pomagają roślinom?",
+        "option_a": "trawić jedzenie",
+        "option_b": "rosnąć wyżej",
+        "option_c": "produkować jedzenie",
+        "option_d": "wchłaniać wodę"
+    },
+    "65": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415491",
+        "answer": "C",
+        "instruction": "Ziemia krąży wokół Słońca raz w roku. Ile razy w ciągu roku Księżyc krąży wokół Ziemi?",
+        "option_a": "1",
+        "option_b": "7",
+        "option_c": "13",
+        "option_d": "28"
+    },
+    "66": {
+        "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+        "answer": "A",
+        "instruction": "Jose ma dwa magnesy. Pcha końce dwóch magnesów do siebie, a następnie je puszcza. Magnesy szybko się oddalają. Które z poniższych stwierdzeń najlepiej wyjaśnia, dlaczego tak się dzieje?",
+        "option_a": "Bieguny północne obu magnesów są skierowane ku sobie.",
+        "option_b": "Jeden magnes jest biegunem północnym, a drugi biegunem południowym.",
+        "option_c": "Końce magnesów odpychają się nawzajem, ale centra przyciągają.",
+        "option_d": "Jeden magnes magazynuje energię, a drugi magnes uwalnia energię."
+    },
+    "67": {
+        "id": "ARC-Challenge/validation/Mercury_416648",
+        "answer": "A",
+        "instruction": "Paramecium i volvox mogą się rozmnażać płciowo. Jak rozmnażanie płciowe w volvox różni się od rozmnażania płciowego w paramecium?",
+        "option_a": "Kolonie volvox produkują gamety.",
+        "option_b": "Komórki volvox przechodzą koniugację.",
+        "option_c": "Kolonie volvox produkują potomstwo jednokomórkowe.",
+        "option_d": "Komórki volvox rozmnażają się przez wegetatywne pączkowanie."
+    },
+    "68": {
+        "id": "ARC-Challenge/validation/Mercury_7207620",
+        "answer": "A",
+        "instruction": "Niektóre instrumenty rejestrują poziomy tlenu w warstwie ozonowej atmosfery Ziemi. Prowadzenie rejestru tych danych przez wiele lat jest przykładem",
+        "option_a": "budowania dowodów poprzez ciągłe badania.",
+        "option_b": "identyfikowania hipotezy, która wspiera dane.",
+        "option_c": "wyciągania wniosków na podstawie dowodów z wyników.",
+        "option_d": "proponowania danych, które są łatwe do zrozumienia."
+    },
+    "69": {
+        "id": "ARC-Challenge/validation/Mercury_7164850",
+        "answer": "A",
+        "instruction": "Klasa naukowa zaprojektowała plakat, aby pokazać, jak powstały wyspy barierowe wzdłuż wybrzeża Florydy. Uczniowie pokazali wpływ wiatru, fal i pływów na piasek, który utworzył te wyspy. Na plakacie, którą parę systemów powinni powiedzieć uczniowie, że najbardziej wpłynęła na formowanie się wysp barierowych?",
+        "option_a": "hydrosfera i atmosfera",
+        "option_b": "atmosfera i litosfera",
+        "option_c": "biosfera i hydrosfera",
+        "option_d": "litosfera i biosfera"
+    },
+    "70": {
+        "id": "ARC-Challenge/validation/Mercury_7011270",
+        "answer": "B",
+        "instruction": "Jak długo trwa, aby Księżyc wykonał jeden obrót wokół Ziemi?",
+        "option_a": "7 dni",
+        "option_b": "30 dni",
+        "option_c": "90 dni",
+        "option_d": "365 dni"
+    },
+    "71": {
+        "id": "ARC-Challenge/validation/Mercury_7090598",
+        "answer": "C",
+        "instruction": "Który z tych procesów wiąże się z transferem dużej ilości energii cieplnej?",
+        "option_a": "erozja",
+        "option_b": "sedimentacja",
+        "option_c": "subdukcja",
+        "option_d": "cementacja"
+    },
+    "72": {
+        "id": "ARC-Challenge/validation/Mercury_SC_412337",
+        "answer": "D",
+        "instruction": "Podczas badania ciepło przekazywane z cieczy do otoczenia. Która para wyjaśnień najlepiej wyjaśnia ten wynik?",
+        "option_a": "Temperatura cieczy wzrosła, lub ciecz stała się gazem.",
+        "option_b": "Temperatura cieczy wzrosła, lub ciecz stała się ciałem stałym.",
+        "option_c": "Temperatura cieczy spadła, lub ciecz stała się gazem.",
+        "option_d": "Temperatura cieczy spadła, lub ciecz stała się ciałem stałym."
+    },
+    "73": {
+        "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+        "answer": "C",
+        "instruction": "Struktura komórkowa, która sprawia, że komórka roślinna jest bardziej sztywna niż komórka zwierzęca, to",
+        "option_a": "błona komórkowa.",
+        "option_b": "cytoplazma.",
+        "option_c": "ściana komórkowa.",
+        "option_d": "rybosom."
+    },
+    "74": {
+        "id": "ARC-Challenge/validation/Mercury_7124338",
+        "answer": "D",
+        "instruction": "Ciekawski umysł byłby pomocny dla naukowca, ponieważ prowadziłby naukowca do",
+        "option_a": "stania się bardziej kreatywnym.",
+        "option_b": "braku zaufania do pracy innych naukowców.",
+        "option_c": "pracy nad akceptacją opublikowanych hipotez.",
+        "option_d": "prowadzenia badań w celu potwierdzenia lub obalenia teorii."
+    },
+    "75": {
+        "id": "ARC-Challenge/validation/Mercury_405454",
+        "answer": "D",
+        "instruction": "Które narzędzie kuchenne zmienia środowisko najmniej?",
+        "option_a": "grill gazowy",
+        "option_b": "patelnia elektryczna",
+        "option_c": "mikrofalówka",
+        "option_d": "kuchenka słoneczna"
+    },
+    "76": {
+        "id": "ARC-Challenge/validation/Mercury_7007875",
+        "answer": "B",
+        "instruction": "Co jest odpowiedzialne za tworzenie wiatru?",
+        "option_a": "działanie fal",
+        "option_b": "energia słoneczna",
+        "option_c": "powiewające drzewa",
+        "option_d": "siła grawitacyjna"
+    },
+    "77": {
+        "id": "ARC-Challenge/validation/Mercury_417146",
+        "answer": "A",
+        "instruction": "Większość tlenu w atmosferze jest wytwarzana przez algi. Gdzie żyje większość alg?",
+        "option_a": "ocean przybrzeżny",
+        "option_b": "głęboki ocean",
+        "option_c": "stawy",
+        "option_d": "jeziora"
+    },
+    "78": {
+        "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+        "answer": "B",
+        "instruction": "Kiedy ludzie chodzili po Księżycu, odkryli, że mogą skakać wyżej niż na Ziemi. Dlaczego to prawda?",
+        "option_a": "Na Księżycu nie ma atmosfery.",
+        "option_b": "Księżyc wywiera mniejszą siłę grawitacyjną niż Ziemia.",
+        "option_c": "Kombinezony kosmiczne pomogły im skakać wyżej.",
+        "option_d": "Księżyc obraca się szybciej niż Ziemia."
+    },
+    "79": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407695",
+        "answer": "D",
+        "instruction": "Juan i LaKeisha toczą kilka obiektów po rampie. Chcą zobaczyć, który obiekt toczy się najdalej. Co powinni zrobić, aby mogli powtórzyć swoje badanie?",
+        "option_a": "Podzielić obiekty na grupy.",
+        "option_b": "Zmienić wysokość rampy.",
+        "option_c": "Wybrać różne obiekty do toczenia.",
+        "option_d": "Zanotować szczegóły badania."
+    },
+    "80": {
+        "id": "ARC-Challenge/validation/Mercury_7158673",
+        "answer": "D",
+        "instruction": "Ana jest biegaczką długodystansową. Po zakończeniu wyścigu zauważyła, że czuje się gorąco z powodu uwolnienia energii cieplnej. Jaki jest najprawdopodobniejszy źródło energii cieplnej?",
+        "option_a": "tarcie od powietrza",
+        "option_b": "ciepło pochłaniane od słońca",
+        "option_c": "energia mechaniczna pochłaniana",
+        "option_d": "przemiany energii zachodzące w jej ciele"
+    },
+    "81": {
+        "id": "ARC-Challenge/validation/Mercury_7018515",
+        "answer": "C",
+        "instruction": "Najbardziej prawdopodobnym powodem, dla którego dźwięk podróżuje szybciej w wodzie słonej niż w wodzie słodkiej, jest to, że woda słona",
+        "option_a": "jest bardziej elastyczna.",
+        "option_b": "szybciej pochłania ciepło.",
+        "option_c": "ma wyższą gęstość.",
+        "option_d": "lepiej odbija dźwięk."
+    },
+    "82": {
+        "id": "ARC-Challenge/validation/Mercury_412551",
+        "answer": "D",
+        "instruction": "Sowy screech mają dwie odmiany kolorystyczne: czerwoną i szaro-skalną. Jaką przewagę ma szara sowa screech nad czerwoną sową screech w środowisku składającym się z drzew o ciemnej korze?",
+        "option_a": "gniazdo",
+        "option_b": "żywienie",
+        "option_c": "rozmnażanie",
+        "option_d": "ukrywanie się"
+    },
+    "83": {
+        "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+        "answer": "D",
+        "instruction": "Trzech graczy w baseballa bada, kto potrafi rzucić baseballa najdalej. Oznaczają obszar na placu zabaw do swoich badań. Co powinni utrzymać na stałym poziomie?",
+        "option_a": "Wysokość graczy",
+        "option_b": "Kolor rzuconych baseballi",
+        "option_c": "Kolejność, w jakiej gracze rzucają",
+        "option_d": "Miejsce, z którego gracze rzucają"
+    },
+    "84": {
+        "id": "ARC-Challenge/validation/Mercury_7120890",
+        "answer": "A",
+        "instruction": "Co najlepiej pokazuje, że fale przenoszą energię?",
+        "option_a": "dzwon dzwoniący w wieży",
+        "option_b": "liść spadający z drzewa",
+        "option_c": "piłka tocząca się ze wzgórza",
+        "option_d": "flaga poruszająca się na wietrze"
+    },
+    "85": {
+        "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+        "answer": "A",
+        "instruction": "Która cecha dotyczy zwierząt tylko w jednej z tych grup taksonomicznych: gady, ssaki, ptaki, płazy lub ryby?",
+        "option_a": "mają włosy",
+        "option_b": "składają jaja",
+        "option_c": "mają błoniaste stopy",
+        "option_d": "oddychają skrzelami"
+    },
+    "86": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415348",
+        "answer": "D",
+        "instruction": "Jakie jest dziedziczone cecha drzewa?",
+        "option_a": "złamana gałąź na sosnie",
+        "option_b": "dziura w dębie",
+        "option_c": "blizna na klonie",
+        "option_d": "gruby pień na orzechu pekanowym"
+    },
+    "87": {
+        "id": "ARC-Challenge/validation/Mercury_7014368",
+        "answer": "C",
+        "instruction": "Prądy brzegowe to fale oceaniczne, które uderzają w plaże pod bardzo małymi kątami. W obszarach, gdzie występują prądy brzegowe, jaki mają wpływ na obszary lądowe?",
+        "option_a": "Budują góry.",
+        "option_b": "Powodują trzęsienia ziemi.",
+        "option_c": "Przemieszczają piasek, tworząc ławice piaskowe.",
+        "option_d": "Tworzą wewnętrzne rzeki słone."
+    },
+    "88": {
+        "id": "ARC-Challenge/validation/Mercury_7245193",
+        "answer": "C",
+        "instruction": "Obszar wiejski został oczyszczony do gołej skały w celu budowy drogi, ale droga nigdy nie została zbudowana. Obszar zaczął się odradzać. Które organizmy najprawdopodobniej pojawiły się jako pierwsze?",
+        "option_a": "drzewa",
+        "option_b": "krzewy",
+        "option_c": "porosty i mchy",
+        "option_d": "chwasty i trawa krabowa"
+    },
+    "89": {
+        "id": "ARC-Challenge/validation/Mercury_7251668",
+        "answer": "D",
+        "instruction": "Populacja dafnii wykazuje pionową migrację z dna jednego metrowego stawu w ciągu dnia na powierzchnię stawu w nocy. Na jaki czynnik populacja dafnii najprawdopodobniej reaguje?",
+        "option_a": "pH wody",
+        "option_b": "przejrzystość wody",
+        "option_c": "ciśnienie wody",
+        "option_d": "temperatura wody"
+    },
+    "90": {
+        "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+        "answer": "A",
+        "instruction": "Kiedy pot osoby paruje, osoba czuje się chłodniej. Które z poniższych stwierdzeń najlepiej opisuje, dlaczego pocenie się pomaga osobie czuć się chłodno?",
+        "option_a": "Ciepło jest pochłaniane przez pot, gdy paruje.",
+        "option_b": "Ciepło jest pochłaniane przez ciało, gdy pot paruje.",
+        "option_c": "Temperatura wody w pocie spada, gdy paruje.",
+        "option_d": "Temperatura wody w ciele wzrasta, gdy pot paruje."
+    },
+    "91": {
+        "id": "ARC-Challenge/validation/Mercury_7082145",
+        "answer": "D",
+        "instruction": "Jak należy użyć wykresu liniowego do przedstawienia danych o odległości i czasie dla poruszającego się obiektu?",
+        "option_a": "Oś y powinna być oznaczona jako czas, który jest zmienną zależną.",
+        "option_b": "Oś y powinna być oznaczona jako odległość, która jest zmienną niezależną.",
+        "option_c": "Oś x powinna być oznaczona jako odległość, która jest zmienną zależną.",
+        "option_d": "Oś x powinna być oznaczona jako czas, który jest zmienną niezależną."
+    },
+    "92": {
+        "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+        "answer": "D",
+        "instruction": "Uczniowie uczą się o zasobach naturalnych w Maryland. Jedna grupa uczniów bada informacje o odnawialnych zasobach naturalnych w stanie. Druga grupa bada informacje o nieodnawialnych zasobach naturalnych w stanie. Zasoby, które uczniowie badają, obejmują rośliny, zwierzęta, glebę, minerały, wodę, węgiel i ropę naftową. Która z poniższych działalności ludzkich negatywnie wpływa na zasób naturalny?",
+        "option_a": "wędkarstwo w jeziorze",
+        "option_b": "używanie wody do produkcji energii elektrycznej",
+        "option_c": "sadzenie rodzimych roślin wzdłuż brzegu jeziora",
+        "option_d": "kierowanie spływu z użytków rolnych do jeziora"
+    },
+    "93": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+        "answer": "A",
+        "instruction": "Futro niektórych zwierząt staje się grubsze zimą i jest zrzucane wiosną. Te obserwacje pokazują, jak zwierzęta",
+        "option_a": "reagują na zmiany w środowisku",
+        "option_b": "przemieszczają się z miejsca na miejsce, aby przetrwać",
+        "option_c": "magazynują tłuszcz na zimę",
+        "option_d": "konkurują z innymi zwierzętami o jedzenie"
+    },
+    "94": {
+        "id": "ARC-Challenge/validation/Mercury_7006790",
+        "answer": "B",
+        "instruction": "Które z poniższych najlepiej wyjaśnia przyczynę drżenia okien podczas burzy?",
+        "option_a": "energia elektryczna",
+        "option_b": "energia dźwiękowa",
+        "option_c": "energia świetlna",
+        "option_d": "energia cieplna"
+    },
+    "95": {
+        "id": "ARC-Challenge/validation/Mercury_7284043",
+        "answer": "C",
+        "instruction": "Słonie na afrykańskiej sawannie jedzą krzewy i małe drzewa. To zachowanie oczyszcza teren i umożliwia wzrost trawy. Roślinożercy, tacy jak gazele, jedzą trawę. Lwy polują na gazele. Które dwa organizmy w tym scenariuszu są w najbardziej współpracującym związku?",
+        "option_a": "słonie i krzewy",
+        "option_b": "krzewy i lwy",
+        "option_c": "słonie i gazele",
+        "option_d": "gazele i lwy"
+    },
+    "96": {
+        "id": "ARC-Challenge/validation/Mercury_7175455",
+        "answer": "D",
+        "instruction": "W Australii, temperatury w południe mogą wzrosnąć do ponad 110°F (43°C). Aby utrzymać swoje ciała w chłodzie, kangury liżą swoje ramiona, pokrywając je grubą warstwą śliny. Gdy ślina paruje, działa jako mechanizm chłodzący i obniża temperaturę ciała kangura. Który termin najlepiej opisuje tę aktywność?",
+        "option_a": "selekcja naturalna",
+        "option_b": "mechanizm obronny",
+        "option_c": "adaptacje strukturalne",
+        "option_d": "adaptacje behawioralne"
+    },
+    "97": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401714",
+        "answer": "B",
+        "instruction": "W eksperymencie laboratoryjnym studenci testują tożsamość nieznanego proszku. Jaka metoda jest najbardziej odpowiednia, aby przenieść proszek na wagę?",
+        "option_a": "zamiatać pędzlem na papier transferowy",
+        "option_b": "zbierać łopatką laboratoryjną na papier transferowy",
+        "option_c": "szczypać palcami i przenieść na papier transferowy",
+        "option_d": "wlać z butelki na papier transferowy"
+    },
+    "98": {
+        "id": "ARC-Challenge/validation/Mercury_409529",
+        "answer": "B",
+        "instruction": "Robert jest wędkarzem, który chce znaleźć sposób na złowienie większej ilości ryb. Postanowił spróbować różnych rozmiarów haków. Robert złowił 4 sumy, 3 pstrągi i 7 okoni, używając robaków jako przynęty. Jaka jest zmienna niezależna (manipulowana) w badaniu Roberta?",
+        "option_a": "rodzaj przynęty",
+        "option_b": "rozmiar haka",
+        "option_c": "rodzaj złowionej ryby",
+        "option_d": "liczba złowionych ryb"
+    },
+    "99": {
+        "id": "ARC-Challenge/validation/Mercury_7223038",
+        "answer": "C",
+        "instruction": "Istnieje wiele rozmiarów i kolorów gwiazd. Która z poniższych opcji najlepiej opisuje kategorię, w której umieszczona byłaby Słońce?",
+        "option_a": "niebieskie supergiganty",
+        "option_b": "czerwone olbrzymy",
+        "option_c": "żółte gwiazdy głównej sekwencji",
+        "option_d": "białe karły"
+    },
+    "100": {
+        "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+        "answer": "C",
+        "instruction": "W Maryland i okolicach znajduje się wiele zasobów naturalnych. Niektóre z tych zasobów naturalnych są odnawialne, a niektóre nieodnawialne. Ludzie korzystają z obu rodzajów zasobów w codziennych czynnościach. Wykorzystanie zasobów naturalnych często prowadzi do powstawania odpadów. Centra recyklingu to miejsca, gdzie ludzie przynoszą materiały, które mogą być ponownie wykorzystane do produkcji nowych produktów. Jak recykling papieru pozytywnie wpływa na środowisko?",
+        "option_a": "zmniejsza zanieczyszczenie powietrza",
+        "option_b": "zwiększa erozję gleby",
+        "option_c": "zmniejsza liczbę wycinanych drzew",
+        "option_d": "zwiększa zniszczenie siedlisk"
+    },
+    "101": {
+        "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+        "answer": "A",
+        "instruction": "Glory poranna to rodzaj kwitnącego pnącza, które wspina się po drzewach i ogrodzeniach. Które z poniższych zachowań najbardziej pomaga roślinie glory porannej wspinać się po ogrodzeniu?",
+        "option_a": "łodygi zwijające się w odpowiedzi na dotyk",
+        "option_b": "łodygi pęczniejące w odpowiedzi na wodę",
+        "option_c": "kwiaty otwierające się w odpowiedzi na światło",
+        "option_d": "korzenie rosnące w odpowiedzi na grawitację"
+    },
+    "102": {
+        "id": "ARC-Challenge/validation/Mercury_7139493",
+        "answer": "B",
+        "instruction": "Co najprawdopodobniej odpowiada za zdolność pluskwiaków do przetrwania wielokrotnej ekspozycji na insektycydy?",
+        "option_a": "różnorodność gatunkowa",
+        "option_b": "różnorodność genetyczna",
+        "option_c": "różnorodność ekosystemów",
+        "option_d": "różnorodność populacji"
+    },
+    "103": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+        "answer": "A",
+        "instruction": "Panele słoneczne są używane do absorbowania światła słonecznego. Który kolor panelu pochłonie najwięcej światła słonecznego?",
+        "option_a": "czarny",
+        "option_b": "zielony",
+        "option_c": "biały",
+        "option_d": "żółty"
+    },
+    "104": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+        "answer": "A",
+        "instruction": "Który z poniższych stanów genetycznych wynika z problemu z segregacją?",
+        "option_a": "Trisomia 16: stan spowodowany, gdy zygota otrzymuje trzy kopie chromosomu 16",
+        "option_b": "Choroba Huntingtona: stan spowodowany, gdy zygota otrzymuje zmutowany allel dominujący",
+        "option_c": "Hemofilia: stan spowodowany, gdy zygota otrzymuje chromosom X z określonym allelem recesywnym",
+        "option_d": "Anemia sierpowata: stan spowodowany, gdy zygota otrzymuje allel recesywny dla hemoglobiny od każdego rodzica"
+    },
+    "105": {
+        "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+        "answer": "B",
+        "instruction": "Uczeń podgrzewa dwa garnki wody na kuchence, używając najwyższego ustawienia. Jeden garnek zawiera 1 L wody, a drugi garnek zawiera 3 L wody. Uczeń podgrzewa każdy garnek, aż woda zacznie wrzeć. Które z poniższych stwierdzeń najlepiej opisuje, co się dzieje z wodą w garnkach?",
+        "option_a": "Woda w obu garnkach wrze w tym samym czasie.",
+        "option_b": "Woda w obu garnkach wrze w tej samej temperaturze.",
+        "option_c": "3 L wody nagrzewa się bardziej niż 1 L wody przed wrzeniem.",
+        "option_d": "3 L wody pochłania ciepło szybciej niż 1 L wody."
+    },
+    "106": {
+        "id": "ARC-Challenge/validation/Mercury_7115063",
+        "answer": "A",
+        "instruction": "Które z poniższych jest najbardziej prawdopodobne, aby zakłócić ekosystem mokradeł?",
+        "option_a": "budowa osiedla mieszkaniowego",
+        "option_b": "sadzenie rodzimych dzikich kwiatów",
+        "option_c": "okres intensywnych opadów deszczu",
+        "option_d": "uderzenie pioruna"
+    },
+    "107": {
+        "id": "ARC-Challenge/validation/Mercury_7144795",
+        "answer": "D",
+        "instruction": "Jakie cechy ma gatunek, który ma największe szanse na przetrwanie tych zmian środowiskowych?",
+        "option_a": "populacja z wieloma osobnikami",
+        "option_b": "duża różnorodność gatunków w obecnej społeczności",
+        "option_c": "adaptacje, które pozwalają osobnikom żyć w różnych warunkach",
+        "option_d": "zachowania, które sprzyjają rozwojowi adaptacji w nowych środowiskach"
+    },
+    "108": {
+        "id": "ARC-Challenge/validation/Mercury_400934",
+        "answer": "C",
+        "instruction": "Zgodnie z układem okresowym pierwiastków, który zestaw pierwiastków ma podobne właściwości?",
+        "option_a": "H, C, I",
+        "option_b": "He, H, Al",
+        "option_c": "He, Ne, Ar",
+        "option_d": "Na, Ca, Al"
+    },
+    "109": {
+        "id": "ARC-Challenge/validation/Mercury_7004410",
+        "answer": "B",
+        "instruction": "Jednym z ograniczeń sieci pokarmowych w reprezentowaniu ekosystemu jest to, że nie",
+        "option_a": "uwzględniają producentów w ekosystemie.",
+        "option_b": "uwzględniają wszystkich gatunków w ekosystemie.",
+        "option_c": "pokazują konsumentów w ekosystemie.",
+        "option_d": "pokazują relacje drapieżnik-ofiara w ekosystemie."
+    },
+    "110": {
+        "id": "ARC-Challenge/validation/Mercury_7029505",
+        "answer": "C",
+        "instruction": "Jak różnią się grupy krwi w klasyfikacji ABO?",
+        "option_a": "różne rozmiary czerwonych krwinek",
+        "option_b": "różne rozmiary białych krwinek",
+        "option_c": "różne białka markerowe na czerwonych krwinkach",
+        "option_d": "różne białka markerowe na białych krwinkach"
+    },
+    "111": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+        "answer": "A",
+        "instruction": "Kostka lodu topnieje, a następnie paruje. Kostka lodu i para wodna mają tę samą",
+        "option_a": "masę.",
+        "option_b": "gęstość.",
+        "option_c": "objętość.",
+        "option_d": "temperaturę."
+    },
+    "112": {
+        "id": "ARC-Challenge/validation/Mercury_7245893",
+        "answer": "B",
+        "instruction": "Która część układu pokarmowego jako pierwsza powoduje zmiany chemiczne w jedzeniu?",
+        "option_a": "zęby w ustach",
+        "option_b": "ślina w ustach",
+        "option_c": "enzymy w żołądku",
+        "option_d": "enzymy w jelicie cienkim"
+    },
+    "113": {
+        "id": "ARC-Challenge/validation/Mercury_7246925",
+        "answer": "D",
+        "instruction": "Leucyna jest jednym z aminokwasów, których twoje ciało potrzebuje, ale nie może ich wytworzyć. Co się dzieje, aby ludzkie ciało mogło uzyskać leucynę?",
+        "option_a": "Ciało przekształca inne aminokwasy w leucynę.",
+        "option_b": "Ciało magazynuje węglowodany zawierające leucynę.",
+        "option_c": "Ciało rozkłada kwasy tłuszczowe, aby uzyskać leucynę.",
+        "option_d": "Ciało trawi białko w jedzeniu, aby uzyskać leucynę."
+    },
+    "114": {
+        "id": "ARC-Challenge/validation/Mercury_7138688",
+        "answer": "D",
+        "instruction": "Która procedura najlepiej pomaga określić, czy badanie jest naukowo ważne?",
+        "option_a": "prowadzenie notatek na temat stanu sprzętu używanego w procedurze",
+        "option_b": "przeprowadzanie badania z grupą ludzi",
+        "option_c": "przeprowadzenie procedury dokładnie jeden raz",
+        "option_d": "powtarzanie badania kilka razy"
+    },
+    "115": {
+        "id": "ARC-Challenge/validation/Mercury_SC_408700",
+        "answer": "C",
+        "instruction": "Emily przygotowała filiżankę herbaty i zamieszała ją łyżką. Łyżka stała się ciepła. Jak ciepło z herbaty zostało przekazane do łyżki?",
+        "option_a": "konwekcja",
+        "option_b": "promieniowanie",
+        "option_c": "przewodnictwo",
+        "option_d": "parowanie"
+    },
+    "116": {
+        "id": "ARC-Challenge/validation/Mercury_7100608",
+        "answer": "B",
+        "instruction": "Rodzina Michaela buduje nowy dom. Chcieliby korzystać z energii elektrycznej wytwarzanej z odnawialnych źródeł. Które z tych źródeł zasilania pomogłoby rodzinie osiągnąć ten cel?",
+        "option_a": "silnik na benzynę",
+        "option_b": "panele słoneczne na dachu",
+        "option_c": "elektrownia węglowa",
+        "option_d": "elektrownia jądrowa"
+    },
+    "117": {
+        "id": "ARC-Challenge/validation/Mercury_7133648",
+        "answer": "C",
+        "instruction": "Które zadanie w kuchni jest przykładem zmiany fizycznej?",
+        "option_a": "smażenie jajka",
+        "option_b": "pieczenie ciasta",
+        "option_c": "topienie masła",
+        "option_d": "tostowanie chleba"
+    },
+    "118": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401244",
+        "answer": "D",
+        "instruction": "Jaki typ skały jest najbardziej przydatny w badaniu historii organizmów żywych?",
+        "option_a": "bazalt",
+        "option_b": "marmur",
+        "option_c": "granite",
+        "option_d": "wapień"
+    },
+    "119": {
+        "id": "ARC-Challenge/validation/Mercury_400397",
+        "answer": "C",
+        "instruction": "Które z tych zachowań niedźwiedź najprawdopodobniej nauczył się żyjąc w swoim środowisku?",
+        "option_a": "picie wody",
+        "option_b": "jedzenie ryb",
+        "option_c": "otwieranie pokryw śmietników",
+        "option_d": "ochrona swoich młodych"
+    },
+    "120": {
+        "id": "ARC-Challenge/validation/Mercury_7245088",
+        "answer": "D",
+        "instruction": "Co opisuje skład węglowodanów?",
+        "option_a": "lipidy łączące się, aby tworzyć fosfolipidy",
+        "option_b": "monomery łączące się, aby tworzyć polimery",
+        "option_c": "aminokwasy łączące się, aby tworzyć polipeptydy",
+        "option_d": "sacharydy łączące się, aby tworzyć polisacharydy"
+    },
+    "121": {
+        "id": "ARC-Challenge/validation/Mercury_408809",
+        "answer": "C",
+        "instruction": "U myszy, pewien gatunek wykazuje niepełną dominację w kolorze futra. Potomstwo czarnej myszy (BB) i białej myszy (bb) to myszy szare (Bb). Krzyżówka dwóch myszy szarych najprawdopodobniej wyprodukuje potomstwo z jakim procentem kolorów futra?",
+        "option_a": "25% czarnych, 75% szarych",
+        "option_b": "25% szarych, 75% białych",
+        "option_c": "25% białych, 25% czarnych, 50% szarych",
+        "option_d": "25% szarych, 25% czarnych, 50% białych"
+    },
+    "122": {
+        "id": "ARC-Challenge/validation/Mercury_7068863",
+        "answer": "C",
+        "instruction": "Uczeń zbadał wpływ żelaza na wzrost roślin. Cztery identyczne rośliny otrzymały różne ilości suplementu żelaza podczas podlewania. To badanie mogłoby być ulepszone, gdyby były",
+        "option_a": "dżdżownice w glebie.",
+        "option_b": "mniej roślin w eksperymencie.",
+        "option_c": "rośliny, które otrzymały wodę bez suplementów żelaza.",
+        "option_d": "rośliny, które otrzymały różne ilości światła słonecznego."
+    },
+    "123": {
+        "id": "ARC-Challenge/validation/Mercury_7166880",
+        "answer": "D",
+        "instruction": "Clay obserwuje pogodę, aby przygotować się na jutrzejszą wycieczkę na plażę. Prognoza przewiduje, że system niskiego ciśnienia nadejdzie w nocy. Jakiego rodzaju pogody Clay może się najbardziej spodziewać rano?",
+        "option_a": "mglista",
+        "option_b": "słoneczna",
+        "option_c": "czysta i chłodniejsza",
+        "option_d": "pochmurna i deszczowa"
+    },
+    "124": {
+        "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+        "answer": "A",
+        "instruction": "Która zasada nie jest zasadą bezpieczeństwa w laboratorium naukowym?",
+        "option_a": "Dokładnie odmierzaj płyny do zlewki.",
+        "option_b": "Nigdy nie tnij przedmiotów trzymając je w rękach.",
+        "option_c": "Noś gogle ochronne podczas obsługi niebezpiecznych substancji.",
+        "option_d": "Podczas zauważania zapachów, machaj oparami w kierunku nosa zamiast pochylać się nad źródłem."
+    },
+    "125": {
+        "id": "ARC-Challenge/validation/Mercury_7018445",
+        "answer": "D",
+        "instruction": "Przez jaki materiał dźwięk podróżuje najszybciej?",
+        "option_a": "korek",
+        "option_b": "woda",
+        "option_c": "powietrze",
+        "option_d": "stal"
+    },
+    "126": {
+        "id": "ARC-Challenge/validation/Mercury_7033653",
+        "answer": "C",
+        "instruction": "Jaka jest najlepsza jednostka do mierzenia odległości między Ziemią a innymi układami słonecznymi we wszechświecie?",
+        "option_a": "mile",
+        "option_b": "kilometry",
+        "option_c": "lata świetlne",
+        "option_d": "jednostki astronomiczne"
+    },
+    "127": {
+        "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+        "answer": "D",
+        "instruction": "Cztery pręty o równej grubości, ale wykonane z różnych metali, zostały przetestowane z równą ilością obciążenia, aby sprawdzić, który z nich jest najbardziej elastyczny. Który z poniższych sposobów jest najlepszy do przedstawienia wyników tego eksperymentu?",
+        "option_a": "lista każdego rodzaju użytego pręta",
+        "option_b": "szkic każdego pręta przed testowaniem",
+        "option_c": "tabela pokazująca, ile ważył każdy pręt",
+        "option_d": "wykres słupkowy pokazujący, jak bardzo każdy pręt się wyginał"
+    },
+    "128": {
+        "id": "ARC-Challenge/validation/Mercury_7159268",
+        "answer": "A",
+        "instruction": "Po ostatniej epoce lodowcowej topnienie lodowców polarnych i górskich spowodowało wzrost poziomu wód oceanów. Co najprawdopodobniej było wynikiem podnoszenia się poziomu wód oceanicznych?",
+        "option_a": "wzrost zawartości soli w istniejących mokradłach przybrzeżnych",
+        "option_b": "wzrost liczby organizmów w istniejących rafach",
+        "option_c": "spadek liczby przypływów każdego dnia",
+        "option_d": "spadek głębokości dna oceanu"
+    },
+    "129": {
+        "id": "ARC-Challenge/validation/Mercury_400885",
+        "answer": "D",
+        "instruction": "Która równanie jest zrównoważonym równaniem chemicznym?",
+        "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+        "option_b": "NO + Cl_{2} -> NOCl",
+        "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+        "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+    },
+    "130": {
+        "id": "ARC-Challenge/validation/Mercury_7038273",
+        "answer": "A",
+        "instruction": "Podczas przeprowadzania eksperymentu, student zbiera kilka różnych temperatur wody, dwa pomiary masy i trzy pomiary objętości. Który z tych sposobów byłby najlepszy do zorganizowania danych?",
+        "option_a": "w tabeli",
+        "option_b": "w wykresie",
+        "option_c": "w narracji pisemnej",
+        "option_d": "ilustrowane obrazkami"
+    },
+    "131": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407574",
+        "answer": "A",
+        "instruction": "Jaki gaz jest wydzielany przez producentów, który konsumenci pobierają, aby przeżyć?",
+        "option_a": "tlen",
+        "option_b": "azot",
+        "option_c": "para wodna",
+        "option_d": "dwutlenek węgla"
+    },
+    "132": {
+        "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+        "answer": "B",
+        "instruction": "Gdzie byłoby NAJbardziej niebezpiecznie pracować z narzędziami elektrycznymi?",
+        "option_a": "w garażu",
+        "option_b": "obok basenu",
+        "option_c": "w pobliżu telewizora lub komputera",
+        "option_d": "w chłodnej piwnicy"
+    },
+    "133": {
+        "id": "ARC-Challenge/validation/Mercury_7128695",
+        "answer": "C",
+        "instruction": "Naukowiec dokonuje odkrycia podczas prowadzenia badania, ale nie utrzymuje jasnych zapisów przeprowadzonych testów. W jaki sposób brak prowadzenia dokumentacji wpływa na pracę naukowca?",
+        "option_a": "Unieważnia procedury i wnioski.",
+        "option_b": "Sprawia, że dane uzyskane w badaniu są niepoprawne.",
+        "option_c": "Uniemożliwia innym naukowcom weryfikację wyników.",
+        "option_d": "Zabrania innym naukowcom opracowywania nowych hipotez."
+    },
+    "134": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400178",
+        "answer": "C",
+        "instruction": "Która mieszanka może być rozdzielona na swoje składniki?",
+        "option_a": "chipsy ziemniaczane",
+        "option_b": "ciasto czekoladowe",
+        "option_c": "sałatka owocowa",
+        "option_d": "jajecznica"
+    },
+    "135": {
+        "id": "ARC-Challenge/validation/Mercury_7189823",
+        "answer": "A",
+        "instruction": "Wulkan wybucha i pokrywa otaczający teren lawą i popiołem wulkanicznym. Gdy ekosystem zaczyna się regenerować, jaki rodzaj rośliny najprawdopodobniej jako pierwszy skolonizuje teren w okolicy erupcji?",
+        "option_a": "mchy",
+        "option_b": "dzikie kwiaty",
+        "option_c": "drzewa liściaste",
+        "option_d": "krzewy iglaste"
+    },
+    "136": {
+        "id": "ARC-Challenge/validation/Mercury_412683",
+        "answer": "D",
+        "instruction": "Jaka jest prędkość fali o częstotliwości 2 Hz, która ma długość fali 10 m?",
+        "option_a": "5 m/s",
+        "option_b": "8 m/s",
+        "option_c": "12 m/s",
+        "option_d": "20 m/s"
+    },
+    "137": {
+        "id": "ARC-Challenge/validation/Mercury_184258",
+        "answer": "A",
+        "instruction": "Która z poniższych cech strumienia ma najbardziej bezpośredni wpływ na osady strumieniowe?",
+        "option_a": "gradient",
+        "option_b": "wysokość",
+        "option_c": "poziom podstawowy",
+        "option_d": "jakość wody"
+    },
+    "138": {
+        "id": "ARC-Challenge/validation/Mercury_192168",
+        "answer": "D",
+        "instruction": "Modele naukowe są bardzo powszechne. W jakim celu poniżej model fizyczny byłby najmniej pomocny?",
+        "option_a": "symulowanie zjawisk naukowych",
+        "option_b": "upraszczanie złożonej idei",
+        "option_c": "umożliwianie wizualizacji",
+        "option_d": "wyświetlanie danych"
+    },
+    "139": {
+        "id": "ARC-Challenge/validation/Mercury_LBS10399",
+        "answer": "D",
+        "instruction": "Mikroskop powiększa obiekt 50-krotnie. Jak długo jest obiekt, jeśli obraz wydaje się mieć 0,5 cm długości?",
+        "option_a": "100 cm",
+        "option_b": "25 cm",
+        "option_c": "2,5 cm",
+        "option_d": "0,01 cm"
+    },
+    "140": {
+        "id": "ARC-Challenge/validation/Mercury_7228603",
+        "answer": "C",
+        "instruction": "Który z poniższych jest wynikiem wymiany części chromosomów homologicznych podczas procesu mejozy?",
+        "option_a": "losowe mutacje",
+        "option_b": "zmniejszona liczba gamet",
+        "option_c": "potomstwo z unikalnymi kombinacjami cech",
+        "option_d": "zmniejszona liczba alleli na każdym chromosomie"
+    },
+    "141": {
+        "id": "ARC-Challenge/validation/MEA_2013_5_3",
+        "answer": "D",
+        "instruction": "Słońce jest klasyfikowane jako gwiazda. Która cecha identyfikuje Słońce jako gwiazdę?",
+        "option_a": "Słońce obraca się wokół własnej osi.",
+        "option_b": "Słońce znajduje się poza galaktyką Drogi Mlecznej.",
+        "option_c": "Słońce jest częścią Wielkiej Niedźwiedzicy.",
+        "option_d": "Słońce produkuje światło i energię w reakcji jądrowej."
+    },
+    "142": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+        "answer": "C",
+        "instruction": "Zimą futro lisa arktycznego jest białe. Latem futro ciemnieje do czerwonobrązowego. Co najprawdopodobniej powoduje zmianę koloru futra lisa?",
+        "option_a": "ilość dostępnego światła słonecznego",
+        "option_b": "środowisko lisa",
+        "option_c": "geny lisa",
+        "option_d": "wiek lisa"
+    },
+    "143": {
+        "id": "ARC-Challenge/validation/Mercury_7221095",
+        "answer": "A",
+        "instruction": "Który z tych elementów jest abiotycznym elementem w ekosystemie?",
+        "option_a": "średni roczny opad deszczu w ekosystemie",
+        "option_b": "rodzaje producentów występujących w ekosystemie",
+        "option_c": "wielkość populacji drapieżników w ekosystemie",
+        "option_d": "mikroorganizmy żyjące w glebie ekosystemu"
+    },
+    "144": {
+        "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+        "answer": "C",
+        "instruction": "Para wodna występuje w atmosferze jako ___.",
+        "option_a": "widoczny gaz",
+        "option_b": "widoczna ciecz",
+        "option_c": "niewidoczny gaz",
+        "option_d": "niewidoczna ciecz"
+    },
+    "145": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406939",
+        "answer": "C",
+        "instruction": "Który sposób może spowodować, że kawałek papieru przejdzie zmianę chemiczną?",
+        "option_a": "złożyć papier na pół",
+        "option_b": "namoczyć papier w wodzie",
+        "option_c": "spalić papier ogniem",
+        "option_d": "przeciąć papier nożyczkami"
+    },
+    "146": {
+        "id": "ARC-Challenge/validation/Mercury_7219415",
+        "answer": "C",
+        "instruction": "Który przykład jest funkcją selektywnie przepuszczalnej błony komórkowej?",
+        "option_a": "podtrzymywanie kształtu komórki",
+        "option_b": "produkcja białek dla komórki",
+        "option_c": "ograniczanie chemikaliów, które dyfundują z komórki",
+        "option_d": "przechowywanie produktów odpadowych dla komórki"
+    },
+    "147": {
+        "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+        "answer": "B",
+        "instruction": "Jaki rodzaj mostu wykorzystuje kable do wsparcia?",
+        "option_a": "most kratownicowy",
+        "option_b": "most wiszący",
+        "option_c": "most belkowy",
+        "option_d": "most wspornikowy"
+    },
+    "148": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+        "answer": "D",
+        "instruction": "Gepardy zbliżyły się do wyginięcia z powodu polowań, suszy i chorób. Obecnie w populacjach gepardów jest bardzo mało zmienności genetycznej. Który z poniższych punktów jest wynikiem ograniczonej zmienności genetycznej w obecnych populacjach gepardów w porównaniu do wcześniejszych populacji gepardów z większą zmiennością?",
+        "option_a": "Gepardy w obecnych populacjach są bardziej odporne na nowe choroby.",
+        "option_b": "Wskaźnik przeżywalności młodych gepardów wzrósł w obecnych populacjach.",
+        "option_c": "Gepardy w obecnych populacjach są mniej zdolne do krzyżowania się z innymi gatunkami.",
+        "option_d": "Obecne populacje gepardów są mniej prawdopodobne, aby mogły dostosować się do zmian środowiskowych."
+    },
+    "149": {
+        "id": "ARC-Challenge/validation/Mercury_7135310",
+        "answer": "C",
+        "instruction": "Dlaczego energia wyjściowa maszyny jest zawsze mniejsza niż energia wejściowa?",
+        "option_a": "Część energii jest niszczona podczas pracy maszyny.",
+        "option_b": "Maszyna musi pokonać stałą siłę magnetyzmu.",
+        "option_c": "Użyteczna energia maleje, gdy energia jest przekazywana do otoczenia.",
+        "option_d": "Część energii jest uwalniana jako ciepło podczas konwersji."
+    },
+    "150": {
+        "id": "ARC-Challenge/validation/Mercury_414131",
+        "answer": "C",
+        "instruction": "Co opisuje właściwość wszystkich pierwiastków?",
+        "option_a": "Wszystkie pierwiastki są metalami.",
+        "option_b": "Wszystkie pierwiastki mają sześć elektronów.",
+        "option_c": "Wszystkie pierwiastki są substancjami czystymi.",
+        "option_d": "Wszystkie pierwiastki istnieją w fazie stałej."
+    },
+    "151": {
+        "id": "ARC-Challenge/validation/Mercury_7112753",
+        "answer": "B",
+        "instruction": "Aby zlokalizować populację chrząszczy, naukowcy muszą użyć wysoko wyspecjalizowanego sprzętu. Który czynnik najprawdopodobniej ograniczyłby zdolność do zlokalizowania chrząszczy?",
+        "option_a": "klimat",
+        "option_b": "koszt",
+        "option_c": "wielkość próbki",
+        "option_d": "polityka"
+    },
+    "152": {
+        "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+        "answer": "D",
+        "instruction": "Uczniowie odwiedzili teleskop Morrisa W. Offita znajdujący się w Maryland Space Grant Observatory w Baltimore. Dowiedzieli się o gwiazdach, planetach i Księżycu. Uczniowie zapisali poniższe informacje. • Wzory gwiazd pozostają takie same, ale ich położenie na niebie wydaje się zmieniać. • Słońce, planety i Księżyc wydają się poruszać po niebie. • Proxima Centauri jest najbliższą gwiazdą naszego układu słonecznego. • Polaris jest gwiazdą, która jest częścią wzoru gwiazd zwanego Małym Wozem. Które stwierdzenie najlepiej wyjaśnia, dlaczego słońce wydaje się poruszać po niebie każdego dnia?",
+        "option_a": "Słońce krąży wokół Ziemi.",
+        "option_b": "Ziemia krąży wokół słońca.",
+        "option_c": "Słońce obraca się wokół własnej osi.",
+        "option_d": "Ziemia obraca się wokół własnej osi."
+    },
+    "153": {
+        "id": "ARC-Challenge/validation/Mercury_7236023",
+        "answer": "B",
+        "instruction": "Masa powietrza znajduje się na wysokości 1000 metrów w centrum niskiego ciśnienia burzy na półkuli północnej. Które z poniższych najlepiej opisuje ruch cząsteczek powietrza w tej masie powietrza z powodu warunków burzowych i rotacji Ziemi, gdy masa powietrza przemieszcza się na zewnątrz?",
+        "option_a": "Cząsteczki powietrza poruszają się w górę i w lewo.",
+        "option_b": "Cząsteczki powietrza poruszają się w górę i w prawo.",
+        "option_c": "Cząsteczki powietrza poruszają się w dół i w lewo.",
+        "option_d": "Cząsteczki powietrza poruszają się w dół i w prawo."
+    },
+    "154": {
+        "id": "ARC-Challenge/validation/Mercury_7270008",
+        "answer": "C",
+        "instruction": "Wydobycie węgla metodą odkrywkową polega na usunięciu całej roślinności i skał nad węglem, który jest wydobywany. Które dwa z systemów Ziemi są najbardziej bezpośrednio dotknięte przez wydobycie odkrywkowe?",
+        "option_a": "litosfera i atmosfera",
+        "option_b": "biosfera i hydrosfera",
+        "option_c": "litosfera i biosfera",
+        "option_d": "atmosfera i hydrosfera"
+    },
+    "155": {
+        "id": "ARC-Challenge/validation/Mercury_7099768",
+        "answer": "D",
+        "instruction": "Gdy kula do kręgli jest wypuszczana z ręki kręglarza, energia w kuli jest częściowo",
+        "option_a": "przechowywana w kuli, aż uderzy w kręgle.",
+        "option_b": "zwiększana w miarę jak tarcie działa na kulę.",
+        "option_c": "przekształcana z energii kinetycznej w energię potencjalną grawitacyjną.",
+        "option_d": "przekształcana w ciepło i dźwięk, gdy ma kontakt z podłogą."
+    },
+    "156": {
+        "id": "ARC-Challenge/validation/Mercury_7269238",
+        "answer": "D",
+        "instruction": "Silniki diesla mogą spalać wiele rodzajów paliwa. Które paliwo byłoby najbardziej odnawialnym paliwem dla silnika diesla?",
+        "option_a": "konwencjonalne paliwo diesla",
+        "option_b": "destylowany nafta",
+        "option_c": "konwencjonalnie produkowany olej roślinny",
+        "option_d": "organicznie produkowany olej roślinny"
+    },
+    "157": {
+        "id": "ARC-Challenge/validation/Mercury_7187915",
+        "answer": "A",
+        "instruction": "Amanda i Jake uczyli się o kinetycznych i potencjalnych formach energii w prostym obwodzie elektrycznym. Obwód, który badają, ma baterię, przewody i żarówkę. Która z tych form energii jest energią potencjalną w obwodzie?",
+        "option_a": "energia chemiczna w baterii",
+        "option_b": "energia świetlna z żarówki",
+        "option_c": "energia cieplna tracona z przewodów elektrycznych",
+        "option_d": "energia elektryczna przepływająca przez żarówkę"
+    },
+    "158": {
+        "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+        "answer": "D",
+        "instruction": "Która akcja demonstruje zmianę chemiczną?",
+        "option_a": "Długie włosy są cięte i suszone.",
+        "option_b": "Drewniany ołówek jest ostrzony i łamie się.",
+        "option_c": "Kostka lodu topnieje i staje się przezroczystym płynem.",
+        "option_d": "Żelazny gwóźdź staje się pomarańczowy i łuszczący się na powierzchni."
+    },
+    "159": {
+        "id": "ARC-Challenge/validation/Mercury_7159775",
+        "answer": "A",
+        "instruction": "Janette przeprowadza badanie, aby sprawdzić, które jedzenie sprawia, że czuje się bardziej zmęczona. Codziennie przez cztery dni je jedno z czterech różnych pokarmów o tej samej porze, a następnie zapisuje, jak się czuje. Prosi swoją przyjaciółkę Carmen, aby przeprowadziła to samo badanie, aby sprawdzić, czy uzyska podobne wyniki. Co sprawiłoby, że badanie byłoby najtrudniejsze do powtórzenia?",
+        "option_a": "mierzenie poziomu zmęczenia",
+        "option_b": "upewnienie się, że jedzone są te same pokarmy",
+        "option_c": "zapisywanie obserwacji w tej samej tabeli",
+        "option_d": "upewnienie się, że pokarmy są w tej samej temperaturze"
+    },
+    "160": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402239",
+        "answer": "C",
+        "instruction": "Jaki jest najlepszy sposób na oszczędzanie zasobów naturalnych w domu?",
+        "option_a": "Wyrzucaj wszystkie szklane opakowania do śmieci.",
+        "option_b": "Używaj ręczników papierowych do sprzątania plam.",
+        "option_c": "Skróć czas spędzany pod prysznicem.",
+        "option_d": "Podlewaj trawnik codziennie."
+    },
+    "161": {
+        "id": "ARC-Challenge/validation/Mercury_184013",
+        "answer": "C",
+        "instruction": "Które z poniższych byłoby najmniej destrukcyjne dla ziemi?",
+        "option_a": "trzęsienie ziemi o magnitudzie 7.2",
+        "option_b": "przypływ tropikalnej burzy",
+        "option_c": "burza elektryczna",
+        "option_d": "erupcja wulkanu"
+    },
+    "162": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+        "answer": "D",
+        "instruction": "Które najlepiej wyjaśnia, dlaczego całkowita masa produktu(ów) byłaby mniejsza niż całkowita masa reagentu(ów) po reakcji chemicznej?",
+        "option_a": "Wystąpiła zmiana fizyczna.",
+        "option_b": "Atomów biorących udział w reakcji ubyło masy.",
+        "option_c": "W nowym roztworze powstały osady.",
+        "option_d": "Gazy zostały uwolnione do atmosfery."
+    },
+    "163": {
+        "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+        "answer": "D",
+        "instruction": "Grupa chce dowiedzieć się, czy liczba ptaków wodnych przelatujących przez Arkansas zmienia się z roku na rok. Jaką metodę powinni zastosować, aby zebrać te informacje?",
+        "option_a": "Złapać jak najwięcej ptaków w jednym roku. Zbierać dane na temat lokalizacji każdego ptaka.",
+        "option_b": "W pierwszym dniu wiosny w przyszłym roku policzyć liczbę ptaków nad największym jeziorem w stanie. Porównać dane z danymi z zeszłego roku.",
+        "option_c": "Umieścić obserwatora w lokalizacji na granicy stanu. Niech ta osoba liczy ptaki, gdy przelatują do stanu. Zrób to przez dwa lata.",
+        "option_d": "Wybierz jeden dzień w roku podczas migracji. Policz liczbę ptaków w dziesięciu różnych jeziorach w całym stanie. Zrób to w ten sam dzień każdego roku przez dziesięć lat."
+    },
+    "164": {
+        "id": "ARC-Challenge/validation/Mercury_7183015",
+        "answer": "A",
+        "instruction": "Niedawny artykuł w czasopiśmie naukowym wyjaśnia związek między prądami konwekcyjnymi a tektoniką płyt. Gdy płyn w obrębie płaszcza krąży, powoduje ruch płyt skorupy. Co najprawdopodobniej powoduje krążenie cieczy wewnątrz Ziemi?",
+        "option_a": "przemiany energii",
+        "option_b": "globalne ocieplenie",
+        "option_c": "zmiany pływowe",
+        "option_d": "prądy oceaniczne"
+    },
+    "165": {
+        "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+        "answer": "D",
+        "instruction": "Który z poniższych jest przykładem rozmnażania bezpłciowego?",
+        "option_a": "Żółwie składają zapłodnione jaja w dołku w piasku.",
+        "option_b": "Nasiona powstają w szyszkach po tym, jak pyłek dotrze do szyszek.",
+        "option_c": "Ryby uwalniają komórki jajowe i komórki plemnikowe na powierzchni wody.",
+        "option_d": "Drzewa wysyłają korzeniopodobne wypustki, które produkują nowe pędy."
+    },
+    "166": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401286",
+        "answer": "B",
+        "instruction": "Wiele zagrożonych gatunków zwierząt jest chwytanych, znakowanych, a następnie wypuszczanych z powrotem do ich środowiska. Znak może być kawałkiem kodowanego plastiku lub metalu, który jest umieszczany w bezpiecznym miejscu na ciele. Jaki jest najbardziej prawdopodobny powód oznakowania zwierzęcia?",
+        "option_a": "aby monitorować ich nawyki żywieniowe",
+        "option_b": "aby monitorować ich nawyki wędrówki",
+        "option_c": "aby monitorować ich nawyki snu",
+        "option_d": "aby monitorować ich nawyki rozrodcze"
+    },
+    "167": {
+        "id": "ARC-Challenge/validation/Mercury_7207358",
+        "answer": "C",
+        "instruction": "Nowoczesna teoria atomu jest najlepiej opisana jako wynik której z tych działalności?",
+        "option_a": "eksperymenty Johna Daltona z początku XIX wieku",
+        "option_b": "dyskusje między dwoma ważnymi naukowcami",
+        "option_c": "badania wielu naukowców przez wiele lat",
+        "option_d": "idee atomów Demokryta sprzed ponad 2000 lat"
+    },
+    "168": {
+        "id": "ARC-Challenge/validation/Mercury_7015435",
+        "answer": "A",
+        "instruction": "Jakie są produkty reakcji między mocnym kwasem a mocną zasadą?",
+        "option_a": "sól i woda",
+        "option_b": "dwa różne pierwiastki",
+        "option_c": "słaby kwas i słaba zasada",
+        "option_d": "jony wodoru i jony wodorotlenowe"
+    },
+    "169": {
+        "id": "ARC-Challenge/validation/Mercury_7044678",
+        "answer": "A",
+        "instruction": "Które stwierdzenie najlepiej wyjaśnia, co się dzieje z liściem, gdy stracił niezbędną wodę?",
+        "option_a": "Jego ciśnienie turgorowe maleje.",
+        "option_b": "Jego ciśnienie atmosferyczne maleje.",
+        "option_c": "Jego tempo transpiracji wzrasta.",
+        "option_d": "Jego tempo fotosyntezy wzrasta."
+    },
+    "170": {
+        "id": "ARC-Challenge/validation/Mercury_400905",
+        "answer": "D",
+        "instruction": "Słońce znajduje się w odległości około 1,5 x 10^8 km od Ziemi. Prędkość światła wynosi 3,0 x 10^8 m/s. Jaka jest odległość od Słońca do Ziemi w sekundach świetlnych?",
+        "option_a": "2,0 sekundy świetlne",
+        "option_b": "0,5 sekundy świetlne",
+        "option_c": "2,0 x 10^-3 sekundy świetlne",
+        "option_d": "5,0 x 10^2 sekundy świetlne"
+    },
+    "171": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+        "answer": "D",
+        "instruction": "Co produkuje fotosynteza, co pomaga roślinom rosnąć?",
+        "option_a": "woda",
+        "option_b": "tlen",
+        "option_c": "białko",
+        "option_d": "cukier"
+    },
+    "172": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+        "answer": "D",
+        "instruction": "W wypadku samochodowym pas bezpieczeństwa pomaga zapobiegać obrażeniom, stosując siłę",
+        "option_a": "mniejszą niż siła poruszającego się pasażera",
+        "option_b": "większą niż siła poruszającego się samochodu",
+        "option_c": "w tym samym kierunku co ruch samochodu",
+        "option_d": "w przeciwnym kierunku do ruchu pasażera"
+    },
+    "173": {
+        "id": "ARC-Challenge/validation/Mercury_7141908",
+        "answer": "C",
+        "instruction": "Naukowcy znaleźli nowy gatunek złożonego organizmu na dnie oceanu. Organizm najprawdopodobniej",
+        "option_a": "jest jednokomórkowy.",
+        "option_b": "jest formą bakterii.",
+        "option_c": "składa się z wielu komórek.",
+        "option_d": "nie ma zorganizowanego jądra."
+    },
+    "174": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406029",
+        "answer": "D",
+        "instruction": "Na zajęciach naukowych Mia musiała rysować obraz Księżyca każdej nocy. Jeśli Mia narysowała nowy Księżyc, jaki typ Księżyca narysowała Mia około tydzień później?",
+        "option_a": "wypukły",
+        "option_b": "pełnia",
+        "option_c": "nowy Księżyc",
+        "option_d": "pierwsza kwadra"
+    },
+    "175": {
+        "id": "ARC-Challenge/validation/Mercury_7105123",
+        "answer": "C",
+        "instruction": "Zapiski kopalne wskazują, że zmiany gatunków zazwyczaj",
+        "option_a": "zatrzymują się, gdy gatunek się formuje.",
+        "option_b": "przyspieszają w stabilnych warunkach.",
+        "option_c": "mają miejsce przez wiele pokoleń.",
+        "option_d": "są niezależne od środowiska."
+    },
+    "176": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400339",
+        "answer": "C",
+        "instruction": "Które stwierdzenie nie jest powodem, dla którego drzewa rosną na różnych wysokościach w lesie?",
+        "option_a": "Niektóre wymagają mniej światła słonecznego niż inne.",
+        "option_b": "Drzewa zostały posadzone w różnych latach.",
+        "option_c": "Ptaki budują gniazda w niższych drzewach.",
+        "option_d": "Wyższe drzewa mają liście tylko na górnych gałęziach."
+    },
+    "177": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415366",
+        "answer": "B",
+        "instruction": "Drzewa potrzebują tlenu. Korzenie blisko powierzchni ziemi pobierają tlen, którego drzewo potrzebuje. Które organizmy pomagają drzewom uzyskać tlen?",
+        "option_a": "dzięcioły robiące dziury w drzewie",
+        "option_b": "dżdżownice robiące dziury w ziemi w pobliżu drzewa",
+        "option_c": "grzyby rosnące u podstawy drzewa",
+        "option_d": "wiewiórki jedzące orzechy na ziemi w pobliżu drzewa"
+    },
+    "178": {
+        "id": "ARC-Challenge/validation/Mercury_7168123",
+        "answer": "B",
+        "instruction": "Anita biegała wokół toru w swojej szkole. Na końcu swojego biegu brała więcej powietrza do płuc, a jej tętno wzrosło. Jakie systemy regulują częstość oddechów i tętno Anity?",
+        "option_a": "mięśniowy i szkieletowy",
+        "option_b": "nerwowy i hormonalny",
+        "option_c": "pokarmowy i wydalniczy",
+        "option_d": "oddechowy i krążeniowy"
+    },
+    "179": {
+        "id": "ARC-Challenge/validation/Mercury_7141400",
+        "answer": "A",
+        "instruction": "Rolnik co roku sadzi kukurydzę na polu przez kilka lat. Każdego roku zauważa, że jego produkcja kukurydzy na akr zmniejsza się, mimo że warunki pogodowe były bardzo podobne. Zmiana, w którym czynniku abiotycznym najprawdopodobniej powoduje spadek produkcji kukurydzy?",
+        "option_a": "spadek składników odżywczych w glebie",
+        "option_b": "wzrost opadów",
+        "option_c": "wzrost prędkości wiatru",
+        "option_d": "spadek nasłonecznienia"
+    },
+    "180": {
+        "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+        "answer": "D",
+        "instruction": "Który z poniższych procesów zazwyczaj zajmuje najwięcej czasu?",
+        "option_a": "Gorąca lawa stygnie i tworzy nową skałę.",
+        "option_b": "Para wodna kondensuje, tworząc chmurę.",
+        "option_c": "Fala sejsmiczna przemieszcza się przez płaszcz.",
+        "option_d": "Basen oceaniczny formuje się między dwoma kontynentami."
+    },
+    "181": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406705",
+        "answer": "B",
+        "instruction": "Klasa Anny policzyła liczbę motyli w szkolnym ogrodzie na zadanie. Wyniki Anny różniły się od reszty klasy. Co powinna zrobić?",
+        "option_a": "Zmienić zadanie.",
+        "option_b": "Zostawić wyniki bez zmian.",
+        "option_c": "Dopasować swoje wyniki do klasy.",
+        "option_d": "Poprosić nauczyciela, aby policzył za nią."
+    },
+    "182": {
+        "id": "ARC-Challenge/validation/Mercury_7186148",
+        "answer": "B",
+        "instruction": "Uczeń miesza filiżankę gorącej czekolady łyżką. Jak ciepło jest przekazywane między gorącą czekoladą a częścią łyżki, która jest w gorącej czekoladzie?",
+        "option_a": "Przewodnictwo przekazuje energię z łyżki do gorącej czekolady.",
+        "option_b": "Przewodnictwo przekazuje energię z gorącej czekolady do łyżki.",
+        "option_c": "Konwekcja przekazuje energię z łyżki do gorącej czekolady.",
+        "option_d": "Konwekcja przekazuje energię z gorącej czekolady do łyżki."
+    },
+    "183": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+        "answer": "B",
+        "instruction": "Duże ptaki jadły małe zwierzęta w danym obszarze. Jeśli wszystkie duże ptaki umrą z powodu choroby, liczba małych zwierząt w tym obszarze prawdopodobnie",
+        "option_a": "spadnie",
+        "option_b": "wzrośnie",
+        "option_c": "pozostanie taka sama"
+    },
+    "184": {
+        "id": "ARC-Challenge/validation/Mercury_7005478",
+        "answer": "B",
+        "instruction": "Temperatura ciała ludzkiego jest stosunkowo stała. Jaki mechanizm sprzężenia zwrotnego pomaga ciału ludzkiego utrzymać normalną temperaturę w zimnym otoczeniu?",
+        "option_a": "Woda jest wydalana ze skóry.",
+        "option_b": "Mięśnie drżą w małych ruchach.",
+        "option_c": "Częstotliwość uderzeń serca zwalnia.",
+        "option_d": "Płuca pobierają dodatkowe powietrze."
+    },
+    "185": {
+        "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+        "answer": "D",
+        "instruction": "Które z poniższych byłoby najskuteczniejsze w redukcji zatłoczenia ruchu lotniczego na ruchliwym lotnisku?",
+        "option_a": "zapewnienie informacji zwrotnej o wydajności dla pilotów",
+        "option_b": "zapewnienie informacji o lotach dla pasażerów",
+        "option_c": "zwiększenie liczby samolotów na lotnisku",
+        "option_d": "zwiększenie liczby pasów startowych na lotnisku"
+    },
+    "186": {
+        "id": "ARC-Challenge/validation/Mercury_7037573",
+        "answer": "D",
+        "instruction": "Jakie są najlepsze praktyki do przestrzegania podczas przeprowadzania eksperymentu?",
+        "option_a": "ostrożne obchodzenie się z gorącymi naczyniami szklanymi",
+        "option_b": "wyłączanie palników, gdy ich nie używasz",
+        "option_c": "zapoznanie się z procedurami laboratoryjnymi przed przeprowadzeniem eksperymentu",
+        "option_d": "skonsultowanie się z nauczycielem w sprawie procedury utylizacji chemikaliów"
+    },
+    "187": {
+        "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+        "answer": "B",
+        "instruction": "Cameron szuka nowego biurka. Chce upewnić się, że biurko zmieści się w rogu jego pokoju. Kiedy Cameron szuka nowego biurka, co z poniższych najlepiej pomoże mu upewnić się, że biurko zmieści się?",
+        "option_a": "zdjęcie przedstawiające dywan w jego pokoju",
+        "option_b": "schemat wymiarów jego pokoju",
+        "option_c": "rysunek pokazujący, jak złożyć biurko",
+        "option_d": "lista narzędzi, których potrzebuje do złożenia biurka"
+    },
+    "188": {
+        "id": "ARC-Challenge/validation/Mercury_7092295",
+        "answer": "C",
+        "instruction": "Która akcja tworzy konkurencję między kwestiami środowiskowymi a zyskami ekonomicznymi?",
+        "option_a": "ochrona zagrożonych gatunków dzikich zwierząt",
+        "option_b": "reintrodukcja dzikich zwierząt do ich naturalnych siedlisk",
+        "option_c": "używanie terenów leśnych do budowy domów",
+        "option_d": "używanie autobusów miejskich do transportu"
+    },
+    "189": {
+        "id": "ARC-Challenge/validation/Mercury_7131828",
+        "answer": "C",
+        "instruction": "W wielu tropikalnych obszarach komary mogą przenosić pasożyta, który może powodować chorobę zakaźną u ludzi. Co najlepiej opisuje ten typ relacji między komarami a ludźmi?",
+        "option_a": "drapieżnik-ofiara",
+        "option_b": "konkurencja o zasoby",
+        "option_c": "czynniki biotyczne oddziałujące na siebie",
+        "option_d": "przenoszenie energii między producentem a konsumentem"
+    },
+    "190": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+        "answer": "B",
+        "instruction": "Fanning może sprawić, że ogień z drewna będzie płonął goręcej, ponieważ wachlowanie",
+        "option_a": "sprawia, że jedzenie jest wystarczająco gorące, aby się spalić",
+        "option_b": "dodaje więcej tlenu potrzebnego do spalania",
+        "option_c": "zwiększa ilość drewna, które można spalić",
+        "option_d": "dostarcza energii potrzebnej do podtrzymania ognia"
+    },
+    "191": {
+        "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+        "answer": "B",
+        "instruction": "Przeprowadzono eksperyment z zamkniętym pojemnikiem. Pojemnik zaczyna z temperaturą 70 stopni F i ciśnieniem powietrza 20 psi. Pojemnik jest podgrzewany, a ciśnienie wewnątrz pojemnika rośnie równomiernie wraz ze wzrostem temperatury. Jeśli pojemnik zostanie schłodzony z powrotem do 70 stopni F, jakie będzie ciśnienie powietrza?",
+        "option_a": "10 psi",
+        "option_b": "20 psi",
+        "option_c": "30 psi",
+        "option_d": "40 psi"
+    },
+    "192": {
+        "id": "ARC-Challenge/validation/Mercury_7120908",
+        "answer": "D",
+        "instruction": "Szybowiec to samolot bez silnika. Oprócz rozmiaru, jakie byłyby główne rzeczy do rozważenia przy projektowaniu szybowca, aby pokonać dużą odległość?",
+        "option_a": "wpływ na środowisko i masa",
+        "option_b": "koszt i wpływ na środowisko",
+        "option_c": "wytrzymałość i koszt",
+        "option_d": "masa i wytrzymałość"
+    },
+    "193": {
+        "id": "ARC-Challenge/validation/Mercury_180443",
+        "answer": "C",
+        "instruction": "Która faza Księżyca występuje po rosnącej gibbous?",
+        "option_a": "malejąca gibbous",
+        "option_b": "rosnący sierp",
+        "option_c": "pełnia",
+        "option_d": "nowy Księżyc"
+    },
+    "194": {
+        "id": "ARC-Challenge/validation/Mercury_7238963",
+        "answer": "A",
+        "instruction": "Podwójny podbródek u ludzi jest kodowany przez dominujący allel C. Podbródek bez podwójnego podbródka jest kodowany przez recesywny allel c. Mężczyzna z kombinacją alleli cc dla cechy produkuje zygotę z kobietą z kombinacją alleli Cc dla cechy. Jakie kombinacje alleli mogą wystąpić w zygocie?",
+        "option_a": "Cc lub cc",
+        "option_b": "CC lub Cc",
+        "option_c": "Tylko CC",
+        "option_d": "Tylko Cc"
+    },
+    "195": {
+        "id": "ARC-Challenge/validation/Mercury_184765",
+        "answer": "B",
+        "instruction": "Które z poniższych najprawdopodobniej będzie wynikiem wycinania dużych, ciągłych obszarów lasu?",
+        "option_a": "Procent tlenu w obszarze wzrośnie.",
+        "option_b": "Ilość erozji w obszarze wzrośnie.",
+        "option_c": "Różnorodność gatunków w obszarze wzrośnie.",
+        "option_d": "Składniki odżywcze w glebie w obszarze wzrosną."
+    },
+    "196": {
+        "id": "ARC-Challenge/validation/Mercury_7235813",
+        "answer": "D",
+        "instruction": "Węgiel krąży przez różne rezerwuary na Ziemi. Czas potrzebny do utworzenia tych rezerwuarów znacznie się różni. Który proces w cyklu węglowym zajmuje miliony lat, aby utworzyć wskazany rezerwuar?",
+        "option_a": "włączenie węgla przez trawienie do tkanek zwierzęcych",
+        "option_b": "uwolnienie węgla do atmosfery podczas oddychania",
+        "option_c": "atmosferyczny węgiel włączony do cukrów w roślinach",
+        "option_d": "rozkład węgla w tkankach roślinnych w celu utworzenia ropy"
+    },
+    "197": {
+        "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+        "answer": "B",
+        "instruction": "W lesie, jak dekompozytory pomagają innym organizmom przetrwać?",
+        "option_a": "Uwalniają tlen do powietrza, którym oddychają zwierzęta.",
+        "option_b": "Wprowadzają składniki odżywcze do gleby, które rośliny wykorzystują do wzrostu.",
+        "option_c": "Zapewniają schronienie w lasach, gdzie zwierzęta mogą się ukryć.",
+        "option_d": "Wykorzystują światło słoneczne do wytwarzania pokarmu dla roślin i zwierząt."
+    },
+    "198": {
+        "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+        "answer": "C",
+        "instruction": "Działania ludzi wpływają na środowisko. Które działanie człowieka wpływa na najmniejszy obszar środowiska?",
+        "option_a": "spalanie lasu",
+        "option_b": "spalanie paliw kopalnych",
+        "option_c": "kopanie nowego wysypiska",
+        "option_d": "spryskiwanie upraw chemikaliami"
+    },
+    "199": {
+        "id": "ARC-Challenge/validation/Mercury_7162838",
+        "answer": "D",
+        "instruction": "Laboratoryjne szczury były karmione suplementami z borówek, truskawek lub szpinaku wraz z ich regularnym jedzeniem. Po ośmiu tygodniach szczury przeszły testy pamięci i umiejętności motorycznych. Szczury, które otrzymały suplement z borówek, wykazały największą poprawę. Jaka jest niezależna (manipulowana) zmienna badania?",
+        "option_a": "test umiejętności motorycznych",
+        "option_b": "proces starzenia",
+        "option_c": "test pamięci",
+        "option_d": "suplementy"
+    },
+    "200": {
+        "id": "ARC-Challenge/validation/Mercury_SC_405973",
+        "answer": "B",
+        "instruction": "Na małej wyspie żyje kilka rodzajów ptaków. Burza niszczy większość roślin, na których ptaki się żywią i budują swoje gniazda. Który rodzaj ptaka ma największe szanse na przetrwanie na wyspie?",
+        "option_a": "ptaki, które mają największą liczbę",
+        "option_b": "ptaki, które najlepiej potrafią się przystosować",
+        "option_c": "ptaki, które potrafią latać najdalej",
+        "option_d": "ptaki z najsilniejszymi dziobami"
+    },
+    "201": {
+        "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+        "answer": "B",
+        "instruction": "Które stwierdzenie jest opinią?",
+        "option_a": "Wiele roślin jest zielonych.",
+        "option_b": "Wiele roślin jest pięknych.",
+        "option_c": "Rośliny potrzebują światła słonecznego.",
+        "option_d": "Rośliny mogą rosnąć w różnych miejscach."
+    },
+    "202": {
+        "id": "ARC-Challenge/validation/Mercury_7103180",
+        "answer": "B",
+        "instruction": "Który biom ma najwięcej roślinności?",
+        "option_a": "pustynia",
+        "option_b": "las",
+        "option_c": "łąka",
+        "option_d": "tundra"
+    },
+    "203": {
+        "id": "ARC-Challenge/validation/Mercury_7221865",
+        "answer": "C",
+        "instruction": "Grupa studentów zaobserwowała powstawanie bąbelków, gdy woda wrzała. Co stało się z materią z powodu zmiany fizycznej wody?",
+        "option_a": "Nowa materia została stworzona w bąbelkach.",
+        "option_b": "Stara materia została zniszczona, gdy woda zamieniła się w gaz.",
+        "option_c": "Materiał został zachowany, gdy zmienił formę.",
+        "option_d": "Skład materii uległ zmianie."
+    },
+    "204": {
+        "id": "ARC-Challenge/validation/Mercury_7242743",
+        "answer": "D",
+        "instruction": "Białka, które są syntetyzowane w podjednostkach rybosomowych, przechodzą rozległe modyfikacje potranslacyjne i są pakowane oraz kierowane do odpowiedniego miejsca docelowego. Jaki komponent strukturalny komórki jest zaangażowany w takie modyfikacje?",
+        "option_a": "retikulum endoplazmatyczne",
+        "option_b": "lizosomy",
+        "option_c": "mitochondria",
+        "option_d": "aparat Golgiego"
+    },
+    "205": {
+        "id": "ARC-Challenge/validation/Mercury_7103565",
+        "answer": "C",
+        "instruction": "Systemy wysokiego ciśnienia zatrzymują powietrze przed wznoszeniem się do chłodniejszych regionów atmosfery, gdzie woda może się kondensować. Co najprawdopodobniej się wydarzy, jeśli system wysokiego ciśnienia pozostanie w danym obszarze przez dłuższy czas?",
+        "option_a": "mgła",
+        "option_b": "deszcz",
+        "option_c": "susza",
+        "option_d": "tornado"
+    },
+    "206": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415541",
+        "answer": "D",
+        "instruction": "Który z tych obiektów najprawdopodobniej będzie unosił się na wodzie?",
+        "option_a": "szklana kulka",
+        "option_b": "stalowa kula",
+        "option_c": "twarda kula gumowa",
+        "option_d": "kulka do tenisa stołowego"
+    },
+    "207": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+        "answer": "A",
+        "instruction": "Uczeń wyjmuje tackę na kostki lodu z zamrażarki i kładzie ją na stole. Kostki lodu są stałe i zimne. Uczeń zapomina włożyć tackę z powrotem do zamrażarki. Następnego dnia kostki lodu powinny być",
+        "option_a": "ciekłe i cieplejsze",
+        "option_b": "stałe i cieplejsze",
+        "option_c": "ciekłe i zimniejsze",
+        "option_d": "stałe i zimniejsze"
+    },
+    "208": {
+        "id": "ARC-Challenge/validation/Mercury_7097318",
+        "answer": "D",
+        "instruction": "Wiewiórka upuściła żołądź z gałęzi dębu. Który z tych elementów zmieni się, gdy żołądź spadnie z drzewa na ziemię?",
+        "option_a": "masa żołędzia",
+        "option_b": "siła działająca na żołądź",
+        "option_c": "gęstość żołędzia",
+        "option_d": "prędkość żołędzia"
+    },
+    "209": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+        "answer": "B",
+        "instruction": "Równanie poniżej pokazuje produkty powstałe, gdy roztwór azotanu srebra (AgNO3) reaguje z roztworem chlorku sodu (NaCl). AgNO3 + NaCl (Reaktanty) -> NaNO3 + AgCl (Produkty) W tym równaniu całkowita masa reaktantów jest",
+        "option_a": "większa niż całkowita masa produktów",
+        "option_b": "równa całkowitej masie produktów",
+        "option_c": "równa masie AgCl",
+        "option_d": "mniejsza niż masa AgCl"
+    },
+    "210": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415397",
+        "answer": "C",
+        "instruction": "Która zmiana tworzy strukturę na powierzchni Ziemi?",
+        "option_a": "Powódź zmusza ludzi do opuszczenia miasta.",
+        "option_b": "Trzęsienie ziemi powoduje fale na polu.",
+        "option_c": "Wulkan tworzy nową ziemię z lawy.",
+        "option_d": "Osunięcie się ziemi do zatoki powoduje falę przypływową."
+    },
+    "211": {
+        "id": "ARC-Challenge/validation/Mercury_7246348",
+        "answer": "A",
+        "instruction": "Która cecha nie powstaje w wyniku rozdzielania się płyt tektonicznych?",
+        "option_a": "row",
+        "option_b": "dolina ryftowa",
+        "option_c": "basen oceaniczny",
+        "option_d": "grzbiet śródoceaniczny"
+    },
+    "212": {
+        "id": "ARC-Challenge/validation/Mercury_7270200",
+        "answer": "A",
+        "instruction": "Naukowcy wyjaśnili, jak aminokwasy, węglowodany, kwasy nukleinowe i kwasy tłuszczowe mogły być syntetyzowane na Ziemi przed pojawieniem się organizmów żywych. Które z poniższych odkryć najbardziej wspierałoby twierdzenie, że życie powstało spontanicznie z tych biochemikaliów?",
+        "option_a": "Te chemikalia mogą samodzielnie tworzyć strukturę, która się replikuje.",
+        "option_b": "Te chemikalia są używane przez organizmy żywe dzisiaj.",
+        "option_c": "Te chemikalia znajdują się na innej planecie.",
+        "option_d": "Te chemikalia mogą samodzielnie tworzyć wirusa."
+    },
+    "213": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415026",
+        "answer": "C",
+        "instruction": "Które zwierzęta najprawdopodobniej skorzystają z powodzi w obszarze przybrzeżnym?",
+        "option_a": "jeleń",
+        "option_b": "szop pracz",
+        "option_c": "aligator",
+        "option_d": "kojot"
+    },
+    "214": {
+        "id": "ARC-Challenge/validation/Mercury_7143518",
+        "answer": "D",
+        "instruction": "Bobry są znane z budowania tam wzdłuż rzek i strumieni poprzez wycinanie drzew oraz zbieranie gałęzi i krzewów. Populacja bobrów w Stanach Zjednoczonych zmniejszyła się z powodu pułapek zakładanych przez ludzi. Jaki jest ekologiczny skutek, który najprawdopodobniej występuje przy spadku populacji bobrów?",
+        "option_a": "znaczący spadek populacji ryb",
+        "option_b": "znaczący wzrost ekosystemów leśnych",
+        "option_c": "znaczący wzrost parowania wody",
+        "option_d": "znaczący spadek liczby siedlisk stawowych"
+    },
+    "215": {
+        "id": "ARC-Challenge/validation/Mercury_7032340",
+        "answer": "D",
+        "instruction": "Która z wymienionych opcji przedstawia świat naturalny za pomocą modelu?",
+        "option_a": "czytanie książki o społeczności susłów",
+        "option_b": "oglądanie zdjęcia społeczności susłów",
+        "option_c": "badanie społeczności susłów za pomocą Internetu",
+        "option_d": "obserwowanie społeczności susłów w eksponacie w zoo"
+    },
+    "216": {
+        "id": "ARC-Challenge/validation/Mercury_415263",
+        "answer": "C",
+        "instruction": "Które z poniższych znajduje się w komórce eukariotycznej, ale nie w komórce prokariotycznej?",
+        "option_a": "DNA",
+        "option_b": "cytoplazma",
+        "option_c": "jądro",
+        "option_d": "błona komórkowa"
+    },
+    "217": {
+        "id": "ARC-Challenge/validation/Mercury_7090720",
+        "answer": "B",
+        "instruction": "Ethanol jest alternatywnym paliwem wytwarzanym z kukurydzy. Jaki jest jeden z niekorzystnych skutków używania etanolu jako paliwa?",
+        "option_a": "zmniejszenie kosztów produkcji paliwa",
+        "option_b": "zmniejszenie powierzchni użytków rolnych dostępnych do produkcji żywności",
+        "option_c": "wzrost zużycia paliw kopalnych",
+        "option_d": "zwiększenie śladu węglowego związane z prowadzeniem samochodów"
+    },
+    "218": {
+        "id": "ARC-Challenge/validation/Mercury_SC_410964",
+        "answer": "D",
+        "instruction": "Uczniowie badają, jak działa dzwonek do drzwi. Która z poniższych obserwacji jest najbardziej prawdopodobna podczas badania?",
+        "option_a": "Wszystkie dzwonki do drzwi wydają ładne dźwięki.",
+        "option_b": "Bateria jest najlepszym źródłem zasilania dla dzwonka do drzwi.",
+        "option_c": "Większość ludzi woli używać dzwonka do drzwi zamiast pukać.",
+        "option_d": "Dzwonek do drzwi używa kawałka drutu owiniętego wokół magnesu."
+    },
+    "219": {
+        "id": "ARC-Challenge/validation/Mercury_7057313",
+        "answer": "A",
+        "instruction": "Mięsień sercowy najlepiej opisuje się jako",
+        "option_a": "ten sam rodzaj komórek współpracujących ze sobą.",
+        "option_b": "różne systemy współpracujące ze sobą.",
+        "option_c": "ten sam rodzaj organów tworzących system.",
+        "option_d": "różne organy wykonujące funkcję."
+    },
+    "220": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402101",
+        "answer": "D",
+        "instruction": "Jakie cechy można znaleźć na powierzchni zarówno Ziemi, jak i Księżyca?",
+        "option_a": "rośliny",
+        "option_b": "oceany",
+        "option_c": "zwierzęta",
+        "option_d": "góry"
+    },
+    "221": {
+        "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+        "answer": "C",
+        "instruction": "Niektóre gatunki bakterii produkują substancję, która jest toksyczna dla owadów, ale nieszkodliwa dla ludzi. Naukowcy wyizolowali gen, który kontroluje produkcję tej substancji. Który z poniższych powodów jest najlepszy do wprowadzenia tego genu do roślin kukurydzy?",
+        "option_a": "Kukurydza będzie rosła szybciej.",
+        "option_b": "Będzie potrzebne mniej nawozów.",
+        "option_c": "Będzie potrzebne mniej pestycydów.",
+        "option_d": "Kukurydza będzie bardziej odżywcza."
+    },
+    "222": {
+        "id": "ARC-Challenge/validation/Mercury_7038133",
+        "answer": "B",
+        "instruction": "Uczeń planuje badanie, aby obliczyć prędkości różnych piłek, gdy toczą się po rampie. Która informacja jest najmniej potrzebna do zapisania przez ucznia?",
+        "option_a": "rozmiar każdej piłki",
+        "option_b": "grubość rampy",
+        "option_c": "długość rampy",
+        "option_d": "czas, jaki zajmuje piłce przebycie drogi"
+    },
+    "223": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407169",
+        "answer": "D",
+        "instruction": "Gdy siedlisko z małym stawem przechodzi przez długą suszę, co najprawdopodobniej stanie się z wieloma rybami w stawie?",
+        "option_a": "Dostosują się do suchego środowiska.",
+        "option_b": "Będą żyły z innych źródeł wody.",
+        "option_c": "Przeniosą się do innego siedliska.",
+        "option_d": "Nie będą w stanie przeżyć."
+    },
+    "224": {
+        "id": "ARC-Challenge/validation/Mercury_7103215",
+        "answer": "C",
+        "instruction": "Uczeń chce określić wpływ czosnku na wzrost gatunku grzyba. Kilka próbek kultur grzybów jest hodowanych w tej samej ilości agaru i światła. Każdej próbce przypisano inną ilość czosnku. Jaka jest zmienna niezależna w tym badaniu?",
+        "option_a": "ilość agaru",
+        "option_b": "ilość światła",
+        "option_c": "ilość czosnku",
+        "option_d": "ilość wzrostu"
+    },
+    "225": {
+        "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+        "answer": "B",
+        "instruction": "Która z poniższych części komórki roślinnej ma funkcję najbardziej podobną do funkcji szkieletu zwierzęcego?",
+        "option_a": "błona komórkowa",
+        "option_b": "ściana komórkowa",
+        "option_c": "chloroplast",
+        "option_d": "jądro"
+    },
+    "226": {
+        "id": "ARC-Challenge/validation/Mercury_7018008",
+        "answer": "A",
+        "instruction": "Co najlepiej opisuje właściwość elektryczną atomu?",
+        "option_a": "neutralny",
+        "option_b": "izolowany",
+        "option_c": "naładowany dodatnio",
+        "option_d": "naładowany ujemnie"
+    },
+    "227": {
+        "id": "ARC-Challenge/validation/Mercury_7166530",
+        "answer": "B",
+        "instruction": "Ira musiał nadrobić badanie laboratoryjne po szkole. Otrzymał materiały, chemikalia, sprzęt i środki ochrony osobistej od swojego nauczyciela. Szybko, ale ostrożnie, przeprowadził kroki w napisanej procedurze eksperymentu. Aby zaoszczędzić czas, postanowił zapisać swoje obserwacje i wyniki później. Co najprawdopodobniej zostanie negatywnie dotknięte przez jego decyzję?",
+        "option_a": "zdolność do przestrzegania instrukcji",
+        "option_b": "zdolność do napisania ważnego raportu",
+        "option_c": "zdolność do przestrzegania zasad bezpieczeństwa",
+        "option_d": "zdolność do wyciągania wniosków"
+    },
+    "228": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400047",
+        "answer": "B",
+        "instruction": "Uczeń zostawił tabliczkę czekolady na słońcu w gorący dzień. Gdy czekolada się roztopiła, która właściwość się zmieniła?",
+        "option_a": "jej masa",
+        "option_b": "jej kształt",
+        "option_c": "jej waga",
+        "option_d": "jej skład"
+    },
+    "229": {
+        "id": "ARC-Challenge/validation/Mercury_7044100",
+        "answer": "C",
+        "instruction": "W jaki sposób składniki odżywcze w glebie na gruntach rolniczych mogą być wyczerpane?",
+        "option_a": "przeżuwanie",
+        "option_b": "erozja wiatrowa",
+        "option_c": "zwiększone nawadnianie",
+        "option_d": "zwiększone nawożenie"
+    },
+    "230": {
+        "id": "ARC-Challenge/validation/Mercury_7075145",
+        "answer": "A",
+        "instruction": "Który z tych procesów umożliwia komórkom pobieranie wody?",
+        "option_a": "osmoza",
+        "option_b": "mitoza",
+        "option_c": "fotosynteza",
+        "option_d": "oddychanie"
+    },
+    "231": {
+        "id": "ARC-Challenge/validation/Mercury_192290",
+        "answer": "D",
+        "instruction": "Chociaż należą do tej samej rodziny, orzeł i pelikan są różni. Jaka jest jedna różnica między nimi?",
+        "option_a": "ich preferencje dotyczące jedzenia ryb",
+        "option_b": "ich zdolność do latania",
+        "option_c": "ich metoda rozmnażania",
+        "option_d": "ich metoda łapania jedzenia"
+    },
+    "232": {
+        "id": "ARC-Challenge/validation/Mercury_7093975",
+        "answer": "D",
+        "instruction": "Jaki jest naturalny powód wysychania rzek?",
+        "option_a": "zanieczyszczenie",
+        "option_b": "erozja",
+        "option_c": "wzrost poziomu wód gruntowych",
+        "option_d": "brak opadów"
+    },
+    "233": {
+        "id": "ARC-Challenge/validation/Mercury_7085820",
+        "answer": "D",
+        "instruction": "Gdy woda zaczyna zamarzać, cząsteczki wody",
+        "option_a": "zyskują energię termalną.",
+        "option_b": "poruszają się swobodniej.",
+        "option_c": "zwiększają swój rozmiar.",
+        "option_d": "zmniejszają prędkość."
+    },
+    "234": {
+        "id": "ARC-Challenge/validation/MEA_2016_5_6",
+        "answer": "C",
+        "instruction": "Balon napełniony wodą jest umieszczany w zamrażarce. Która właściwość wody zmieni się, gdy woda osiągnie punkt zamarzania?",
+        "option_a": "kolor",
+        "option_b": "masa",
+        "option_c": "stan",
+        "option_d": "ciężar"
+    },
+    "235": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+        "answer": "B",
+        "instruction": "Co musi się zdarzyć, zanim mogą powstać chmury?",
+        "option_a": "Para wodna musi się ogrzać.",
+        "option_b": "Para wodna musi stracić energię cieplną.",
+        "option_c": "Opady muszą zacząć spadać i spływać.",
+        "option_d": "Transpiracja musi dodać parę wodną do atmosfery."
+    },
+    "236": {
+        "id": "ARC-Challenge/validation/Mercury_7250023",
+        "answer": "A",
+        "instruction": "Wszystkie komórki, prokariotyczne i eukariotyczne, mają kilka wspólnych cech. Która cecha komórkowa występuje zarówno w komórkach prokariotycznych, jak i eukariotycznych?",
+        "option_a": "rybosom",
+        "option_b": "błona chloroplastu",
+        "option_c": "jądro",
+        "option_d": "siateczka śródplazmatyczna"
+    },
+    "237": {
+        "id": "ARC-Challenge/validation/Mercury_7003955",
+        "answer": "D",
+        "instruction": "Jakiego rodzaju ładunek mają poszczególne włosy, gdy stoją na końcach z powodu elektryczności statycznej?",
+        "option_a": "ładunki neutralne",
+        "option_b": "wyładowanie neutralne",
+        "option_c": "stały ładunek dodatni",
+        "option_d": "tymczasowe ładunki dodatnie"
+    },
+    "238": {
+        "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+        "answer": "D",
+        "instruction": "Wiatr jest naturalnym zasobem, który przynosi korzyści południowo-wschodnim brzegom Zatoki Chesapeake. W jaki sposób te wiatry mogą najlepiej przynieść korzyści ludziom?",
+        "option_a": "Wiatry mogą zdmuchiwać wycieki ropy do zatoki.",
+        "option_b": "Wiatry mogą być przekształcone w paliwo kopalne.",
+        "option_c": "Wiatry mogą zdmuchiwać zanieczyszczenia powietrza w kierunku lądu.",
+        "option_d": "Wiatry mogą być przekształcone w energię elektryczną."
+    },
+    "239": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+        "answer": "D",
+        "instruction": "Jak długo trwa Ziemi wykonanie jednej pełnej orbity wokół Słońca?",
+        "option_a": "dzień",
+        "option_b": "tydzień",
+        "option_c": "miesiąc",
+        "option_d": "rok"
+    },
+    "240": {
+        "id": "ARC-Challenge/validation/Mercury_SC_411306",
+        "answer": "D",
+        "instruction": "Niektóre różne rodzaje roślin mają cechy wspólne. Jaką cechę większość roślin dzieli?",
+        "option_a": "rozmiar ich korzeni",
+        "option_b": "kształt ich liści",
+        "option_c": "kolor ich kwiatów",
+        "option_d": "struktura ich komórek"
+    },
+    "241": {
+        "id": "ARC-Challenge/validation/Mercury_7241115",
+        "answer": "C",
+        "instruction": "Które zdarzenie najprawdopodobniej umożliwiło eksplozję różnorodności ssaków, która miała miejsce w okresie kredy?",
+        "option_a": "powstanie superkontynentu Pangea",
+        "option_b": "intensywna aktywność wulkaniczna",
+        "option_c": "niższe temperatury",
+        "option_d": "wzrost poziomu mórz"
+    },
+    "242": {
+        "id": "ARC-Challenge/validation/Mercury_7042735",
+        "answer": "C",
+        "instruction": "W klasie naukowej powstaje roztwór wody i nietoksycznego związku. Co należy zrobić z roztworem po zakończeniu demonstracji?",
+        "option_a": "Należy go wlać do odpływu.",
+        "option_b": "Należy go wlać do pojemnika na recykling.",
+        "option_c": "Należy go wlać do pojemnika na odpady.",
+        "option_d": "Należy go umieścić w pojemniku na odpady niebezpieczne."
+    },
+    "243": {
+        "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+        "answer": "D",
+        "instruction": "Który z poniższych jest głównym rodzajem naprężenia, które stały imadło wywiera na kawałek drewna?",
+        "option_a": "naprężenie rozciągające",
+        "option_b": "naprężenie ścinające",
+        "option_c": "naprężenie skręcające",
+        "option_d": "naprężenie ściskające"
+    },
+    "244": {
+        "id": "ARC-Challenge/validation/Mercury_176015",
+        "answer": "D",
+        "instruction": "Grupa studentów bada dwie substancje, aby określić, która to sól kuchenna, a która to cukier. Jak studenci najlepiej zidentyfikują każdą substancję?",
+        "option_a": "poprzez zauważenie, czy rozpuszczają się w wodzie",
+        "option_b": "poprzez badanie koloru substancji",
+        "option_c": "poprzez obserwację, czy przylegają do powierzchni",
+        "option_d": "poprzez badanie kształtu kryształu"
+    },
+    "245": {
+        "id": "ARC-Challenge/validation/Mercury_7215180",
+        "answer": "C",
+        "instruction": "Naukowcy zbierają próbki granitu w górach zachodniego Nevady. Który z tych formatów jest najlepszy do wyświetlania i porównywania procentu minerałów znalezionych w jednej próbce granitu?",
+        "option_a": "wykres słupkowy",
+        "option_b": "wykres liniowy",
+        "option_c": "wykres kołowy",
+        "option_d": "wykres punktowy"
+    },
+    "246": {
+        "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+        "answer": "B",
+        "instruction": "Zwierzę ma sześć nóg. Czym najprawdopodobniej jest?",
+        "option_a": "pająkiem",
+        "option_b": "muszką",
+        "option_c": "jaszczurką",
+        "option_d": "stonogą"
+    },
+    "247": {
+        "id": "ARC-Challenge/validation/Mercury_177818",
+        "answer": "C",
+        "instruction": "Czas między nocą a dniem na Ziemi zmienia się w ciągu roku. Ta zmiana czasu jest wyjaśniana głównie przez",
+        "option_a": "położenie Słońca.",
+        "option_b": "położenie Księżyca.",
+        "option_c": "kąt nachylenia Ziemi",
+        "option_d": "odległość Ziemi od Słońca"
+    },
+    "248": {
+        "id": "ARC-Challenge/validation/Mercury_SC_405487",
+        "answer": "B",
+        "instruction": "Pewnego roku dęby w parku zaczęły produkować więcej żołędzi niż zwykle. W następnym roku populacja wiewiórek w parku również wzrosła. Co najlepiej wyjaśnia, dlaczego w następnym roku było więcej wiewiórek?",
+        "option_a": "Zwiększyły się zacienione obszary.",
+        "option_b": "Zwiększyły się źródła pożywienia.",
+        "option_c": "Zwiększyły się poziomy tlenu.",
+        "option_d": "Zwiększyła się dostępna woda."
+    },
+    "249": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400612",
+        "answer": "C",
+        "instruction": "Powierzchnia Ziemi zmienia się nieustannie w wyniku wietrzenia i erozji. W porównaniu do Ziemi, na Księżycu występuje niewielkie wietrzenie i erozja z powodu",
+        "option_a": "braku grawitacji na Księżycu.",
+        "option_b": "cienkiej atmosfery na Księżycu.",
+        "option_c": "braku powietrza i wody na Księżycu.",
+        "option_d": "braku żywych istot na Księżycu."
+    },
+    "250": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400655",
+        "answer": "A",
+        "instruction": "Która z tych zmian jest największa, którą można zaobserwować między latem a zimą?",
+        "option_a": "ilości światła dziennego",
+        "option_b": "wysokości fal oceanicznych",
+        "option_c": "liczby burz",
+        "option_d": "rozmiary chmur"
+    },
+    "251": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415735",
+        "answer": "C",
+        "instruction": "Anya położyła kostkę lodu na chodniku w ciepły dzień. Kostka lodu szybko się roztopiła, tworząc kałużę. Jaki proces spowodował, że kostka lodu się roztopiła?",
+        "option_a": "Ciepło przekazywane przez kostkę lodu przez konwekcję.",
+        "option_b": "Ciepło przekazywane z powietrza do kostki lodu przez promieniowanie.",
+        "option_c": "Ciepło przekazywane z powietrza i chodnika przez przewodnictwo.",
+        "option_d": "Ciepło przekazywane przez kostkę lodu do chodnika przez przewodnictwo."
+    },
+    "252": {
+        "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+        "answer": "D",
+        "instruction": "Merkury, planeta najbliższa Słońcu, ma ekstremalne temperatury powierzchni, wahające się od 465°C w świetle słonecznym do -180°C w ciemności. Dlaczego występuje tak duży zakres temperatur na Merkurym?",
+        "option_a": "Planeta jest zbyt mała, aby zatrzymać ciepło.",
+        "option_b": "Planeta jest ogrzewana tylko z jednej strony.",
+        "option_c": "Planeta odbija ciepło ze swojej ciemnej strony.",
+        "option_d": "Planeta nie ma atmosfery, aby zatrzymać ciepło."
+    },
+    "253": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+        "answer": "B",
+        "instruction": "Dlaczego samce owadów byłyby poddawane leczeniu w celu zapobieżenia produkcji plemników?",
+        "option_a": "Aby zwiększyć liczbę samic owadów",
+        "option_b": "Aby zmniejszyć całkowitą populację owadów",
+        "option_c": "Aby wyhodować nowe gatunki owadów",
+        "option_d": "Aby zapobiec parzeniu się owadów"
+    },
+    "254": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+        "answer": "D",
+        "instruction": "Główną funkcją pnia drzewa jest zapewnienie",
+        "option_a": "powietrza",
+        "option_b": "owoców",
+        "option_c": "światła słonecznego",
+        "option_d": "wsparcia"
+    },
+    "255": {
+        "id": "ARC-Challenge/validation/Mercury_7017990",
+        "answer": "A",
+        "instruction": "Która akcja nie reprezentuje procedury bezpieczeństwa w laboratorium?",
+        "option_a": "smakowanie próbek chemicznych",
+        "option_b": "używanie rękawic odpornych na ciepło, jeśli szkło jest gorące",
+        "option_c": "wiązać długie włosy",
+        "option_d": "mycie chemicznego rozprysku dużą ilością wody"
+    },
+    "256": {
+        "id": "ARC-Challenge/validation/Mercury_7264023",
+        "answer": "D",
+        "instruction": "Który z tych pierwiastków prawdopodobnie nie występuje w związku organicznym?",
+        "option_a": "węgiel",
+        "option_b": "wodór",
+        "option_c": "azot",
+        "option_d": "potas"
+    },
+    "257": {
+        "id": "ARC-Challenge/validation/Mercury_7138513",
+        "answer": "A",
+        "instruction": "Wyspa ma wiele rodzajów ptaków, brak rodzimych gatunków węży i niewiele dużych drapieżników. Węże brązowe zjadają jaja ptaków. Jaki jest najbardziej prawdopodobny skutek przypadkowego uwolnienia węży brązowych na wyspie?",
+        "option_a": "więcej węży i mniej ptaków",
+        "option_b": "więcej węży i więcej ptaków",
+        "option_c": "mniej węży i mniej ptaków",
+        "option_d": "mniej węży i więcej ptaków"
+    },
+    "258": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401663",
+        "answer": "B",
+        "instruction": "Jakie obiekty student może umieścić w kompoście, aby oszczędzać zasoby?",
+        "option_a": "nawozy",
+        "option_b": "rośliny fasoli",
+        "option_c": "szklane kolby",
+        "option_d": "plastikowe pipety"
+    },
+    "259": {
+        "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+        "answer": "C",
+        "instruction": "Duża ilość osadów jest unoszona przez wodę, gdy woda płynie w dół w rzekach i strumieniach. Kiedy woda w rzece lub strumieniu płynie szybko, a następnie zaczyna zwalniać, co prawdopodobnie stanie się z cząstkami osadów, które woda niesie?",
+        "option_a": "Ilość większych cząstek osadów niesionych przez wodę wzrośnie.",
+        "option_b": "Ilość mniejszych cząstek osadów niesionych przez wodę wzrośnie.",
+        "option_c": "Ilość większych cząstek osadów niesionych przez wodę zmniejszy się.",
+        "option_d": "Ilość mniejszych cząstek osadów niesionych przez wodę zmniejszy się."
+    },
+    "260": {
+        "id": "ARC-Challenge/validation/Mercury_7195440",
+        "answer": "B",
+        "instruction": "Każdego roku wycina się około 50 milionów akrów tropikalnych lasów deszczowych. Jaki efekt najprawdopodobniej wyniknie z wycinki tych lasów?",
+        "option_a": "zmniejszenie erozji gleby",
+        "option_b": "zmniejszenie bioróżnorodności",
+        "option_c": "poprawa jakości powietrza",
+        "option_d": "poprawa jakości wody"
+    },
+    "261": {
+        "id": "ARC-Challenge/validation/Mercury_7220378",
+        "answer": "C",
+        "instruction": "Zmiany klimatyczne mogą zmniejszać ilość lodu unoszącego się na oceanach świata. W jaki sposób ta zmiana najprawdopodobniej wpłynie na dostępność pożywienia dla organizmów konsumenckich w wodzie?",
+        "option_a": "poprzez zmniejszenie ilości soli rozpuszczonej w wodzie oceanicznej",
+        "option_b": "poprzez zwiększenie zdolności wody do rozdzielania się na wyraźne warstwy",
+        "option_c": "poprzez zmianę warunków temperaturowych, które są wymagane przez organizmy jednokomórkowe produkujące",
+        "option_d": "poprzez uniemożliwienie organizmom szybkiej reakcji na zmiany środowiskowe"
+    },
+    "262": {
+        "id": "ARC-Challenge/validation/Mercury_7234483",
+        "answer": "B",
+        "instruction": "Obecna, dominująca teoria pochodzenia życia na Ziemi zależy od substancji prebiotycznych, które rozwinęły którą właściwość jako pierwszą?",
+        "option_a": "stabilne oddzielenie od swojego otoczenia",
+        "option_b": "złożenie w struktury samoreplikujące się",
+        "option_c": "przechowywanie cech w formie chemicznie zakodowanej",
+        "option_d": "akumulacja cząsteczek magazynujących energię"
+    },
+    "263": {
+        "id": "ARC-Challenge/validation/Mercury_7179358",
+        "answer": "B",
+        "instruction": "Ekosystem ognia szczytowego wymaga okresowych pożarów lasów, aby utrzymać stabilność. Który z tych wyników byłby najbardziej prawdopodobny, gdyby zapobiegano naturalnym pożarom w tym ekosystemie?",
+        "option_a": "Gatunki sosnowe rozmnażałyby się szybciej.",
+        "option_b": "Gatunki liściaste zastąpiłyby gatunki sosnowe.",
+        "option_c": "Obszary palne byłyby łatwiejsze do opanowania.",
+        "option_d": "Drzewa rozprzestrzeniłyby się na wcześniej nieleśne obszary."
+    },
+    "264": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+        "answer": "C",
+        "instruction": "W jaki sposób palenie tytoniu najprawdopodobniej negatywnie wpłynie na zdolność jednostki do odniesienia sukcesu w aktywnościach fizycznych?",
+        "option_a": "Zakłóca równowagę i koordynację.",
+        "option_b": "Zmniejsza zdolność do szybkiego podejmowania decyzji.",
+        "option_c": "Zmniejsza wytrzymałość i wydolność sercowo-naczyniową.",
+        "option_d": "Zmniejsza prędkość i siłę skurczów mięśni."
+    },
+    "265": {
+        "id": "ARC-Challenge/validation/Mercury_7100695",
+        "answer": "D",
+        "instruction": "Która struktura geologiczna najprawdopodobniej zajmie najwięcej czasu na uformowanie?",
+        "option_a": "uskok",
+        "option_b": "zapadlisko",
+        "option_c": "meander rzeki",
+        "option_d": "łańcuch górski"
+    },
+    "266": {
+        "id": "ARC-Challenge/validation/MEA_2016_5_7",
+        "answer": "B",
+        "instruction": "Uczeń obserwuje, że jednokomórkowy organizm i liść rośliny mają podobne zielone części. Uczeń myśli, że oba organizmy używają zielonych części do życia. Jakie dowody wspierają wniosek, że oba organizmy potrzebują zielonych części do życia?",
+        "option_a": "Oba organizmy używają zielonych części do poruszania się.",
+        "option_b": "Oba organizmy umierają, jeśli zielone części zostaną usunięte.",
+        "option_c": "Zielone części w obu organizmach są obserwowane, gdy wytwarzają światło.",
+        "option_d": "Zielone części w obu organizmach mogą wytwarzać więcej zielonych części."
+    },
+    "267": {
+        "id": "ARC-Challenge/validation/Mercury_7027230",
+        "answer": "A",
+        "instruction": "Który obszar tematyczny byłby najlepszy do zbadania, aby znaleźć sposoby na zmniejszenie problemów środowiskowych spowodowanych przez ludzi?",
+        "option_a": "przekształcanie światła słonecznego w energię elektryczną",
+        "option_b": "poszukiwanie nowych złóż węgla",
+        "option_c": "znajdowanie zbiorników zawierających ropę naftową",
+        "option_d": "przekształcanie lasów w użytki rolne"
+    },
+    "268": {
+        "id": "ARC-Challenge/validation/Mercury_7245053",
+        "answer": "B",
+        "instruction": "Który z poniższych związków jest związkiem organicznym?",
+        "option_a": "woda (H2O)",
+        "option_b": "heksan (C6H14)",
+        "option_c": "amoniak (NH3)",
+        "option_d": "dwutlenek siarki (SO2)"
+    },
+    "269": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+        "answer": "A",
+        "instruction": "Główną funkcją nasiona rośliny jest",
+        "option_a": "przechowywanie pokarmu do wykorzystania podczas wczesnego rozwoju",
+        "option_b": "przyciąganie pyłku do wykorzystania podczas rozwoju",
+        "option_c": "pochłanianie energii świetlnej do wykorzystania podczas fotosyntezy",
+        "option_d": "produkcja chlorofilu do wykorzystania podczas fotosyntezy"
+    },
+    "270": {
+        "id": "ARC-Challenge/validation/Mercury_7189035",
+        "answer": "D",
+        "instruction": "Scott patrzył na wyniki krzyżówki czerwonych i białych kwiatów. Jaki jest najbardziej prawdopodobny wynik krzyżówki, która demonstruje niepełną dominację?",
+        "option_a": "0% różowych kwiatów",
+        "option_b": "25% białych kwiatów",
+        "option_c": "50% czerwonych kwiatów",
+        "option_d": "100% różowych kwiatów"
+    },
+    "271": {
+        "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+        "answer": "B",
+        "instruction": "Jolie chciała zjeść jajko na twardo na śniadanie. Włożyła jajko do wrzącej wody na piętnaście minut. Kiedy złamała skorupkę, płynne części jajka stały się stałe. To było spowodowane",
+        "option_a": "podgrzewanie usunęło wodę z jajka.",
+        "option_b": "podgrzewanie zmieniło wiązania chemiczne w jajku.",
+        "option_c": "wrzenie przyniosło stałe części jajka na powierzchnię.",
+        "option_d": "bakterie żyjące w płynnej części jajka zostały zabite."
+    },
+    "272": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400172",
+        "answer": "A",
+        "instruction": "Który naukowiec twierdził, że Ziemia jest centrum wszechświata?",
+        "option_a": "Arystoteles",
+        "option_b": "Kopernik",
+        "option_c": "Einstein",
+        "option_d": "Newton"
+    },
+    "273": {
+        "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+        "answer": "D",
+        "instruction": "Samice fok zazwyczaj wracają na te same plaże rok po roku, aby rodzić. Jeśli będą wielokrotnie niepokojone przez ludzi na tych plażach, jak najprawdopodobniej zareagują foki?",
+        "option_a": "Zmienią kolor.",
+        "option_b": "Urodzą więcej szczeniąt.",
+        "option_c": "Będą częściej polować na jedzenie.",
+        "option_d": "Będą rodzić na innych plażach."
+    },
+    "274": {
+        "id": "ARC-Challenge/validation/MEA_2010_8_11",
+        "answer": "A",
+        "instruction": "Kiedy ruch cząsteczek cieczy wody zwalnia, co najprawdopodobniej się dzieje?",
+        "option_a": "Ciecz wody tworzy ciało stałe.",
+        "option_b": "Ciecz wody kondensuje.",
+        "option_c": "Ciecz wody przechodzi w reakcję chemiczną.",
+        "option_d": "Ciecz wody staje się parą."
+    },
+    "275": {
+        "id": "ARC-Challenge/validation/Mercury_7187058",
+        "answer": "A",
+        "instruction": "Każdej nocy Johnny czyta obok lampy, która jest oświetlana żarówką. Jaki jest najlepszy wskaźnik, że transfer energii elektrycznej do lampy jest nieefektywny?",
+        "option_a": "Żarówka się nagrzewa.",
+        "option_b": "Żarówka produkuje światło.",
+        "option_c": "Lampa używa miedzianych przewodów.",
+        "option_d": "Lampę można wyłączyć za pomocą przełącznika."
+    },
+    "276": {
+        "id": "ARC-Challenge/validation/Mercury_7185133",
+        "answer": "A",
+        "instruction": "Tracey uczyła się o organizacji strukturalnej u zwierząt. Jaki poziom organizacji strukturalnej najlepiej opisuje jajko?",
+        "option_a": "komórka",
+        "option_b": "tkanka",
+        "option_c": "układ",
+        "option_d": "organ"
+    },
+    "277": {
+        "id": "ARC-Challenge/validation/Mercury_7183733",
+        "answer": "B",
+        "instruction": "W Everglades, stan ciała amerykańskiego aligatora jest ściśle związany z głębokością wody. Gdy poziom wody wzrasta zbyt wysoko, gatunki zwierząt rozprzestrzeniają się na szerszym obszarze, co powoduje spadek stanu ciała z powodu niemożności znalezienia wystarczających źródeł pokarmu. Gdy poziom wody opada, gatunki zwierząt gromadzą się w mniejszych obszarach, co pozwala aligatorom na skuteczniejsze polowanie. Ten scenariusz jest przykładem tego, jak przetrwanie aligatorów zależy od ograniczenia którego czynnika?",
+        "option_a": "wskaźnik rozkładu",
+        "option_b": "powierzchnia siedliska ofiary",
+        "option_c": "wydajność producentów",
+        "option_d": "wymiana wody"
+    },
+    "278": {
+        "id": "ARC-Challenge/validation/Mercury_7205345",
+        "answer": "D",
+        "instruction": "Kiedy produkowana jest sól kuchenna (NaCl), które z poniższych najlepiej opisuje działania atomów sodu (Na) i chloru (Cl)?",
+        "option_a": "Atom sodu zastępuje atomy chloru.",
+        "option_b": "Atom sodu i atomy chloru mieszają się ze sobą.",
+        "option_c": "Atom sodu rozpuszcza się w atomach chloru.",
+        "option_d": "Atom sodu i atomy chloru łączą się chemicznie."
+    },
+    "279": {
+        "id": "ARC-Challenge/validation/Mercury_176838",
+        "answer": "A",
+        "instruction": "Która z tych opcji nie jest funkcją układu krwionośnego?",
+        "option_a": "rozkładać jedzenie na składniki odżywcze",
+        "option_b": "transportować składniki odżywcze i tlen",
+        "option_c": "usuwać produkty odpadowe z organizmu",
+        "option_d": "bronić organizmu przed obcymi najeźdźcami"
+    },
+    "280": {
+        "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+        "answer": "D",
+        "instruction": "Kolibry mogą unosić się w powietrzu i latać bardzo szybko. To przynosi korzyści kolibrzy we wszystkich poniższych przypadkach, z wyjątkiem",
+        "option_a": "szybkiego uciekania przed drapieżnikami.",
+        "option_b": "łatwego dotarcia do kwiatów.",
+        "option_c": "pozostawania w jednym miejscu, aby pić nektar.",
+        "option_d": "utrzymywania jaj w cieple."
+    },
+    "281": {
+        "id": "ARC-Challenge/validation/Mercury_7166180",
+        "answer": "B",
+        "instruction": "Wzrost roślin jest wpływany przez czynniki środowiskowe, takie jak grawitacja. Jeśli nasiono zostanie pozwolone na kiełkowanie i wzrost w pozycji poziomej, co najprawdopodobniej się wydarzy?",
+        "option_a": "korzenie będą rosły w dół, łodygi będą rosły w dół",
+        "option_b": "korzenie będą rosły w dół, łodygi będą rosły w górę",
+        "option_c": "korzenie będą rosły w górę, łodygi będą rosły w dół",
+        "option_d": "korzenie będą rosły w górę, łodygi będą rosły w górę"
+    },
+    "282": {
+        "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+        "answer": "C",
+        "instruction": "Uczeń zaobserwował skałę składającą się z wielu małych cząsteczek piasku ułożonych w jasnych i ciemnych warstwach. Które z poniższych stwierdzeń opisuje, jak ten typ skały najprawdopodobniej powstał?",
+        "option_a": "Glina została zmiażdżona i zamarznięta pod lodowcem.",
+        "option_b": "Lawa z wulkanu szybko ostygła w wodzie.",
+        "option_c": "Osady rzeczne były powoli sprasowane i sklejone razem.",
+        "option_d": "Złoża minerałów stwardniały w stałą skałę w podziemnych jaskiniach."
+    },
+    "283": {
+        "id": "ARC-Challenge/validation/Mercury_7267593",
+        "answer": "A",
+        "instruction": "Które z tych katastrof naturalnych są najbardziej nieprzewidywalne?",
+        "option_a": "trzęsienia ziemi",
+        "option_b": "huragany",
+        "option_c": "tornada",
+        "option_d": "zamiecie śnieżne"
+    },
+    "284": {
+        "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+        "answer": "B",
+        "instruction": "Człowiek NIE MOŻE przeżyć utraty którego z następujących?",
+        "option_a": "Wyrostek robaczkowy",
+        "option_b": "Wątroba",
+        "option_c": "Płuco",
+        "option_d": "Nerka"
+    },
+    "285": {
+        "id": "ARC-Challenge/validation/Mercury_7218750",
+        "answer": "C",
+        "instruction": "Który typ zbiornika wodnego zawsze może dostarczyć wodę słodką?",
+        "option_a": "jeziora śródlądowe",
+        "option_b": "delta rzeki",
+        "option_c": "lodowce górskie",
+        "option_d": "morza tropikalne"
+    },
+    "286": {
+        "id": "ARC-Challenge/validation/Mercury_7026198",
+        "answer": "A",
+        "instruction": "Pierwiastek krypton jest gazem, który wykazuje prawie żadną aktywność chemiczną. Aby znaleźć inny pierwiastek o podobnych właściwościach, na co powinien zwrócić uwagę uczeń na układzie okresowym pierwiastków?",
+        "option_a": "pierwiastek w tej samej grupie",
+        "option_b": "pierwiastek w tym samym okresie",
+        "option_c": "pierwiastek o tym samym ładunku netto",
+        "option_d": "pierwiastek o tej samej masie atomowej"
+    },
+    "287": {
+        "id": "ARC-Challenge/validation/Mercury_7081760",
+        "answer": "B",
+        "instruction": "Aby sklasyfikować nowo odkryty organizm, naukowiec bada strukturę, DNA i cykl życia organizmu. Naukowiec najprawdopodobniej wykorzysta wyniki badania do",
+        "option_a": "opracowania nowych metod naukowych.",
+        "option_b": "rewizji wiedzy naukowej.",
+        "option_c": "formułowania nowych hipotez.",
+        "option_d": "obalania teorii naukowych."
+    },
+    "288": {
+        "id": "ARC-Challenge/validation/Mercury_7130603",
+        "answer": "C",
+        "instruction": "Która z wymienionych wielkości jest mierzona w jednostce innej niż dżul?",
+        "option_a": "ciepło",
+        "option_b": "światło",
+        "option_c": "moc",
+        "option_d": "praca"
+    },
+    "289": {
+        "id": "ARC-Challenge/validation/Mercury_7074865",
+        "answer": "C",
+        "instruction": "Które z tych stwierdzeń jest prawdziwe w odniesieniu do alg, bakterii i roślin kwiatowych?",
+        "option_a": "Są nieorganiczne.",
+        "option_b": "Wszystkie mają chlorofil.",
+        "option_c": "Składają się z komórek.",
+        "option_d": "Wszystkie żywią się innymi organizmami."
+    },
+    "290": {
+        "id": "ARC-Challenge/validation/Mercury_7042700",
+        "answer": "D",
+        "instruction": "Które urządzenie nie byłoby potrzebne podczas sekcji zwierzęcia?",
+        "option_a": "rękawice",
+        "option_b": "gogle",
+        "option_c": "fartuch laboratoryjny",
+        "option_d": "prysznic bezpieczeństwa"
+    },
+    "291": {
+        "id": "ARC-Challenge/validation/Mercury_7071365",
+        "answer": "D",
+        "instruction": "Które porównanie motyli i ćmy jest stwierdzeniem faktu?",
+        "option_a": "Motyle są ładniejsze i bardziej interesujące do obserwacji niż ćmy.",
+        "option_b": "Motyle lepiej latają niż ćmy.",
+        "option_c": "Motyle i ćmy są znacznie szczęśliwsze w ciągu dnia.",
+        "option_d": "Motyle i ćmy mają równą liczbę nóg."
+    },
+    "292": {
+        "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+        "answer": "C",
+        "instruction": "Rośliny i zwierzęta potrzebują jedzenia do wzrostu. Co się dzieje z większością jedzenia, które produkują rośliny?",
+        "option_a": "Jedzenie jest uwalniane jako gaz.",
+        "option_b": "Jedzenie jest przekształcane w wodę.",
+        "option_c": "Jedzenie jest przechowywane na przyszłość.",
+        "option_d": "Jedzenie jest używane do pochłaniania światła słonecznego."
+    },
+    "293": {
+        "id": "ARC-Challenge/validation/Mercury_7026443",
+        "answer": "D",
+        "instruction": "Która cecha psa domowego jest dziedziczona?",
+        "option_a": "Pies unika kota domowego.",
+        "option_b": "Pies skacze na sofę.",
+        "option_c": "Pies przewraca się na komendę.",
+        "option_d": "Pies ślini się, gdy czuje jedzenie."
+    },
+    "294": {
+        "id": "ARC-Challenge/validation/Mercury_7008138",
+        "answer": "B",
+        "instruction": "Które stwierdzenie opisuje asteroidy i komety?",
+        "option_a": "Asteroidy są gazowe, a komety są stałe.",
+        "option_b": "Asteroidy są stałe, a komety są gazowe.",
+        "option_c": "Zarówno asteroidy, jak i komety są stałe.",
+        "option_d": "Zarówno asteroidy, jak i komety są gazowe."
+    },
+    "295": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402104",
+        "answer": "D",
+        "instruction": "Wylanie toksycznych chemikaliów do stawu najprawdopodobniej spowoduje",
+        "option_a": "wzrost poziomu tlenu w stawie.",
+        "option_b": "szybszy wzrost roślin w pobliżu stawu.",
+        "option_c": "brak wpływu toksycznych chemikaliów na staw.",
+        "option_d": "szkody lub śmierć ryb w stawie."
+    },
+    "296": {
+        "id": "ARC-Challenge/validation/Mercury_7086013",
+        "answer": "D",
+        "instruction": "Zlewnia rzeki Humboldt jest jednym z najważniejszych źródeł kilku surowców nieodnawialnych. Który z tych surowców nieodnawialnych jest pozyskiwany z zlewni rzeki Humboldt?",
+        "option_a": "węgiel z osadów górskich",
+        "option_b": "ropa naftowa i gaz z podziemnych zbiorników",
+        "option_c": "energia elektryczna z elektrowni wodnych",
+        "option_d": "minerały z wydobycia złota, srebra i miedzi"
+    },
+    "297": {
+        "id": "ARC-Challenge/validation/Mercury_7248238",
+        "answer": "D",
+        "instruction": "Ryby komarowe znalezione na wyspach Bahamów żyją w różnych izolowanych stawach słodkowodnych, które kiedyś były jednym zbiornikiem wodnym. Gdy kilka samców i samic ryb komarowych zostanie zabranych z dwóch izolowanych stawów i umieszczonych w jednym stawie, preferencje hodowlane każdej ryby komarowej dotyczą ryb z jej własnego pierwotnego stawu. Co z tego najprawdopodobniej wpłynęło na tę preferencję hodowlaną?",
+        "option_a": "Dostępność pokarmu wpłynęła na preferencje hodowlane ryb.",
+        "option_b": "Rywalizacja o odpowiedniego partnera wpłynęła na preferencje hodowlane.",
+        "option_c": "Drapieżniki w stawie wpłynęły na preferencje hodowlane ryb.",
+        "option_d": "Specjacja z powodu izolacji reprodukcyjnej wpłynęła na preferencje hodowlane."
+    }
+}

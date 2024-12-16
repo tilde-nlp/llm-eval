@@ -1,0 +1,2495 @@
+{
+    "0": {
+        "instruction": "Apsvarstykite šį AR(1) modelį, kurio sutrikimai turi nulį vidurkį ir vienetą dispersiją\n\nyt = 0.2 + 0.4 yt-1 + ut\n\n(y) vidurkis bus pateiktas",
+        "option_a": "0.2",
+        "option_b": "0.4",
+        "option_c": "0.5",
+        "option_d": "0.33",
+        "answer": "D",
+        "id": "econometrics/dev/1"
+    },
+    "1": {
+        "instruction": "42 metų vyras atvyksta į kabinetą priešoperacinei vertinimui prieš planuojamą antinksčių šalinimą, kuris numatytas po 2 savaičių. Prieš mėnesį jis gavo pagalbą skubiosios medicinos skyriuje dėl skausmo dešinėje šono pusėje po automobilio avarijos. Tuo metu kraujospūdis buvo 160/100 mm Hg, o pilvo CT tyrimas parodė atsitiktinę 10 cm kairiojo antinksčio masę. Laboratorinių tyrimų rezultatai, įskaitant bendrą kraujo tyrimą, serumo elektrolitų koncentracijas ir kepenų funkcijos testus, buvo normos ribose. Pacientas kitaip buvo sveikas ir niekada nebuvo informuotas, kad turi padidėjusį kraujospūdį. Jis nevartoja jokių vaistų. Sekantis vizitas kabinete prieš 2 savaites parodė padidėjusias šlapimo normetanefrino ir metanefrino bei plazmos aldosterono koncentracijas. Pacientas buvo nukreiptas pas chirurgą, kuris rekomendavo antinksčių šalinimą. Šiandien gyvybiniai požymiai: temperatūra 36.6°C (97.9°F), pulsas 100/min, kvėpavimas 14/min, kraujospūdis 170/95 mm Hg. Fizinis tyrimas neatskleidžia reikšmingų radinių. Pradinė priešoperacinė paruošimo procedūra turėtų apimti gydymą su kuriuo iš šių?",
+        "option_a": "Labetalolis",
+        "option_b": "Kaliu chlorido dozė",
+        "option_c": "Nifedipinas",
+        "option_d": "Fenoksibenzaminas",
+        "answer": "D",
+        "id": "professional_medicine/dev/0"
+    },
+    "2": {
+        "instruction": "Pagal Moore'o „idealią utilitarizmą“, teisingas veiksmas yra tas, kuris sukelia didžiausią kiekį:",
+        "option_a": "malonumo.",
+        "option_b": "laimės.",
+        "option_c": "gėrio.",
+        "option_d": "dorybės.",
+        "answer": "C",
+        "id": "philosophy/dev/1"
+    },
+    "3": {
+        "instruction": "Kuris iš šių nėra įtrauktas į JAV BVP?",
+        "option_a": "JAV kariuomenė atidaro naują bazę užsienio šalyje su 1000 JAV personalo.",
+        "option_b": "Japonijos vartotojai perka tūkstančius JAV pagamintų CD.",
+        "option_c": "Amerikiečių pop dainininkas atlieka išparduoto koncerto pasirodymą Paryžiuje.",
+        "option_d": "Prancūzų teatro produkcija keliauja po dešimtis Amerikos miestų.",
+        "answer": "C",
+        "id": "high_school_macroeconomics/dev/0"
+    },
+    "4": {
+        "instruction": "Kuri iš šių teiginių yra teisinga apie Vatikaną 2010 metais, kai buvo pateikti kaltinimai dėl vaikų išnaudojimo slėpimo?",
+        "option_a": "Buvo koordinuota žiniasklaidos reakcija.",
+        "option_b": "Buvo perduodami nuoseklūs pranešimai.",
+        "option_c": "Kritika buvo laikoma išpuoliais prieš Katalikų Bažnyčią.",
+        "option_d": "Vatikano patikimumas buvo išlaikytas.",
+        "answer": "C",
+        "id": "public_relations/dev/2"
+    },
+    "5": {
+        "instruction": "Tarkime, kad testavimo statistika turi p reikšmę 0,08. Kuris iš šių teiginių yra teisingas?\n\n(i) Jei testavimo dydis būtų tiksliai 8%, mes būtume abejingi tarp atmetimo ir neatmetimo nulio hipotezės\n\n(ii) Nulis būtų atmestas, jei būtų naudojamas 10% testavimo dydis\n\n(iii) Nulis nebūtų atmestas, jei būtų naudojamas 1% testavimo dydis\n\n(iv) Nulis būtų atmestas, jei būtų naudojamas 5% testavimo dydis.",
+        "option_a": "(ii) ir (iv) tik",
+        "option_b": "(i) ir (iii) tik",
+        "option_c": "(i), (ii) ir (iii) tik",
+        "option_d": "(i), (ii), (iii) ir (iv)",
+        "answer": "C",
+        "id": "econometrics/dev/2"
+    },
+    "6": {
+        "instruction": "Kai ginčytojas sukelia painiavą per paneigimą dėl tikro ar apsimestinio nesugebėjimo dalyvauti paneigime, tas ginčytojas gali būti padaręs klaidą",
+        "option_a": "prasto sportiškumo",
+        "option_b": "apelio prie užuojautos",
+        "option_c": "argumentas prieš asmenį",
+        "option_d": "nežinojimo apie paneigimą",
+        "answer": "D",
+        "id": "logical_fallacies/dev/4"
+    },
+    "7": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\n\"Tikroji darbuotojo skundų priežastis yra jo egzistencijos nesaugumas; jis nėra tikras, kad visada turės darbą, jis nėra tikras, kad visada bus sveikas, ir jis numato, kad vieną dieną bus senas ir netinkamas dirbti. Jei jis patenka į skurdą, net jei tik dėl ilgalaikės ligos, jis tada visiškai bejėgis, paliktas savo pačių likimui, o visuomenė šiuo metu nepripažįsta jokios tikros pareigos jam, išskyrus įprastą pagalbą vargšams, net jei jis visą laiką dirbo labai sąžiningai ir kruopščiai. Tačiau įprasta pagalba vargšams palieka daug ko norėti, ypač dideliuose miestuose, kur situacija yra daug blogesnė nei kaime.\"\nOtto von Bismarck, 1884\nOtto von Bismarck greičiausiai pasakė šią kalbą reaguodamas į kurią iš šių problemų?",
+        "option_a": "Socialinis vaikų darbo priėmimas",
+        "option_b": "Mažėjanti gyvenimo trukmė Vokietijoje",
+        "option_c": "Kritika Vokietijos prekybos tarifams",
+        "option_d": "Neigiami pramoninio kapitalizmo padariniai",
+        "answer": "D",
+        "id": "high_school_world_history/dev/2"
+    },
+    "8": {
+        "instruction": "Kuri Japonijos vyriausybė skatino nacionalinį kultą, pagrįstą imperatoriumi ir jo ryšiais su kami?",
+        "option_a": "Honen",
+        "option_b": "Tanaka",
+        "option_c": "Tokugawa",
+        "option_d": "Meiji",
+        "answer": "D",
+        "id": "world_religions/dev/3"
+    },
+    "9": {
+        "instruction": "Kuri iš šių yra geriausias objektyvas, per kurį tirti vaikų kareivių vaidmenį?",
+        "option_a": "Vaikų kareiviai yra kovos aukos, kurioms reikia perauklėjimo ir reabilitacijos.",
+        "option_b": "Vaikai ir jų motinos nėra aktyvūs subjektai kare ir geriausiai laikomi subjektais privačioje sferoje.",
+        "option_c": "Vaikai dažniausiai yra nekalti stebėtojai kare ir geriausiai naudojami kaip taikos simboliai.",
+        "option_d": "Vaikai turi politinį subjektą, kuris prarandamas, kai jie laikomi pasyviomis karo aukomis.",
+        "answer": "D",
+        "id": "security_studies/dev/1"
+    },
+    "10": {
+        "instruction": "Visų raumenų susitraukimo formų energiją suteikia:",
+        "option_a": "ATP.",
+        "option_b": "ADP.",
+        "option_c": "fosfokreatinas.",
+        "option_d": "oksidacinė fosforilacija.",
+        "answer": "A",
+        "id": "clinical_knowledge/dev/0"
+    },
+    "11": {
+        "instruction": "Monopolio koncentracijos koeficientas yra",
+        "option_a": "0",
+        "option_b": "5",
+        "option_c": "10",
+        "option_d": "100",
+        "answer": "D",
+        "id": "high_school_microeconomics/dev/2"
+    },
+    "12": {
+        "instruction": "Tam tikroje populiacijoje 1 iš 400 žmonių serga vėžiu, kurį sukelia visiškai recesyvinis alelis, b. Jei laikysimės Hardy-Weinberg pusiausvyros, koks yra tikėtinas asmenų, turinčių b alelį, bet nesirgsiančių vėžiu, proporcija?",
+        "option_a": "1/400",
+        "option_b": "19/400",
+        "option_c": "20/400",
+        "option_d": "38/400",
+        "answer": "D",
+        "id": "college_biology/dev/1"
+    },
+    "13": {
+        "instruction": "Kai vyresnio amžiaus suaugusieji persikelia į naują valstiją po pensijos, kuris iš šių variantų yra labiau tikėtinas tikslas?",
+        "option_a": "Teksasas",
+        "option_b": "Kalifornija",
+        "option_c": "Havajai",
+        "option_d": "Vermontas",
+        "answer": "A",
+        "id": "human_aging/dev/2"
+    },
+    "14": {
+        "instruction": "Kas yra trumpiausias žmogus, kada nors laimėjęs NBA dėjimo varžybas?",
+        "option_a": "Anthony 'Spud' Webb",
+        "option_b": "Michael 'Air' Jordan",
+        "option_c": "Tyrone 'Muggsy' Bogues",
+        "option_d": "Julius 'Dr J' Erving",
+        "answer": "A",
+        "id": "miscellaneous/dev/2"
+    },
+    "15": {
+        "instruction": "Tirpalas turi 2.00 molio acto rūgšties, CH3COOH, ir 1.00 molio kalcio acetato, Ca(CH3COO)2. Tirpalas gali atsispirti nedidelio kiekio stiprios rūgšties arba stiprios šarmo pridėjimui, tik su nedideliais pH pokyčiais. Dideli stiprios rūgšties arba stiprios šarmo kiekiai gali sukelti reikšmingą pH pokytį. Kiek molių azoto rūgšties, HNO3, galima pridėti, kol pH pradeda reikšmingai keistis?",
+        "option_a": "0.500 molio",
+        "option_b": "1.00 molio",
+        "option_c": "2.00 molio",
+        "option_d": "3.00 molio",
+        "answer": "C",
+        "id": "high_school_chemistry/dev/4"
+    },
+    "16": {
+        "instruction": "Širdies kraujavimo klaidos išnaudojimas leidžia",
+        "option_a": "perrašyti kriptografinius raktus atmintyje",
+        "option_b": "tam tikrą kodo injekciją",
+        "option_c": "skaitymą už buferio ribų",
+        "option_d": "formatavimo eilutės ataką",
+        "answer": "C",
+        "id": "computer_security/dev/3"
+    },
+    "17": {
+        "instruction": "DNR ligazė yra",
+        "option_a": "enzimas, kuris sujungia fragmentus normaliame DNR replikacijoje",
+        "option_b": "bakterinės kilmės enzimas, kuris pjauna DNR nustatytose bazinėse sekose",
+        "option_c": "enzimas, kuris palengvina specifinių genų transkripciją",
+        "option_d": "enzimas, kuris riboja tam tikro maistinės medžiagos kiekio pasiekimą",
+        "answer": "A",
+        "id": "medical_genetics/dev/1"
+    },
+    "18": {
+        "instruction": "Terminas 'hegemonija' reiškia:",
+        "option_a": "darbo klasės tendencija nesuvokti savo interesų",
+        "option_b": "dominanti ideologija, kuri legitimizuoja ekonominę, politinę ir kultūrinę galią",
+        "option_c": "dvigubos sąmonės forma, paremta ideologija ir kasdienine patirtimi",
+        "option_d": "mokėjimo būdas, suteikiamas už išskirtinį topiarą",
+        "answer": "B",
+        "id": "sociology/dev/3"
+    },
+    "19": {
+        "instruction": "Vidutinė išgyvenimo trukmė iki AIDS ir mirties buvo nustatyta stebint:",
+        "option_a": "Seropozityvūs HIV užsikrėtę asmenys",
+        "option_b": "Seronegatyvūs",
+        "option_c": "Serokonvertuojantys",
+        "option_d": "Aukštos rizikos seronegatyvūs",
+        "answer": "C",
+        "id": "virology/dev/4"
+    },
+    "20": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\n\"Iš tiesų, tiek išskirtinių [mokslininkų] fatvos, kurie remiasi savo nuomone tiek protu, tiek tradicija, tiek sunaikinimo ir išstūmimo blogos inovacijos konsensusas tarp sunitų bendruomenės sutinka, kad senoji pareiga išnaikinti, sunaikinti ir išstumti blogą inovaciją turi būti mūsų išaukštintos aspiracijos tikslas, nes \"Religinis uolumas yra pergalė Dievo, Geradario, Tikėjimui\"; tada, pagal Pranašo (taika jam!) žodžius \"Kas į mūsų tvarką įneša blogą inovaciją, turi būti išstumtas\" ir \"Kas daro ką nors prieš mūsų tvarką, turi būti išstumtas,\" veiksmas tapo būtinas ir skubus…\"\nRaštas iš Osmanų sultono Selimo I Safavidų šahui Ismail I, 1514\nSelimo I raštas aiškiai yra pavyzdys, kuris iš šių?",
+        "option_a": "Karinės viršenybės išlaikymas bet kokia kaina",
+        "option_b": "Religinių sektų įtampų didėjimas",
+        "option_c": "Veiksniai, kurie lėmė Osmanų imperijos žlugimą",
+        "option_d": "Taikos kūrimo pastangos tarp islamo imperijų",
+        "answer": "B",
+        "id": "high_school_world_history/dev/3"
+    },
+    "21": {
+        "instruction": "Palyginti su urano atomo, kuris vykdo skaidymą, mase, bendros skaidymo produktų masės yra",
+        "option_a": "mažesnės",
+        "option_b": "didesnės",
+        "option_c": "tos pačios",
+        "option_d": "nulinės",
+        "answer": "A",
+        "id": "conceptual_physics/dev/0"
+    },
+    "22": {
+        "instruction": "Raskite žiedo 2Z charakteristiką.",
+        "option_a": "0",
+        "option_b": "3",
+        "option_c": "12",
+        "option_d": "30",
+        "answer": "A",
+        "id": "abstract_algebra/dev/4"
+    },
+    "23": {
+        "instruction": "Priešingai nei _______, _______ siekia apdovanoti palankų elgesį iš įmonių. Tokių kampanijų sėkmė buvo padidinta naudojant ___________, kurios leidžia kampanijoms padėti įmonei pasiekti _________ .",
+        "option_a": "Pirkimo boikotai, Boikotai, Blokų grandinė, Labdaros aukos",
+        "option_b": "Pirkimo boikotai, Boikotai, Skaitmeninė technologija, Padidėjęs pardavimas",
+        "option_c": "Boikotai, Pirkimo viską, Blokų grandinė, Labdaros aukos",
+        "option_d": "Boikotai, Pirkimo boikotai, Skaitmeninė technologija, Padidėjęs pardavimas",
+        "answer": "D",
+        "id": "business_ethics/dev/4"
+    },
+    "24": {
+        "instruction": "Kuri iš šių yra prielaida Maslow poreikių hierarchijoje?",
+        "option_a": "Poreikiai priklauso nuo kultūros ir taip pat nuo socialinės klasės.",
+        "option_b": "Žemesnio lygio poreikiai turi būti bent iš dalies patenkinti, kol aukštesni poreikiai gali paveikti elgesį.",
+        "option_c": "Poreikiai nėra prioritetizuojami ar išdėstyti jokiu konkrečiu tvarka.",
+        "option_d": "Patenkinti poreikiai yra motyvatoriai, o nauji poreikiai atsiranda, kai esami poreikiai lieka nepatenkinti.",
+        "answer": "B",
+        "id": "marketing/dev/2"
+    },
+    "25": {
+        "instruction": "Supaprastinkite ir parašykite rezultatą su racionaliu vardikliu: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+        "option_a": "\\frac{3\\sqrt{3}}{3}",
+        "option_b": "\\frac{1}{3}",
+        "option_c": "\\sqrt{3}",
+        "option_d": "\\frac{\\sqrt{3}}{3}",
+        "answer": "D",
+        "id": "high_school_mathematics/dev/3"
+    },
+    "26": {
+        "instruction": "Kuri iš šių rinkinių turi mažiausią standartinį nuokrypį? Kuri turi didžiausią?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}",
+        "option_a": "I, II",
+        "option_b": "II, III",
+        "option_c": "III, I",
+        "option_d": "III, II",
+        "answer": "D",
+        "id": "high_school_statistics/dev/4"
+    },
+    "27": {
+        "instruction": "_____________ gali modifikuoti duomenis jūsų sistemoje – kad jūsų sistema veiktų neteisingai arba jūs negalėtumėte pasiekti tam tikrų duomenų, arba ji netgi gali reikalauti išpirkos, kad suteiktų jums prieigą.",
+        "option_a": "IM – Trojos arklys",
+        "option_b": "Atgalinės prieigos Trojos arklys",
+        "option_c": "Trojos arklys - atsisiuntėjas",
+        "option_d": "Išpirkos Trojos arklys",
+        "answer": "D",
+        "id": "computer_security/dev/1"
+    },
+    "28": {
+        "instruction": "Iverson Jewelers parašė laišką Milleriui, 'Mes gavome ypač gerą automatinį Rolox laikrodį, kurį jums parduosime labai palankia kaina.'",
+        "option_a": "Laiškas yra pasiūlymas parduoti",
+        "option_b": "Galiojančio pasiūlymo negalima pateikti laišku.",
+        "option_c": "Laiškas turi galiojantį pasiūlymą, kuris pasibaigs per protingą laiką.",
+        "option_d": "Laiške trūksta vieno iš esminių pasiūlymo elementų.",
+        "answer": "D",
+        "id": "jurisprudence/dev/4"
+    },
+    "29": {
+        "instruction": "Kuri iš šių trigeminio nervo šakų turi somatinius motorinius procesus?",
+        "option_a": "Viršutinio orbitinio nervo",
+        "option_b": "Žemutinio orbitinio nervo",
+        "option_c": "Mentalinio nervo",
+        "option_d": "Nė viena iš aukščiau išvardytų",
+        "answer": "D",
+        "id": "anatomy/dev/1"
+    },
+    "30": {
+        "instruction": "Kintamasis $x$ tiesiogiai priklauso nuo $y$ kvadrato, o $y$ tiesiogiai priklauso nuo $z$ kubo. Jei $x$ lygus $-16$, kai $z$ lygus 2, koks bus $x$ vertė, kai $z$ lygus $\\frac{1}{2}$?",
+        "option_a": "-1",
+        "option_b": "16",
+        "option_c": "-\\frac{1}{256}",
+        "option_d": "\\frac{1}{16}",
+        "answer": "C",
+        "id": "high_school_mathematics/dev/2"
+    },
+    "31": {
+        "instruction": "Valstybės įstatymų leidėjas neseniai priėmė statutą, pagal kurį yra nusižengimas keikti ar niekinti ar naudoti nepadorų ar žeminantį kalbą policijos pareigūno atžvilgiu, vykdančio savo pareigas. Valstybės universiteto studentas organizavo demonstraciją universiteto teritorijoje, protestuodamas prieš karą. Renginyje dalyvavo 50 studentų, kurie šaukė prieškarinius šūkius automobiliams, pravažiuojantiems pro šalį. Norėdamas parodyti savo nepagarbą Jungtinėms Valstijoms, studentas prisiuvo Amerikos vėliavą prie savo džinsų nugaros. Kai policijos pareigūnas pamatė vėliavą, prisiūtą prie studento džinsų, jis priėjo ir pasakė jam nuimti vėliavą, kitaip jis bus suimtas. Studentas supyko ir šaukė policijos pareigūnui: \"Klausyk, tu niekšas, aš šią skarmalą dėvėsiu kur noriu.\" Studentas vėliau buvo suimtas ir apkaltintas valstybės statuto pažeidimu. Studentas vėliau pateikė ieškinį valstybės teisme, ginčydamas statuto konstitucingumą. Stipriausias konstitucinis argumentas studentui yra tas,",
+        "option_a": "statutas yra negaliojantis dėl neaiškumo pagal Keturioliktosios pataisos proceso garantijų nuostatą.",
+        "option_b": "statutas yra negaliojantis, nes pažeidžia pareiškėjo laisvę reikšti nuomonę pagal Pirmąją pataisą.",
+        "option_c": "statutas yra laisvės reikšti nuomonę apribojimas pagal Pirmąją pataisą, nes yra mažiau ribojančių priemonių, leidžiančių pasiekti tą patį tikslą.",
+        "option_d": "statutas yra per platus ir todėl negaliojantis pagal Pirmąją ir Keturioliktąją pataisas.",
+        "answer": "D",
+        "id": "professional_law/dev/0"
+    },
+    "32": {
+        "instruction": "Aptikimas, kad suaugusieji linkę geriau prisiminti įvykius iš savo paauglystės nei iš kitų gyvenimo laikotarpių, vadinamas",
+        "option_a": "Paauglystės pranašumas",
+        "option_b": "Prisimintinumo smailė",
+        "option_c": "Atminties memorialas",
+        "option_d": "Kvadratinis atkūrimo šuolis",
+        "answer": "B",
+        "id": "human_aging/dev/1"
+    },
+    "33": {
+        "instruction": "Džo buvo atsakingas už šviesas šokiui. Raudona šviesa mirksi kas dvi sekundes, geltona šviesa kas tris sekundes, o mėlyna šviesa kas penkias sekundes. Jei įskaičiuosime patį šokio pradžią ir pabaigą, kiek kartų per septynias minutes visos šviesos įsižiebs tuo pačiu metu? (Tarkime, kad visos trys šviesos mirksi vienu metu pačioje šokio pradžioje.)",
+        "option_a": "3",
+        "option_b": "15",
+        "option_c": "6",
+        "option_d": "5",
+        "answer": "B",
+        "id": "high_school_mathematics/dev/0"
+    },
+    "34": {
+        "instruction": "Prieš šimtą metų jūsų proprosenelė investavo 100 USD su 5% metine palūkanų norma. Kokia šiandien yra investicijos vertė?",
+        "option_a": "$13,000",
+        "option_b": "$600",
+        "option_c": "$15,000",
+        "option_d": "$28,000",
+        "answer": "A",
+        "id": "professional_accounting/dev/1"
+    },
+    "35": {
+        "instruction": "Iš tirpumo taisyklių, kuris iš šių teiginių yra teisingas?",
+        "option_a": "Visi chloridai, bromidai ir jodidai yra tirpūs",
+        "option_b": "Visi sulfatai yra tirpūs",
+        "option_c": "Visi hidroksidai yra tirpūs",
+        "option_d": "Visi amonio turintys junginiai yra tirpūs",
+        "answer": "D",
+        "id": "high_school_chemistry/dev/2"
+    },
+    "36": {
+        "instruction": "Politikos sprendimų sritis, susijusi pirmiausia su Jungtinių Amerikos Valstijų ir likusio pasaulio santykiais, vadinama",
+        "option_a": "terorizmo politika.",
+        "option_b": "ekonomine politika.",
+        "option_c": "užsienio politika.",
+        "option_d": "tarptautine politika.",
+        "answer": "C",
+        "id": "us_foreign_policy/dev/2"
+    },
+    "37": {
+        "instruction": "Sūnus skolino kreditoriui 5 000 dolerių. Sūnaus tėvas susisiekė su kreditoriumi ir pasakė, kad nori sumokėti sūnaus skolą. Tėvas pasirašė dokumentą, kuriame nurodyta, kad tėvas sumokės sūnaus skolą po 500 dolerių per mėnesį 10 mėnesių. Kreditorius nesuteikė jokio raštiško ar žodinio įsipareigojimo susilaikyti nuo ieškinio sūnui dėl 5 000 dolerių skolos, o tėvas nesikreipė žodžiu ar raštu dėl tokio susilaikymo. Per ateinančius penkis mėnesius tėvas mokėjo, o kreditorius priimdavo 500 dolerių mėnesinius mokėjimus, kaip buvo sutarta. Tuo laikotarpiu kreditorius iš tikrųjų susilaikė nuo bet kokių teisinių veiksmų prieš sūnų. Tačiau tėvas vėliau informavo kreditorių, kad daugiau nemokės skolos. Kuri iš šių galimybių yra įtikinamiausias argumentas, kad tėvas yra atsakingas kreditoriui pagal jų susitarimo sąlygas?",
+        "option_a": "Tėvo pažadas ir kreditoriaus pasitikėjimas juo, jei tai būtų įrodyta, sukėlė galiojančią kreditoriaus pretenziją prieš tėvą, remiantis pažadų sustabdymo doktrina.",
+        "option_b": "Kadangi buvo numatoma, kad tėvo pažadas paskatins kreditorių susilaikyti nuo veiksmų prieš sūnų, toks susilaikymas buvo, kaip teisinė norma, derybų objektas tėvo pažadui.",
+        "option_c": "Tėvo penki mokėjimai kreditoriui, sudarantys 2 500 dolerių, parodė rimtą tėvo ketinimą būti sutartinai įpareigotam, o toks pareiškimas paprastai pripažįstamas veiksmingu derybų objekto pakaitalu.",
+        "option_d": "Perėmęs ankstesnę skolos prievolę, kurią sūnus skolino kreditoriui, tėvas tapo laiduotoju, kurio pažadas kreditoriui buvo vykdytinas, kadangi jis buvo raštiškas ir paremtas tinkamu derybų objektu.",
+        "answer": "A",
+        "id": "professional_law/dev/4"
+    },
+    "38": {
+        "instruction": "Konkuruojančioje darbo rinkoje namų dažytojams, kas iš šių padidintų namų dažytojų paklausą?",
+        "option_a": "Efektyvus minimalus atlyginimas, taikomas šioje darbo rinkoje.",
+        "option_b": "Dažų galonų kainos padidėjimas.",
+        "option_c": "Naujų namų statybos padidėjimas.",
+        "option_d": "Mechaninių dažytojų kainos padidėjimas, jei gamybos efektas viršija pakaitinio efekto poveikį.",
+        "answer": "C",
+        "id": "high_school_microeconomics/dev/0"
+    },
+    "39": {
+        "instruction": "Užsienio trečiosios šalies paslaugų teikėjo samdymo praktika, kad būtų vykdoma operacija, vadinama",
+        "option_a": "išorės paslaugų teikimu.",
+        "option_b": "ofšoringu.",
+        "option_c": "makiladoromis.",
+        "option_d": "lokacine tarpusavio priklausomybe.",
+        "answer": "B",
+        "id": "high_school_geography/dev/3"
+    },
+    "40": {
+        "instruction": "Homologinių struktūrų buvimas dviejuose skirtinguose organizmuose, pavyzdžiui, žastikaulyje žmogaus ir paukščio priekiniame gale, rodo, kad",
+        "option_a": "žmogus ir paukštis yra polifiletinės rūšys",
+        "option_b": "žmogaus ir paukščio evoliucija yra konvergentinė",
+        "option_c": "žmogus ir paukštis priklauso kladai",
+        "option_d": "žmogus ir paukštis išsivystė pagal analogiją",
+        "answer": "C",
+        "id": "college_biology/dev/2"
+    },
+    "41": {
+        "instruction": "Kuris iš šių laikomas rūgšties anhidridu?",
+        "option_a": "HCl",
+        "option_b": "H2SO3",
+        "option_c": "SO2",
+        "option_d": "Al(NO3)3",
+        "answer": "C",
+        "id": "high_school_chemistry/dev/0"
+    },
+    "42": {
+        "instruction": "Kuri iš šių sąlygų užtikrins, kad kampinė impulso išsaugojimas būtų laikomas? I. Linijinio impulso išsaugojimas II. Nulinė bendra išorinė jėga III. Nulinis bendra išorinė sukimo momentas",
+        "option_a": "Tik I ir II",
+        "option_b": "Tik I ir III",
+        "option_c": "Tik II ir III",
+        "option_d": "Tik III",
+        "answer": "D",
+        "id": "high_school_physics/dev/0"
+    },
+    "43": {
+        "instruction": "Vienas galas Nichromo vielos, kurios ilgis 2L ir skerspjūvio plotas A, yra prijungtas prie kito Nichromo vielos galo, kurios ilgis L ir skerspjūvio plotas 2A. Jei ilgesnės vielos laisvas galas yra 8,0 voltų elektriniame potenciale, o trumpesnės vielos laisvas galas yra 1,0 voltų elektriniame potenciale, potencialas dviejų vielų sankirtoje yra maždaug lygus",
+        "option_a": "2.4 V",
+        "option_b": "3.3 V",
+        "option_c": "4.5 V",
+        "option_d": "5.7 V",
+        "answer": "A",
+        "id": "college_physics/dev/2"
+    },
+    "44": {
+        "instruction": "Kuri iš šių teiginių apie lantanoidų elementus NĖRA teisinga?",
+        "option_a": "Dažniausia lantanoidų elementų oksidacijos būsena yra +3.",
+        "option_b": "Lantanoidų kompleksai dažnai turi didelius koordinacijos skaičius (> 6).",
+        "option_c": "Visi lantanoidų elementai reaguoja su vandeniniais rūgštimis, kad išlaisvintų vandenilį.",
+        "option_d": "Lantanoidų elementų atomų spinduliai didėja per periodą nuo La iki Lu.",
+        "answer": "D",
+        "id": "college_chemistry/dev/0"
+    },
+    "45": {
+        "instruction": "Genas, rodantis kodominavimą",
+        "option_a": "turi abu alelius nepriklausomai išreikštus heterozigote",
+        "option_b": "turi vieną alelį dominuojantį kitam",
+        "option_c": "turi alelius tvirtai susietus tame pačiame chromosomų",
+        "option_d": "turi alelius išreikštus tuo pačiu metu vystymosi procese",
+        "answer": "A",
+        "id": "medical_genetics/dev/2"
+    },
+    "46": {
+        "instruction": "Kompiliatorius generuoja kodą šiai priskyrimo sakiniui.\nG := (A + B) * C - (D + E) * F\nTikslo mašina turi vieną akumuliatorių ir vieno adreso instrukcijų rinkinį, sudarytą iš instrukcijų load, store, add, subtract ir multiply. Atliekant aritmetines operacijas, kairysis operandas paimamas iš akumuliatoriaus, o rezultatas pasirodo akumuliatoriuje. Mažiausias galimas instrukcijų skaičius gautame kode yra",
+        "option_a": "5",
+        "option_b": "6",
+        "option_c": "7",
+        "option_d": "9",
+        "answer": "D",
+        "id": "college_computer_science/dev/3"
+    },
+    "47": {
+        "instruction": "Nekilnojamojo turto organizacija, neturinti pelno, per metus atliko šiuos sandorius: Pajamos iš investicijų pardavimo 80000 USD Turto, įrangos ir įrenginių pirkimas 10000 USD Pajamos iš ilgalaikio skolinimosi 100000 USD Nuostolis iš investicijų pardavimo 5000 USD Kiek turėtų būti nurodyta kaip grynųjų pinigų suma, gauta iš finansavimo veiklos, Box grynųjų pinigų srautų ataskaitoje?",
+        "option_a": "70000 USD",
+        "option_b": "75000 USD",
+        "option_c": "80000 USD",
+        "option_d": "100000 USD",
+        "answer": "D",
+        "id": "professional_accounting/dev/0"
+    },
+    "48": {
+        "instruction": "Laikant viską kitą nekintama, kuri iš šių pinigų politikų būtų naudojama JAV eksportui didinti?",
+        "option_a": "Didinant diskonto normą",
+        "option_b": "Didinant rezervų santykį",
+        "option_c": "Perkant vyriausybes vertybinius popierius",
+        "option_d": "Mažinant muitus",
+        "answer": "C",
+        "id": "high_school_macroeconomics/dev/3"
+    },
+    "49": {
+        "instruction": "Didysis majų karalius Pakalas pastatė šventyklas Palenque mieste tam, kad:",
+        "option_a": "patenkintų galingus majų astronomus kunigus.",
+        "option_b": "parodytų savo dosnumą paprastiems žmonėms, kadangi jiems buvo leista gyventi šventyklose.",
+        "option_c": "išgąsdintų priešus, ypač ispanus.",
+        "option_d": "legitimizuotų savo karaliavimą, kadangi jo tėvas nebuvo karališkos kilmės.",
+        "answer": "D",
+        "id": "prehistory/dev/0"
+    },
+    "50": {
+        "instruction": "Trys kontrastingos taktikos, kuriomis CSO gali pasinaudoti siekdami savo tikslų, yra ________ , kuri paprastai apima tyrimus ir komunikaciją, ________ , kuri gali apimti fizinį įmonės operacijų užpuolimą arba ________ , dažnai apimantį tam tikrą _______.",
+        "option_a": "Nesmarki tiesioginė veika, Smurtinė tiesioginė veika, Netiesioginė veika, Boikotas",
+        "option_b": "Netiesioginė veika, Instrumentinė veika, Nesmarki tiesioginė veika, Informacinė kampanija",
+        "option_c": "Netiesioginė veika, Smurtinė tiesioginė veika, Nesmarki tiesioginė veika, Boikotas",
+        "option_d": "Nesmarki tiesioginė veika, Instrumentinė veika, Netiesioginė veika, Informacinė kampanija",
+        "answer": "C",
+        "id": "business_ethics/dev/3"
+    },
+    "51": {
+        "instruction": "6 pusių kauliukas metamas 15 kartų, o rezultatai yra: 1 pusė pasirodo 0 kartų; 2 pusė: 1 kartą; 3 pusė: 2 kartus; 4 pusė: 3 kartus; 5 pusė: 4 kartus; 6 pusė: 5 kartus. Remiantis šiais rezultatais, kokia yra 3 pusės pasirodymo tikimybė naudojant Add-1 Smoothing?",
+        "option_a": "2.0/15",
+        "option_b": "1.0/7",
+        "option_c": "3.0/16",
+        "option_d": "1.0/5",
+        "answer": "B",
+        "id": "machine_learning/dev/0"
+    },
+    "52": {
+        "instruction": "Įstatymo funkcijos apima viską, išskyrus kurią iš šių?",
+        "option_a": "maksimalus asmeninės laisvės užtikrinimas",
+        "option_b": "kompromiso pagrindo suteikimas",
+        "option_c": "taikos palaikymas",
+        "option_d": "laisvosios rinkos sistemos principų skatinimas",
+        "answer": "D",
+        "id": "jurisprudence/dev/1"
+    },
+    "53": {
+        "instruction": "Kaip galima apibūdinti Upanišadas?",
+        "option_a": "Ritualiniai tekstai",
+        "option_b": "Filozofiniai tekstai",
+        "option_c": "Himnai",
+        "option_d": "Kilmės pasakojimai",
+        "answer": "B",
+        "id": "world_religions/dev/4"
+    },
+    "54": {
+        "instruction": "Ani mano, kad jos požiūriai ir elgesys vaidina centrinį vaidmenį tuo, kas jai nutinka. Tokia nuostata greičiausiai yra susijusi su",
+        "option_a": "stipriu superegu.",
+        "option_b": "mažu savivertės jausmu.",
+        "option_c": "mažu savęs efektyvumu.",
+        "option_d": "vidiniu kontrolės centru.",
+        "answer": "D",
+        "id": "high_school_psychology/dev/0"
+    },
+    "55": {
+        "instruction": "Kas yra ad hoc teisėjas?",
+        "option_a": "Jei viena iš šalių ginčytinoje byloje prieš ICJ neturi nacionalinio teisėjo, ji turi teisę paskirti ką nors teisėju tik šiai bylai, su ad hoc teisėjo titulu",
+        "option_b": "Ad hoc teisėjas yra ICJ teisėjų kolegijos narys, turintis lemiamą balsą",
+        "option_c": "Ad hoc teisėjas yra pakaitinis teisėjas, jei teisėjas yra diskvalifikuotas arba miršta",
+        "option_d": "Ad hoc teisėjas yra teisėjas, kurį kiekviena šalis visada paskirs kiekvienoje ginčytinoje byloje",
+        "answer": "A",
+        "id": "international_law/dev/1"
+    },
+    "56": {
+        "instruction": "Iš kur kilę dauguma trumpalaikių kometų ir kaip mes tai žinome?",
+        "option_a": "Kuiperio juosta; trumpalaikės kometos paprastai yra saulės sistemos plane, kaip ir Kuiperio juosta.",
+        "option_b": "Kuiperio juosta; trumpalaikės kometos paprastai ateina iš atsitiktinių krypčių, rodančių sferinę kometų paskirstymo struktūrą, vadinamą Kuiperio juosta.",
+        "option_c": "Asteroidų juosta; trumpalaikės kometos turi orbitinius periodus, panašius į asteroidų, tokių kaip Vesta, ir yra randamos saulės sistemos plane, kaip ir asteroidų juosta.",
+        "option_d": "Oorto debesis; trumpalaikės kometos paprastai yra saulės sistemos plane, kaip ir Oorto debesis.",
+        "answer": "A",
+        "id": "astronomy/dev/1"
+    },
+    "57": {
+        "instruction": "Nuo 2015 metų, nuo 1990 metų miškai ____ Europoje ir ____ Afrikoje bei Amerikoje.",
+        "option_a": "padidėjo, padidėjo",
+        "option_b": "padidėjo, sumažėjo",
+        "option_c": "sumažėjo, padidėjo",
+        "option_d": "sumažėjo, sumažėjo",
+        "answer": "B",
+        "id": "global_facts/dev/2"
+    },
+    "58": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\n\"Bent viena iš [pasaulio] visuomenių turėtų kažkaip milžiniškai padidinti savo produktyvumą [norint pasiekti pasaulinę hegemony]. Tas kvantinis šuolis turėtų būti padarytas prieš įvairias mokslines, technologines, žemės ūkio ir pramonės revoliucijas, ant kurių remiasi mūsų pasaulis po kvantinio šuolio. Tai galėtų būti pasiekta tik išnaudojant ekosistemas, mineralinius išteklius ir žmonių turtus visų žemynų, esančių už visuomenės, darančios šuolį, žemių. Vakarų Europa tai padarė pasitelkdama savo žiaurumą ir ginklus, ir, svarbiausia, geografinę bei ekologinę sėkmę.\"\nAutorių teisės © 2015 Cambridge University Press.\nAlfred Crosby, istorikas, Ekologinis imperializmas, 2004\n„Kvantinis šuolis“, paminėtas tekste, labiausiai tiesiogiai prisidėjo prie kurių iš šių įvykių laikotarpiu 1450–1750 m. e.?",
+        "option_a": "Prekybos maršrutų sutrikimas dėl įsitvirtinusios valstybės struktūros žlugimo",
+        "option_b": "Pasaulio gyventojų skaičiaus padidėjimas dėl gausesnių maisto atsargų",
+        "option_c": "Kinų ir indų tikėjimų sistemų plitimas visame pasaulyje",
+        "option_d": "Socialinio neramumo padidėjimas",
+        "answer": "B",
+        "id": "high_school_world_history/dev/4"
+    },
+    "59": {
+        "instruction": "Vienintelė grupė visuomenėje, kuri yra labiausiai pažeidžiama referencinės grupės įtakos, yra:",
+        "option_a": "Vyresni vartotojai, kurie jaučiasi šiek tiek atskirti nuo visko.",
+        "option_b": "Ištekėjusios moterys, iš kurių daugelis jaučia stabilumo poreikį savo gyvenime.",
+        "option_c": "Nauji imigrantai, kurie tikrai nori asimiliuotis į savo naują kultūrą.",
+        "option_d": "Vaikai, kurie daugumą savo pirkimo sprendimų priima remdamiesi išorinėmis įtakomis.",
+        "answer": "D",
+        "id": "marketing/dev/3"
+    },
+    "60": {
+        "instruction": "Kuriame iš šių dviejų scenarijų pagrindinis veikėjas (kuris naudoja aš/man/mano) daro kažką aiškiai morališkai neteisingo, pagal įprastus moralinius standartus JAV 2020 metais? Scenarijus 1 | Aš nusipirkau seną pikapą darbui. Scenarijus 2 | Aš pažvelgiau į nuostabų krioklį ir metiau akmenį į jį.",
+        "option_a": "Neteisinga, Neteisinga",
+        "option_b": "Neteisinga, Neteisinga",
+        "option_c": "Neteisinga, Neteisinga",
+        "option_d": "Neteisinga, Neteisinga",
+        "answer": "D",
+        "id": "moral_scenarios/dev/2"
+    },
+    "61": {
+        "instruction": "Taškas krūvis, Q = +1 mC, yra fiksuotas pradžioje. Kiek darbo reikia, kad būtų perkeliamas krūvis, Q = +8 µC, iš taško (0, 4 metrai) į tašką (3 metrai, 0)?",
+        "option_a": "3.5 J",
+        "option_b": "6.0 J",
+        "option_c": "22.5 J",
+        "option_d": "40 J",
+        "answer": "B",
+        "id": "high_school_physics/dev/4"
+    },
+    "62": {
+        "instruction": "Naujas junginys yra sintetinamas ir nustatomas kaip monoprotinė rūgštis, kurios molinė masė yra 248 g/mol. Kai 0,0050 mol šios rūgšties yra ištirpinama 0,500 L vandens, pH matuojamas kaip 3,89. Koks yra šios rūgšties pKa?",
+        "option_a": "3.89",
+        "option_b": "7.78",
+        "option_c": "5.78",
+        "option_d": "2.33",
+        "answer": "C",
+        "id": "high_school_chemistry/dev/3"
+    },
+    "63": {
+        "instruction": "Kas yra antrasis brangakmenis budizme?",
+        "option_a": "Dharma",
+        "option_b": "Sangha",
+        "option_c": "Buda",
+        "option_d": "Bodhisatva",
+        "answer": "A",
+        "id": "world_religions/dev/1"
+    },
+    "64": {
+        "instruction": "Laužiamasis teleskopas susideda iš dviejų konverguojančių lęšių, atskirtų 100 cm. Akies lęšio fokusavimo nuotolis yra 20 cm. Teleskopo kampinis didinimas yra",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "20",
+        "answer": "A",
+        "id": "college_physics/dev/0"
+    },
+    "65": {
+        "instruction": "Pagal Hofstede (1980) penkias kultūrines dimensijas, Jungtinės Amerikos Valstijos užima aukščiausią vietą skalėje dėl:",
+        "option_a": "individualizmo.",
+        "option_b": "individualizmo ir galios atstumo.",
+        "option_c": "galios atstumo ir vyriškumo.",
+        "option_d": "neapibrėžtumo vengimo.",
+        "answer": "A",
+        "id": "professional_psychology/dev/2"
+    },
+    "66": {
+        "instruction": "Parduotuvė parduoda 107 skirtingas dažų spalvas. Jie turi po 25 skardines kiekvienos spalvos sandėlyje. Sandėlyje esančių dažų skardinių skaičių galima rasti naudojant žemiau pateiktą išraišką. 107 × 25. Kiek skardinių dažų parduotuvė turi sandėlyje?",
+        "option_a": "749",
+        "option_b": "2,675",
+        "option_c": "2,945",
+        "option_d": "4,250",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/3"
+    },
+    "67": {
+        "instruction": "Modeliukas skraidantis lėktuvas skrenda lėčiau, kai skrenda prieš vėją, ir greičiau, kai vėjas pučia iš nugaros. Kai jis paleidžiamas statmenai vėjui, šoninis vėjas, jo greitis palyginus su skrydžiu ramioje oro erdvėje yra",
+        "option_a": "tas pats",
+        "option_b": "didesnis",
+        "option_c": "mažesnis",
+        "option_d": "arba didesnis, arba mažesnis, priklausomai nuo vėjo greičio",
+        "answer": "B",
+        "id": "conceptual_physics/dev/3"
+    },
+    "68": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\nRusijoje nieko gero nevyksta, o [Souvarine] buvo beviltiškas dėl gautų naujienų. Jo seni draugai visi kreipėsi į politikus; garsūs nihilistai, kurie privertė Europą drebėti - kaimo kunigų sūnūs, žemesniosios vidurinės klasės atstovai, prekybininkai - negalėjo pakilti virš nacionalinio išsivadavimo idėjos ir atrodė, kad tiki, jog pasaulis bus išvaduotas - kai jie nužudys savo despoto…\n\"Kvailystė! Jie niekada neišsikapstys iš to su savo kvailystėmis.\"\nTada, dar labiau sumažinęs balsą, keliais kartėlio žodžiais apibūdino savo seną svajonę apie brolybę. Jis atsisakė savo rango ir turto; jis nuėjo pas darbininkus, tikėdamasis pagaliau pamatyti naujos bendradarbiavimo visuomenės, dirbančios kartu, pagrindus. Visi pinigai jo kišenėse seniai buvo atiduoti apylinkės vaikučiams; jis buvo toks švelnus kaip brolis su angliakasių, šypsodamasis jų įtarimams, laimėdamas juos savo ramiais darbininkų būdais ir neapykanta plepalams. Bet akivaizdu, kad susiliejimas neįvyko.\nJo balsas pasikeitė, akys nušvito, jis įsisteigė į étienne, tiesiogiai kreipdamasis į jį:\n\"Dabar, ar supranti tai? Šie skrybėlių dirbėjai Marseilyje, kurie laimėjo didįjį šimtą tūkstančių frankų loterijos prizą, iškart išvyko ir investavo jį, pareikšdami, kad ketina gyventi nieko nedarydami! Taip, tai jūsų idėja, visi jūs prancūzų darbininkai; jūs norite iškasti lobį, kad vėliau galėtumėte jį suvalgyti vieni, tingiame, savanaudiškame kampelyje. Galite šaukti kiek norite prieš turtinguosius, neturite pakankamai drąsos grąžinti vargšams pinigų, kuriuos jums atneša sėkmė. Jūs niekada nebūsite verti laimės, kol turėsite ką nors, o jūsų neapykanta buržuazijai kyla vien iš pykčio troškimo būti buržuazija patiems jų vietoje.\"\némile Zola, prancūzų rašytojas, Germinal, 1885\nŠis ištrauka atskleidžia tiesioginį rūpestį darbo klasės gerove, kuris paprastai buvo dalis kurios judėjimo?",
+        "option_a": "Kapitalistinis",
+        "option_b": "Mokslinis",
+        "option_c": "Komunistinis",
+        "option_d": "Egzistencialistinis",
+        "answer": "C",
+        "id": "high_school_european_history/dev/2"
+    },
+    "69": {
+        "instruction": "Jei vyriausybė subsidijuoja gamintojus tobulai konkurencingoje rinkoje, tada",
+        "option_a": "produkto paklausa padidės",
+        "option_b": "produkto paklausa sumažės",
+        "option_c": "vartotojų perviršis padidės",
+        "option_d": "vartotojų perviršis sumažės",
+        "answer": "C",
+        "id": "high_school_microeconomics/dev/1"
+    },
+    "70": {
+        "instruction": "Kurie iš šių daiktų yra nematerialinės kultūros pavyzdys?",
+        "option_a": "Dove muilas",
+        "option_b": "Dove šokoladinis batonėlis",
+        "option_c": "Dove simbolis",
+        "option_d": "Balandis (paukštis)",
+        "answer": "C",
+        "id": "high_school_geography/dev/4"
+    },
+    "71": {
+        "instruction": "Du ilgi paraleliniai laidininkai neša 100 A. Jei laidininkai yra atskirti 20 mm, jėga vienam kiekvieno laidininko ilgio metrui bus",
+        "option_a": "100 N.",
+        "option_b": "0.1 N.",
+        "option_c": "1 N.",
+        "option_d": "0.01 N.",
+        "answer": "B",
+        "id": "electrical_engineering/dev/3"
+    },
+    "72": {
+        "instruction": "Pasirinkite geriausią vertimą į predikato logiką. Džordžas pasiskolina Hektoro vejapjovę. (g: Džordžas; h: Hektoras; l: Hektoro vejapjovė; Bxyx: x pasiskolina y iš z)",
+        "option_a": "Blgh",
+        "option_b": "Bhlg",
+        "option_c": "Bglh",
+        "option_d": "Bghl",
+        "answer": "C",
+        "id": "formal_logic/dev/1"
+    },
+    "73": {
+        "instruction": "Tegul A yra visų tvarkingų sveikųjų skaičių porų (m, n) rinkinys, tokių kad 7m + 12n = 22. Koks yra didžiausias neigiamas skaičius rinkinyje B = {m + n : (m, n) \\in A}?",
+        "option_a": "-5",
+        "option_b": "-4",
+        "option_c": "-3",
+        "option_d": "-2",
+        "answer": "B",
+        "id": "college_mathematics/dev/4"
+    },
+    "74": {
+        "instruction": "Teigiant, kad tai, kas yra tiesa dalims, turi būti tiesa visumai, yra klaida...",
+        "option_a": "Dalinimas",
+        "option_b": "Kompozicija",
+        "option_c": "Apeliacija į asmenį",
+        "option_d": "Apeliacija į nežinojimą",
+        "answer": "B",
+        "id": "logical_fallacies/dev/3"
+    },
+    "75": {
+        "instruction": "Pascale domisi vaikų naudojamomis apdorojimo strategijomis, kad išmoktų naujos informacijos. Pascale geriausiai būtų klasifikuojama kaip kokio tipo psichologė?",
+        "option_a": "sociokultūrinė",
+        "option_b": "klinikinė",
+        "option_c": "kognityvinė",
+        "option_d": "elgesio",
+        "answer": "C",
+        "id": "high_school_psychology/dev/4"
+    },
+    "76": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\n\"Visuomenė kiekvienoje valstybėje yra palaima, tačiau vyriausybė net geriausiu atveju yra tik būtinas blogis; blogiausiu atveju - nepakeliamas; nes kai mes kenčiame arba esame veikiami tų pačių kančių dėl vyriausybės, kurių galėtume tikėtis šalyje be vyriausybės, mūsų nelaimė dar labiau sustiprėja, kai prisimename, kad mes suteikiame priemones, kuriomis kenčiame. Vyriausybė, kaip ir apranga, yra prarastos nekaltumo ženklas; karalių rūmai statomi ant rojų sodų griuvėsių. Jei sąžinės impulsai būtų aiškūs, vienodi ir neatsispiriami, žmogui nereikėtų jokio kito įstatymų leidėjo; tačiau kadangi taip nėra, jis randa, kad būtina atiduoti dalį savo turto, kad suteiktų priemones likusiojo apsaugai; ir tai jis daro dėl tos pačios išminties, kuri kiekvienu kitu atveju pataria jam iš dviejų blogybių pasirinkti mažiausią. Todėl, kadangi saugumas yra tikrasis vyriausybės tikslas ir galutinis tikslas, neabejotinai seka, kad bet kuri forma, kuri atrodo labiausiai tikėtina užtikrinti mums tai, su mažiausiomis išlaidomis ir didžiausia nauda, yra pageidautina prieš kitas.\"\nThomas Paine, Common Sense, 1776\nKuri iš šių \"kančių\", minėtų aukščiau, buvo labiausiai smerkiama Antifederalistų po Revoliucijos laikotarpiu?",
+        "option_a": "Organizuotas atsakas į Beikono sukilimą",
+        "option_b": "Federalinis atsakas į Šejaus sukilimą",
+        "option_c": "Federalinis atsakas į Viskių sukilimą",
+        "option_d": "Federalinis atsakas į Pontiako sukilimą",
+        "answer": "C",
+        "id": "high_school_us_history/dev/0"
+    },
+    "77": {
+        "instruction": "Natūralaus gyventojų prieaugio rodiklis nustatomas atimant",
+        "option_a": "brutalų mirtingumo rodiklį iš brutaliojo gimstamumo rodiklio.",
+        "option_b": "brutalų gimstamumo rodiklį iš brutaliojo mirtingumo rodiklio.",
+        "option_c": "dvigubėjimo laiką iš brutaliojo gimstamumo rodiklio.",
+        "option_d": "vaisingumo rodiklį iš brutaliojo mirtingumo rodiklio.",
+        "answer": "A",
+        "id": "high_school_geography/dev/0"
+    },
+    "78": {
+        "instruction": "Kaip 2008 metų finansų krizė paveikė Amerikos tarptautinę reputaciją?",
+        "option_a": "Tai pakenkė JAV politinės ekonomikos ir kapitalizmo modelio palaikymui",
+        "option_b": "Tai sukėlė pyktį JAV dėl krizės perdėjimo",
+        "option_c": "Tai padidino palaikymą Amerikos pasauliniam lyderiui prezidento Obamos laikais",
+        "option_d": "Tai sumažino JAV dolerio naudojimą pasaulyje",
+        "answer": "A",
+        "id": "us_foreign_policy/dev/0"
+    },
+    "79": {
+        "instruction": "Kuris kultūrinio tinklo elementas sudaro regalijas?",
+        "option_a": "Simboliai",
+        "option_b": "Ritualai ir rutinos",
+        "option_c": "Galia struktūros",
+        "option_d": "Kontrolės sistemos",
+        "answer": "A",
+        "id": "management/dev/2"
+    },
+    "80": {
+        "instruction": "Kuri iš šių dainų buvo Top 10 hitas roko grupei The Police?",
+        "option_a": "'Radio Ga-Ga'",
+        "option_b": "'Ob-la-di Ob-la-da'",
+        "option_c": "'De Do Do Do De Da Da Da'",
+        "option_d": "'In-a-Gadda-Da-Vida'",
+        "answer": "C",
+        "id": "miscellaneous/dev/4"
+    },
+    "81": {
+        "instruction": "Kurios iš šių teiginių nėra teisingas?",
+        "option_a": "Raumenų glikogenas yra skaidomas fermentiškai į gliukozės-1-fosfatą",
+        "option_b": "Elitiniai ištvermės bėgikai turi didelį Tipo I skaidulų kiekį savo kojų raumenyse",
+        "option_c": "Kepenų glikogenas yra svarbus palaikant kraujo gliukozės koncentraciją",
+        "option_d": "Insulinas skatina gliukozės pasisavinimą visose kūno audiniuose",
+        "answer": "D",
+        "id": "college_medicine/dev/1"
+    },
+    "82": {
+        "instruction": "Nors turinys ir kokybė gali būti kontroliuojami kaip tiesioginėse siuntose, šio mediumo atsako rodikliai yra mažesni dėl asmeninio adreso mechanizmo trūkumo. Šis medijos formatas žinomas kaip:",
+        "option_a": "Pagalbos linijos.",
+        "option_b": "Tiesioginė siunta.",
+        "option_c": "Įdėklai.",
+        "option_d": "Iš durų į duris.",
+        "answer": "D",
+        "id": "marketing/dev/4"
+    },
+    "83": {
+        "instruction": "Psichologinis egoizmas yra:",
+        "option_a": "etinis teorija apie tai, kaip turėtume elgtis.",
+        "option_b": "generalizacija apie tai, kaip žmonės linkę elgtis.",
+        "option_c": "teiginys apie žmogaus prigimtį ir būdus, kaip žmonės gali elgtis.",
+        "option_d": "niekas iš aukščiau išvardytų.",
+        "answer": "C",
+        "id": "philosophy/dev/0"
+    },
+    "84": {
+        "instruction": "Koks vietos pavadinimas yra 1979 metų gyvo garso albumo, kurį išleido roko legendos Cheap Trick, pavadinime?",
+        "option_a": "Budapeštas",
+        "option_b": "Budokan",
+        "option_c": "Bhutanas",
+        "option_d": "Britanija",
+        "answer": "B",
+        "id": "miscellaneous/dev/1"
+    },
+    "85": {
+        "instruction": "22 metų amžiaus vyras maratono bėgikas atvyksta į kabinetą skųsdamasis dešiniojo šonkaulio skausmu, kai bėga ilgus atstumus. Fizinis tyrimas rodo normalų širdies ir plaučių radinį bei iškvėpimo disfunkciją 4-5 šonkauliuose dešinėje. Kurie iš šių raumenų ar raumenų grupių bus naudingiausi taisant šią disfunkciją naudojant tiesioginį metodą?",
+        "option_a": "priekinis skaleno raumuo",
+        "option_b": "plačiausias nugaros raumuo",
+        "option_c": "mažasis krūtinės raumuo",
+        "option_d": "keturgalvis juosmens raumuo",
+        "answer": "C",
+        "id": "professional_medicine/dev/4"
+    },
+    "86": {
+        "instruction": "Tarkime, kad tyrėjas nori naudoti informacijos kriterijus, kad nustatytų optimalų atidėjimo ilgį VAR. Yra 500 stebėjimų bi-variate VAR, o likučių variacijos-kovariacijos matricos determinanto vertės yra 0.0336, 0.0169, 0.0084 ir 0.0062 atitinkamai 1, 2, 3 ir 4 atidėjimams. Koks yra optimalus modelio užsakymas pagal Akaike informacijos kriterijų?",
+        "option_a": "1 atidėjimas",
+        "option_b": "2 atidėjimai",
+        "option_c": "3 atidėjimai",
+        "option_d": "4 atidėjimai",
+        "answer": "C",
+        "id": "econometrics/dev/4"
+    },
+    "87": {
+        "instruction": "Raskite visus c Z_3, tokius, kad Z_3[x]/(x^2 + c) būtų laukas.",
+        "option_a": "0",
+        "option_b": "1",
+        "option_c": "2",
+        "option_d": "3",
+        "answer": "B",
+        "id": "abstract_algebra/dev/0"
+    },
+    "88": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\n\"Kova prieš neokolonializmą nėra skirta išstumti išsivysčiusių šalių kapitalą iš mažiau išsivysčiusių šalių. Ji skirta užkirsti kelią išsivysčiusių šalių finansinei galiai būti naudojamai taip, kad skurdintų mažiau išsivysčiusias.\nNepriklausomumas, kaip praktikuoja Gana ir daugelis kitų šalių, remiasi bendradarbiavimu su visomis valstybėmis, nesvarbu, ar jos kapitalistinės, socialistinė, ar turi mišrią ekonomiką. Tokia politika, todėl, apima užsienio investicijas iš kapitalistinių šalių, tačiau jos turi būti investuojamos pagal nacionalinį planą, kurį parengė nepriklausomos valstybės vyriausybė, atsižvelgdama į savo interesus. Klausimas nėra, kokį pelną užsienio investuotojas gauna iš savo investicijų… Klausimas yra apie galią. Valstybė, kuri yra neokolonializmo gniaužtuose, nėra savo likimo šeimininkė.\"\nKwame Nkrumah, Neokolonializmas, 1965\nKuri iš šių galimybių geriausiai kontekstualizuoja Nkrumah raštus?",
+        "option_a": "Pramonės revoliucija",
+        "option_b": "Dekolonizacija",
+        "option_c": "Regioninės laisvosios prekybos asociacijos",
+        "option_d": "Autarkija",
+        "answer": "B",
+        "id": "high_school_world_history/dev/1"
+    },
+    "89": {
+        "instruction": "Valstybė neseniai priėmė įstatymą, draudžiantį bet kokių branduolinių atliekų šalinimą valstybės teritorijoje. Šis įstatymas neprieštarauja ir nesikerta su jokiais federaliniais įstatymais. Vyras valdo įmonę valstybėje, kuri užsiima branduolinių atliekų šalinimu. Po valstybės įstatymo priėmimo, vyras, dar nesuvokdamas naujo įstatymo, sudarė sutartis su daugeliu užvalstybinių įmonių, kad šios galėtų šalinti savo branduolines atliekas valstybėje. Tačiau dėl šio naujo įstatymo vyras negalės įvykdyti šių sutarčių. Tarkime, kad vyras turi teisę ginčyti šį valstybės įstatymą. Kuris iš šių variantų pateikia stipriausius konstitucinius pagrindus ginčyti valstybės įstatymą, draudžiantį branduolinių atliekų šalinimą valstybės teritorijoje?",
+        "option_a": "Prekybos nuostata.",
+        "option_b": "Keturioliktosios pataisos lygių teisių nuostata.",
+        "option_c": "Ketvirto straipsnio, antros dalies privilegijų ir imunitetų nuostata.",
+        "option_d": "Sutarčių nuostata.",
+        "answer": "A",
+        "id": "professional_law/dev/1"
+    },
+    "90": {
+        "instruction": "Po to, kai buvo paskelbtas šalčio įspėjimas, didelio apelsinų sodo savininkas paprašė savo darbuotojų apipurkšti visus medžius vandeniu. Vanduo turėjo užšalti ir suformuoti apsauginį ledo sluoksnį aplink apelsinų žiedus. Vis dėlto savininkas įtarė, kad kai kurie medžiai patyrė didelę žalą dėl šalčio. Norėdamas įvertinti medžių, kurie patyrė daugiau nei 50 procentų žalos dėl šalčio, proporciją, jis paėmė atsitiktinį 100 medžių mėginį iš savo sodo. Koks yra atsakymo kintamasis šiame eksperimente?",
+        "option_a": "Medžių, kurie patyrė daugiau nei 50 procentų žalos dėl šalčio, proporcija.",
+        "option_b": "Medžių, kuriuos paveikė šaltis, skaičius.",
+        "option_c": "Medžių, paimtų iš sodo, skaičius.",
+        "option_d": "Kiekvienam paimtam medžiui, ar jis patyrė daugiau nei 50 procentų žalos, ar ne daugiau kaip 50 procentų žalos.",
+        "answer": "D",
+        "id": "high_school_statistics/dev/2"
+    },
+    "91": {
+        "instruction": "Daugelis interneto naršyklių leidžia vartotojams atidaryti anoniminius langus. Naršymo sesijos metu anoniminiame lange naršyklė nerekorduoja naršymo istorijos ar atsisiųstų failų sąrašo. Išeinant iš anoniminio lango, sesijos metu sukurti slapukai yra ištrinami. Kuris iš šių teiginių apie naršymo sesijas anoniminiame lange yra teisingas?",
+        "option_a": "Vartotojo, naršančio anoniminiame lange, veikla nebus matoma žmonėms, kurie stebi vartotojo tinklą, pavyzdžiui, sistemos administratoriams.",
+        "option_b": "Prekės, įdėtos į internetinės parduotuvės pirkinių krepšelį būsimam pirkimui anoniminės naršymo sesijos metu, nebus išsaugotos vartotojo kompiuteryje.",
+        "option_c": "Vartotojas negalės prisijungti prie el. pašto ar socialinių tinklų paskyrų anoniminės naršymo sesijos metu.",
+        "option_d": "Vartotojas, naršantis anoniminiame lange, bus apsaugotas nuo virusų, paleistų iš bet kurių aplankytų svetainių ar atsisiųstų failų.",
+        "answer": "B",
+        "id": "high_school_computer_science/dev/1"
+    },
+    "92": {
+        "instruction": "Kokios yra dvi pagrindinės Ohajo studijų apie lyderystę dimensijos?",
+        "option_a": "Pradinė pozicija ir galutinė pozicija",
+        "option_b": "Pradinė aplinka ir pakeista aplinka",
+        "option_c": "Organizacinė struktūra ir sąlygos",
+        "option_d": "Pradėjimo struktūra ir apsvarstymai",
+        "answer": "D",
+        "id": "management/dev/0"
+    },
+    "93": {
+        "instruction": "Norint užtikrinti nepriklausomybę ne vykdomiems valdybos nariams, galima imtis kelių žingsnių, kurie apima ne vykdomų narių atranką iš _______ įmonės, paskyrimą _________ laikotarpiui, taip pat paskyrimą _________.",
+        "option_a": "Išorės, Riboto, Nepriklausomai",
+        "option_b": "Vidinės, Riboto, Pertraukiamai",
+        "option_c": "Išorės, Neriboto, Pertraukiamai",
+        "option_d": "Vidinės, Neriboto, Nepriklausomai",
+        "answer": "A",
+        "id": "business_ethics/dev/2"
+    },
+    "94": {
+        "instruction": "Yra trys būdai matuoti centrinę tendenciją: vidurkis, mediana ir moda. Iš jūsų žinių apie juos, kas yra moda?",
+        "option_a": "mažiau jautrus ekstremaliems rezultatams nei vidurkis",
+        "option_b": "naudingesnis iškreiptiems pasiskirstymams",
+        "option_c": "jautrus ekstremalioms vertėms ir labai iškreiptiems pasiskirstymams",
+        "option_d": "dažniausiai pasitaikantis skaičius",
+        "answer": "D",
+        "id": "professional_psychology/dev/1"
+    },
+    "95": {
+        "instruction": "Norint gauti 0/1 nuostolių įvertinimą, kuris yra mažesnis nei 1 procentas tikrųjų 0/1 nuostolių (su 95% tikimybe), pagal Hoeffding'o nelygybę IID testavimo rinkinys turi turėti kiek pavyzdžių?",
+        "option_a": "apie 10 pavyzdžių",
+        "option_b": "apie 100 pavyzdžių",
+        "option_c": "tarp 100 ir 500 pavyzdžių",
+        "option_d": "daugiau nei 1000 pavyzdžių",
+        "answer": "D",
+        "id": "machine_learning/dev/3"
+    },
+    "96": {
+        "instruction": "Rankos funkcijos vertinime, kuris iš šių teiginių yra teisingas?",
+        "option_a": "Nyksčio atitraukimą tiekia stuburo šaknis T2",
+        "option_b": "Nyksčio opoziciją tiekia opponens policis stuburo šaknis T1",
+        "option_c": "Pirštų pritraukimą tiekia vidurinis nervas",
+        "option_d": "Pirštų atitraukimą reguliuoja delniniai interosėjai",
+        "answer": "B",
+        "id": "clinical_knowledge/dev/2"
+    },
+    "97": {
+        "instruction": "2019 metų duomenimis, apie kokį procentą amerikiečių sutinka, kad valstybė yra valdoma visų žmonių labui?",
+        "option_a": "31%",
+        "option_b": "46%",
+        "option_c": "61%",
+        "option_d": "76%",
+        "answer": "B",
+        "id": "global_facts/dev/1"
+    },
+    "98": {
+        "instruction": "Tyrėjai dabar mano, kad majų nuosmukį daugiausia lėmė:",
+        "option_a": "kažkoks kataklizmas, pavyzdžiui, žemės drebėjimas, ugnikalnis ar cunamis.",
+        "option_b": "ekologinė degradacija, atsiradusi dėl deginimo ir pjovimo žemės ūkio metodų.",
+        "option_c": "nesibaigiančios karai tarp kaimyninių majų miestų-valstybių.",
+        "option_d": "įvairinimo praktikos, kurios lėmė staigų įgimtų sutrikimų padidėjimą.",
+        "answer": "B",
+        "id": "prehistory/dev/2"
+    },
+    "99": {
+        "instruction": "2017 metų duomenimis, kiek pasaulio 1 metų amžiaus vaikų šiandien buvo paskiepyta nuo tam tikros ligos? *",
+        "option_a": "80%",
+        "option_b": "60%",
+        "option_c": "40%",
+        "option_d": "20%",
+        "answer": "A",
+        "id": "global_facts/dev/4"
+    },
+    "100": {
+        "instruction": "Kohortinėje studijoje diabeto išsivystymo rizikos santykis buvo 0,86, palyginus arbatos vartotojus (paveiktus) su tais, kurie nevartojo arbatos (nepaveikti). Kuri teiginys yra teisingas (pagal žinias 2020 m.)?",
+        "option_a": "Arbatos vartotojai turi mažesnę diabeto išsivystymo riziką.",
+        "option_b": "Arbatos vartotojai turi didesnę diabeto išsivystymo riziką.",
+        "option_c": "Remiantis pateikta informacija, negalime pasakyti, ar stebimas skirtumas ligos rizikoje yra atsitiktinumo rezultatas.",
+        "option_d": "Rizikos santykis yra arti vieneto, todėl tarp dviejų grupių nėra skirtumo ligos rizikoje.",
+        "answer": "C",
+        "id": "nutrition/dev/0"
+    },
+    "101": {
+        "instruction": "Kurie iš šių trijų elementų turi daugiausiai masės vienam branduoliui?",
+        "option_a": "Vandenilis",
+        "option_b": "Geležis",
+        "option_c": "Uranas",
+        "option_d": "Tas pats kiekviename",
+        "answer": "A",
+        "id": "conceptual_physics/dev/4"
+    },
+    "102": {
+        "instruction": "Kaip NSC-68 pakeitė JAV strategiją?",
+        "option_a": "Tai globalizavo sulaikymą.",
+        "option_b": "Tai militarizavo sulaikymą.",
+        "option_c": "Tai reikalavo vandenilio bombos vystymo.",
+        "option_d": "Visi aukščiau išvardinti",
+        "answer": "D",
+        "id": "us_foreign_policy/dev/1"
+    },
+    "103": {
+        "instruction": "Kuri iš šių galimybių yra labiausiai tikėtina paaiškinimas dėl dietinių skaidulų apsauginio poveikio prieš storosios žarnos vėžį, 2020 m.?",
+        "option_a": "Propiono rūgštis, susidarantis fermentuojant storosios žarnos skaidulas, slopina kepenų riebalų rūgščių sintezę",
+        "option_b": "Sviesto rūgštis, susidarantis fermentuojant storosios žarnos skaidulas, skatina SLC5A8 naviko slopintuvo geno \"nutildymą\"",
+        "option_c": "Nė viena iš šių galimybių nėra teisinga",
+        "option_d": "Sviesto rūgštis, susidarantis fermentuojant storosios žarnos skaidulas, skatina antioksidacines gynybas storosios žarnos",
+        "answer": "D",
+        "id": "nutrition/dev/2"
+    },
+    "104": {
+        "instruction": "1980 metų spalio 1 dieną, kūrėjas, turintis kelis šimtus akrų žemės kaimo rajone, parengė bendrą plėtros planą šiai teritorijai. Teisingai įregistruotas planas nustatė išsamius apribojimus ir reikalavimus žemei, kuri turėjo būti plėtojama kaip gyvenamasis rajonas. Apribojimai turėjo galioti visiems asmenims, įsigyjantiems bet kurį iš sklypų, taip pat jų įpėdiniams, perleidėjams ir nuomininkams. Be to, buvo numatyta, kad visi vėlesni savininkai bus informuoti apie apribojimus. Tarp bendro plano apribojimų buvo šie: (22) Sukuriama franšizės teisė 10 pėdų pločio žemės juostoje, einančioje per kiekvieno sklypo galą, viešųjų paslaugų įmonių naudojimui su įvažiavimo ir išvažiavimo teise. (23) Nėra leidžiama statyti jokio namo ar konstrukcijos minėtoje žemės juostoje, einančioje per šiuos kvartalus. 2000 metais pensininkas įsigijo vieną iš sklypų, pastatė namą ir pastatė tvorą savo turto gale, ribojamoje zonoje. 2004 metais mokytojas įsigijo sklypą, besiribojantį su pensininko turtu, ir pastatė naują namą. Po dvejų metų bibliotekininkas įsigijo sklypą, kuris ribojasi su mokytojo turtu. Trys šių nekilnojamojo turto aktai kiekvienas turėjo nuorodas į aktų knygą, kurioje buvo įregistruotas bendras planas. 2008 metais bibliotekininkas pradėjo statyti septynių pėdų aukščio stulpų ir lentų tvorą palei liniją, skiriančią jo sklypą nuo mokytojo, ir palei franšizės teisės taikymo centrą. Nors mokytojas prieštaravo jos statybai, tvora buvo baigta. Jei mokytojas sieks privalomo įsakymo, kad būtų priverstinai pašalinta bibliotekininko tvora, teismas greičiausiai",
+        "option_a": "patenkins prašymą, nes tvora pažeidė servituto apribojimą.",
+        "option_b": "patenkins prašymą, nes tvoros įsiskverbimas pažeidė apribojimą originaliame plane.",
+        "option_c": "atmes prašymą, nes mokytojas nesugebėjo įgyvendinti apribojimo prieš pensininką.",
+        "option_d": "atmes prašymą, nes tvora nebūtų laikoma \"konstrukcija\" pagal apribojimo sąlygas.",
+        "answer": "B",
+        "id": "professional_law/dev/3"
+    },
+    "105": {
+        "instruction": "Plaukiant vandenyne, Ivanas išsigąsta tamsios šešėlio vandenyje net prieš jam turint galimybę nustatyti, kas tas šešėlis yra. Sinapsiniai ryšiai, vykstantys šio išgąsčio metu, geriausiai apibūdinami kaip kurie iš šių?",
+        "option_a": "Žinutės siunčiamos iš talamo tiesiai į amygdalą.",
+        "option_b": "Žinutės siunčiamos iš talamo į \"ką\" ir \"kur\" kelius.",
+        "option_c": "Žinutės siunčiamos iš parasimpatinės nervų sistemos į smegenų žievę.",
+        "option_d": "Žinutės siunčiamos iš priekinės skilties į hipofizę.",
+        "answer": "A",
+        "id": "high_school_psychology/dev/2"
+    },
+    "106": {
+        "instruction": "Kokia vaizdų duomenų didinimo technika yra dažniausia natūraliems vaizdams?",
+        "option_a": "atsitiktinis iškarpymas ir horizontali apvertimas",
+        "option_b": "atsitiktinis iškarpymas ir vertikali apvertimas",
+        "option_c": "plakatavimas",
+        "option_d": "dithering",
+        "answer": "A",
+        "id": "machine_learning/dev/1"
+    },
+    "107": {
+        "instruction": "Kuriam iš šių termodinamikos procesų idealaus dujų vidinės energijos padidėjimas yra lygus į dujas pridėtam šilumos kiekiui?",
+        "option_a": "Nuolatinė temperatūra",
+        "option_b": "Nuolatinis tūris",
+        "option_c": "Nuolatinis slėgis",
+        "option_d": "Adiabatinis",
+        "answer": "B",
+        "id": "college_physics/dev/1"
+    },
+    "108": {
+        "instruction": "Visi kiti dalykai esant vienodi, kuris iš šių asmenų labiau linkęs rodyti osteoporozę?",
+        "option_a": "Vyresnė ispanų amerikietė",
+        "option_b": "Vyresnė afroamerikietė",
+        "option_c": "Vyresnė azijiečių amerikietė",
+        "option_d": "Vyresnė vietinė amerikietė",
+        "answer": "C",
+        "id": "human_aging/dev/4"
+    },
+    "109": {
+        "instruction": "Kuris iš šių yra būdingas oligopolijai?",
+        "option_a": "Laisvas įėjimas į rinką ir išėjimas iš jos",
+        "option_b": "Keletas didelių gamintojų",
+        "option_c": "Vienas produkto gamintojas, neturintis artimų pakaitalų",
+        "option_d": "Homogeninis produktas",
+        "answer": "B",
+        "id": "high_school_microeconomics/dev/4"
+    },
+    "110": {
+        "instruction": "Angle'o II klasės 2 div ocliuzijoje yra",
+        "option_a": "perteklinis viršutinių šoninių kandžių užkandis.",
+        "option_b": "neigiamas viršutinių centrinio kandžio užkandis.",
+        "option_c": "perteklinis viršutinių šoninių kandžių užkandis.",
+        "option_d": "perteklinis viršutinių centrinio kandžio užkandis.",
+        "answer": "C",
+        "id": "anatomy/dev/3"
+    },
+    "111": {
+        "instruction": "Krete yra nesusituokęs mokesčių mokėtojas, kurio pajamos gaunamos tik iš atlyginimo. Iki gruodžio 31 d., 1-aisiais metais, Krete darbdavys buvo išskaičiavęs 16 000 USD federalinių pajamų mokesčių, o Krete nepadarė jokių numatomų mokesčių mokėjimų. 2-ųjų metų balandžio 15 d. Krete laiku pateikė prašymą dėl pratęsimo, kad galėtų pateikti savo individualią mokesčių deklaraciją, ir sumokėjo 300 USD papildomų mokesčių. Krete 1-ųjų metų mokesčių prievolė buvo 16 500 USD, kai ji laiku pateikė savo deklaraciją 2-ųjų metų balandžio 30 d. ir sumokėjo likusią mokesčių prievolės sumą. Kokia suma būtų taikoma bauda už numatomų mokesčių neapmokėjimą?",
+        "option_a": "$0",
+        "option_b": "$500",
+        "option_c": "$1,650",
+        "option_d": "$16,500",
+        "answer": "A",
+        "id": "professional_accounting/dev/2"
+    },
+    "112": {
+        "instruction": "Pagal ekvivalentiškumo principą ekvivalentai yra",
+        "option_a": "erdvė ir laikas.",
+        "option_b": "keliaujantis dvynys ir namuose likęs dvynys.",
+        "option_c": "gravitacija ir pagreitis.",
+        "option_d": "masė ir energija.",
+        "answer": "C",
+        "id": "conceptual_physics/dev/1"
+    },
+    "113": {
+        "instruction": "Žemės valanda buvo kampanija, kurią inicijavo kuri organizacija?",
+        "option_a": "Greenpeace",
+        "option_b": "JT",
+        "option_c": "Oxfam",
+        "option_d": "Pasaulio gamtos fondas",
+        "answer": "D",
+        "id": "public_relations/dev/4"
+    },
+    "114": {
+        "instruction": "Kuri iš šių teiginių yra teisinga galiojančiam kategoriniam silogizmui?",
+        "option_a": "Mažoji prielaida turi paneigti antecedentą",
+        "option_b": "Didžioji prielaida turi patvirtinti consequentą",
+        "option_c": "Vidurinė sąvoka turi būti naudojama bent vienoje prielaidoje visuotiniu arba neapibrėžtu būdu",
+        "option_d": "Visi aukščiau išvardinti",
+        "answer": "C",
+        "id": "logical_fallacies/dev/2"
+    },
+    "115": {
+        "instruction": "Kuri iš šių politikų geriausiai apibūdina pasiūlos pusės fiskalinę politiką?",
+        "option_a": "Pinigų pasiūlos didinimas",
+        "option_b": "Padidėjęs vyriausybės išlaidų",
+        "option_c": "Mažesni mokesčiai už naujų technologijų tyrimus ir plėtrą",
+        "option_d": "Aukštesni mokesčiai už namų ūkių pajamas",
+        "answer": "C",
+        "id": "high_school_macroeconomics/dev/4"
+    },
+    "116": {
+        "instruction": "Kokias jėgas draudžia JT Chartijos 2(4) straipsnis?",
+        "option_a": "2(4) straipsnis apima tik ginkluotą jėgą",
+        "option_b": "2(4) straipsnis apima visų rūšių jėgą, įskaitant sankcijas",
+        "option_c": "2(4) straipsnis apima visus kišimus į valstybių vidaus reikalus",
+        "option_d": "2(4) straipsnis apima jėgą, nukreiptą tik prieš valstybės teritorinį vientisumą",
+        "answer": "A",
+        "id": "international_law/dev/0"
+    },
+    "117": {
+        "instruction": "Naujas išmanusis laikrodis gaminamas vienoje gamyklos dalyje, o vėliau saugiai paruošiamas siuntimui kitoje, nepriklausomoje gamyklos dalyje. Išmaniojo laikrodžio svoris vidutiniškai yra 62 gramai, o standartinis nuokrypis - 1,0 gramo. Pakuotės (dėžutės, vartotojo vadovo, burbulinės plėvelės ir kt.) svoris vidutiniškai yra 456 gramai, o standartinis nuokrypis - 6 gramai. Kartu išmaniojo laikrodžio ir jo pakuotės svorio pasiskirstymas turėtų šiuos vidurkius ir standartinius nuokrypius:",
+        "option_a": "Vidurkis 518 gramų; standartinis nuokrypis 7,0 gramų",
+        "option_b": "Vidurkis 518 gramų; standartinis nuokrypis 3,5 gramų",
+        "option_c": "Vidurkis 518 gramų; standartinis nuokrypis 6,1 gramų",
+        "option_d": "Vidurkis 394 gramai; standartinis nuokrypis 6,1 gramų",
+        "answer": "C",
+        "id": "high_school_statistics/dev/3"
+    },
+    "118": {
+        "instruction": "Kokie yra proaktyviausi būdai sprendžiant neigiamą ar klaidinančią informaciją, paskelbtą internete apie jūsų organizaciją?",
+        "option_a": "Įsigykite domenų vardus, kurie galėtų būti naudojami opozicinių grupių.",
+        "option_b": "Paskelbkite anoniminius komentarus tinklaraščiuose, kad kovotumėte su šia informacija.",
+        "option_c": "Paruoškite pranešimą spaudai, kuris diskredituotų netikslią informaciją.",
+        "option_d": "Atlikite politikos pakeitimus, kad spręstumėte skundus, iškeltus šiose svetainėse.",
+        "answer": "D",
+        "id": "public_relations/dev/1"
+    },
+    "119": {
+        "instruction": "Prieš Tolstojaus krikščionišką konversiją, kokia buvo jo požiūris į gyvenimo prasmę?",
+        "option_a": "optimistas",
+        "option_b": "patenkintas",
+        "option_c": "nominaliai religingas",
+        "option_d": "pesimistas",
+        "answer": "D",
+        "id": "philosophy/dev/3"
+    },
+    "120": {
+        "instruction": "Kuris iš šių dalykų 1948 metų pokario gerovės valstybė nesiekė suteikti:",
+        "option_a": "nemokamą sveikatos priežiūrą ir švietimą visiems",
+        "option_b": "minimalų atlyginimą",
+        "option_c": "pilną užimtumą",
+        "option_d": "visuotinę gerovę",
+        "answer": "B",
+        "id": "sociology/dev/0"
+    },
+    "121": {
+        "instruction": "Dešimt studentų laikė biologijos testą ir gavo šiuos balus: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Koks yra studentų testų balų vidurkis?",
+        "option_a": "55",
+        "option_b": "60",
+        "option_c": "62",
+        "option_d": "65",
+        "answer": "D",
+        "id": "high_school_mathematics/dev/4"
+    },
+    "122": {
+        "instruction": "Higienos veiksniai yra susiję su kuriuo rašytoju?",
+        "option_a": "Frederick Hertzberg",
+        "option_b": "D.C. McClelland",
+        "option_c": "Abraham Maslow",
+        "option_d": "Douglas McGregor",
+        "answer": "A",
+        "id": "management/dev/1"
+    },
+    "123": {
+        "instruction": "Žemiau pateiktoje programoje pradinė x reikšmė yra 5, o pradinė y reikšmė yra 10.\n IF (X < O)\n {\n DISPLAY (\"Foxtrot\")\n }\n ELSE\n {\n IF (X > y)\n {\n   DISPLAY (\"Hotel\")\n }\n ELSE \n {\n   IF (y > O)\n   {\n   DISPLAY (\"November\")\n   }\n   ELSE\n   {\n   DISPLAY (\"Yankee\")\n   }\n }\n }\n \n Ką parodys programa, kai ji bus vykdoma?",
+        "option_a": "Foxtrot",
+        "option_b": "Hotel",
+        "option_c": "November",
+        "option_d": "Yankee",
+        "answer": "C",
+        "id": "high_school_computer_science/dev/3"
+    },
+    "124": {
+        "instruction": "Ar rezervacija dėl kankinimo apibrėžimo ICCPR būtų priimtina šiuolaikinėje praktikoje?",
+        "option_a": "Tai yra priimtina rezervacija, jei rezervuojančios šalies teisės aktai naudoja kitokį apibrėžimą",
+        "option_b": "Tai yra nepriimtina rezervacija, nes ji prieštarauja ICCPR tikslui ir objektui",
+        "option_c": "Tai yra nepriimtina rezervacija, nes kankinimo apibrėžimas ICCPR atitinka paprotinę tarptautinę teisę",
+        "option_d": "Tai yra priimtina rezervacija, nes pagal bendrąją tarptautinę teisę valstybės turi teisę daryti rezervacijas sutartims",
+        "answer": "B",
+        "id": "international_law/dev/2"
+    },
+    "125": {
+        "instruction": "Mikrobangų krosnelė prijungta prie lizdo, 120 V, ir naudoja 2 amperų srovę. Koks energijos naudojimo greitis yra mikrobangų krosnelėje?",
+        "option_a": "10 W",
+        "option_b": "30 W",
+        "option_c": "60 W",
+        "option_d": "240 W",
+        "answer": "D",
+        "id": "high_school_physics/dev/3"
+    },
+    "126": {
+        "instruction": "Baron pripažįsta, kad versijos apie laikrodžio bombą, kurias ji aptaria, yra \"stulbinančiai kvailos\", tačiau ji teigia, kad tai iš tikrųjų yra įrodymas",
+        "option_a": "daugumos tradicinių filosofinių pavyzdžių kvailumo.",
+        "option_b": "bendro intelekto trūkumo tarp žmonių su aukštaisiais laipsniais.",
+        "option_c": "kankinimų neteisingumo.",
+        "option_d": "daugelio protingų žmonių pasirengimo matyti kankinimus kaip geriausią sprendimą kovojant su terorizmu.",
+        "answer": "D",
+        "id": "moral_disputes/dev/4"
+    },
+    "127": {
+        "instruction": "Kuris iš šių yra intrinzinė gėrybė, pagal Singer'į?",
+        "option_a": "būti aukštoje klasėje",
+        "option_b": "gebėjimas mokytis ir spręsti problemas",
+        "option_c": "būti gražesniam nei dauguma gyventojų",
+        "option_d": "būti žemesniam nei vidutinis",
+        "answer": "B",
+        "id": "moral_disputes/dev/2"
+    },
+    "128": {
+        "instruction": "Kiek ašių turi standartinis automobilis?",
+        "option_a": "viena",
+        "option_b": "dvi",
+        "option_c": "keturios",
+        "option_d": "aštuonios",
+        "answer": "B",
+        "id": "miscellaneous/dev/0"
+    },
+    "129": {
+        "instruction": "Gliukozė transportuojama į raumenų ląstelę:",
+        "option_a": "per baltymų transporterius, vadinamus GLUT4.",
+        "option_b": "tik esant insulinui.",
+        "option_c": "per heksochinazę.",
+        "option_d": "per monokarboksilo rūgšties transporterius.",
+        "answer": "A",
+        "id": "college_medicine/dev/0"
+    },
+    "130": {
+        "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). Aukščiau parodytoje reakcijoje Cl−(aq) elgiasi kaip",
+        "option_a": "rūgštis",
+        "option_b": "bazė",
+        "option_c": "katalizatorius",
+        "option_d": "redukuojanti medžiaga",
+        "answer": "D",
+        "id": "college_chemistry/dev/3"
+    },
+    "131": {
+        "instruction": "Terminas „biudžeto deficitas“ reiškia",
+        "option_a": "metinį federalinių karinių išlaidų padidėjimą",
+        "option_b": "nacionalinės skolos palūkanų sumą",
+        "option_c": "skirtumą tarp pradinio biudžeto pasiūlymo, pateikto prezidento ir Kongreso",
+        "option_d": "sumą, kurią vyriausybė išleidžia viršijant savo pajamas",
+        "answer": "D",
+        "id": "high_school_government_and_politics/dev/1"
+    },
+    "132": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\nŽemiau pateikti ištraukos yra iš Navigacijos aktų, priimtų 1651 metais.\n[N]uo pirmosios gruodžio dienos, tūkstantis šeši šimtai penkiasdešimt vieneri, ir nuo tada toliau, jokie prekių ar produktų, kilusių, pagamintų ar pagamintų Azijoje, Afrikoje ar Amerikoje, ar bet kurioje jų dalyje; arba bet kurių salų, priklausančių joms, ar kurios yra aprašytos ar nurodytos įprastiniuose žemėlapiuose ar kortelėse, tiek anglų plantacijų, tiek kitų, negali būti importuojamos ar atvežamos į šią Anglijos bendruomenę, ar į Airiją, ar į bet kurias kitas žemes, salas, plantacijas ar teritorijas, priklausančias šiai bendruomenei, ar jų nuosavybėje, jokiu kitu laivu ar laivais, bet tik tokiuose, kurie tikrai ir be apgaulės priklauso tik šios bendruomenės žmonėms, ar jos plantacijoms, kaip savininkams ar teisėtiems savininkams; ir kurių kapitonas ir jūrininkai taip pat yra šios bendruomenės žmonės, pagal bausmę prarasti ir netekti visų prekių, kurios bus importuotos priešingai šiam aktui, , , ,\n[N]e jokios prekės ar produktai, kilę, pagaminti ar pagaminti Europoje, ar bet kurioje jos dalyje, po pirmosios gruodžio dienos, tūkstantis šeši šimtai penkiasdešimt vieneri, negali būti importuojami ar atvežami į šią Anglijos bendruomenę, ar į bet kurias kitas žemes ar teritorijas, priklausančias šiai bendruomenei, ar jų nuosavybėje, jokiu laivu ar laivais, bet tik tokiuose, kurie tikrai ir be apgaulės priklauso tik šios bendruomenės žmonėms, ir jokiu kitu, išskyrus tik tokius užsienio laivus ir laivus, kurie tikrai ir tinkamai priklauso tos šalies ar vietos žmonėms, iš kurios šios prekės yra kilusios, pagamintos ar pagamintos.\nKurie iš šių geriausiai apibūdina 1651 metų Navigacijos aktų pasekmes?",
+        "option_a": "Jos tapo katalizatoriumi Anglijos laivybos ir užsienio prekybos augimui, tačiau mažai apribojo olandų perspektyvas XVII amžiuje.",
+        "option_b": "Jos sukėlė beveik iškart sunkumų Olandijos ekonomikai, nes jų dominavimas užsienio prekyboje greitai baigėsi.",
+        "option_c": "Jos buvo atšauktos atkuriant Stuartų dinastiją, nes jie siekė normalių diplomatinių santykių su olandais, kad nereikėtų Parlamento finansinės paramos karui.",
+        "option_d": "Jos lėmė beveik šimtmečio trukmės nuolatines karines kovas tarp Anglijos ir Nyderlandų, kurios nesibaigė iki Amerikos nepriklausomybės.",
+        "answer": "A",
+        "id": "high_school_european_history/dev/3"
+    },
+    "133": {
+        "instruction": "Rytinė pykinimas paprastai yra problema:",
+        "option_a": "pirmąjį trimestrą",
+        "option_b": "antrąjį trimestrą",
+        "option_c": "trečiąjį trimestrą",
+        "option_d": "visą nėštumo laikotarpį",
+        "answer": "A",
+        "id": "human_sexuality/dev/0"
+    },
+    "134": {
+        "instruction": "Nustatykite 13C pažymėto metilo radikalo (13CH3•) tirpalo EPR spektro linijų skaičių, manydami, kad linijos nesikerta.",
+        "option_a": "4",
+        "option_b": "3",
+        "option_c": "6",
+        "option_d": "24",
+        "answer": "A",
+        "id": "college_chemistry/dev/2"
+    },
+    "135": {
+        "instruction": "Pasak Timothy Pauketat, įrodymai apie socialinę stratifikaciją ir politinę galią Cahokijoje rodo:",
+        "option_a": "Missisipiečių civilizacijos centras su sąlygomis, panašiomis į ankstyvųjų valstybių kilimą.",
+        "option_b": "autoritetų apribojimus vietinių amerikiečių egalitarinių medžiotojų ir rinkėjų visuomenėje.",
+        "option_c": "paprasta vyriausybė arba galbūt sudėtinga vyriausybė buvo išsivysčiusi iki 1500 m. po Kristaus.",
+        "option_d": "Missisipiečių civilizacijos centras su sąlygomis, panašiomis į šiaurės vakarų Amerikos visuomenes.",
+        "answer": "A",
+        "id": "prehistory/dev/1"
+    },
+    "136": {
+        "instruction": "Norint tapti sušalintam, grėsmė turi būti pateikta kuriuo nors iš šių būdų?",
+        "option_a": "Kaip egzistencinė grėsmė, reikalaujanti skubaus ir nepaprasto veiksmų, keliančio grėsmę valstybės išlikimui arba visuomenės saugumui.",
+        "option_b": "Kaip reikalaujanti skubaus ir nepaprasto valstybės veiksmų, keliančio grėsmę referentinio objekto išlikimui ir todėl pateisinančio priemonių, kurios paprastai nenaudojamos politinėje srityje, taikymą.",
+        "option_c": "Kaip skubi grėsmė referentinio objekto išlikimui, tokia rimta, kad pateisina nepaprastų veiksmų taikymą kaip atsaką.",
+        "option_d": "Kaip skubi grėsmė auditorijos išlikimui, reikalaujanti nepaprastų arba ekstremalių priemonių.",
+        "answer": "C",
+        "id": "security_studies/dev/2"
+    },
+    "137": {
+        "instruction": "Be verslo atvejo, susijusio su CSR, yra keletas moralinių argumentų, susijusių su: neigiamais _______, _______ , kuriuos turi korporacijos, ir ________ verslo bei visuomenės.",
+        "option_a": "Išoriniai poveikiai, Galia, Nepriklausomybė",
+        "option_b": "Viešumas, Nepakankami ištekliai, Tarpusavio priklausomybė",
+        "option_c": "Viešumas, Galia, Nepriklausomybė",
+        "option_d": "Išoriniai poveikiai, Galia, Tarpusavio priklausomybė",
+        "answer": "D",
+        "id": "business_ethics/dev/0"
+    },
+    "138": {
+        "instruction": "Anksčiau sveika 32 metų moteris atvyksta pas gydytoją po 8 mėnesių, kai jos vyras žuvo autoavarijoje. Nuo to laiko ji turi sumažėjusį apetitą ir sunkumų užmigti. Ji teigia, kad dažnai jaučiasi liūdna ir dažnai verkia. Ji penkis kartus patikrina durų užraktą prieš išeidama iš namų ir turi tiksliai suskaičiuoti penkis tualetinio popieriaus lapelius prieš juos naudodama. Ji sako, kad visada buvo perfekcionistė, tačiau šie potraukiai ir ritualai yra nauji. Vaistų terapija turėtų būti nukreipta į kuriuos iš šių neurotransmiterių?",
+        "option_a": "Dopaminas",
+        "option_b": "Glutamatas",
+        "option_c": "Norepinefrinas",
+        "option_d": "Serotoninas",
+        "answer": "D",
+        "id": "professional_medicine/dev/2"
+    },
+    "139": {
+        "instruction": "Pasirinkite geriausią vertimą į predikatyvinę logiką: Nėra žmonių, kurie vairuoja Marse.",
+        "option_a": "~Pd",
+        "option_b": "(∀x)(Px ∨ ~Dx)",
+        "option_c": "(∀x)(Px ⊃ ~Dx)",
+        "option_d": "~Dp",
+        "answer": "C",
+        "id": "formal_logic/dev/0"
+    },
+    "140": {
+        "instruction": "Kaip Donaldas Trumpas puolė globalizaciją 2016 metų kampanijoje?",
+        "option_a": "Globalizacija padarė tokius vyrus kaip jis per daug turtingus",
+        "option_b": "Globalizacija naudingiausia buvo tik tam tikroms Amerikos valstijoms, tokioms kaip Niujorkas",
+        "option_c": "Liberalūs elitas skatino globalizaciją, tuo tarpu 'paprasti amerikiečiai' dėl to prarado darbo vietas",
+        "option_d": "Globalizacija skatino žalingus prekybos karus",
+        "answer": "C",
+        "id": "us_foreign_policy/dev/4"
+    },
+    "141": {
+        "instruction": "Svarbiausias elgesio intervencijos tikslas yra:",
+        "option_a": "Elgesio pokytis",
+        "option_b": "Išsamus aprėptis",
+        "option_c": "Efektyvus elgesio teorijos naudojimas",
+        "option_d": "Ilgalaikis elgesio pokytis",
+        "answer": "D",
+        "id": "virology/dev/3"
+    },
+    "142": {
+        "instruction": "Vamzdis, pilnas oro, uždarytas viename gale. Vamzdyje susidaro stovinti banga, dėl kurios vamzdis skleidžia garsą. Kuris iš šių teiginių yra teisingas apie bangos savybes vamzdžio uždarymo gale?",
+        "option_a": "Slėgis yra mazge, tačiau dalelių poslinkis yra antmazgyje.",
+        "option_b": "Slėgis yra antmazgyje, tačiau dalelių poslinkis yra mazge.",
+        "option_c": "Slėgis ir dalelių poslinkis abu yra mazguose.",
+        "option_d": "Slėgis ir dalelių poslinkis abu yra antmazgiuose.",
+        "answer": "B",
+        "id": "high_school_physics/dev/1"
+    },
+    "143": {
+        "instruction": "Pagrindinis veiksnys, palengvinantis įterptinių atvejų kontrolės tyrimų taikymą MACS, buvo:",
+        "option_a": "Duomenų rinkimas",
+        "option_b": "Biologinių mėginių saugyklos sukūrimas",
+        "option_c": "Dalyvių susidomėjimas",
+        "option_d": "Anketos administravimas personalo",
+        "answer": "B",
+        "id": "virology/dev/2"
+    },
+    "144": {
+        "instruction": "Dideli tripletų pasikartojimų išplėtimai gali būti nustatyti naudojant:",
+        "option_a": "polimerazės grandinės reakciją.",
+        "option_b": "vienos grandinės konformacinės polimorfizmo analizę.",
+        "option_c": "Southern blotting.",
+        "option_d": "Western blotting.",
+        "answer": "C",
+        "id": "medical_genetics/dev/0"
+    },
+    "145": {
+        "instruction": "Glikolizė yra pavadinimas, suteiktas keliui, apimančiam konversiją į:",
+        "option_a": "glikogeną į gliukozės-1-fosfatą.",
+        "option_b": "glikogeną arba gliukozę į fruktozę.",
+        "option_c": "glikogeną arba gliukozę į piruvatą arba laktatą.",
+        "option_d": "glikogeną arba gliukozę į piruvatą arba acetil-CoA.",
+        "answer": "C",
+        "id": "clinical_knowledge/dev/4"
+    },
+    "146": {
+        "instruction": "Tarkime, kad X ir Y yra atsitiktiniai kintamieji, kurių E(X) = 37, var(X) = 5, E(Y) = 62, ir var(Y) = 12. Kokia yra atsitiktinio kintamojo X + Y tikimybė ir variacija?",
+        "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+        "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+        "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+        "option_d": "Informacijos nepakanka, kad būtų galima atsakyti į šį klausimą.",
+        "answer": "D",
+        "id": "high_school_statistics/dev/1"
+    },
+    "147": {
+        "instruction": "Kokie yra analizės rėmai, pagal kuriuos terorizmas buvo vertinamas (2020 m. duomenimis)?",
+        "option_a": "Didesnių valstybių konkurencija lėmė, kad kai kurios šalys aktyviai remia teroristų grupes, siekdamos silpninti varžovų valstybių jėgą. Teroristų tinklai yra išplėsti globos klubai, kuriuos palaiko ir finansuoja jų donorinės valstybės, ir jie yra suvokiami kaip valstybės aktoriai, su kuriais reikia elgtis naudojant karines jėgas.",
+        "option_b": "Globalizacija leido tarptautinti teroristų veiklą, atverdama jų operacinę erdvę, nors koordinavimas vis dar vykdomas iš geografinės bazės. Tai rodo, kad teroristų grupės yra nacionaliai struktūrizuotos, o tai reiškia, kad terorizmo negalima vertinti kaip karo, kurį reikia nugalėti kariškai, nes tai turės rimtų pasekmių vietinei gyventojai.",
+        "option_c": "Terorizmą galima vertinti kaip problemą, kurią reikia spręsti kariniais būdais (karas su terorizmu), įprastomis policijos technikomis (terorizmas kaip nusikaltimas) arba kaip medicininę problemą su pagrindinėmis priežastimis ir simptomais (terorizmas kaip liga).",
+        "option_d": "Terorizmas vertinamas kaip nusikaltimų problema. Terorizmo kriminalizavimas turi dvi svarbias pasekmes. Pirma, tai rodo, kad terorizmą galima išnaikinti - teroristus galima suimti ir patraukti baudžiamojon atsakomybėn įprastų teismo procesų būdu, taip pašalinant grėsmę visuomenei - ir antra, tai rodo, kad prevencinės nusikaltimų technikos yra taikomos, siekiant užkirsti kelią jo vystymuisi.",
+        "answer": "C",
+        "id": "security_studies/dev/4"
+    },
+    "148": {
+        "instruction": "Teismas pradžioje priėmė teisinį žinojimą apie tam tikrus faktus. Kuris iš šių faktų nėra tinkamas teisiniam žinojimui?",
+        "option_a": "Neprieštaraujantys faktai.",
+        "option_b": "Faktai, kuriuos teigė atskiros politinės organizacijos.",
+        "option_c": "Faktai, pripažinti kaip tiesa pagal bendrą žinias.",
+        "option_d": "Faktai, galintys būti mokslinai patvirtinti.",
+        "answer": "B",
+        "id": "professional_law/dev/2"
+    },
+    "149": {
+        "instruction": "Koks yra apytikslis Homo erectus kaukolės talpos vidurkis?",
+        "option_a": "mažiau nei 650 cc",
+        "option_b": "apie 800 cc",
+        "option_c": "šiek tiek mažiau nei 1000 cc",
+        "option_d": "1200 cc",
+        "answer": "C",
+        "id": "prehistory/dev/4"
+    },
+    "150": {
+        "instruction": "Naujausi tyrimai apie hominidų rūšis, datuojamas vidurinio plioceno laikotarpiu, rodo, kad (2020 m. duomenimis):",
+        "option_a": "buvo didelis rūšių įvairovės kiekis arba viena rūšis, kuri parodė daug įvairovės.",
+        "option_b": "šiuo laikotarpiu buvo labai mažai rūšių įvairovės ir labai mažai hominidų.",
+        "option_c": "rūšių įvairovės sumažėjimas dėl ilgo ledynmečio, po kurio sekė sunki sausra.",
+        "option_d": "rūšių įvairovės sumažėjimas, bet padidėjęs plaktukų ir drožlių skaičius, rodantis akmens įrankių gamybą.",
+        "answer": "A",
+        "id": "prehistory/dev/3"
+    },
+    "151": {
+        "instruction": "Mejozės etapas, kuriame chromosomos poruojasi ir kryžminasi, yra:",
+        "option_a": "profazė I",
+        "option_b": "metafazė I",
+        "option_c": "profazė II",
+        "option_d": "metafazė II",
+        "answer": "A",
+        "id": "medical_genetics/dev/4"
+    },
+    "152": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\nNors karaliaus didybė teisingai ir teisėtai yra ir turi būti aukščiausiasis Anglijos Bažnyčios vadovas, ir taip yra pripažįstama šio krašto dvasininkų jų suvažiavimuose, vis dėlto, siekiant patvirtinimo ir patvirtinimo, ir siekiant didinti dorybę Kristaus religijoje šioje Anglijos karalystėje, ir slopinti bei išnaikinti visus klaidingus mokymus, erezijas ir kitas neteisybes bei piktnaudžiavimus, iki šiol naudojamus toje pačioje, teikiama, pagal šios dabartinės Parlamento valdžią, kad karalius, mūsų suverenas, jo įpėdiniai ir įpėdiniai, šios karalystės karaliai, bus laikomi, priimami ir pripažįstami vieninteliu aukščiausiu vadovu žemėje Anglijos Bažnyčioje, vadinamoje Anglikanų Bažnyčia; ir turės ir mėgausis, prijungtu ir sujungtu su šios karalystės imperatoriška karūna, tiek titulu ir stiliumi, tiek visais garbės, orumo, pirmumo, jurisdikcijos, privilegijų, valdžios, imunitetų, pelno ir prekių, priklausančių ir atitinkančių šios Bažnyčios aukščiausio vadovo orumui; ir kad mūsų minėtas suverenas, jo įpėdiniai ir įpėdiniai, šios karalystės karaliai, turės visišką galią ir valdžią nuo laiko iki laiko aplankyti, slopinti, taisyti, registruoti, tvarkyti, koreguoti, apriboti ir pataisyti visus tokius klaidingus mokymus, erezijas, piktnaudžiavimus, nusikaltimus, paniekas ir neteisybes, kokios jos bebūtų, kurios bet kokiu dvasiniu autoritetu ar jurisdikcija turėtų būti arba gali būti teisėtai reformuotos, slopinamos, tvarkomos, taisomos, apribojamos ar pataisomos, labiausiai Dievo, Visagalybės, malonumui, dorybės didinimui Kristaus religijoje ir taikos, vienybės ir ramybės šioje karalystėje išsaugojimui; bet koks naudojimas, užsienio žemė, užsienio valdžia, nuostatos ar bet kas kitas, prieštaraujantis šiam, nepaisant.\nAnglijos Parlamentas, Suvereniteto aktas, 1534\nIš šio teksto galima daryti išvadą, kad Anglijos Parlamentas norėjo teigti, kad Suvereniteto aktas",
+        "option_a": "suteiks Anglijos karaliui naują valdžios poziciją",
+        "option_b": "suteiks Anglijos Bažnyčios vadovo poziciją tik Henriku VIII ir išskirs jo įpėdinius",
+        "option_c": "įtvirtins kalvinizmą kaip vienintelę tikrą teologiją Anglijoje",
+        "option_d": "užbaigs įvairias korupcijos formas, kamuojančias Bažnyčią Anglijoje",
+        "answer": "D",
+        "id": "high_school_european_history/dev/4"
+    },
+    "153": {
+        "instruction": "Pleura",
+        "option_a": "neturi sensorinės inervacijos.",
+        "option_b": "yra atskirtos 2 mm tarpu.",
+        "option_c": "tęsiasi į kaklą.",
+        "option_d": "yra sudarytos iš kvėpavimo epitelio.",
+        "answer": "C",
+        "id": "anatomy/dev/2"
+    },
+    "154": {
+        "instruction": "Kuris žodis geriausiai apibendrina Weberio paaiškinimą apie formaliai racionalaus įstatymo vystymąsi?",
+        "option_a": "Autoritetas.",
+        "option_b": "Charizma.",
+        "option_c": "Bendradarbiavimas.",
+        "option_d": "Kapitalizmas.",
+        "answer": "D",
+        "id": "jurisprudence/dev/2"
+    },
+    "155": {
+        "instruction": "Trečiajame demografinės transformacijos modelio etape, kuris iš šių teiginių yra teisingas?",
+        "option_a": "Gimstamumo rodikliai didėja, o gyventojų augimo tempas yra mažiau spartus.",
+        "option_b": "Gimstamumo rodikliai mažėja, o gyventojų augimo tempas yra mažiau spartus.",
+        "option_c": "Gimstamumo rodikliai didėja, o gyventojų augimo tempas didėja.",
+        "option_d": "Gimstamumo rodikliai mažėja, o gyventojų augimo tempas didėja.",
+        "answer": "B",
+        "id": "high_school_geography/dev/1"
+    },
+    "156": {
+        "instruction": "Koks yra pirmosios eilės vaistas pacientams, sergantiems 2 tipo diabetu ir nutukimu, 2020 metais?",
+        "option_a": "Akarbozė",
+        "option_b": "Metforminas",
+        "option_c": "Sulfoniilurejos",
+        "option_d": "Insulinas",
+        "answer": "B",
+        "id": "nutrition/dev/4"
+    },
+    "157": {
+        "instruction": "Kuriame iš šių dviejų scenarijų pagrindinis veikėjas (kuris naudoja aš/man/mano) daro kažką akivaizdžiai morališkai neteisingo, pagal įprastus moralinius standartus JAV 2020 metais? Scenarijus 1 | Paprašiau cigaretės iš vaikino prie parduotuvės. Scenarijus 2 | Kai apsaugos darbuotojas paliko savo postą, aš paslėpiau retą monetą.",
+        "option_a": "Neteisinga, Neteisinga",
+        "option_b": "Neteisinga, Neteisinga",
+        "option_c": "Neteisinga, Neteisinga",
+        "option_d": "Neteisinga, Neteisinga",
+        "answer": "C",
+        "id": "moral_scenarios/dev/1"
+    },
+    "158": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\nAš nesu čia, kad reikalaučiau asmeninių pretenzijų ar siekčiau individualių naudų; aš pasirodau kaip tų, kurie negali ginti savo reikalų, advokatas; aš atėjau kaip draugas tų, kurie yra apleisti, engiami ir apleisti. Dievo apvaizdoje aš esu maniako balsas, kurio aštrūs šauksmai iš niūrių jūsų kalėjimų požemių neprasiskverbia į jūsų Įstatymų leidybos rūmus. Aš esu vargšų, beprotiškai kenčiančių būtybių viltis, kurie nyksta jūsų kalėjimuose, tvartuose, narvuose ir apleistose patalpose. Aš esu šimtų verkiančių, kenčiančių būtybių atskleidimas, paslėptų jūsų privačiuose namuose, tvartuose ir kabinose—išstumtų, atskirtų nuo visų gydančių įtakų, nuo visų proto atstatymo rūpesčių... Ar jų liūdnos istorijos galėtų būti išdėstytos prieš jus, kaip buvo atskleistos mano liūdnai dvasiai per pastaruosius tris mėnesius, kaip greitai, kaip nuoširdžiai jūs ieškotumėte patvirtintų pagalbos priemonių; kaip menki, kaip nereikšmingi, palyginti, atrodytų aukos, kurių jūs esate prašomi; kaip kelios centų ir dolerių sumos, surinktos iš kiekvieno piliečio, sumažėtų vertėje kaip turtas, palyginti su tikromis nauda ir didžiuliu geru, kuris gali būti užtikrintas kenčiantiems bepročiams...skiriant ir taikant pakankamą fondą tinkamo ligoninės statybai.\n—Dorothea Dix, Memorialas, prašantis valstybės ligoninės bepročių apsaugai ir gydymui,\nPateikta Šiaurės Karolinos Generalinei Asamblėjai, 1848 m. lapkritis\nDorothea Dix geriausiai gali būti lyginama su kuo?",
+        "option_a": "Abigail Adams",
+        "option_b": "Clara Barton",
+        "option_c": "Shirley Temple",
+        "option_d": "Hillary Clinton",
+        "answer": "B",
+        "id": "high_school_us_history/dev/4"
+    },
+    "159": {
+        "instruction": "Kurie iš šių turi DNR sekas, reikalingas chromosomų segregacijai mitozėje ir mejozėje?",
+        "option_a": "Telomeros",
+        "option_b": "Centromeros",
+        "option_c": "Nukleosomos",
+        "option_d": "Spliceosomos",
+        "answer": "B",
+        "id": "college_biology/dev/4"
+    },
+    "160": {
+        "instruction": "Kurios iš šių asmenų labiau tikėtina, kad liks namuose vieni, 2019 metų duomenimis?",
+        "option_a": "Azijietis vyras arba moteris",
+        "option_b": "Hispanų vyras",
+        "option_c": "Afrikos amerikiečių moteris",
+        "option_d": "Baltasis vyras arba moteris",
+        "answer": "C",
+        "id": "human_aging/dev/0"
+    },
+    "161": {
+        "instruction": "Kuri iš šių sąlygų nerodo multifaktorinės paveldėjimo?",
+        "option_a": "Pylorinė stenozė",
+        "option_b": "Šizofrenija",
+        "option_c": "Spina bifida (neurovamzdžių defektai)",
+        "option_d": "Marfano sindromas",
+        "answer": "D",
+        "id": "medical_genetics/dev/3"
+    },
+    "162": {
+        "instruction": "Kuris iš šių nėra rekombinantinės DNR formavimo būdas?",
+        "option_a": "Vertimas",
+        "option_b": "Konjugacija",
+        "option_c": "Specializuota transdukcija",
+        "option_d": "Transformacija",
+        "answer": "A",
+        "id": "high_school_biology/dev/0"
+    },
+    "163": {
+        "instruction": "Kokia savybė nėra pagrindinė 'atvirų sistemų' valdymo modelio ypatybė?",
+        "option_a": "Moralė",
+        "option_b": "Inovacija",
+        "option_c": "Augimo išteklius",
+        "option_d": "Adaptacija",
+        "answer": "A",
+        "id": "management/dev/3"
+    },
+    "164": {
+        "instruction": "Kuri iš šių sąrašų nurodo 14 grupės elementų hidridus pagal terminį stabilumą, nuo mažiausio iki didžiausio?",
+        "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+        "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+        "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+        "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+        "answer": "A",
+        "id": "college_chemistry/dev/4"
+    },
+    "165": {
+        "instruction": "Kuri iš šių molekulių tikimasi, kad bus polinė?",
+        "option_a": "PCl4F",
+        "option_b": "BF3",
+        "option_c": "CO2",
+        "option_d": "Si(CH3)4",
+        "answer": "A",
+        "id": "high_school_chemistry/dev/1"
+    },
+    "166": {
+        "instruction": "Kuri iš šių yra kūno ertmė, kurioje yra hipofizė?",
+        "option_a": "Pilvo",
+        "option_b": "Kranialinė",
+        "option_c": "Pleura",
+        "option_d": "Nugaros",
+        "answer": "B",
+        "id": "anatomy/dev/4"
+    },
+    "167": {
+        "instruction": "Pagal spaudimo-srauto modelį, kaip juda floemo turinys, fotosintezės produktų judėjimą iš šaltinio į kriauklę skatina",
+        "option_a": "ATP priklausomas spaudimo-srauto siurblys",
+        "option_b": "vandens spaudimo potencialo gradientas",
+        "option_c": "transpiracija",
+        "option_d": "apoplastinė difuzija",
+        "answer": "B",
+        "id": "college_biology/dev/3"
+    },
+    "168": {
+        "instruction": "Kuri iš šių geriausiai apibūdina Jameso Madisono argumentą Federalistų numeryje 10?",
+        "option_a": "Sąžiningi politikai gali užkirsti kelią frakcijoms vystytis.",
+        "option_b": "Frakcijos labiau tikėtina, kad atsiras didelėse respublikose nei mažose.",
+        "option_c": "Neigiami frakcionizmo padariniai gali būti sumažinti respublikinės vyriausybės.",
+        "option_d": "Laisvi rinkimai yra geriausia žmonių gynyba prieš frakcionizmą.",
+        "answer": "C",
+        "id": "high_school_government_and_politics/dev/4"
+    },
+    "169": {
+        "instruction": "Muonas suyra su charakteristine gyvavimo trukme apie 10^-6 sekundžių į elektroną, muono neutrino ir elektronų antineutrino. Muonui draudžiama suyra į elektroną ir tik vieną neutrino pagal išsaugojimo įstatymą",
+        "option_a": "įkrovį",
+        "option_b": "masę",
+        "option_c": "energiją ir momentą",
+        "option_d": "leptonų skaičių",
+        "answer": "D",
+        "id": "college_physics/dev/4"
+    },
+    "170": {
+        "instruction": "NOR vartais sukonstruotame SR užrakte, kuri sąlyga nėra leidžiama",
+        "option_a": "S=0, R=0",
+        "option_b": "S=0, R=1",
+        "option_c": "S=1, R=0",
+        "option_d": "S=1, R=1",
+        "answer": "D",
+        "id": "electrical_engineering/dev/0"
+    },
+    "171": {
+        "instruction": "2 polių lapo apvijos nuolatinės srovės mašinoje vieno laidininko varža yra 2Ω, o bendras laidininkų skaičius yra 100. Raskite bendrą varžą.",
+        "option_a": "200Ω",
+        "option_b": "100Ω",
+        "option_c": "50Ω",
+        "option_d": "10Ω",
+        "answer": "C",
+        "id": "electrical_engineering/dev/1"
+    },
+    "172": {
+        "instruction": "Teiginys 1 | Kiekvienas grupės elementas generuoja ciklinę pogrupę. Teiginys 2 | Simetrinė grupė S_10 turi 10 elementų.",
+        "option_a": "Teisinga, Teisinga",
+        "option_b": "Neteisinga, Neteisinga",
+        "option_c": "Teisinga, Neteisinga",
+        "option_d": "Neteisinga, Teisinga",
+        "answer": "C",
+        "id": "abstract_algebra/dev/2"
+    },
+    "173": {
+        "instruction": "Penki tūkstančiai dolerių, kaupiami kasmet esant $x\\%$ palūkanų normai, per šešis metus padvigubėja. Esant tokioms pačioms palūkanoms, kiek metų prireiks, kad $\\$300$ išaugtų iki $\\$9600$?",
+        "option_a": "12",
+        "option_b": "1",
+        "option_c": "30",
+        "option_d": "5",
+        "answer": "C",
+        "id": "high_school_mathematics/dev/1"
+    },
+    "174": {
+        "instruction": "Dažniausia sutrikimų rūšis tarp vyrų, kurie ieško seksualinės terapijos, yra:",
+        "option_a": "ankstyva ejakuliacija",
+        "option_b": "slopinama ejakuliacija",
+        "option_c": "erekcijos sutrikimas",
+        "option_d": "ejakuliacijos sutrikimas",
+        "answer": "C",
+        "id": "human_sexuality/dev/4"
+    },
+    "175": {
+        "instruction": "36 metų vyras atvyksta į kabinetą su 3 savaičių nugaros skausmo istorija. Jis neigia bet kokią neseną traumą, tačiau sako, kad dienos metu daugybę kartų įlipa ir išlipa iš savo sunkvežimio dėl darbo. Paciento, gulint ant pilvo, apžiūra atskleidžia gilią sakralinę duobę kairėje, užpakalinį apatinį šoninį kampą dešinėje ir lumbosakralinį jungtį, kuri laisvai reaguoja į suspaudimą. Labiausiai tikėtina diagnozė yra",
+        "option_a": "kairysis-kairysis sakralinis torsas",
+        "option_b": "kairysis-dešinysis sakralinis torsas",
+        "option_c": "dešinioji vienpusė sakralinė fleksija",
+        "option_d": "dešinis-dešinis sakralinis torsas",
+        "answer": "D",
+        "id": "professional_medicine/dev/1"
+    },
+    "176": {
+        "instruction": "Kuriame dinastijoje buvo sukurtas \"Dangaus įsakymas\", kad būtų legitimizuoti nauji valdovai?",
+        "option_a": "Shang",
+        "option_b": "Zhou",
+        "option_c": "Han",
+        "option_d": "Xia",
+        "answer": "B",
+        "id": "world_religions/dev/2"
+    },
+    "177": {
+        "instruction": "Spalvos muilo burbule atsiranda dėl šviesos",
+        "option_a": "paverstos į kitą dažnį",
+        "option_b": "nukrypimas",
+        "option_c": "interferencija",
+        "option_d": "polarizacija",
+        "answer": "C",
+        "id": "conceptual_physics/dev/2"
+    },
+    "178": {
+        "instruction": "Apvaisintas ovulas taip pat žinomas kaip",
+        "option_a": "zigota.",
+        "option_b": "embrionas.",
+        "option_c": "gyvybingumas.",
+        "option_d": "blastocistas.",
+        "answer": "A",
+        "id": "moral_disputes/dev/1"
+    },
+    "179": {
+        "instruction": "Kuriame planavimo proceso etape būtų atliekama situacijos analizė?",
+        "option_a": "Programos apibrėžimas",
+        "option_b": "Programos planavimas",
+        "option_c": "Veiksmų atlikimas ir idėjų įgyvendinimas",
+        "option_d": "Programos vertinimas",
+        "answer": "A",
+        "id": "public_relations/dev/3"
+    },
+    "180": {
+        "instruction": "Koks yra skirtumas tarp vyriškos ir moteriškos kateterio?",
+        "option_a": "Vyriški ir moteriški kateteriai yra skirtingų spalvų.",
+        "option_b": "Vyriški kateteriai yra ilgesni nei moteriški kateteriai.",
+        "option_c": "Vyriški kateteriai yra didesni nei moteriški kateteriai.",
+        "option_d": "Moteriški kateteriai yra ilgesni nei vyriški kateteriai.",
+        "answer": "B",
+        "id": "clinical_knowledge/dev/1"
+    },
+    "181": {
+        "instruction": "_______ yra tiesioginis bandymas formaliai arba neformaliai valdyti etines problemas ar klausimus, per konkrečias politikos, praktikas ir programas.",
+        "option_a": "Įmonių socialinė atsakomybė",
+        "option_b": "Verslo etikos valdymas",
+        "option_c": "Tvarumas",
+        "option_d": "Aplinkos valdymas",
+        "answer": "B",
+        "id": "business_ethics/dev/1"
+    },
+    "182": {
+        "instruction": "Kuri iš šių teiginių apie jodą yra teisinga, 2020 metų duomenimis?",
+        "option_a": "50% suaugusiųjų vartoja jodą kiekiais, mažesniais už RNI",
+        "option_b": "Pieno produktai yra prastas jodo šaltinis",
+        "option_c": "Organinio pieno jodo kiekis paprastai yra mažesnis nei neorganinio pieno",
+        "option_d": "Jungtinės Karalystės mitybos rekomendacijos pataria padidinti jodo vartojimą nėštumo metu",
+        "answer": "C",
+        "id": "nutrition/dev/3"
+    },
+    "183": {
+        "instruction": "44 metų vyras atvyksta į kabinetą dėl 3 dienų trukmės gerklės skausmo, neproduktyvaus kosulio, slogos ir priekinio galvos skausmo. Jis sako, kad galvos skausmas ryte yra blogesnis, o ibuprofenas suteikia tam tikrą palengvėjimą. Jis neturėjo dusulio. Medicininė istorija yra nepastebima. Jis nevartoja jokių vaistų, išskyrus ibuprofeną skausmui. Gyvybiniai požymiai: temperatūra 37,4°C (99,4°F), pulsas 88/min, kvėpavimas 18/min, ir kraujo spaudimas 120/84 mm Hg. Nosies tyrimas rodo eritematines gleivines. Gerklės tyrimas rodo eritemą ir folikulinę limfoidinę hiperplaziją posterioriniame orofaringe. Palpuojama kaklo adenopatija nėra. Plaučiai aiškūs auskultacijos metu. Koks iš šių variantų yra labiausiai tikėtinas šio paciento simptomų priežastis?",
+        "option_a": "Alerginis rinitas",
+        "option_b": "Epšteino-Baro virusas",
+        "option_c": "Mycoplasma pneumoniae",
+        "option_d": "Rinovirusas",
+        "answer": "D",
+        "id": "professional_medicine/dev/3"
+    },
+    "184": {
+        "instruction": "Vidurinės mokyklos gamtos mokslų mokytojas pripildo 1 litro butelį grynu azotu ir užsuka dangtelį. Slėgis yra 1,70 atm, o kambario temperatūra yra 25°C. Kurie du kintamieji abu padidins sistemos slėgį, jei visi kiti kintamieji bus laikomi pastovūs?",
+        "option_a": "Temperatūros didinimas, dujų molių didinimas",
+        "option_b": "Temperatūros didinimas, tūrio didinimas",
+        "option_c": "Tūrio mažinimas, temperatūros mažinimas",
+        "option_d": "Dujų molių mažinimas, tūrio didinimas",
+        "answer": "A",
+        "id": "college_medicine/dev/3"
+    },
+    "185": {
+        "instruction": "Jūs vertinate straipsnius Pasaulio prabangiausio mašininio mokymosi konferencijoje, ir matote pateiktus teiginius. Kuriuos iš jų svarstytumėte priimti?",
+        "option_a": "Mano metodas pasiekia treniruočių klaidą, mažesnę nei visų ankstesnių metodų!",
+        "option_b": "Mano metodas pasiekia testavimo klaidą, mažesnę nei visų ankstesnių metodų! (Puslapio pastaba: Kai reguliavimo parametras λ pasirenkamas taip, kad sumažintų testavimo klaidą.)",
+        "option_c": "Mano metodas pasiekia testavimo klaidą, mažesnę nei visų ankstesnių metodų! (Puslapio pastaba: Kai reguliavimo parametras λ pasirenkamas taip, kad sumažintų kryžminio validavimo klaidą.)",
+        "option_d": "Mano metodas pasiekia kryžminio validavimo klaidą, mažesnę nei visų ankstesnių metodų! (Puslapio pastaba: Kai reguliavimo parametras λ pasirenkamas taip, kad sumažintų kryžminio validavimo klaidą.)",
+        "answer": "C",
+        "id": "machine_learning/dev/2"
+    },
+    "186": {
+        "instruction": "Laužiamasis teleskopas susideda iš dviejų konverguojančių lęšių, atskirtų 100 cm. Akies lęšio fokusavimo nuotolis yra 20 cm. Teleskopo kampinis didinimas yra",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "20",
+        "answer": "A",
+        "id": "college_physics/dev/3"
+    },
+    "187": {
+        "instruction": "Pagal Neįgaliųjų švietimo tobulinimo aktą, ką turi padaryti švietimo agentūra prieš keisdama neįgalaus mokinio švietimo vietą?",
+        "option_a": "Suteikti vaikui bandomąjį laikotarpį naujoje aplinkoje",
+        "option_b": "Raštu informuoti tėvus",
+        "option_c": "Gauti mokyklos tarybos patvirtinimą",
+        "option_d": "Gauti tėvų sutikimą",
+        "answer": "B",
+        "id": "high_school_psychology/dev/3"
+    },
+    "188": {
+        "instruction": "Trumpalaikė Filipsų kreivė rodo",
+        "option_a": "tiesioginį ryšį tarp nedarbo ir infliacijos",
+        "option_b": "tiesioginį ryšį tarp kainos ir paklausos kiekio",
+        "option_c": "atvirkštinį ryšį tarp kainos ir paklausos kiekio",
+        "option_d": "atvirkštinį ryšį tarp nedarbo ir infliacijos",
+        "answer": "D",
+        "id": "high_school_macroeconomics/dev/1"
+    },
+    "189": {
+        "instruction": "SHA-1 turi pranešimo santrauką, lygią",
+        "option_a": "160 bitų",
+        "option_b": "512 bitų",
+        "option_c": "628 bitų",
+        "option_d": "820 bitų",
+        "answer": "A",
+        "id": "computer_security/dev/0"
+    },
+    "190": {
+        "instruction": "Ką gamina fotosintezės metu?",
+        "option_a": "vandenilis",
+        "option_b": "nailonas",
+        "option_c": "deguonis",
+        "option_d": "šviesa",
+        "answer": "C",
+        "id": "miscellaneous/dev/3"
+    },
+    "191": {
+        "instruction": "Bakterijų fermento mutacija pakeitė anksčiau polinį aminorūgštį į nepolinį aminorūgštį. Ši aminorūgštis buvo toli nuo fermento aktyviosios vietos. Kaip ši mutacija gali pakeisti fermento substrato specifiškumą?",
+        "option_a": "Pakeitus fermento pH optimumą",
+        "option_b": "Pakeitus fermento vietą ląstelėje",
+        "option_c": "Pakeitus baltymo formą",
+        "option_d": "Aminorūgšties pokytis toli nuo aktyviosios vietos negali pakeisti fermento substrato specifiškumo.",
+        "answer": "C",
+        "id": "high_school_biology/dev/1"
+    },
+    "192": {
+        "instruction": "Kuri iš šių teiginių yra teisinga (pagal žinias 2020 m.)?",
+        "option_a": "Fenilketonurija sergantys vartotojai turi vengti saldiklio aspartamo vartojimo",
+        "option_b": "Fenilketonurija sergantys vartotojai turi vengti saldiklio sacharino vartojimo",
+        "option_c": "Fenilketonurija sergantys vartotojai turi vengti saldiklio sukralozės vartojimo",
+        "option_d": "Fenilketonurija sergantys vartotojai turi vengti saldiklio acesulfamo K vartojimo",
+        "answer": "A",
+        "id": "nutrition/dev/1"
+    },
+    "193": {
+        "instruction": "Koks yra \"abc\"[::-1] rezultatas Python 3?",
+        "option_a": "Klaida",
+        "option_b": "abc",
+        "option_c": "cba",
+        "option_d": "c",
+        "answer": "C",
+        "id": "high_school_computer_science/dev/2"
+    },
+    "194": {
+        "instruction": "Daugiakriterinės regresijos lygties sudarymo tikslais optimalus priemonių derinys yra toks, kuriame prognozuotojai",
+        "option_a": "yra nesusiję tarpusavyje, bet yra vidutiniškai susiję su kriterijumi",
+        "option_b": "turi mažas koreliacijas tarpusavyje ir mažas koreliacijas su kriterijumi",
+        "option_c": "yra stipriai tarpusavyje susiję ir vidutiniškai susiję su kriterijumi",
+        "option_d": "turi mažas koreliacijas su kriterijumi, bet yra vidutiniškai susiję tarpusavyje",
+        "answer": "A",
+        "id": "professional_psychology/dev/4"
+    },
+    "195": {
+        "instruction": "Pasak Metz, kas yra blogai su pasekmių teorijos argumentais prieš mirties bausmę, remiantis Afrikos vertybėmis?",
+        "option_a": "Dar neaišku, ar mirties bausmė atbaido žalą bendruomenei.",
+        "option_b": "Dar neaišku, ar mirties bausmė atbaido žalą bet kuriems asmenims.",
+        "option_c": "Pasekmių teorija nėra paremta Afrikos vertybėmis.",
+        "option_d": "Nors pasekmių teorija yra paremta Afrikos vertybėmis, nebuvo pateikta jokių pasekmių teorijos argumentų, suformuluotų Afrikos vertybių kontekste.",
+        "answer": "A",
+        "id": "moral_disputes/dev/0"
+    },
+    "196": {
+        "instruction": "Koks yra hioidinio kaulo embriologinis kilmės šaltinis?",
+        "option_a": "Pirmasis ryklės arkos",
+        "option_b": "Pirmasis ir antrasis ryklės arkos",
+        "option_c": "Antrasis ryklės arkos",
+        "option_d": "Antrasis ir trečiasis ryklės arkos",
+        "answer": "D",
+        "id": "anatomy/dev/0"
+    },
+    "197": {
+        "instruction": "Tikėtinas kreatino papildymo šalutinis poveikis yra:",
+        "option_a": "raumenų silpnumas.",
+        "option_b": "kūno masės padidėjimas.",
+        "option_c": "raumenų mėšlungis.",
+        "option_d": "elektrolitų praradimas.",
+        "answer": "B",
+        "id": "college_medicine/dev/4"
+    },
+    "198": {
+        "instruction": "Teiginys 1| Kiekviena funkcija iš baigtinės aibės į pačią save turi būti viena prie vieno. Teiginys 2 | Kiekviena abelinės grupės pogrupis yra abelinė.",
+        "option_a": "Tiesa, Tiesa",
+        "option_b": "Melaginga, Melaginga",
+        "option_c": "Tiesa, Melaginga",
+        "option_d": "Melaginga, Tiesa",
+        "answer": "A",
+        "id": "abstract_algebra/dev/3"
+    },
+    "199": {
+        "instruction": "Tegul V yra visų realių polinomų rinkinys p(x). Tegul transformacijos T, S yra apibrėžtos V kaip T:p(x) -> xp(x) ir S:p(x) -> p'(x) = d/dx p(x), ir interpretuokime (ST)(p(x)) kaip S(T(p(x))). Kuris iš šių teiginių yra teisingas?",
+        "option_a": "ST = 0",
+        "option_b": "ST = T",
+        "option_c": "ST = TS",
+        "option_d": "ST - TS yra identiteto žemėlapis V į patį save.",
+        "answer": "D",
+        "id": "college_mathematics/dev/0"
+    },
+    "200": {
+        "instruction": "Pagal Caplano konsultanto centro modelį, konsultantas pirmiausia domisi",
+        "option_a": "kliento pateiktų problemų priežasčių ir sprendimų nustatymu",
+        "option_b": "konsultanto sunkumų sprendžiant problemą priežasčių nustatymu ir pašalinimu",
+        "option_c": "valdžios hierarchijos nustatymu, kad būtų galima priimti efektyvius sprendimus",
+        "option_d": "vieno, aiškiai apibrėžto ir nedviprasmiško veiksmų plano pateikimu, kad konsultantas galėtų įveikti įgūdžių trūkumus",
+        "answer": "B",
+        "id": "high_school_psychology/dev/1"
+    },
+    "201": {
+        "instruction": "Pence lygina šešis skirtingus reprodukcijos atvejus, pradedant natūraliu dvyniojimu ir baigiant SCNT. Kokią išvadą jis daro iš šio palyginimo?",
+        "option_a": "SCNT nėra skirtingas reprodukcijos būdas, nes tarp jo ir kitų leidžiamų reprodukcijos priemonių nėra moraliai svarbių skirtumų.",
+        "option_b": "Kadangi natūralaus dvyniojimo rizika yra maža, SCNT rizika taip pat bus maža.",
+        "option_c": "abu A ir B",
+        "option_d": "nei A, nei B",
+        "answer": "A",
+        "id": "moral_disputes/dev/3"
+    },
+    "202": {
+        "instruction": "1 metų sausio 1 dieną Alpha Co. pasirašė metinę priežiūros sutartį su programinės įrangos tiekėju už 15 000 USD, o priežiūros laikotarpis prasideda 2 metų kovo 1 dieną. Alpha taip pat patyrė 5 000 USD išlaidų 1 metų sausio 1 dieną, susijusių su programinės įrangos modifikavimo prašymais, kurie padidins programinės įrangos funkcionalumą. Alpha nusidėvi ir amortizuoja savo kompiuterių ir programinės įrangos turtą per penkerius metus, naudodama tiesinę metodiką. Kokia suma yra bendra išlaida, kurią Alpha turėtų pripažinti, susijusi su priežiūros sutartimi ir programinės įrangos modifikacijomis už 1 metų gruodžio 31 dieną?",
+        "option_a": "$5,000",
+        "option_b": "$13,500",
+        "option_c": "$16,000",
+        "option_d": "$20,000",
+        "answer": "B",
+        "id": "professional_accounting/dev/3"
+    },
+    "203": {
+        "instruction": "Perėjimas nuo 'civilinės religijos' prie 'bendros religijos' reiškia, kad:",
+        "option_a": "valstybės didėjanti biurokratija padarė religiją tik marginalia mūsų gyvenimo dalimi",
+        "option_b": "nors tradicinė autoritetas silpnėja, mūsų kasdienis gyvenimas ir 'bendras supratimas' vis dar formuojami religinių įsitikinimų ir vertybių",
+        "option_c": "religinis dalyvavimas kolektyviniuose pamaldose galėjo sumažėti, tačiau žmonės vis dar praktikuoja savo tikėjimus privačiai",
+        "option_d": "žmonės daug labiau linkę viešai, neformaliuose nustatymuose diskutuoti apie savo religinius įsitikinimus",
+        "answer": "B",
+        "id": "sociology/dev/2"
+    },
+    "204": {
+        "instruction": "Kuri iš šių bylų nustatė precedentą, kad kaltinamasis turi būti informuotas apie teisę tylėti, teisę į advokatą ir apsaugą nuo savęs apkaltinimo?",
+        "option_a": "Weeks v. United States",
+        "option_b": "Betts v. Brady",
+        "option_c": "Mapp v. Ohio",
+        "option_d": "Miranda v. Arizona",
+        "answer": "D",
+        "id": "high_school_government_and_politics/dev/2"
+    },
+    "205": {
+        "instruction": "Tarkime, kad f(1 + x) = f(x) visiems realiems x. Jei f yra polinomas ir f(5) = 11, tai f(15/2)",
+        "option_a": "-11",
+        "option_b": "0",
+        "option_c": "11",
+        "option_d": "33/2",
+        "answer": "C",
+        "id": "college_mathematics/dev/3"
+    },
+    "206": {
+        "instruction": "Pasak d'Holbacho, žmonės visada veikia pagal _____.",
+        "option_a": "laisvus pasirinkimus",
+        "option_b": "sielos nurodymus",
+        "option_c": "būtinus gamtos dėsnius",
+        "option_d": "neapibrėžtą valią",
+        "answer": "C",
+        "id": "philosophy/dev/2"
+    },
+    "207": {
+        "instruction": "_____________ yra natūralus rezultatas, kai derinami demografiniai ir geografiniai kintamieji.",
+        "option_a": "Geodemografija",
+        "option_b": "Produkto diferenciacija.",
+        "option_c": "ANSOFF matrica.",
+        "option_d": "Prekės valdymas.",
+        "answer": "A",
+        "id": "marketing/dev/0"
+    },
+    "208": {
+        "instruction": "Kuri iš šių teiginių yra teisingas apie koreliaciją?",
+        "option_a": "Jei regresijos linijos nuolydis yra tiksliai 1, tai koreliacija yra tiksliai 1.",
+        "option_b": "Jei koreliacija yra 0, tai regresijos linijos nuolydis yra nenustatytas.",
+        "option_c": "Pakeitus, kuris kintamasis vadinamas x, o kuris vadinamas y, pasikeičia koreliacijos ženklas.",
+        "option_d": "Koreliacija r yra lygi regresijos linijos nuolydžiui, kai y-kintamųjų z-reitingai yra braižomi prieš x-kintamųjų z-reitingus.",
+        "answer": "D",
+        "id": "high_school_statistics/dev/0"
+    },
+    "209": {
+        "instruction": "Kada 'sutikimas' gali būti aplinkybė, neleidžianti valstybinio elgesio neteisėtumui?",
+        "option_a": "Sutikimas gali būti aplinkybė, neleidžianti neteisėtumui, kai jis yra duodamas",
+        "option_b": "Sutikimas niekada negali būti aplinkybė, neleidžianti neteisėtumui",
+        "option_c": "Sutikimas gali būti aplinkybė, neleidžianti neteisėtumui, jei sutikimas yra galiojantis ir tiek, kiek elgesys lieka sutikimo ribose",
+        "option_d": "Sutikimas visada gali būti aplinkybė, neleidžianti neteisėtumui, nesvarbu, kuris valstybės organas jį suteikia",
+        "answer": "C",
+        "id": "international_law/dev/3"
+    },
+    "210": {
+        "instruction": "Ką Berger (1963) apibūdina kaip metaforą socialinei realybei?",
+        "option_a": "pramogų parkas",
+        "option_b": "cirkas",
+        "option_c": "lėlių teatras",
+        "option_d": "baletas",
+        "answer": "C",
+        "id": "sociology/dev/1"
+    },
+    "211": {
+        "instruction": "Kuri iš šių teiginių tiksliai apibūdina nariuotakojus?",
+        "option_a": "Jie turi išorinį skeletą, sudarytą daugiausia iš peptidoglikano.",
+        "option_b": "Jie turi atvirą kraujotakos sistemą su nugarine širdimi.",
+        "option_c": "Jie yra biologiniu požiūriu nesėkmingos filumo narės, nesugebančios išnaudoti įvairių buveinių ir maisto šaltinių.",
+        "option_d": "Jiems trūksta porinių, sąnariuotų priedų.",
+        "answer": "B",
+        "id": "college_biology/dev/0"
+    },
+    "212": {
+        "instruction": "Teiginys 1 | Jei aH yra faktoriaus grupės elementas, tai |aH| dalija |a|. Teiginys 2 | Jei H ir K yra G pogrupiai, tai HK yra G pogrupis.",
+        "option_a": "Tiesa, Tiesa",
+        "option_b": "Netiesa, Netiesa",
+        "option_c": "Tiesa, Netiesa",
+        "option_d": "Netiesa, Tiesa",
+        "answer": "B",
+        "id": "abstract_algebra/dev/1"
+    },
+    "213": {
+        "instruction": "Kodėl nėra planetos, kur yra asteroidų diržas?",
+        "option_a": "Čia kadaise susiformavo planeta, bet ji buvo sunaikinta katastrofiško susidūrimo.",
+        "option_b": "Šioje saulės nebulos dalyje nebuvo pakankamai medžiagos planetai suformuoti.",
+        "option_c": "Buvo per daug uolienų medžiagos, kad susiformuotų žemės planeta, bet nepakankamai dujinės medžiagos, kad susiformuotų jovinė planeta.",
+        "option_d": "Jupiterio rezonansas neleido medžiagai susikaupti ir suformuoti planetą.",
+        "answer": "D",
+        "id": "astronomy/dev/3"
+    },
+    "214": {
+        "instruction": "Kas yra etinis įsilaužimas?",
+        "option_a": "\"Įsilaužimo\" etika, kad pateisintų nepageidaujamą savanaudišką elgesį",
+        "option_b": "Įsilaužimas į sistemas (pvz., atliekant penetracijos testavimą), siekiant atskleisti pažeidžiamumus, kad jie būtų ištaisyti, o ne išnaudoti",
+        "option_c": "Įsilaužimas į sistemas, valdomas tų, su kuriais nesutinkate etikos klausimais",
+        "option_d": "Žargonas, reiškiantis greitą programinės įrangos kūrimą, pvz., kaip dalis hackathon'ų",
+        "answer": "B",
+        "id": "computer_security/dev/2"
+    },
+    "215": {
+        "instruction": "Gyvūnų ląstelėse, kuris iš šių variantų atspindi labiausiai tikėtiną kelią, kuriuo sekrecinis baltymas juda, kai jis sintetinamas ląstelėje?",
+        "option_a": "Plazminė membrana–Golgi aparato–ribosoma–sekrecinė vezikula– šiurkštus ER",
+        "option_b": "Ribosoma–Golgi aparatas–šiurkštus ER–sekrecinė vezikula–plazminė membrana",
+        "option_c": "Plazminė membrana–Golgi aparato–ribosoma–sekrecinė vezikula–šiurkštus ER",
+        "option_d": "Ribosoma–šiurkštus ER–Golgi aparatas–sekrecinė vezikula–plazminė membrana",
+        "answer": "D",
+        "id": "high_school_biology/dev/2"
+    },
+    "216": {
+        "instruction": "0.217 g HgO (molekulinė masė = 217 g) mėginys reaguoja su pertekliumi jodido jonų pagal aukščiau parodytą reakciją. Kiek mL 0.10 M HCl reikia titruoti gautą tirpalą, kad pasiektume ekvivalentumo tašką?",
+        "option_a": "1.0 mL",
+        "option_b": "10 mL",
+        "option_c": "20 mL",
+        "option_d": "50 mL",
+        "answer": "C",
+        "id": "college_chemistry/dev/1"
+    },
+    "217": {
+        "instruction": "Kuri iš šių teiginių NĖRA tiksli dėl paslaugų, teikiamų vietos valdžios institucijų Jungtinėse Valstijose?",
+        "option_a": "Dažnai pasitaiko pastangų dubliavimas.",
+        "option_b": "Socialinės problemos centrinėje miesto dalyje persiduoda į aplinkines gyvenamąsias priemiesčius.",
+        "option_c": "Dažnai pasitaiko neveiksmingumas teikiant paslaugas.",
+        "option_d": "Vieno rajono pastangos sumažinti taršą visada remiamos kaimyninių bendruomenių.",
+        "answer": "D",
+        "id": "high_school_geography/dev/2"
+    },
+    "218": {
+        "instruction": "Sąrašas turi n elementų, indeksuotų nuo 1 iki n. Šis algoritmas skirtas parodyti, kiek elementų sąraše turi reikšmę didesnę nei 100. Algoritmas naudoja kintamuosius count ir position. 3 ir 4 žingsniai trūksta.\n Žingsnis 1: Nustatykite count į 0 ir position į 1.\n Žingsnis 2: Jei elemento, esančio indekse position, reikšmė yra didesnė\n nei 100, padidinkite count reikšmę 1.\n Žingsnis 3: (trūkstamas žingsnis)\n Žingsnis 4: (trūkstamas žingsnis)\n Žingsnis 5: Parodykite count reikšmę.\n Kuris iš šių variantų galėtų būti naudojamas, kad pakeistų 3 ir 4 žingsnius, kad algoritmas veiktų kaip numatyta?",
+        "option_a": "Žingsnis 3: Padidinkite position reikšmę 1.\n Žingsnis 4: Kartokite 2 ir 3 žingsnius, kol count reikšmė bus didesnė nei 100.",
+        "option_b": "Žingsnis 3: Padidinkite position reikšmę 1.\n Žingsnis 4: Kartokite 2 ir 3 žingsnius, kol position reikšmė bus didesnė nei n.",
+        "option_c": "Žingsnis 3: Kartokite 2 žingsnį, kol count reikšmė bus didesnė nei 100.\n Žingsnis 4: Padidinkite position reikšmę 1.",
+        "option_d": "Žingsnis 3: Kartokite 2 žingsnį, kol position reikšmė bus didesnė nei n.\n Žingsnis 4: Padidinkite count reikšmę 1.",
+        "answer": "D",
+        "id": "high_school_computer_science/dev/4"
+    },
+    "219": {
+        "instruction": "Kuri iš šių yra morfologinė paramiksovirusų charakteristika.",
+        "option_a": "Trapūs virusai, dažnai vizualizuojami su RNR, išsiveržiančia iš vidaus",
+        "option_b": "Ilgi virusai",
+        "option_c": "Ikosahedriniai virusai su apvalkalu",
+        "option_d": "Labai dideli virusai",
+        "answer": "A",
+        "id": "virology/dev/1"
+    },
+    "220": {
+        "instruction": "Karls Jungas manė, kad kliento perdavimas:",
+        "option_a": "yra fantazija, kuri atitraukia klientą nuo realybės.",
+        "option_b": "atspindi „mišrias jausenas“ terapeutui.",
+        "option_c": "\"yra \"\"veikimo\"\" forma.\"\"\"",
+        "option_d": "atspindi kliento asmeninį ir kolektyvinį nesąmoningą.",
+        "answer": "D",
+        "id": "professional_psychology/dev/3"
+    },
+    "221": {
+        "instruction": "____________ yra bet kas, ko jūsų paieškos variklis negali ieškoti.",
+        "option_a": "Pakeista internetas",
+        "option_b": "Pasaulinis internetas",
+        "option_c": "Paviršinis internetas",
+        "option_d": "Gilusis internetas",
+        "answer": "D",
+        "id": "computer_security/dev/4"
+    },
+    "222": {
+        "instruction": "Kuri iš šių reguliariųjų išraiškų yra ekvivalentinė (apibūdina tą pačią simbolių rinkinį kaip) (a* + b)*(c + d)?",
+        "option_a": "a*(c + d)+ b(c + d)",
+        "option_b": "a*(c + d)* + b(c + d)*",
+        "option_c": "a*(c + d)+ b*(c + d)",
+        "option_d": "(a + b)*c +(a + b)*d",
+        "answer": "D",
+        "id": "college_computer_science/dev/0"
+    },
+    "223": {
+        "instruction": "Kuris elementas tabako dūmuose yra atsakingas už vėžius?",
+        "option_a": "Nikotinas",
+        "option_b": "Derva",
+        "option_c": "Anglies monoksidas",
+        "option_d": "Dūmų dalelės",
+        "answer": "B",
+        "id": "human_aging/dev/3"
+    },
+    "224": {
+        "instruction": "Fotocelė su darbo funkcija ϕ = 2eV prijungta prie rezistoriaus serijiniu būdu. Šviesos dažnis f = 1 × 10^15 Hz patenka ant fotocelės metalinės plokštės. Jei šviesos galia yra P = 100 W, koks yra srovės stipris per rezistorių?",
+        "option_a": "2:00 AM",
+        "option_b": "6:00 AM",
+        "option_c": "12:00 AM",
+        "option_d": "24 A",
+        "answer": "D",
+        "id": "high_school_physics/dev/2"
+    },
+    "225": {
+        "instruction": "Taško stulpelis turi 4π * 10^-4 weber stiprumą. Jėga niutonuose, veikiančia taško stulpelį, kurio stiprumas yra 4π * 1.5 * 10^-4 weber ir esant 10 cm atstumu, bus",
+        "option_a": "15 N.",
+        "option_b": "20 N.",
+        "option_c": "7.5 N.",
+        "option_d": "3.75 N.",
+        "answer": "A",
+        "id": "electrical_engineering/dev/4"
+    },
+    "226": {
+        "instruction": "Kodėl parvovirusai yra labai paveikus parazitas?",
+        "option_a": "Nes jie neturi nukleino rūgšties",
+        "option_b": "Jiems reikia pagalbinio viruso",
+        "option_c": "Daugina tik dalijantis ląstelėms",
+        "option_d": "Gali integruotis į šeimininkų chromosomas",
+        "answer": "A",
+        "id": "virology/dev/0"
+    },
+    "227": {
+        "instruction": "Miestas, kuriame gimė Michelle, gyventojų skaičius yra 145,826. Kokia yra 5 reikšmė skaičiuje 145,826?",
+        "option_a": "5 tūkstančiai",
+        "option_b": "5 šimtai",
+        "option_c": "5 dešimtys",
+        "option_d": "5 vienetai",
+        "answer": "A",
+        "id": "elementary_mathematics/dev/0"
+    },
+    "228": {
+        "instruction": "Kaip valstybės sutikimas būti įpareigotai gali būti išreikštas?",
+        "option_a": "Valstybės sutikimas būti įpareigotai išreiškiamas tik ratifikacija",
+        "option_b": "Valstybės sutikimas būti įpareigotai sutartimi gali būti išreikštas parašu, ratifikacija, priėmimu, patvirtinimu arba prisijungimu",
+        "option_c": "Valstybės sutikimas būti įpareigotai išreiškiamas parašu",
+        "option_d": "Valstybės sutikimas būti įpareigotai išreiškiamas bet kokiomis priemonėmis, kurias jos pasirenka",
+        "answer": "B",
+        "id": "international_law/dev/4"
+    },
+    "229": {
+        "instruction": "Apsvarstykite kompiuterio dizainą, kuriame keli procesoriai, kiekvienas turintis privatų talpyklos atmintį, dalijasi globalia atmintimi naudodami vieną magistralę. Ši magistralė yra kritinė sistemos išteklius. Kiekvienas procesorius gali vykdyti vieną instrukciją kas 500 nanosekundžių, kol atminties nuorodos yra patenkintos jo vietinėje talpykloje. Kai įvyksta talpyklos praleidimas, procesorius vėluoja dar 2,000 nanosekundžių. Per pusę šio papildomo vėlavimo magistralė skirta aptarnauti talpyklos praleidimą. Per kitą pusę procesorius negali tęsti, tačiau magistralė yra laisva aptarnauti kitų procesorių užklausas. Vidutiniškai kiekvienai instrukcijai reikia 2 atminties nuorodų. Vidutiniškai talpyklos praleidimai įvyksta 1 procento nuorodų. Kokia dalis magistralės talpos būtų sunaudojama vieno procesoriaus, ignoruojant vėlavimus dėl konkurencijos su kitais procesoriais?",
+        "option_a": "1/50",
+        "option_b": "1/27",
+        "option_c": "1/25",
+        "option_d": "2/27",
+        "answer": "B",
+        "id": "college_computer_science/dev/4"
+    },
+    "230": {
+        "instruction": "Olivia naudojo taisyklę \"Pridėti 11\", kad sukurtų žemiau parodytą skaičių modelį. 10, 21, 32, 43, 54 Kuri teiginys apie skaičių modelį yra teisingas?",
+        "option_a": "10-asis skaičius modelyje bus lyginis skaičius.",
+        "option_b": "Skaičių modelyje niekada nebus dviejų lygių skaičių šalia vienas kito.",
+        "option_c": "Kiti du skaičiai modelyje bus lyginis skaičius, tada nelyginis skaičius.",
+        "option_d": "Jei skaičių modelis prasidėtų nelyginiu skaičiumi, tada modelyje būtų tik nelyginiai skaičiai.",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/1"
+    },
+    "231": {
+        "instruction": "Kuri išraiška yra lygi 5 x 9?",
+        "option_a": "(5 x 4) x (6 x 5)",
+        "option_b": "(5 x 5) + (5 x 4)",
+        "option_c": "(5 x 5) + (5 x 9)",
+        "option_d": "(5 x 9) x (6 x 9)",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/4"
+    },
+    "232": {
+        "instruction": "Neaiškumas dėl prezidento galios ribų kyla pirmiausia dėl to, kad",
+        "option_a": "konstitucinis tų galių apibrėžimas yra platus ir neaiškus",
+        "option_b": "dauguma žmonių sutinka, kad Konstitucija nustato per daug apribojimų prezidento galiai",
+        "option_c": "Aukščiausiasis Teismas nuolat atsisako spręsti bylas, susijusias su prezidento galiomis",
+        "option_d": "konstituciniai pakeitimai labai padidino prezidento galias",
+        "answer": "A",
+        "id": "high_school_government_and_politics/dev/0"
+    },
+    "233": {
+        "instruction": "Kuri iš šių nėra problema, susijusi su oficialiais streikų veiksmais?",
+        "option_a": "dauguma streikų nepastebimi darbdavių ir masinės žiniasklaidos",
+        "option_b": "ne visi pramoniniai ginčai bus pranešti darbdavio",
+        "option_c": "streikų apibrėžimas neapima tų, kurie apima mažiau nei dešimt darbuotojų arba trunka mažiau nei vieną dieną",
+        "option_d": "sunku palyginti streikus, kurie buvo matuojami skirtingais būdais",
+        "answer": "A",
+        "id": "sociology/dev/4"
+    },
+    "234": {
+        "instruction": "Moteris, kuri žino, kad turi aktyvų herpesą ir negydomą sifilį, tačiau toliau turi lytinių santykių, neinformuodama savo partnerių apie savo būklę, psichoanalitiniu požiūriu turi:",
+        "option_a": "stiprų ego",
+        "option_b": "silpną superego",
+        "option_c": "silpną id",
+        "option_d": "stiprų superego",
+        "answer": "B",
+        "id": "human_sexuality/dev/1"
+    },
+    "235": {
+        "instruction": "Kuri iš šių teiginių apie kabinetų departamentus yra NETEISINGA?",
+        "option_a": "Jie yra įsteigti įstatymų leidžiamąja valdžia.",
+        "option_b": "Jų nariai dažnai neturi daug įtakos prezidento sprendimams.",
+        "option_c": "Visi jie negali būti valdomi lyderių, kurie priklauso tai pačiai politinei partijai kaip prezidentas.",
+        "option_d": "Neagentūra federalinė yra kabinetų departamentas.",
+        "answer": "C",
+        "id": "high_school_government_and_politics/dev/3"
+    },
+    "236": {
+        "instruction": "Pasirinkite geriausią anglų kalbos interpretaciją pateiktiems argumentams predikato logikoje.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+        "option_a": "Marina yra šokėja. Kai kurie silpni žmonės nėra šokėjai. Arba viskas yra silpnas žmogus, arba Georgia žaidžia tinklinį. Taigi kažkas žaidžia tinklinį.",
+        "option_b": "Marina yra šokėja. Nė vienas silpnas žmogus nėra šokėjas. Viskas yra arba silpnas žmogus, arba žaidžia tinklinį. Taigi kažkas žaidžia tinklinį.",
+        "option_c": "Marina yra šokėja. Kai kurie silpni žmonės nėra šokėjai. Viskas yra arba silpnas žmogus, arba žaidžia tinklinį. Taigi kažkas žaidžia tinklinį.",
+        "option_d": "Marina yra šokėja. Nė vienas silpnas žmogus nėra šokėjas. Arba viskas yra silpnas žmogus, arba Georgia žaidžia tinklinį. Taigi kažkas žaidžia tinklinį.",
+        "answer": "D",
+        "id": "formal_logic/dev/2"
+    },
+    "237": {
+        "instruction": "Judamo ritės matuoklio ritė turi 100 apsisukimų, yra 40 mm ilgio ir 30 mm pločio. Valdymo sukimo momentas yra 240*10-6 N-m pilnu mastu. Jei magnetinio srauto tankis yra 1 Wb/m2, matuoklio diapazonas yra",
+        "option_a": "1 mA.",
+        "option_b": "2 mA.",
+        "option_c": "3 mA.",
+        "option_d": "4 mA.",
+        "answer": "B",
+        "id": "electrical_engineering/dev/2"
+    },
+    "238": {
+        "instruction": "Tam tikra pipelinuota RISC mašina turi 8 bendro naudojimo registrus R0, R1, . . . , R7 ir palaiko šias operacijas.\nADD Rs1, Rs2, Rd Pridėti Rs1 prie Rs2 ir įdėti sumą į Rd\nMUL Rs1, Rs2, Rd Padauginti Rs1 iš Rs2 ir įdėti produktą į Rd\nOperacija paprastai trunka vieną ciklą; tačiau operacija trunka du ciklus, jei ji generuoja rezultatą, kurio reikalauja iš karto po jos einanti operacija operacijų sekoje. Apsvarstykite išraišką AB + ABC + BC, kur kintamieji A, B, C yra registruose R0, R1, R2. Jei šių trijų registrų turinys neturi būti keičiamas, koks yra minimalus laikrodžio ciklų skaičius, reikalingas operacijų sekai, kuri apskaičiuoja AB + ABC + BC vertę?",
+        "option_a": "5",
+        "option_b": "6",
+        "option_c": "7",
+        "option_d": "8",
+        "answer": "B",
+        "id": "college_computer_science/dev/1"
+    },
+    "239": {
+        "instruction": "Kodėl Marsas raudonas?",
+        "option_a": "Nes paviršių dengia stipriai oksiduoti (\"rūdiję\") mineralai.",
+        "option_b": "Nes atmosfera sklaido daugiau šviesos mėlynesniuose bangos ilgiuose, perduodama daugiausia raudoną šviesą.",
+        "option_c": "Nes Marsą dengia senovinės lavos srautai, kurie yra raudonos spalvos.",
+        "option_d": "Nes tekančio vandens Marso paviršiuje mineralai buvo pakeisti prieš kelis milijardus metų.",
+        "answer": "A",
+        "id": "astronomy/dev/4"
+    },
+    "240": {
+        "instruction": "Ką turėtų daryti viešųjų ryšių specialistė, jei ji nežino atsakymo į žurnalisto klausimą?",
+        "option_a": "Pateikti žurnalistui kitą informaciją, kuria ji yra tikra.",
+        "option_b": "Pasakyti, kad informacija yra 'neoficiali' ir bus paskelbta vėliau.",
+        "option_c": "Pasakyti 'nežinau' ir pažadėti pateikti informaciją vėliau.",
+        "option_d": "Pasakyti 'neturiu komentarų', o ne atrodyti neinformuota.",
+        "answer": "C",
+        "id": "public_relations/dev/0"
+    },
+    "241": {
+        "instruction": "Singleton dizaino šablonas naudojamas užtikrinti, kad būtų sukurtas tik vienas klasės egzempliorius. Kuris (kurie) iš šių teiginių yra teisingi apie šį dizaino šabloną?\nI. Singleton klasė turi statinį gamybos metodą, kad suteiktų savo egzempliorių.\nII. Singleton klasė gali būti kitos klasės paveldėtoja.\nIII. Singleton klasė turi privatų konstruktorių.",
+        "option_a": "Tik I",
+        "option_b": "Tik II",
+        "option_c": "Tik III",
+        "option_d": "I, II ir III",
+        "answer": "D",
+        "id": "college_computer_science/dev/2"
+    },
+    "242": {
+        "instruction": "Kaip gynybinis realizmas ir puolamasis realizmas skiriasi aiškinant valstybių elgesį?",
+        "option_a": "Gynybiniai realistai labiau pabrėžia tarptautinių institucijų vaidmenį",
+        "option_b": "Gynybiniai realistai mažiau pabrėžia geografinius veiksnius",
+        "option_c": "Puolamieji realistai teikia didesnę reikšmę nacionaliniam interesui nei gynybiniai realistai.",
+        "option_d": "Gynybiniai realistai mano, kad valstybės yra saugumo maksimizatoriai, o puolamieji realistai mano, kad valstybės yra galios maksimizatoriai",
+        "answer": "D",
+        "id": "us_foreign_policy/dev/3"
+    },
+    "243": {
+        "instruction": "Auditorius seka įrangos serijos numerius iki neleidėjo subledgerio. Kuri iš šių valdymo teiginių yra patvirtinta šiuo testu?",
+        "option_a": "Įvertinimas ir paskirstymas",
+        "option_b": "Pilnumas",
+        "option_c": "Teisės ir įsipareigojimai",
+        "option_d": "Pateikimas ir atskleidimas",
+        "answer": "B",
+        "id": "professional_accounting/dev/4"
+    },
+    "244": {
+        "instruction": "Pasakykite, kad jūsų akies vyzdys turi 5 mm skersmenį, o jūs turite teleskopą su 50 cm apertūra. Kiek daugiau šviesos teleskopas gali surinkti nei jūsų akis?",
+        "option_a": "10000 kartų daugiau",
+        "option_b": "100 kartų daugiau",
+        "option_c": "1000 kartų daugiau",
+        "option_d": "10 kartų daugiau",
+        "answer": "A",
+        "id": "astronomy/dev/2"
+    },
+    "245": {
+        "instruction": "Homologinės struktūros dažnai pateikiamos kaip įrodymas natūralios atrankos procesui. Visi toliau pateikti pavyzdžiai yra homologinės struktūros, IŠSKYRUS",
+        "option_a": "pauko sparnus ir šikšnosparnio sparnus",
+        "option_b": "balo flipperius ir žmogaus rankas",
+        "option_c": "delfino krūtinės pelekus ir ruonių flipperius",
+        "option_d": "insekto priekines kojas ir šuns priekines galūnes",
+        "answer": "D",
+        "id": "high_school_biology/dev/4"
+    },
+    "246": {
+        "instruction": "Kurios iš šių teiginių porų yra abi teisingos (2019 m. duomenimis)?",
+        "option_a": "Žmonės linkę būti optimistiški dėl savo ateities ir savo tautos ar pasaulio ateities.",
+        "option_b": "Žmonės linkę būti optimistiški dėl savo ateities, bet pesimistiški dėl savo tautos ar pasaulio ateities.",
+        "option_c": "Žmonės linkę būti pesimistiški dėl savo ateities, bet optimistiški dėl savo tautos ar pasaulio ateities.",
+        "option_d": "Žmonės linkę būti pesimistiški dėl savo ateities ir savo tautos ar pasaulio ateities.",
+        "answer": "B",
+        "id": "global_facts/dev/0"
+    },
+    "247": {
+        "instruction": "Bakelyje iš pradžių yra druskos tirpalas, kuriame ištirpinta 3 gramai druskos 100 litrų vandens. Druskos tirpalas, kuriame yra 0,02 gramų druskos litre vandens, purškiamas į baką greičiu 4 litrai per minutę. Purškiamas tirpalas nuolat maišomas su druskos tirpalu bake, o mišinys išteka iš bako greičiu 4 litrai per minutę. Jei maišymas vyksta akimirksniu, kiek gramų druskos bus bake po 100 minučių?",
+        "option_a": "2",
+        "option_b": "2 - e^-2",
+        "option_c": "2 + e^-2",
+        "option_d": "2 + e^-4",
+        "answer": "D",
+        "id": "college_mathematics/dev/1"
+    },
+    "248": {
+        "instruction": "Vienas iš jūsų terapijos klientų prašo jūsų patarimo dėl geros svorio mažinimo programos. Jūs išnagrinėjote programas bendruomenėje ir esate užsiregistravę toje, kurią laikote geriausia. Ši programa siūlo 50 USD premiją savo klientams už kiekvieną naują asmenį, kurį jie atveda į programą. Tokiais atvejais jūsų tinkamiausias atsakymas būtų",
+        "option_a": "pasakyti savo klientui kiekvienos žinomos programos privalumus ir trūkumus, išskyrus tą, kurioje esate užsiregistravę",
+        "option_b": "rekomenduoti savo klientui programą, kurioje esate užsiregistravę, ir paaiškinti 50 USD premiją, kurią gausite",
+        "option_c": "rekomenduoti savo klientui programą, kurioje esate užsiregistravę, ir pasiūlyti, kad 50 USD premija būtų įskaityta į jūsų kliento sąskaitą programoje",
+        "option_d": "pasakyti savo klientui kiekvienos žinomos programos privalumus ir trūkumus, tačiau nepretenduoti į 50 USD premiją, jei jūsų klientas užsiregistruos jūsų programoje",
+        "answer": "D",
+        "id": "professional_psychology/dev/0"
+    },
+    "249": {
+        "instruction": "Kuri iš šių teiginių yra teisinga apie kainų grindis?",
+        "option_a": "Kainų grindys perkelia paklausos kreivę į kairę.",
+        "option_b": "Veiksminga grindis sukuria prekių trūkumą.",
+        "option_c": "Kainų grindys perkelia prekių pasiūlos kreivę į dešinę.",
+        "option_d": "Kad būtų veiksminga grindis, ji turi būti nustatyta virš pusiausvyros kainos.",
+        "answer": "D",
+        "id": "high_school_microeconomics/dev/3"
+    },
+    "250": {
+        "instruction": "Kuri iš pateiktų PL formulių geriausiai simbolizuoja šią sakinį?\nVėžliai gyvena ilgai ir yra laimingi padarai, nebent jie būtų sužeisti.",
+        "option_a": "(L • H) ≡ I",
+        "option_b": "(L • H) ∨ I",
+        "option_c": "L • (H ∨ I)",
+        "option_d": "L • (H ⊃ R)",
+        "answer": "B",
+        "id": "formal_logic/dev/4"
+    },
+    "251": {
+        "instruction": "Realybės tyrimas plačiausia prasme, elementarios visatos ir joje esančių dalykų prigimties tyrimas, vadinamas _____.",
+        "option_a": "metafizika",
+        "option_b": "epistemologija",
+        "option_c": "kvantinė fizika",
+        "option_d": "aksiologija",
+        "answer": "A",
+        "id": "philosophy/dev/4"
+    },
+    "252": {
+        "instruction": "________ Mokykla teisinės teorijos teigia, kad teisė remiasi tuo, kas yra \"teisinga.\"",
+        "option_a": "Natūrali teisė",
+        "option_b": "Analitinė",
+        "option_c": "Istorinė",
+        "option_d": "Sociologinė",
+        "answer": "A",
+        "id": "jurisprudence/dev/3"
+    },
+    "253": {
+        "instruction": "2019 metų duomenimis, apie kokį procentą rusų teigia, kad labai svarbu turėti laisvus žiniasklaidos kanalus mūsų šalyje be vyriausybinės/valstybinės cenzūros?",
+        "option_a": "38%",
+        "option_b": "53%",
+        "option_c": "68%",
+        "option_d": "83%",
+        "answer": "A",
+        "id": "global_facts/dev/3"
+    },
+    "254": {
+        "instruction": "Organizacijoje grupė žmonių, atsakingų už pirkimo sprendimus, vadinama _______________.",
+        "option_a": "Išorės paslaugų skyrius.",
+        "option_b": "Pirkimų centras.",
+        "option_c": "Vykdomasis skyrius.",
+        "option_d": "Sprendimų priėmimo skyrius.",
+        "answer": "D",
+        "id": "marketing/dev/1"
+    },
+    "255": {
+        "instruction": "Kokios būtų OLS estimatoriaus pasekmės, jei regresijos modelyje būtų heteroskedastiškumas, bet jis būtų ignoruojamas?",
+        "option_a": "Jis bus šališkas",
+        "option_b": "Jis bus nekonsistentiškas",
+        "option_c": "Jis bus neefektyvus",
+        "option_d": "Visi (a), (b) ir (c) bus teisingi.",
+        "answer": "C",
+        "id": "econometrics/dev/3"
+    },
+    "256": {
+        "instruction": "Jei kas nors puola priešininko argumento charakterį, vietoj to, kad atsakytų į to priešininko argumentus, pirmasis asmuo greičiausiai padarė kurią nors iš šių klaidų?",
+        "option_a": "tu quoque",
+        "option_b": "arklio juokas",
+        "option_c": "argumentas prieš asmenį",
+        "option_d": "ignoratio elenchi",
+        "answer": "C",
+        "id": "logical_fallacies/dev/0"
+    },
+    "257": {
+        "instruction": "Sukurkite pilną tiesos lentelę šiems teiginių poroms. Tada, naudodamiesi tiesos lentelėmis, nustatykite, ar teiginiai yra loginiai ekvivalentai, ar prieštaraujantys. Jei nei vienas, nustatykite, ar jie yra nuoseklūs, ar nesuderinami. Pateikite savo atsakymų pagrindimą.\nE ⟹ (F ⋅ E) ir ~E ⋅ F",
+        "option_a": "Loginiai ekvivalentai",
+        "option_b": "Prieštaraujantys",
+        "option_c": "Nei loginiai ekvivalentai, nei prieštaraujantys, bet nuoseklūs",
+        "option_d": "Nesuderinami",
+        "answer": "C",
+        "id": "formal_logic/dev/3"
+    },
+    "258": {
+        "instruction": "Kuris iš šių nėra žinomas kaip dalyvaujantis ląstelių dalijimosi kontrolėje?",
+        "option_a": "Ciklinai",
+        "option_b": "Baltymų kinazės",
+        "option_c": "Patikros taškai",
+        "option_d": "Fibroblastų ląstelės",
+        "answer": "D",
+        "id": "high_school_biology/dev/3"
+    },
+    "259": {
+        "instruction": "Tegul A yra realus 2x2 matricas. Kurios iš šių teiginių turi būti teisingos?\nI. Visi A^2 įrašai yra nenegatyvūs.\nII. A^2 determinantė yra nenegatyvi.\nIII. Jei A turi du skirtingus savybes, tai A^2 turi dvi skirtingas savybes.",
+        "option_a": "Tik I",
+        "option_b": "Tik II",
+        "option_c": "Tik III",
+        "option_d": "Tik II ir III",
+        "answer": "B",
+        "id": "college_mathematics/dev/2"
+    },
+    "260": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\n\"Naujajame Įstatymų kodekse, kurį, manau, jums reikės parengti, norėčiau, kad prisimintumėte moteris ir būtumėte joms dosnesni ir palankesni nei jūsų protėviai. Neleiskite, kad tokia neribota galia patektų į vyrų rankas. Prisiminkite, kad visi vyrai būtų tironai, jei galėtų. Jei moterims nebus skiriama ypatinga priežiūra ir dėmesys, mes esame pasiryžę sukelti sukilimą ir nesilaikysime jokių įstatymų, kuriuose neturime balso ar atstovavimo.\"\nAbigail Adams, laiške John Adams, 1776\n\"Speciali teisė moterims mus pastatė į labai anomalinę padėtį. Moterims, turinčioms piliečių teises vienoje dalyje - rinkėjoms, prisiekusiesiems, pareigūnėms - peržengus įsivaizduojamą liniją, jos tampa pavaldinėmis kitoje. Kai kuriose valstijose vedusi moteris gali turėti turtą ir vykdyti verslą savo vardu; kitose jos uždarbiai priklauso jos vyrui. Kai kuriose valstijose moteris gali liudyti prieš savo vyrą, paduoti ieškinį ir būti paduota į teismą; kitose ji neturi jokios kompensacijos atveju, jei patiria žalą asmeniui, turtui ar reputacijai. Skyrybų atveju dėl vyro neištikimybės nekalta žmona neturi teisės į vaikus ar turtą, nebent teismo specialiu sprendimu. Tačiau nė vienoje valstijoje sąjungoje žmona neturi teisės į savo asmenį ar į bet kurią bendrų pajamų dalį partnerystės metu, kol gyvena jos vyras. Kai kuriose valstijose moterys gali stoti į teisės mokyklas ir praktikuoti teismuose; kitose joms tai draudžiama. Kai kuriose universitetuose merginos turi lygias švietimo galimybes su berniukais, tuo tarpu daugelis didžiausių šalies institucijų neleidžia joms įstoti, nors ten laukiami Kinijos, Japonijos ir Afrikos sūnūs. Tačiau jau suteiktos privilegijos keliuose valstijose jokiu būdu nėra saugios.\"\nSusan B. Anthony, \"Moterų teisių deklaracija,\" 1876 m. liepos 4 d.\nAntrajame ištraukoje, kurią pateikė Susan B. Anthony, išreikšti jausmai greičiausiai palaiko",
+        "option_a": "Lygių teisių pataisą",
+        "option_b": "visuotinis balsavimas",
+        "option_c": "valstybių teises",
+        "option_d": "draudimą",
+        "answer": "B",
+        "id": "high_school_us_history/dev/2"
+    },
+    "261": {
+        "instruction": "Jūs stumiate sunkvežimį keliu. Ar būtų lengviau pagreitinti šį sunkvežimį Marse? Kodėl? (Tarkime, kad trinties nėra)",
+        "option_a": "Būtų sunkiau, nes sunkvežimis Marse yra sunkesnis.",
+        "option_b": "Būtų lengviau, nes sunkvežimis Marse yra lengvesnis.",
+        "option_c": "Būtų sunkiau, nes sunkvežimis Marse yra lengvesnis.",
+        "option_d": "Būtų tas pats, nesvarbu, kur esate.",
+        "answer": "D",
+        "id": "astronomy/dev/0"
+    },
+    "262": {
+        "instruction": "Kurią poziciją Rawls teigia, kad mažiausiai tikėtina, jog priims POP (žmonės pradinėje pozicijoje)?",
+        "option_a": "POP pasirinktų lygybę virš laisvės.",
+        "option_b": "POP pasirinktų 'maximin' strategiją.",
+        "option_c": "POP pasirinktų 'skirtumo principą'.",
+        "option_d": "POP atmetė 'natūralios laisvės sistemą'.",
+        "answer": "A",
+        "id": "jurisprudence/dev/0"
+    },
+    "263": {
+        "instruction": "Stacionaraus autoregresinio proceso atveju, sukrėtimai",
+        "option_a": "Galiausiai išnyks",
+        "option_b": "Išliks neribotai",
+        "option_c": "Augti eksponentiškai",
+        "option_d": "Niekuomet neįvyks",
+        "answer": "A",
+        "id": "econometrics/dev/0"
+    },
+    "264": {
+        "instruction": "Federalinis deficitas atsiranda, kai",
+        "option_a": "eksportas viršija importą.",
+        "option_b": "importas viršija eksportą.",
+        "option_c": "federaliniai mokesčių surinkimai viršija išlaidas.",
+        "option_d": "federalinės išlaidos viršija federalinius mokesčių pajamų.",
+        "answer": "D",
+        "id": "high_school_macroeconomics/dev/2"
+    },
+    "265": {
+        "instruction": "Kaip galima apibūdinti organizacines struktūras, kurios pasižymi demokratiniais ir įtraukiamais valdymo stiliais?",
+        "option_a": "Hierarchinė",
+        "option_b": "Biurokratinė",
+        "option_c": "Plokščia",
+        "option_d": "Funkcinė",
+        "answer": "C",
+        "id": "management/dev/4"
+    },
+    "266": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\nŠis ištrauka yra iš brošiūros.\nJūs padarysite man teisingumą, jei prisiminsite, kad visada energingai palaikiau kiekvieno žmogaus teisę turėti savo nuomonę, nesvarbu, kaip ta nuomonė skiriasi nuo mano. Tas, kuris atima iš kito šią teisę, padaro save savo dabartinės nuomonės vergą, nes jis atima iš savęs teisę ją pakeisti.\nGalingiausia ginklas prieš visų rūšių klaidas yra Protas. Niekada nenaudojau jokio kito, ir tikiuosi, kad niekada ir nenaudosiu.\nAplinkybė, kuri dabar įvyko Prancūzijoje, visiškai panaikinus visą nacionalinę kunigystės tvarką ir viską, kas susiję su prievartinėmis religijos sistemomis ir prievartiniais tikėjimo principais, ne tik paskatino mano ketinimą, bet ir padarė tokio pobūdžio darbą ypač būtinu, kad bendroje superstiticijos, klaidingų valdžios sistemų ir klaidingos teologijos griūtyje neprarastume moralės, žmoniškumo ir tiesiogos teologijos.\nTikiu vienu Dievu ir niekuo daugiau; ir tikiuosi laimės už šio gyvenimo ribų.\nTikiu žmogaus lygybe; ir tikiu, kad religinės pareigos susideda iš teisingumo vykdymo, gailestingumo mylėjimo ir stengimosi padaryti mūsų bendražygius laimingus.\nNetikiu žydų bažnyčios, Romos bažnyčios, Graikų bažnyčios, Turkų bažnyčios, protestantų bažnyčios ar bet kurios man žinomos bažnyčios išpažįstama tikėjimu. Mano protas yra mano bažnyčia.\nVisos nacionalinės bažnyčių institucijos, nesvarbu, ar žydų, krikščionių ar turkų, man atrodo niekuo kitu, kaip tik žmonių išradimais, sukurtais gąsdinti ir vergauti žmonijai, monopolizuoti galią ir pelną.\nNesiruošiu šiuo pareiškimu pasmerkti tų, kurie tiki kitaip; jie turi tokią pačią teisę į savo tikėjimą, kaip ir aš į savo.\n—Thomas Paine, Protos amžius, 1794–1795\nKurį iš šių Apšvietos filosofų sukūrė valdžios patikrinimų ir pusiausvyros sistemą, kad išvengtų galios piktnaudžiavimo?",
+        "option_a": "Žanas Žakas Ruso",
+        "option_b": "Baronas Montesquieu",
+        "option_c": "Merė Volstonkraf",
+        "option_d": "Adomas Smithas",
+        "answer": "B",
+        "id": "high_school_european_history/dev/0"
+    },
+    "267": {
+        "instruction": "Naujagimio genetiniame teste nustatomas retas genetinis sutrikimas, turintis X-linijinį recesyvinį perdavimą. Kuris iš šių teiginių greičiausiai yra teisingas dėl šio sutrikimo genealoginės medžio?",
+        "option_a": "Visi palikuonys iš motinos pusės turės sutrikimą.",
+        "option_b": "Moterų bus maždaug du kartus daugiau, nei vyrų šioje šeimoje.",
+        "option_c": "Visos paveikto vyro dukros bus paveiktos.",
+        "option_d": "Bus lygi vyrų ir moterų, turinčių sutrikimą, paskirstymas.",
+        "answer": "C",
+        "id": "college_medicine/dev/2"
+    },
+    "268": {
+        "instruction": "Kiek bandymų turėtumėte atlikti, kad kanulėtumėte pacientą, prieš perduodami darbą vyresniam kolegai, remiantis 2020 metų medicinos žiniomis?",
+        "option_a": "4",
+        "option_b": "3",
+        "option_c": "2",
+        "option_d": "1",
+        "answer": "C",
+        "id": "clinical_knowledge/dev/3"
+    },
+    "269": {
+        "instruction": "Kuriame iš šių dviejų scenarijų pagrindinis veikėjas (kuris naudoja aš/man/mano) daro kažką akivaizdžiai morališkai neteisingo, pagal įprastus moralinius standartus JAV 2020 metais? Scenarijus 1 | Aš tikrai mylėjau savo naujagimį berniuką. Scenarijus 2 | Nauja mergina jaučiasi nepatogiai gyvendama priekabų parke, todėl aš kviečiu klasę į jos namus.",
+        "option_a": "Neteisinga, Neteisinga",
+        "option_b": "Neteisinga, Neteisinga",
+        "option_c": "Neteisinga, Teisinga",
+        "option_d": "Teisinga, Teisinga",
+        "answer": "C",
+        "id": "moral_scenarios/dev/0"
+    },
+    "270": {
+        "instruction": "Kuo priverstinė diplomatija skiriasi nuo karinės jėgos?",
+        "option_a": "Priverstinė diplomatija yra kitas terminas priverstinei diplomatijai, tačiau apimantis siauresnį kriterijų rinkinį; priverstinė diplomatija apima tuos grasinimus, kurie skirti inicijuoti priešo veiksmus. Grasinimas priversti valstybę atsisakyti dalies savo teritorijos būtų laikomas priverstine diplomacija, jei tas grasinimas proaktyviai inicijuoja veiksmus prieš reaguojant į diplomatiją.",
+        "option_b": "Priverstinė diplomatija apima ribotos jėgos grasinimus, siekiant paskatinti priešo motyvą laikytis priverstėjo reikalavimų. Tai yra įtakos strategija, skirta gauti laikymąsi: jėgos naudojimas, kad pirmiausia nugalėtų priešininką, nesiskaito. Tai palieka pasirinkimo elementą tikslui laikytis arba tęsti.",
+        "option_c": "Karinė jėga arba karinės jėgos grasinimas naudoja baimę strateginiams tikslams pasiekti. Priverstinė diplomatija skiriasi nuo šio požiūrio, nes ji nenaudoja baimės kaip priemonės priversti priešininką.",
+        "option_d": "Priverstinė diplomatija naudojama jėgai, tačiau siekiant apriboti jos poveikį tarptautinei bendruomenei. Priverstinė diplomatija yra agresyvi strategija, skirta gauti laikymąsi per nugalėjimą. Tai nepalieka pasirinkimo elemento tikslui, kuris arba priverstas laikytis, arba įsitraukti į konfliktą. Ji siekia kontroliuoti, įpareigodama laikytis, pašalindama bet kokią derybų ar nuolaidų galimybę.",
+        "answer": "B",
+        "id": "security_studies/dev/0"
+    },
+    "271": {
+        "instruction": "Sudėtingos klausimo klaidos esmė yra",
+        "option_a": "teigti, kad kažkas yra prastesnis, tik todėl, kad jis nedaro to, kam niekada nebuvo skirtas.",
+        "option_b": "įtraukti daugiau nei vieną teiginį į pasiūlymą ir laikyti vieno teiginio įrodymą kaip įrodymą visiems teiginiams.",
+        "option_c": "daryti išvadą prieš išnagrinėjant įrodymus ir apsvarstyti tik tuos įrodymus, kurie palaiko tą išvadą.",
+        "option_d": "užduoti klausimą, kuris apima arba neįrodytą prielaidą, arba daugiau nei vieną klausimą, taip padarant paprastą taip arba ne atsakymą beprasmį.",
+        "answer": "D",
+        "id": "logical_fallacies/dev/1"
+    },
+    "272": {
+        "instruction": "Kaip geriausiai apibūdinti santykį tarp valstybės centrinio požiūrio ir žmogaus saugumo koncepcijos?",
+        "option_a": "Žmogaus saugumo sistemoje yra tokių plačių skirtumų dėl grėsmių pobūdžio ir referentų objektų, kad negalima daryti plačiai taikomų palyginimų tarp valstybės centrinių požiūrių ir žmogaus saugumo.",
+        "option_b": "Priėmus žmogaus saugumo sistemą, akivaizdžiai pasimato realistinio valstybės centrinio požiūrio apribojimai. Nors žmogaus saugumas apibrėžia referentų objektą kaip asmenį ar populiaciją, valstybės centriniai požiūriai teikia pirmenybę valstybės saugumui, mažindami žmogaus saugumo siekimo svarbą.",
+        "option_c": "Valstybės centrinis požiūris į saugumą yra žmogaus saugumo frakcija, paprastai apibrėžiama plačioje žmogaus saugumo mokykloje. Būdama valstybės centrinė, ši sistema teikia pirmenybę asmeniui kaip referentų objektui saugumo studijose.",
+        "option_d": "T tanto valstybės centriniai, tiek žmogaus centriniai požiūriai į saugumą yra tarpusavyje išskirtiniai ir siūlo pakankamą analitinę sistemą, leidžiančią suprasti tarptautinę saugumo sistemą. Todėl saugumo analitikų užduotis yra nustatyti, kuris iš šių esminių konceptų yra teisingas, o kuris turėtų būti atmestas.",
+        "answer": "B",
+        "id": "security_studies/dev/3"
+    },
+    "273": {
+        "instruction": "Iš viso 30 žaidėjų žais krepšinį parke. Kiekvienoje komandoje bus tiksliai 5 žaidėjai. Kuri teiginys teisingai paaiškina, kaip rasti reikalingų komandų skaičių?",
+        "option_a": "Pridėkite 5 prie 30, kad rastumėte 35 komandas.",
+        "option_b": "Padalinkite 30 iš 5, kad rastumėte 6 komandas.",
+        "option_c": "Padauginkite 30 ir 5, kad rastumėte 150 komandų.",
+        "option_d": "Atimkite 5 iš 30, kad rastumėte 25 komandas.",
+        "answer": "B",
+        "id": "elementary_mathematics/dev/2"
+    },
+    "274": {
+        "instruction": "Kuris iš šių pavyzdžių yra daikto naudojimo Interneto daiktų (IoT) pavyzdys?",
+        "option_a": "Automobilis įspėja vairuotoją, kad jis tuoj pat atsitrenks į objektą.",
+        "option_b": "Keliautojas naudoja GPS laikrodį, kad stebėtų savo vietą.",
+        "option_c": "Šaldytuvas užsako pieną iš internetinės pristatymo paslaugos, kai pieno šaldytuve beveik nebelieka.",
+        "option_d": "Bėgikas naudoja laikrodį su optiniais jutikliais, kad stebėtų savo širdies ritmą.",
+        "answer": "C",
+        "id": "high_school_computer_science/dev/0"
+    },
+    "275": {
+        "instruction": "Šis klausimas susijęs su šia informacija.\nJis apima visus darbus ir troškimus, visus kvapus ir visus skonius. Jis apgaubia visą visatą ir tyliai myli visus. Tai Dvasia, kuri yra mano širdyje, tai yra Brahmanas. Pas jį aš ateisiu, kai pereisiu už šio gyvenimo ribų, ir pas jį ateis tas, kuris turi tikėjimą ir neabejoja.\n—Upanišados, Indija, apie 1000 m. pr. Kr.\nKuria religijai kalbėtojas greičiausiai priklauso?",
+        "option_a": "Hinduizmas",
+        "option_b": "Buddizmas",
+        "option_c": "Šintoizmas",
+        "option_d": "Zoroastrizmas",
+        "answer": "A",
+        "id": "high_school_world_history/dev/0"
+    },
+    "276": {
+        "instruction": "Tradiciškai, kai turime realaus skaičiaus įvesties atributą sprendimų medžio mokymosi metu, mes laikomės dvejopo skaidymo, atsižvelgdami į tai, ar atributas yra virš ar žemiau tam tikro slenksčio. Pat siūlo, kad vietoj to turėtume tiesiog daugiakryptį skaidymą su viena šaka kiekvienam skirtingam atributo vertei. Iš žemiau pateikto sąrašo pasirinkite didžiausią problemą su Pat pasiūlymu:",
+        "option_a": "Tai per daug skaičiavimo atžvilgiu brangu.",
+        "option_b": "Tai greičiausiai sukels sprendimų medį, kuris prastai įvertins mokymo rinkinyje ir testavimo rinkinyje.",
+        "option_c": "Tai greičiausiai sukels sprendimų medį, kuris gerai įvertins mokymo rinkinyje, bet prastai testavimo rinkinyje.",
+        "option_d": "Tai greičiausiai sukels sprendimų medį, kuris gerai įvertins testavimo rinkinyje, bet prastai mokymo rinkinyje.",
+        "answer": "C",
+        "id": "machine_learning/dev/4"
+    }
+}

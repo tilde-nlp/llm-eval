@@ -1,0 +1,2682 @@
+{
+    "0": {
+        "id": "ARC-Challenge/validation/Mercury_7099103",
+        "answer": "D",
+        "instruction": "Šaltiųjų juodųjų uogų augalai dauginasi aseksualiai, kai stiebai liečia žemę ir išdygsta naujos šaknys. Jie taip pat dauginasi seksualiai per savo gėles. Koks yra juodųjų uogų augalo pranašumas, galinčio daugintis seksualiai ir aseksualiai?",
+        "option_a": "Tai leidžia augalams augti aukščiau.",
+        "option_b": "Tai gamina gėles, kurios pritraukia vabzdžius.",
+        "option_c": "Tai gamina juodąsias uogas, turinčias daugiau skonio.",
+        "option_d": "Tai leidžia juodųjų uogų augalams prisitaikyti prie naujų sąlygų."
+    },
+    "1": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+        "answer": "C",
+        "instruction": "Kuris iš šių apibūdina ramybės būsenoje esančio vežimėlio mechaninę energiją ant stačios kalvos viršūnės?",
+        "option_a": "Vežimėlis neturi mechaninės energijos.",
+        "option_b": "Vežimėlio mechaninė energija yra visiškai kinetinė.",
+        "option_c": "Vežimėlio mechaninė energija yra visiškai potenciali.",
+        "option_d": "Vežimėlio mechaninė energija yra pusė potencialios ir pusė kinetinės."
+    },
+    "2": {
+        "id": "ARC-Challenge/validation/Mercury_7090738",
+        "answer": "A",
+        "instruction": "Kuriam klausimui galima atsakyti per mokslinį tyrimą?",
+        "option_a": "Kaip saulės energija veikia debesų susidarymą?",
+        "option_b": "Kodėl tigrai yra gražesni už iguanas?",
+        "option_c": "Koks yra geriausias dalykas, kurį galima studijuoti koledže?",
+        "option_d": "Ar žmonės turėtų investuoti į kosminius keliones?"
+    },
+    "3": {
+        "id": "ARC-Challenge/validation/Mercury_7130883",
+        "answer": "B",
+        "instruction": "Inžinerijos klasė buvo nurodyta sukurti robotą. Robotą reikia sukurti naudojant elektromagnetinę energiją kaip vienintelį energijos šaltinį. Kokią temą inžinerijos klasė greičiausiai studijuoja?",
+        "option_a": "baterijų ir cheminės energijos naudojimą",
+        "option_b": "kaip galima naudoti spindulinę energiją ir saulės kolektorius",
+        "option_c": "kinetinės energijos konvertavimą į potencialią energiją",
+        "option_d": "kaip šiluminė energija gali būti paversta į elektrinę energiją"
+    },
+    "4": {
+        "id": "ARC-Challenge/validation/Mercury_7190155",
+        "answer": "B",
+        "instruction": "Amazonės atogrąžų miškuose gyvena daug skirtingų augalų ir gyvūnų rūšių. Koks yra labiausiai tikėtinas didelių miškų kirtimo plotų rezultatas Amazonės atogrąžų miškuose?",
+        "option_a": "gyvūnų populiacijų padidėjimas",
+        "option_b": "deguonies gamybos sumažėjimas",
+        "option_c": "kritulių padidėjimas",
+        "option_d": "teršalų sumažėjimas"
+    },
+    "5": {
+        "id": "ARC-Challenge/validation/Mercury_177398",
+        "answer": "B",
+        "instruction": "Automobilis, važiuojantis šiaurės rytų kryptimi 50 km/h greičiu, atspindi kurią iš šių?",
+        "option_a": "greitis",
+        "option_b": "greičio vektorius",
+        "option_c": "pagreitis",
+        "option_d": "sulėtėjimas"
+    },
+    "6": {
+        "id": "ARC-Challenge/validation/Mercury_7246995",
+        "answer": "C",
+        "instruction": "Kai kurioms augalų ląstelėms reikia energijos, kad perneštų maistines medžiagas per ląstelės membraną. Koks energijos transformacijos tipas naudojamas šiose augalų ląstelėse, kad maistinės medžiagos molekulė patektų į ląstelės membraną?",
+        "option_a": "šiluminė energija į kinetinę energiją",
+        "option_b": "potenciali energija į šviesos energiją",
+        "option_c": "cheminė energija į kinetinę energiją",
+        "option_d": "kinetinė energija į potencialią energiją"
+    },
+    "7": {
+        "id": "ARC-Challenge/validation/Mercury_189490",
+        "answer": "A",
+        "instruction": "Gregoro Mendelio žirnių augalų stebėjimas yra pavyzdys",
+        "option_a": "mokslinę teoriją pagrindžiančių tyrimų įrodymų.",
+        "option_b": "išvados, kuri yra tikrinama hipotezės.",
+        "option_c": "atsitiktinio testavimo eksperimentu metu.",
+        "option_d": "įrodymų už ir prieš mokslinį modelį."
+    },
+    "8": {
+        "id": "ARC-Challenge/validation/Mercury_7139790",
+        "answer": "C",
+        "instruction": "Aštuonkojai turi specialias ląsteles savo odoje, vadinamas chromatoforais, kurios leidžia aštuonkojui beveik akimirksniu pakeisti savo spalvą. Chromatoforai greičiausiai padeda aštuonkojui",
+        "option_a": "plaukti greičiau.",
+        "option_b": "kvėpuoti lėčiau.",
+        "option_c": "slėptis nuo plėšrūnų.",
+        "option_d": "reguliuoti kūno temperatūrą."
+    },
+    "9": {
+        "id": "ARC-Challenge/validation/Mercury_7282608",
+        "answer": "C",
+        "instruction": "Namų nuotekos nėra visos tokios pačios. Pilkosios nuotekos reiškia namų nuotekas iš kriauklių ir vonių. Jos neturi žmogaus biologinių atliekų, todėl gali būti pakartotinai naudojamos, o ne laikomos nuotekomis. Kurie pilkosios nuotekos naudojimai rodo gerą valdymą?",
+        "option_a": "indų plovimas ir gėrimas",
+        "option_b": "gėrimas ir gėlynų laistymas",
+        "option_c": "gėlynų laistymas ir medžių laistymas",
+        "option_d": "medžių laistymas ir indų plovimas"
+    },
+    "10": {
+        "id": "ARC-Challenge/validation/Mercury_7145513",
+        "answer": "B",
+        "instruction": "Gyvybės procesams reikalinga energija. Biocheminiai procesai apima specifines reakcijas. Koks yra biocheminių procesų, būdingų visiems gyvūnams, bruožas?",
+        "option_a": "veikti bet kuriame pH lygyje",
+        "option_b": "šiluma, išsiskirianti kaip produktas",
+        "option_c": "naudoti tik anaerobinę respiraciją",
+        "option_d": "absorbuotos energijos kiekis"
+    },
+    "11": {
+        "id": "ARC-Challenge/validation/Mercury_7018148",
+        "answer": "B",
+        "instruction": "DIDŽIOJI dalis elementų, esančių periodinėje elementų lentelėje, yra",
+        "option_a": "dujos.",
+        "option_b": "metalai.",
+        "option_c": "skysčiai.",
+        "option_d": "nemetalai."
+    },
+    "12": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401294",
+        "answer": "B",
+        "instruction": "Augalų lapų forma, kuri gerai išgyvena lietingame klimate, dažniausiai yra",
+        "option_a": "raudona ir blizgi.",
+        "option_b": "plati ir plokščia.",
+        "option_c": "stora ir vaškuota.",
+        "option_d": "aštri ir siaura."
+    },
+    "13": {
+        "id": "ARC-Challenge/validation/Mercury_7207410",
+        "answer": "C",
+        "instruction": "Audrų medžiotojai yra žmonės, kurie priartėja prie audrų, kad jas stebėtų ir atliktų matavimus. Kokią žinią audrų medžiotojai pridėjo prie audrų tyrimo, kuri padėjo labiausiai pakeisti audrų formavimosi teorijas?",
+        "option_a": "jų požiūris į audrų padarytą žalą",
+        "option_b": "jų asmeninė patirtis audrose",
+        "option_c": "jų duomenys, surinkti audrų pradžioje",
+        "option_d": "jų entuziazmas tyrinėti skirtingas audras"
+    },
+    "14": {
+        "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+        "answer": "A",
+        "instruction": "Kuris iš šių geriausiai apibūdina kietos ledo bloką masę?",
+        "option_a": "medžiagos kiekis bloke",
+        "option_b": "erdvės kiekis, kurį užima blokas",
+        "option_c": "jėga, veikianti bloką dėl gravitacijos",
+        "option_d": "atstumas tarp molekulių bloke"
+    },
+    "15": {
+        "id": "ARC-Challenge/validation/Mercury_7201705",
+        "answer": "A",
+        "instruction": "Daugelyje pasaulio vietų žemė, kuri yra per sausa ūkininkavimui, naudojama gyvulių ganymui. Per didelis ganymas sunaikina vietines augalų rūšis ir pažeidžia natūralią dirvožemio dangą. Kaip per didelis ganymas lemia dykumėjimą?",
+        "option_a": "padidindama viršutinio dirvožemio erozijos greitį",
+        "option_b": "leidžiant ne vietinėms rūšims kolonizuoti žemę",
+        "option_c": "sumažindama maisto, prieinamo gyvuliams, kiekį",
+        "option_d": "sukeldama žemei greičiau sugerti kritulius"
+    },
+    "16": {
+        "id": "ARC-Challenge/validation/Mercury_7133858",
+        "answer": "B",
+        "instruction": "Medžiaga gali patirti skirtingus pokyčius. Kas geriausiai demonstruoja cheminį pokytį?",
+        "option_a": "druskos tirpimas",
+        "option_b": "medienos deginimas",
+        "option_c": "vandens virimas",
+        "option_d": "ledų tirpimas"
+    },
+    "17": {
+        "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+        "answer": "D",
+        "instruction": "Kurios iš šių nėra instinktyvus elgesys?",
+        "option_a": "paukštis, statantis lizdą",
+        "option_b": "vėžlys, užkasantis savo kiaušinius",
+        "option_c": "meška, žiemojanti žiemą",
+        "option_d": "arklys, traukiantis plūgą"
+    },
+    "18": {
+        "id": "ARC-Challenge/validation/Mercury_7198380",
+        "answer": "D",
+        "instruction": "Skirtingos žolėdžių graužikų rūšys gyveno toje pačioje ekosistemoje. Koks veiksnys greičiausiai padidėjo, sukeldamas didesnę konkurenciją dėl išteklių tarp graužikų?",
+        "option_a": "dirvožemio derlingumas",
+        "option_b": "gamintojų populiacija toje srityje",
+        "option_c": "maisto atliekų kiekis, paliktas plėšrūnų",
+        "option_d": "pirminių vartotojų migracijos į šią sritį greitis"
+    },
+    "19": {
+        "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+        "answer": "C",
+        "instruction": "Viena driežų rūšis daugiausia valgo vaisius iš vieno konkretaus medžio tipo. Jei virusas nužudo daugumą šių medžių, kurie individai driežų greičiausiai išgyvens?",
+        "option_a": "driežai, kurie gali lipti aukščiau vaisių medžiuose",
+        "option_b": "driežai, turintys tamsesnę spalvą",
+        "option_c": "driežai, kurie gali rasti kitų maisto rūšių",
+        "option_d": "driežai, kurie gamina daugiau palikuonių"
+    },
+    "20": {
+        "id": "ARC-Challenge/validation/Mercury_7217053",
+        "answer": "B",
+        "instruction": "Biologinė evoliucija gali vykti per visus šiuos, išskyrus",
+        "option_a": "konkurenciją.",
+        "option_b": "fossilizaciją.",
+        "option_c": "variaciją.",
+        "option_d": "adaptaciją."
+    },
+    "21": {
+        "id": "ARC-Challenge/validation/Mercury_7233660",
+        "answer": "C",
+        "instruction": "Kai kurie mokslininkai teigia, kad plokščių judėjimas gali pakeisti vandens lygį Žemės jūrose. Kaip plokščių judėjimo pobūdis apribotų galimus pokyčius jūros lygyje?",
+        "option_a": "dėl to, kad būtų daromi tik maži pokyčiai",
+        "option_b": "dėl to, kad būtų keičiamos tik kelios specifinės vandenynų baseinai",
+        "option_c": "dėl to, kad pokyčiai vyktų labai lėtais tempais",
+        "option_d": "dėl to, kad būtų daromi poriniai pokyčiai su lygiaverčiais ir priešingais poveikiais"
+    },
+    "22": {
+        "id": "ARC-Challenge/validation/Mercury_7115395",
+        "answer": "A",
+        "instruction": "Kokie pokyčiai greičiausiai turės neigiamą poveikį ekosistemai?",
+        "option_a": "kelio statyba",
+        "option_b": "medžio sodinimas",
+        "option_c": "šviežio vandens šaltinio pridėjimas",
+        "option_d": "gamtoje šventovės kūrimas"
+    },
+    "23": {
+        "id": "ARC-Challenge/validation/MSA_2013_8_3",
+        "answer": "D",
+        "instruction": "Geologai nustatė septynias pagrindines tektonines plokštes Žemės paviršiuje. Koks įrodymas geriausiai rodo, kad tektoninės plokštės susiduria?",
+        "option_a": "Vėjas eroduoja paviršiaus uolienų formacijas.",
+        "option_b": "Fosilijos datuojamos tūkstančius metų atgal.",
+        "option_c": "Mažos uolos lieka, kai ledynai traukiasi.",
+        "option_d": "Senesni uolienų sluoksniai yra virš naujesnių uolienų sluoksnių."
+    },
+    "24": {
+        "id": "ARC-Challenge/validation/Mercury_7205135",
+        "answer": "C",
+        "instruction": "Kaip geležies bloko dalelės yra paveiktos, kai blokas ištirpsta?",
+        "option_a": "Dalelės įgauna masę.",
+        "option_b": "Dalelės turi mažiau energijos.",
+        "option_c": "Dalelės juda greičiau.",
+        "option_d": "Dalelės padidėja tūriu."
+    },
+    "25": {
+        "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+        "answer": "A",
+        "instruction": "Sara įjungia žibintuvėlį ir laiko objektą prie šviesos. Kaip ji galės nustatyti, ar objektas yra nepralaidus šviesai?",
+        "option_a": "Šviesa neprasiskverbs.",
+        "option_b": "Kai kuri šviesa bus atspindėta.",
+        "option_c": "Šviesa sulenksis kampu.",
+        "option_d": "Šviesa aiškiai prasiskverbs."
+    },
+    "26": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+        "answer": "E",
+        "instruction": "Kurie iš šių organų NĖRA situotas pilvo srityje?",
+        "option_a": "kepenys",
+        "option_b": "inkstas",
+        "option_c": "skrandis",
+        "option_d": "šlapimo pūslė",
+        "option_e": "širdis"
+    },
+    "27": {
+        "id": "ARC-Challenge/validation/Mercury_7181685",
+        "answer": "A",
+        "instruction": "Gėlių spalvos bruožas yra labai kintamas tarp tam tikrų rožių rūšių, dėl to susidaro gėlės skirtingomis spalvomis. Kaip atsirado gėlių spalvų kintamumas rožių augaluose?",
+        "option_a": "per mutaciją",
+        "option_b": "per apdulkinimą",
+        "option_c": "per natūralią atranką",
+        "option_d": "per aseksualinį dauginimąsi"
+    },
+    "28": {
+        "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+        "answer": "D",
+        "instruction": "Sniego batų kiškis keičia savo kailį du kartus per metus. Vasarą kiškio kailis yra rudas. Žiemą kailis yra baltas. Kuris iš šių teiginių geriausiai paaiškina kailio keitimo pranašumą?",
+        "option_a": "Kailio keitimas padeda kiškiui išlikti švariam.",
+        "option_b": "Kailio keitimas padeda kiškiui greitai judėti.",
+        "option_c": "Kailio keitimas padeda kiškio namams išlikti šiltiems.",
+        "option_d": "Kailio keitimas padeda kiškiui susilieti su aplinka."
+    },
+    "29": {
+        "id": "ARC-Challenge/validation/Mercury_7008120",
+        "answer": "A",
+        "instruction": "Dvipusės žvaigždės naudojamos mokslininkų, kad nustatytų žvaigždės",
+        "option_a": "masę.",
+        "option_b": "šviesumą.",
+        "option_c": "atstumą nuo Žemės.",
+        "option_d": "atstumą nuo Saulės."
+    },
+    "30": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+        "answer": "B",
+        "instruction": "Berniukas gali pamatyti savo veidą, kai žiūri į ramų tvenkinį. Kokia fizinė tvenkinio savybė tai lemia?",
+        "option_a": "lankstumas",
+        "option_b": "atspindėjimas",
+        "option_c": "temperatūra",
+        "option_d": "tūris"
+    },
+    "31": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+        "answer": "B",
+        "instruction": "Mokinys pasodinojo du pupelių sėklas į du identiškus vazonus, kuriuose buvo tas pats dirvožemio tipas. Jis vieną vazoną padėjo spintoje, o kitą – šalia saulėtos lango. Kiekvieną dieną jis į kiekvieną vazoną supylė 15 mililitrų vandens. Koks veiksnys buvo skirtingas abiem vazonams?",
+        "option_a": "vandens kiekis",
+        "option_b": "šviesos kiekis",
+        "option_c": "dirvožemio tipas",
+        "option_d": "sėklos tipas"
+    },
+    "32": {
+        "id": "ARC-Challenge/validation/Mercury_7141698",
+        "answer": "B",
+        "instruction": "Kai žaibas įvyksta, jis įkaitina aplink esantį orą. Karštas oras plečiasi ir sukelia griaustinį. Žaibo energija konvertuojama į kokią energijos rūšį, kad sukeltų griaustinį?",
+        "option_a": "gravitacinė",
+        "option_b": "mechaninė",
+        "option_c": "branduolinė",
+        "option_d": "radiantinė"
+    },
+    "33": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407314",
+        "answer": "A",
+        "instruction": "Dviejų klasių mokiniai atliko tą pačią tyrimą. Kiekviena klasė gavo skirtingus rezultatus. Koks yra geriausias būdas mokiniams nustatyti, kodėl rezultatai buvo skirtingi?",
+        "option_a": "Peržiūrėti tyrimo metu atliktus veiksmus.",
+        "option_b": "Pakeisti tyrimo hipotezę.",
+        "option_c": "Tyrinėti duomenis apie panašius tyrimus.",
+        "option_d": "Atlikti kitą tyrimą."
+    },
+    "34": {
+        "id": "ARC-Challenge/validation/Mercury_406781",
+        "answer": "C",
+        "instruction": "Kokia sąveika tarp gyvūnų geriausiai kontroliuoja rūšies populiaciją?",
+        "option_a": "laukiniai gyvūnai žymintys savo teritorijas",
+        "option_b": "remoros žuvys keliaujančios su rykliams",
+        "option_c": "liūtai medžiojantys zebrų",
+        "option_d": "vilkai keliaujantys bandose"
+    },
+    "35": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400845",
+        "answer": "B",
+        "instruction": "Žaibas gali sukurti visas šias energijos formas, išskyrus",
+        "option_a": "šilumos energiją.",
+        "option_b": "saulės energiją.",
+        "option_c": "šviesos energiją.",
+        "option_d": "elektrinę energiją."
+    },
+    "36": {
+        "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+        "answer": "B",
+        "instruction": "Janet gavo keletą mineralų, kuriuos reikia identifikuoti. Vienas iš jos mėginių yra geltonas. Kuris iš šių mineralų greičiausiai bus geltonas?",
+        "option_a": "Talkas",
+        "option_b": "Siera",
+        "option_c": "Gipsas",
+        "option_d": "Hematitas"
+    },
+    "37": {
+        "id": "ARC-Challenge/validation/Mercury_7171938",
+        "answer": "D",
+        "instruction": "Žemės vandenynų potvynius stipriai veikia Mėnulis. Kuriais mėnulio fazėmis vandenynų potvyniai yra mažiausi Žemėje?",
+        "option_a": "pilnatis ir pirmasis ketvirtis",
+        "option_b": "pilnatis ir naujoji mėnulio fazė",
+        "option_c": "paskutinis ketvirtis ir naujoji mėnulio fazė",
+        "option_d": "pirmasis ketvirtis ir paskutinis ketvirtis"
+    },
+    "38": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415354",
+        "answer": "C",
+        "instruction": "Kuri iš šių elgsenų delfinas išmoksta?",
+        "option_a": "valgyti mažas žuvis",
+        "option_b": "plaukti sūriame vandenyje",
+        "option_c": "balansuoti kamuolį ant savo nosies",
+        "option_d": "kvėpuoti per savo kvėpavimo angą"
+    },
+    "39": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+        "answer": "C",
+        "instruction": "Kokį bruožą katė labiausiai tikėtina paveldės iš savo tėvų?",
+        "option_a": "turėti randą",
+        "option_b": "persekioti žaislą",
+        "option_c": "turėti baltą kailį",
+        "option_d": "žinoti savo vardą"
+    },
+    "40": {
+        "id": "ARC-Challenge/validation/Mercury_7251685",
+        "answer": "B",
+        "instruction": "Kuri veikla efektyviausiai užtikrina osteocitų tinkamą funkcionavimą?",
+        "option_a": "kvėpavimo dažnio didinimas",
+        "option_b": "mineralais turtingo maisto vartojimas",
+        "option_c": "stresą mažinančio fizinio krūvio sumažinimas",
+        "option_d": "vandens be jonų gėrimas"
+    },
+    "41": {
+        "id": "ARC-Challenge/validation/Mercury_7267995",
+        "answer": "C",
+        "instruction": "Kai kurios augalų ir gyvūnų rūšys priklauso viena nuo kitos. Kurie iš šių gyvūnų padeda tūkstančiams augalų rūšių daugintis?",
+        "option_a": "voverės",
+        "option_b": "žemės kirminai",
+        "option_c": "bitės",
+        "option_d": "vabalai"
+    },
+    "42": {
+        "id": "ARC-Challenge/validation/Mercury_7193043",
+        "answer": "B",
+        "instruction": "Ne vietinės augalų rūšys gali užimti teritorijas, kurias anksčiau užėmė vietinės augalų rūšys. Koks abiotinis procesas mažiausiai tikėtina, kad sukels ne vietinių augalų invaziją?",
+        "option_a": "potvyniai",
+        "option_b": "oro erozija",
+        "option_c": "dulkių audros",
+        "option_d": "ledynų tirpimas"
+    },
+    "43": {
+        "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+        "answer": "C",
+        "instruction": "Povandeniniai laivai tyrinėjo daugelį vandenyno vietų. Kai povandeniniai laivai leidžiasi, mokslininkai stebi, kad didėja -",
+        "option_a": "šviesos kiekis",
+        "option_b": "vandens temperatūra",
+        "option_c": "vandens slėgis",
+        "option_d": "vandenyno organizmų rūšys"
+    },
+    "44": {
+        "id": "ARC-Challenge/validation/Mercury_7154263",
+        "answer": "B",
+        "instruction": "Fitoplanktonas yra augalams panašūs mikroskopiniai organizmai, kurie plūduriuoja vandens telkiniuose, tokiuose kaip vandenynas. Jie sugeria anglies dioksidą fotosintezės proceso metu. Kas greičiausiai nutiktų, jei fitoplanktono populiacija būtų sunaikinta?",
+        "option_a": "Jūros temperatūra sumažėtų.",
+        "option_b": "Šiltnamio efektą sukeliančių dujų kiekis padidėtų.",
+        "option_c": "Atmosferos deguonies kiekis padidėtų.",
+        "option_d": "Jūros lygis drastiškai sumažėtų."
+    },
+    "45": {
+        "id": "ARC-Challenge/validation/Mercury_7032743",
+        "answer": "C",
+        "instruction": "Kokia gepardo savybė labiau tikėtina, kad bus išmokta, o ne paveldėta?",
+        "option_a": "greitis",
+        "option_b": "dėmėtas kailis",
+        "option_c": "medžioklės strategijos",
+        "option_d": "nenuimami nagai"
+    },
+    "46": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+        "answer": "B",
+        "instruction": "Kaip kačiukai auga į kates, jų kūno svoris paprastai",
+        "option_a": "mažėja",
+        "option_b": "didėja",
+        "option_c": "lieka tas pats"
+    },
+    "47": {
+        "id": "ARC-Challenge/validation/Mercury_7115273",
+        "answer": "C",
+        "instruction": "Dideli dumblių žydėjimai ežero paviršiuje neleidžia kuriam abiotinei faktoriui pasiekti dugną?",
+        "option_a": "vanduo",
+        "option_b": "druska",
+        "option_c": "šviesa",
+        "option_d": "deguonis"
+    },
+    "48": {
+        "id": "ARC-Challenge/validation/Mercury_7205555",
+        "answer": "A",
+        "instruction": "Vanduo turi daug unikalių cheminių savybių. Kuri vandens savybė daro jį geru kristalinių druskų tirpikliu?",
+        "option_a": "stipri poliarumas",
+        "option_b": "silpna laidumas",
+        "option_c": "aukšta klampumas",
+        "option_d": "žemas pH"
+    },
+    "49": {
+        "id": "ARC-Challenge/validation/Mercury_7192990",
+        "answer": "A",
+        "instruction": "Miškų gaisrai vyksta daugelyje vietų dėl sausros sąlygų. Jei sausros sąlygos tęsiasi ilgą laiką, kas gali kelti grėsmę medžių atsinaujinimui?",
+        "option_a": "dirvožemio storio sumažėjimas",
+        "option_b": "erozijos kiekio sumažėjimas",
+        "option_c": "bakterijų populiacijos padidėjimas",
+        "option_d": "deguonies gamybos padidėjimas"
+    },
+    "50": {
+        "id": "ARC-Challenge/validation/Mercury_SC_408859",
+        "answer": "A",
+        "instruction": "Amerikietiški aligatoriai yra dažni Floridos pelkėse. Jie žinomi dėl to, kad valgo varles, vėžlius, žuvis, peles ir paukščius. Kokią rolę amerikietiškas aligatorius atlieka savo ekosistemoje?",
+        "option_a": "vartotojas",
+        "option_b": "skaidytojas",
+        "option_c": "mėsėdis",
+        "option_d": "gamintojas"
+    },
+    "51": {
+        "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+        "answer": "C",
+        "instruction": "Sue išmatuoja, kiek cukraus ištirps šaltame vandenyje, šiltame vandenyje ir karštame vandenyje. Ką ji greičiausiai pastebėjo?",
+        "option_a": "Šaltas vanduo ištirpdė daugiausiai cukraus.",
+        "option_b": "Šiltas vanduo ištirpdė daugiausiai cukraus.",
+        "option_c": "Karštas vanduo ištirpdė daugiausiai cukraus.",
+        "option_d": "Šaltas vanduo, šiltas vanduo ir karštas vanduo ištirpdė tą patį cukraus kiekį."
+    },
+    "52": {
+        "id": "ARC-Challenge/validation/Mercury_180058",
+        "answer": "A",
+        "instruction": "Kolorado rasta fosilija datuojama ankstyvuoju mezozojaus periodu. Po metų panaši fosilija rasta Vajominge, kuri taip pat datuojama ankstyvuoju mezozojaus periodu. Šie du organizmai greičiausiai gyveno",
+        "option_a": "toje pačioje aplinkoje maždaug tuo pačiu metu.",
+        "option_b": "toje pačioje aplinkoje skirtingais laikais.",
+        "option_c": "skirtingose aplinkose maždaug tuo pačiu metu.",
+        "option_d": "skirtingose aplinkose skirtingais laikais."
+    },
+    "53": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400050",
+        "answer": "C",
+        "instruction": "Ką daryti, kai namuose temperatūra yra žemesnė nei pasirinkta temperatūra termostate?",
+        "option_a": "Katilas perkais.",
+        "option_b": "Termostatas įkais.",
+        "option_c": "Katilas automatiškai įsijungs.",
+        "option_d": "Termostatas skleis pypsėjimo garsą."
+    },
+    "54": {
+        "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+        "answer": "D",
+        "instruction": "Kuris nėra pagrindinė ginčytina problema, susijusi su branduolinės energijos naudojimu?",
+        "option_a": "branduolinių atliekų šalinimas",
+        "option_b": "sveikatos pavojai aplink branduolines jėgaines",
+        "option_c": "vandens telkinių šiluminė tarša, naudojama aušinimui",
+        "option_d": "nedarbas, atsirandantis dėl perėjimo prie branduolinės energijos"
+    },
+    "55": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+        "answer": "A",
+        "instruction": "Kuri medžiagos būsena neturi apibrėžto tūrio ir apibrėžtos formos?",
+        "option_a": "dujos",
+        "option_b": "skystis",
+        "option_c": "kietas"
+    },
+    "56": {
+        "id": "ARC-Challenge/validation/Mercury_7233678",
+        "answer": "A",
+        "instruction": "Mokslininkai mano, kad žemynų dreifas per Žemės geologinę istoriją turėjo reikšmingą poveikį Žemės šiltų ir šaltų klimatų ciklams. Kuri teiginys apibūdina Žemės žemynų ypatybę, kuri greičiausiai sukels pokyčius pasauliniame klimate, kai žemynai dreifuoja?",
+        "option_a": "Žemyno vieta veikia jo paviršiaus atspindėjimą.",
+        "option_b": "Žemyninės plokštės gylis lemia jos specifinę šilumą.",
+        "option_c": "Žemynų dreifas sugeria didelius kinetinės energijos kiekius.",
+        "option_d": "Žemyno temperatūrą veikia artimiausias vandenynas."
+    },
+    "57": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+        "answer": "B",
+        "instruction": "Augalai paprastai neturi valgyti kitų organizmų, nes augalai",
+        "option_a": "nereikia maisto energijos, kad gyventų.",
+        "option_b": "paverčia saulės šviesą į maisto energiją.",
+        "option_c": "gauna visą savo maisto energiją iš dirvožemio.",
+        "option_d": "laiko maisto energiją savo šaknyse."
+    },
+    "58": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+        "answer": "A",
+        "instruction": "Kietosios fazės (būsenos) medžiaga turi",
+        "option_a": "nustatytą formą ir nustatytą tūrį",
+        "option_b": "nustatytą formą, bet neturi nustatyto tūrio",
+        "option_c": "neturi nustatytos formos, bet turi nustatytą tūrį",
+        "option_d": "neturi nustatytos formos ir neturi nustatyto tūrio"
+    },
+    "59": {
+        "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+        "answer": "A",
+        "instruction": "Kaip pasikeistų matuojamos golfo kamuolio savybės, jei jis būtų perkeliamas iš Žemės į Mėnulį?",
+        "option_a": "Jis turėtų tą pačią masę, bet skirtingą svorį.",
+        "option_b": "Jis turėtų tą patį svorį, bet skirtingą masę.",
+        "option_c": "Jis turėtų tą pačią tankį, bet skirtingą masę.",
+        "option_d": "Jis turėtų tą pačią masę, bet skirtingą tankį."
+    },
+    "60": {
+        "id": "ARC-Challenge/validation/LEAP__7_10354",
+        "answer": "D",
+        "instruction": "Joanne mokslų mokytojas įspėjo klasę būti skeptiškais, kai mokosi apie naujus mokslinius atradimus. Kodėl svarbu būti skeptišku dėl naujų atradimų moksle?",
+        "option_a": "nes daugelis mokslinių atradimų nėra pagrįsti faktais",
+        "option_b": "nes dauguma mokslinių atradimų neturi mokslinės vertės",
+        "option_c": "nes dauguma mokslininkų daro klaidas formuluodami mokslinius atradimus",
+        "option_d": "nes visi moksliniai atradimai turi būti kritiškai vertinami prieš juos priimant"
+    },
+    "61": {
+        "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+        "answer": "B",
+        "instruction": "Automobilyje, kuris iš šių komponentų yra sukurtas specialiai tam, kad suteiktų grįžtamąjį ryšį vairuotojui?",
+        "option_a": "vairas",
+        "option_b": "greičio matuoklis",
+        "option_c": "stabdžių pedalas",
+        "option_d": "automobilio raktas"
+    },
+    "62": {
+        "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+        "answer": "C",
+        "instruction": "Kuris iš šių apibrėžia junginį?",
+        "option_a": "skirtingos medžiagos sumaišytos kartu",
+        "option_b": "atomai ir molekulės sumaišytos kartu",
+        "option_c": "skirtingų elementų atomai sujungti kartu",
+        "option_d": "to paties elemento atomai sujungti kartu"
+    },
+    "63": {
+        "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+        "answer": "D",
+        "instruction": "Šaldytuvas naudoja elektrą, kad sukurtų šaltą vietą maisto saugojimui. Koks neigiamas šaldytuvo naudojimo poveikis aplinkai?",
+        "option_a": "Elektrai, reikalingai maistui laikyti šaltai, gali būti didelė kaina.",
+        "option_b": "Jei elektra dingsta, maistas sugenda ir gali sukelti ligą.",
+        "option_c": "Ilgesnis maisto laikymas sumažina apsilankymų parduotuvėje skaičių ir benzino naudojimą.",
+        "option_d": "Senieji šaldytuvai turi cheminių medžiagų ir užima vietą sąvartynuose."
+    },
+    "64": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+        "answer": "B",
+        "instruction": "Augalai turi specializuotus audinius stiebų galuose. Ką šie audiniai padeda augalams daryti?",
+        "option_a": "virškinti maistą",
+        "option_b": "augti aukščiau",
+        "option_c": "gaminti maistą",
+        "option_d": "absorbuoti vandenį"
+    },
+    "65": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415491",
+        "answer": "C",
+        "instruction": "Žemė aplink Saulę sukasi kartą per metus. Apie kiek kartų Mėnulis aplink Žemę apsisuka per metus?",
+        "option_a": "1",
+        "option_b": "7",
+        "option_c": "13",
+        "option_d": "28"
+    },
+    "66": {
+        "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+        "answer": "A",
+        "instruction": "Jose turi du barinius magnetus. Jis stumia dviejų magnetų galus kartu, o tada paleidžia. Magnetai greitai atsiskiria. Kuris iš šių teiginių geriausiai paaiškina, kodėl tai vyksta?",
+        "option_a": "Dviejų magnetų šiauriniai poliai yra nukreipti vienas į kitą.",
+        "option_b": "Vienas magnetas yra šiaurinis polius, o kitas magnetas yra pietinis polius.",
+        "option_c": "Magnetų galai atstumia vienas kitą, bet centrai traukia.",
+        "option_d": "Vienas magnetas kaupia energiją, o kitas magnetas išskiria energiją."
+    },
+    "67": {
+        "id": "ARC-Challenge/validation/Mercury_416648",
+        "answer": "A",
+        "instruction": "Paramecium ir volvox abu gali daugintis seksualiai. Kaip seksualinė reprodukcija volvox skiriasi nuo seksualinės reprodukcijos paramecium?",
+        "option_a": "Volvox kolonijos gamina gemalus.",
+        "option_b": "Volvox ląstelės pereina konjugaciją.",
+        "option_c": "Volvox kolonijos gamina vienaląsčius palikuonis.",
+        "option_d": "Volvox ląstelės dauginasi vegetatyviniu pumpuravimu."
+    },
+    "68": {
+        "id": "ARC-Challenge/validation/Mercury_7207620",
+        "answer": "A",
+        "instruction": "Kai kurie instrumentai fiksuoja deguonies lygius ozono sluoksnyje Žemės atmosferoje. Šių duomenų fiksavimas daugelį metų yra pavyzdys",
+        "option_a": "įrodymų kaupimo per nuolatinį tyrimą.",
+        "option_b": "hipotezės, kuri palaiko duomenis, nustatymo.",
+        "option_c": "išvadų darymo apie įrodymus iš rezultatų.",
+        "option_d": "duomenų, kurie yra lengvai suprantami, siūlymo."
+    },
+    "69": {
+        "id": "ARC-Challenge/validation/Mercury_7164850",
+        "answer": "A",
+        "instruction": "Mokslo klasė sukūrė plakatą, kad parodytų, kaip susiformavo barjeriniai salynai Floridos pakrantėje. Mokiniai parodė vėjo, bangų ir potvynių poveikį smėliui, kuris sudarė šiuos salynus. Plakate, kuriuos sistemų porą mokiniai turėtų pasakyti, kad labiausiai paveikė barjerinių salynų formavimąsi?",
+        "option_a": "hidrosfera ir atmosfera",
+        "option_b": "atmosfera ir litósfera",
+        "option_c": "biosfera ir hidrosfera",
+        "option_d": "litósfera ir biosfera"
+    },
+    "70": {
+        "id": "ARC-Challenge/validation/Mercury_7011270",
+        "answer": "B",
+        "instruction": "Kiek laiko Mėnulis užtrunka, kad atliktų vieną revoliuciją aplink Žemę?",
+        "option_a": "7 dienos",
+        "option_b": "30 dienų",
+        "option_c": "90 dienų",
+        "option_d": "365 dienos"
+    },
+    "71": {
+        "id": "ARC-Challenge/validation/Mercury_7090598",
+        "answer": "C",
+        "instruction": "Kurie iš šių procesų apima didelio kiekio šiluminės energijos perdavimą?",
+        "option_a": "erozija",
+        "option_b": "sedimentacija",
+        "option_c": "subdukcija",
+        "option_d": "cementacija"
+    },
+    "72": {
+        "id": "ARC-Challenge/validation/Mercury_SC_412337",
+        "answer": "D",
+        "instruction": "Tyrimo metu šiluma buvo perduota iš skysčio į aplinką. Kuri pora paaiškinimų geriausiai paaiškina šį rezultatą?",
+        "option_a": "Skysčio temperatūra padidėjo, arba skystis tapo dujomis.",
+        "option_b": "Skysčio temperatūra padidėjo, arba skystis tapo kietu.",
+        "option_c": "Skysčio temperatūra sumažėjo, arba skystis tapo dujomis.",
+        "option_d": "Skysčio temperatūra sumažėjo, arba skystis tapo kietu."
+    },
+    "73": {
+        "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+        "answer": "C",
+        "instruction": "Struktūra, kuri daro augalų ląstelę tvirtesnę nei gyvūnų ląstelę, yra",
+        "option_a": "ląstelės membrana.",
+        "option_b": "citoplazma.",
+        "option_c": "ląstelės siena.",
+        "option_d": "ribosoma."
+    },
+    "74": {
+        "id": "ARC-Challenge/validation/Mercury_7124338",
+        "answer": "D",
+        "instruction": "Klausiančio proto turėjimas būtų naudingas mokslininkui, nes tai paskatintų mokslininką",
+        "option_a": "tapti kūrybiškesniu.",
+        "option_b": "nepasitikėti kitų mokslininkų darbu.",
+        "option_c": "dirbti, kad priimtų paskelbtas hipotezes.",
+        "option_d": "vykdyti tyrimus, kad patvirtintų arba paneigtų teorijas."
+    },
+    "75": {
+        "id": "ARC-Challenge/validation/Mercury_405454",
+        "answer": "D",
+        "instruction": "Kuris virtuvės įrankis mažiausiai keičia aplinką?",
+        "option_a": "dujinė grilis",
+        "option_b": "elektrinė keptuvė",
+        "option_c": "mikrobangų krosnelė",
+        "option_d": "saulės viryklė"
+    },
+    "76": {
+        "id": "ARC-Challenge/validation/Mercury_7007875",
+        "answer": "B",
+        "instruction": "Kas yra atsakingas už vėjo kūrimą?",
+        "option_a": "bangų veikla",
+        "option_b": "saulės energija",
+        "option_c": "vėjantys medžiai",
+        "option_d": "gravitacinė jėga"
+    },
+    "77": {
+        "id": "ARC-Challenge/validation/Mercury_417146",
+        "answer": "A",
+        "instruction": "Dauguma deguonies atmosferoje yra pagaminta dumblių. Kur gyvena dauguma dumblių?",
+        "option_a": "pakrantės vandenynas",
+        "option_b": "gilusis vandenynas",
+        "option_c": "tvenkiniai",
+        "option_d": "ežerai"
+    },
+    "78": {
+        "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+        "answer": "B",
+        "instruction": "Kai žmonės vaikščiojo Mėnulyje, jie pastebėjo, kad gali šokti aukščiau nei Žemėje. Kodėl tai tiesa?",
+        "option_a": "Mėnulyje nėra atmosferos.",
+        "option_b": "Mėnulis veikia mažesnę gravitacinę jėgą nei Žemė.",
+        "option_c": "Kosminiai kostiumai padėjo jiems šokti aukščiau.",
+        "option_d": "Mėnulis sukasi greičiau nei Žemė."
+    },
+    "79": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407695",
+        "answer": "D",
+        "instruction": "Juanas ir LaKeisha rideno kelis objektus žemyn rampe. Jie nori pamatyti, kuris objektas rieda toliausiai. Ką jie turėtų padaryti, kad galėtų pakartoti savo tyrimą?",
+        "option_a": "Suskirstyti objektus į grupes.",
+        "option_b": "Pakeisti rampos aukštį.",
+        "option_c": "Pasirinkti skirtingus objektus riedėti.",
+        "option_d": "Užfiksuoti tyrimo detales."
+    },
+    "80": {
+        "id": "ARC-Challenge/validation/Mercury_7158673",
+        "answer": "D",
+        "instruction": "Ana yra bėgikė per ilgąsias distancijas. Baigusi varžybas ji pastebėjo, kad jaučiasi karšta dėl išsiskiriančios šiluminės energijos. Koks yra labiausiai tikėtinas šiluminės energijos šaltinis?",
+        "option_a": "trintis iš oro",
+        "option_b": "šiluma, sugeriama iš saulės",
+        "option_c": "mechaninė energija, sugeriama",
+        "option_d": "energijos konversijos, vykstančios jos kūne"
+    },
+    "81": {
+        "id": "ARC-Challenge/validation/Mercury_7018515",
+        "answer": "C",
+        "instruction": "Labiausiai tikėtina priežastis, kodėl garsas keliauja greičiau sūriame vandenyje nei gėlavandeniame, yra ta, kad sūrus vanduo",
+        "option_a": "yra elastingesnis.",
+        "option_b": "greičiau sugeria šilumą.",
+        "option_c": "turi didesnę tankį.",
+        "option_d": "geriau atspindi garsą."
+    },
+    "82": {
+        "id": "ARC-Challenge/validation/Mercury_412551",
+        "answer": "D",
+        "instruction": "Krekliai turi dvi spalvų variacijas: raudoną ir pilką. Kokia pranašumą pilkasis kreklis turi prieš raudonąjį kreklį aplinkoje, kurioje yra tamsiai nudažytų medžių?",
+        "option_a": "lizdų statymas",
+        "option_b": "maitinimasis",
+        "option_c": "veisimasis",
+        "option_d": "slėpimasis"
+    },
+    "83": {
+        "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+        "answer": "D",
+        "instruction": "Trys beisbolo žaidėjai tiria, kas gali mesti beisbolo kamuolį toliausiai. Jie pažymi teritoriją žaidimų aikštelėje savo tyrimui. Ką jie turėtų išlaikyti pastovų?",
+        "option_a": "Žaidėjų aukštis",
+        "option_b": "Mestų beisbolo kamuolių spalva",
+        "option_c": "Tvarka, kuria žaidėjai meta",
+        "option_d": "Vieta, iš kurios žaidėjai meta"
+    },
+    "84": {
+        "id": "ARC-Challenge/validation/Mercury_7120890",
+        "answer": "A",
+        "instruction": "Kuris geriausiai parodo, kad bangos perduoda energiją?",
+        "option_a": "varpas skambantis bokšte",
+        "option_b": "lapas krentantis iš medžio",
+        "option_c": "bula riedanti žemyn kalnu",
+        "option_d": "vėliava judanti vėjyje"
+    },
+    "85": {
+        "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+        "answer": "A",
+        "instruction": "Kuri savybė taikoma gyvūnams tik vienoje iš šių taksonominių grupių: ropliai, žinduoliai, paukščiai, varliagyviai ar žuvys?",
+        "option_a": "turi plaukus",
+        "option_b": "deda kiaušinius",
+        "option_c": "turi plaukuotas kojas",
+        "option_d": "kvėpuoja žiaunomis"
+    },
+    "86": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415348",
+        "answer": "D",
+        "instruction": "Kuris yra paveldėtas medžio bruožas?",
+        "option_a": "lūžusi šaka ant pušies",
+        "option_b": "duobė ąžuole",
+        "option_c": "randas ant klevų",
+        "option_d": "storas kamienas ant pekano medžio"
+    },
+    "87": {
+        "id": "ARC-Challenge/validation/Mercury_7014368",
+        "answer": "C",
+        "instruction": "Ilgųjų krantų srovės yra vandenynų bangos, kurios smogia paplūdimiams labai mažais kampais. Vietose, kur egzistuoja ilgųjų krantų srovės, kokį poveikį jos daro sausumos teritorijoms?",
+        "option_a": "Jos kuria kalnus.",
+        "option_b": "Jos sukelia žemės drebėjimus.",
+        "option_c": "Jos perkelia smėlį, kurdamos smėlio bankus.",
+        "option_d": "Jos kuria vidaus druskos upes."
+    },
+    "88": {
+        "id": "ARC-Challenge/validation/Mercury_7245193",
+        "answer": "C",
+        "instruction": "Kaimo teritorija buvo nuvalyta iki gryno akmens, kad būtų statomas kelias, tačiau kelias niekada nebuvo pastatytas. Teritorija pradėjo atsigauti. Kurie organizmai greičiausiai vėl pasirodė pirmieji?",
+        "option_a": "medžiai",
+        "option_b": "krūmai",
+        "option_c": "kerpės ir samanės",
+        "option_d": "piktžolės ir krabgrass"
+    },
+    "89": {
+        "id": "ARC-Challenge/validation/Mercury_7251668",
+        "answer": "D",
+        "instruction": "Dafnijos populiacija dieną migruoja vertikaliai nuo vieno metro gylio tvenkinio dugno iki tvenkinio paviršiaus naktį. Į kurį veiksnį dafnių populiacija greičiausiai reaguoja?",
+        "option_a": "vandens pH",
+        "option_b": "vandens skaidrumas",
+        "option_c": "vandens slėgis",
+        "option_d": "vandens temperatūra"
+    },
+    "90": {
+        "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+        "answer": "A",
+        "instruction": "Kai žmogaus prakaitas išgaruoja, žmogus jaučiasi vėsesnis. Kuris iš šių teiginių geriausiai apibūdina, kodėl prakaitavimas padeda žmogui jaustis vėsiu?",
+        "option_a": "Šiluma yra sugeriama prakaito, kai jis išgaruoja.",
+        "option_b": "Šiluma yra sugeriama kūno, kai prakaitas išgaruoja.",
+        "option_c": "Prakaito vandens temperatūra sumažėja, kai jis išgaruoja.",
+        "option_d": "Kūno vandens temperatūra padidėja, kai prakaitas išgaruoja."
+    },
+    "91": {
+        "id": "ARC-Challenge/validation/Mercury_7082145",
+        "answer": "D",
+        "instruction": "Kaip turėtų būti naudojamas linijinis grafikas, kad būtų pateikti atstumo ir laiko duomenys judančiam objektui?",
+        "option_a": "Y ašis turėtų būti pažymėta kaip laikas, kuris yra priklausomas kintamasis.",
+        "option_b": "Y ašis turėtų būti pažymėta kaip atstumas, kuris yra nepriklausomas kintamasis.",
+        "option_c": "X ašis turėtų būti pažymėta kaip atstumas, kuris yra priklausomas kintamasis.",
+        "option_d": "X ašis turėtų būti pažymėta kaip laikas, kuris yra nepriklausomas kintamasis."
+    },
+    "92": {
+        "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+        "answer": "D",
+        "instruction": "Mokiniai mokosi apie gamtinius išteklius Merilande. Viena mokinių grupė tiria informaciją apie atsinaujinančius gamtinius išteklius valstijoje. Kita grupė tiria informaciją apie neatsinaujinančius gamtinius išteklius valstijoje. Ištekliai, kuriuos mokiniai tiria, apima augalus, gyvūnus, dirvožemį, mineralus, vandenį, anglį ir naftą. Kuris iš šių žmogaus veiksmų neigiamai veikia gamtinį išteklių?",
+        "option_a": "žvejyba ežere",
+        "option_b": "vandens naudojimas elektros energijai gaminti",
+        "option_c": "vietinių augalų sodinimas ežero pakrantėje",
+        "option_d": "nuotėkų nukreipimas iš žemės ūkio dirbinių į ežerą"
+    },
+    "93": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+        "answer": "A",
+        "instruction": "Kai kurių gyvūnų kailis žiemą tampa storesnis, o pavasarį išsiviečia. Šie stebėjimai rodo, kaip gyvūnai",
+        "option_a": "reaguoja į aplinkos pokyčius",
+        "option_b": "judėti iš vienos vietos į kitą, kad išgyventų",
+        "option_c": "kaupia riebalus žiemai",
+        "option_d": "konkuruoja su kitais gyvūnais dėl maisto"
+    },
+    "94": {
+        "id": "ARC-Challenge/validation/Mercury_7006790",
+        "answer": "B",
+        "instruction": "Kuris iš šių geriausiai paaiškina langų drebėjimo priežastį per perkūniją?",
+        "option_a": "elektrinė energija",
+        "option_b": "garsinė energija",
+        "option_c": "šviesos energija",
+        "option_d": "šilumos energija"
+    },
+    "95": {
+        "id": "ARC-Challenge/validation/Mercury_7284043",
+        "answer": "C",
+        "instruction": "Afrikos savanoje drambliai valgo krūmus ir mažus medžius. Šis elgesys išvalo žemę ir leidžia augti žolei. Ganytojai, tokie kaip gazelės, valgo žolę. Liūtai medžioja gazeles. Kurie du organizmai šioje situacijoje yra labiausiai bendradarbiaujančioje santykyje?",
+        "option_a": "drambliai ir krūmai",
+        "option_b": "krūmai ir liūtai",
+        "option_c": "drambliai ir gazelės",
+        "option_d": "gazelės ir liūtai"
+    },
+    "96": {
+        "id": "ARC-Challenge/validation/Mercury_7175455",
+        "answer": "D",
+        "instruction": "Australijoje vidurdienio temperatūra gali pakilti virš 110°F (43°C). Norėdami išlaikyti savo kūnus vėsius, kengūros laižo savo rankas, padengdamos jas storu seilių sluoksniu. Kai seilės išgaruoja, jos veikia kaip aušinimo mechanizmas ir sumažina kengūros kūno temperatūrą. Koks terminas geriausiai apibūdina šią veiklą?",
+        "option_a": "natūrali atranka",
+        "option_b": "gynimosi mechanizmas",
+        "option_c": "struktūriniai prisitaikymai",
+        "option_d": "elgesio prisitaikymai"
+    },
+    "97": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401714",
+        "answer": "B",
+        "instruction": "Laboratoriniame eksperimente studentai tiria nepažįstamo miltelių identitetą. Kuri metodika yra tinkamiausia perkelti miltelius ant svarstyklių?",
+        "option_a": "šluoti šepetėliu ant perkeliamųjų popieriaus",
+        "option_b": "imti laboratoriniu mentele ant perkeliamųjų popieriaus",
+        "option_c": "suspausti pirštais ir pakelti ant perkeliamųjų popieriaus",
+        "option_d": "pilti iš buteliuko ant perkeliamųjų popieriaus"
+    },
+    "98": {
+        "id": "ARC-Challenge/validation/Mercury_409529",
+        "answer": "B",
+        "instruction": "Robertas yra žvejys, kuris nori rasti būdą, kaip pagauti daugiau žuvų. Jis nusprendė išbandyti skirtingų dydžių kabliukus. Robertas pagavo 4 kanalines žuvis, 3 upėtakius ir 7 ešerius, naudodamas kirminus kaip masalą. Kuri yra nepriklausoma (manipuliuojama) kintamoji Robertos tyrime?",
+        "option_a": "masalo tipas",
+        "option_b": "kabliuko dydis",
+        "option_c": "pagautų žuvų tipas",
+        "option_d": "pagautų žuvų skaičius"
+    },
+    "99": {
+        "id": "ARC-Challenge/validation/Mercury_7223038",
+        "answer": "C",
+        "instruction": "Yra daug žvaigždžių dydžių ir spalvų. Kuri iš šių geriausiai apibūdina kategoriją, kurioje būtų klasifikuojama Saulė?",
+        "option_a": "mėlynos supergigantiškos žvaigždės",
+        "option_b": "raudonos milžiniškos žvaigždės",
+        "option_c": "geltonos pagrindinės sekos žvaigždės",
+        "option_d": "baltoji nykštukė"
+    },
+    "100": {
+        "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+        "answer": "C",
+        "instruction": "Daugelis gamtinių išteklių randama Merilande ir aplinkinėje teritorijoje. Kai kurie iš šių gamtinių išteklių yra atsinaujinantys, o kai kurie - neatsinaujinantys. Žmonės abu išteklių tipus naudoja kasdienėje veikloje. Naudojant gamtinius išteklius dažnai susidaro atliekos. Perdirbimo centrai yra vietos, kur žmonės atneša medžiagas, kurios gali būti pakartotinai naudojamos naujiems produktams gaminti. Kaip popieriaus perdirbimas teigiamai veikia aplinką?",
+        "option_a": "sumažina oro taršą",
+        "option_b": "padidina dirvožemio eroziją",
+        "option_c": "sumažina kertamų medžių skaičių",
+        "option_d": "padidina buveinių naikinimą"
+    },
+    "101": {
+        "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+        "answer": "A",
+        "instruction": "Rytinė gluosnio gėlė yra žydinčių vijoklių rūšis, kuri lipa ant medžių ir tvorų. Kuris iš šių elgesių labiausiai padeda rytinei gluosnio gėlei lipti ant tvoros?",
+        "option_a": "stiebai sukasi reaguodami į prisilietimą",
+        "option_b": "stiebai išsipučia reaguodami į vandenį",
+        "option_c": "gėlės atsiveria reaguodamos į šviesą",
+        "option_d": "šaknys auga reaguodamos į gravitaciją"
+    },
+    "102": {
+        "id": "ARC-Challenge/validation/Mercury_7139493",
+        "answer": "B",
+        "instruction": "Kas labiausiai tikėtina yra atsakingas už chinč bugų gebėjimą išgyventi pakartotinį poveikį insekticidams?",
+        "option_a": "rūšių įvairovė",
+        "option_b": "genetinė įvairovė",
+        "option_c": "ekosistemų įvairovė",
+        "option_d": "populiacijos įvairovė"
+    },
+    "103": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+        "answer": "A",
+        "instruction": "Saulės kolektoriai naudojami saulės šviesai sugerti. Kuri spalva kolektoriaus sugertų daugiausiai saulės šviesos?",
+        "option_a": "juoda",
+        "option_b": "žalia",
+        "option_c": "balta",
+        "option_d": "geltona"
+    },
+    "104": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+        "answer": "A",
+        "instruction": "Kuri iš šių genetinių būklių atsiranda dėl segregacijos problemos?",
+        "option_a": "Trisomija 16: būklė, kai zigota gauna tris chromosomos 16 kopijas",
+        "option_b": "Huntingtono liga: būklė, kai zigota gauna mutavusį dominuojantį alelį",
+        "option_c": "Hemofilija: būklė, kai zigota gauna X chromosomą su tam tikru recesyviniu aleliu",
+        "option_d": "Sergamumas drepanocitine anemija: būklė, kai zigota gauna recesyvinius alelius hemoglobinui iš kiekvieno tėvo"
+    },
+    "105": {
+        "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+        "answer": "B",
+        "instruction": "Mokinis ant viryklės aukščiausiu nustatymu kaitina dvi puodus vandens. Viename puode yra 1 L vandens, o kitame puode yra 3 L vandens. Mokinis kaitina kiekvieną puodą, kol vanduo užverda. Kuris iš šių teiginių geriausiai apibūdina, kas vyksta su vandeniu puoduose?",
+        "option_a": "Vanduo abiejuose puoduose užverda tuo pačiu metu.",
+        "option_b": "Vanduo abiejuose puoduose užverda tuo pačiu temperatūroje.",
+        "option_c": "3 L vanduo įkaista labiau nei 1 L vanduo prieš užverdant.",
+        "option_d": "3 L vanduo sugeria šilumą greičiau nei 1 L vanduo."
+    },
+    "106": {
+        "id": "ARC-Challenge/validation/Mercury_7115063",
+        "answer": "A",
+        "instruction": "Kuris iš šių veiksnių labiausiai tikėtina, kad sutrikdys pelkės ekosistemą?",
+        "option_a": "gyvenamųjų namų statyba",
+        "option_b": "vietinių laukinių gėlių sodinimas",
+        "option_c": "intensyvių liūčių laikotarpis",
+        "option_d": "žaibo smūgis"
+    },
+    "107": {
+        "id": "ARC-Challenge/validation/Mercury_7144795",
+        "answer": "D",
+        "instruction": "Tam tikra buveinė per pastaruosius 75 metus patyrė daug aplinkos sąlygų pokyčių. Koks yra labiausiai tikėtinas bruožas rūšiai, turinčiai geriausias galimybes išgyventi šiuos aplinkos pokyčius?",
+        "option_a": "populiacija su daug individų",
+        "option_b": "didelė rūšių įvairovė dabartinėje bendruomenėje",
+        "option_c": "prisitaikymas, leidžiantis individams gyventi įvairiomis sąlygomis",
+        "option_d": "elgesys, skatinantis prisitaikymo vystymąsi naujose aplinkose"
+    },
+    "108": {
+        "id": "ARC-Challenge/validation/Mercury_400934",
+        "answer": "C",
+        "instruction": "Pagal elementų periodinę lentelę, kuri elementų grupė turi panašias savybes?",
+        "option_a": "H, C, I",
+        "option_b": "He, H, Al",
+        "option_c": "He, Ne, Ar",
+        "option_d": "Na, Ca, Al"
+    },
+    "109": {
+        "id": "ARC-Challenge/validation/Mercury_7004410",
+        "answer": "B",
+        "instruction": "Vienas maisto tinklų trūkumas, atspindint ekosistemą, yra tas, kad jie",
+        "option_a": "neįtraukia gamintojų į ekosistemą.",
+        "option_b": "neįtraukia visų rūšių į ekosistemą.",
+        "option_c": "neparodo vartotojų ekosistemoje.",
+        "option_d": "neparodo plėšrūnų ir grobio santykių ekosistemoje."
+    },
+    "110": {
+        "id": "ARC-Challenge/validation/Mercury_7029505",
+        "answer": "C",
+        "instruction": "Kaip kraujo tipai skiriasi vienas nuo kito ABO kraujo klasifikacijoje?",
+        "option_a": "skirtingi raudonųjų kraujo kūnelių dydžiai",
+        "option_b": "skirtingi baltųjų kraujo kūnelių dydžiai",
+        "option_c": "skirtingi žymeklių baltymai raudonuosiuose kraujo kūneliuose",
+        "option_d": "skirtingi žymeklių baltymai baltuosiuose kraujo kūneliuose"
+    },
+    "111": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+        "answer": "A",
+        "instruction": "Ledų kubelis tirpsta ir tada garuoja. Ledų kubelis ir vandens garai turi tą patį",
+        "option_a": "masę.",
+        "option_b": "tankį.",
+        "option_c": "tūrį.",
+        "option_d": "temperatūrą."
+    },
+    "112": {
+        "id": "ARC-Challenge/validation/Mercury_7245893",
+        "answer": "B",
+        "instruction": "Kuri virškinimo sistemos dalis pirmiausia sukelia cheminius pokyčius maistui?",
+        "option_a": "dantys burnoje",
+        "option_b": "seilės burnoje",
+        "option_c": "enzimai skrandyje",
+        "option_d": "enzimai plonojoje žarnoje"
+    },
+    "113": {
+        "id": "ARC-Challenge/validation/Mercury_7246925",
+        "answer": "D",
+        "instruction": "Leucinas yra viena iš amino rūgščių, kurių jūsų organizmui reikia, bet jis negali jų pasigaminti. Kas iš šių įvyksta, kad žmogaus organizmas galėtų gauti leucino?",
+        "option_a": "Organizmas paverčia kitas amino rūgštis į leuciną.",
+        "option_b": "Organizmas kaupia angliavandenius, turinčius leucino.",
+        "option_c": "Organizmas skaidydamas riebalų rūgštis gauna leucino.",
+        "option_d": "Organizmas virškina baltymus maiste, kad gautų leucino."
+    },
+    "114": {
+        "id": "ARC-Challenge/validation/Mercury_7138688",
+        "answer": "D",
+        "instruction": "Kuri procedūra geriausiai padeda nustatyti, ar tyrimas yra moksliniu požiūriu galiojantis?",
+        "option_a": "rašyti pastabas apie naudojamos įrangos būklę procedūros metu",
+        "option_b": "vykdyti tyrimą su grupe žmonių",
+        "option_c": "vykdyti procedūrą kruopščiai vieną kartą",
+        "option_d": "kartoti tyrimą kelis kartus"
+    },
+    "115": {
+        "id": "ARC-Challenge/validation/Mercury_SC_408700",
+        "answer": "C",
+        "instruction": "Emilija pasidarė puodelį arbatos ir maišė jį šaukštu. Šaukštas tapo šiltas. Kaip šiluma iš arbatos buvo perduota šaukštui?",
+        "option_a": "konvekcija",
+        "option_b": "radiacija",
+        "option_c": "kondukcija",
+        "option_d": "garavimas"
+    },
+    "116": {
+        "id": "ARC-Challenge/validation/Mercury_7100608",
+        "answer": "B",
+        "instruction": "Michaelio šeima stato naują namą. Jie norėtų naudoti elektrą, pagamintą iš atsinaujinančių išteklių. Kuris iš šių energijos šaltinių padėtų šeimai pasiekti savo tikslą?",
+        "option_a": "benzininis variklis",
+        "option_b": "saulės stogo plokštės",
+        "option_c": "anglies elektrinė",
+        "option_d": "branduolinė elektrinė"
+    },
+    "117": {
+        "id": "ARC-Challenge/validation/Mercury_7133648",
+        "answer": "C",
+        "instruction": "Kuri užduotis virtuvėje yra fizinio pokyčio pavyzdys?",
+        "option_a": "kepimas kiaušinio",
+        "option_b": "kepimas pyrago",
+        "option_c": "sviesto lydymas",
+        "option_d": "duonos skrudinimas"
+    },
+    "118": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401244",
+        "answer": "D",
+        "instruction": "Kuris uolienų tipas yra naudingiausias tiriant gyvų organizmų istoriją?",
+        "option_a": "bazaltas",
+        "option_b": "marmuras",
+        "option_c": "granitas",
+        "option_d": "kalkakmenis"
+    },
+    "119": {
+        "id": "ARC-Challenge/validation/Mercury_400397",
+        "answer": "C",
+        "instruction": "Kuris iš šių elgesių lokys greičiausiai išmoko gyvendamas savo aplinkoje?",
+        "option_a": "gerti vandenį",
+        "option_b": "valgyti žuvį",
+        "option_c": "atidaryti šiukšlių dėžių dangčius",
+        "option_d": "apsaugoti savo jauniklius"
+    },
+    "120": {
+        "id": "ARC-Challenge/validation/Mercury_7245088",
+        "answer": "D",
+        "instruction": "Kuris apibūdina angliavandenių sudėtį?",
+        "option_a": "lipidai, jungiantys formuoti fosfolipidus",
+        "option_b": "monomerai, jungiantys formuoti polimerus",
+        "option_c": "aminorūgštys, jungiantys formuoti polipeptidus",
+        "option_d": "sacharidai, jungiantys formuoti polisacharidus"
+    },
+    "121": {
+        "id": "ARC-Challenge/validation/Mercury_408809",
+        "answer": "C",
+        "instruction": "Pelėms tam tikra rūšis rodo neišsamią dominuojančią spalvų dominavimą. Juodo (BB) pelių ir baltos (bb) pelių palikuonys yra pilki (Bb) peliukai. Kryžminant dvi pilkas peles, labiausiai tikėtina, kad palikuonys turės kokį procentą kailio spalvų?",
+        "option_a": "25% juodos, 75% pilkos",
+        "option_b": "25% pilkos, 75% baltos",
+        "option_c": "25% baltos, 25% juodos, 50% pilkos",
+        "option_d": "25% pilkos, 25% juodos, 50% baltos"
+    },
+    "122": {
+        "id": "ARC-Challenge/validation/Mercury_7068863",
+        "answer": "C",
+        "instruction": "Mokinis tyrinėjo geležies poveikį augalų augimui. Keturi identiški augalai gavo skirtingą geležies papildų kiekį laistant. Šis tyrimas galėjo būti patobulintas, jei būtų",
+        "option_a": "žemės kirminų dirvožemyje.",
+        "option_b": "mažiau augalų eksperimente.",
+        "option_c": "augalų, kurie gavo vandenį be geležies papildų.",
+        "option_d": "augalų, kurie gavo skirtingus saulės šviesos kiekius."
+    },
+    "123": {
+        "id": "ARC-Challenge/validation/Mercury_7166880",
+        "answer": "D",
+        "instruction": "Klay stebi orą, kad pasiruoštų kelionei į paplūdimį rytoj. Prognozė numato, kad naktį įsiskverbs žemo slėgio sistema. Kokio tipo orą Klay greičiausiai gali tikėtis ryte?",
+        "option_a": "rūkas",
+        "option_b": "saulėta",
+        "option_c": "aišku ir vėsu",
+        "option_d": "debesuota ir lietinga"
+    },
+    "124": {
+        "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+        "answer": "A",
+        "instruction": "Kuri taisyklė nėra saugos taisyklė mokslo laboratorijoje?",
+        "option_a": "Tiksliai išmatuokite skysčius į stiklinę.",
+        "option_b": "Niekada nekirpkite daiktų laikydami juos rankose.",
+        "option_c": "Dėvėkite apsauginius akinius dirbdami su pavojingomis medžiagomis.",
+        "option_d": "Užfiksuodami kvapus, pūskite garus link nosies, o ne laikykite veidą virš šaltinio."
+    },
+    "125": {
+        "id": "ARC-Challenge/validation/Mercury_7018445",
+        "answer": "D",
+        "instruction": "Per kurį medžiagą garsas keliaus greičiausiai?",
+        "option_a": "kamštis",
+        "option_b": "vanduo",
+        "option_c": "oras",
+        "option_d": "plienas"
+    },
+    "126": {
+        "id": "ARC-Challenge/validation/Mercury_7033653",
+        "answer": "C",
+        "instruction": "Kuri yra geriausia vienetų matuoti atstumus tarp Žemės ir kitų saulės sistemų visatoje?",
+        "option_a": "mylios",
+        "option_b": "kilometrai",
+        "option_c": "šviesmečiai",
+        "option_d": "astronominiai vienetai"
+    },
+    "127": {
+        "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+        "answer": "D",
+        "instruction": "Keturi vienodo storio, bet pagaminti iš skirtingų metalų strypai buvo išbandyti su vienodais svoriais, kad būtų nustatyta, kuris iš jų yra labiausiai lankstus. Koks iš šių variantų yra geriausias būdas pateikti šio eksperimento rezultatus?",
+        "option_a": "kiekvieno tipo strypų, kurie buvo naudojami, sąrašas",
+        "option_b": "kiekvieno strypo eskizas prieš bandymą",
+        "option_c": "lentelė, rodanti, kiek kiekvienas strypas sveria",
+        "option_d": "stulpelinė diagrama, rodanti, kiek kiekvienas strypas lenkėsi"
+    },
+    "128": {
+        "id": "ARC-Challenge/validation/Mercury_7159268",
+        "answer": "A",
+        "instruction": "Po paskutinio ledynmečio, poliarinių ir kalnų ledynų tirpimas sukėlė vandenynų lygio kilimą. Kas greičiausiai buvo rezultatas kylant vandenynų vandens lygiui?",
+        "option_a": "padidėjimas druskos kiekyje esamuose pakrantės pelkėse",
+        "option_b": "padidėjimas organizmų skaičiaus esamuose rifuose",
+        "option_c": "sumažėjimas potvynių skaičiaus kiekvieną dieną",
+        "option_d": "sumažėjimas vandenyno dugno gylio"
+    },
+    "129": {
+        "id": "ARC-Challenge/validation/Mercury_400885",
+        "answer": "D",
+        "instruction": "Kuri lygtis yra subalansuota cheminė lygtis?",
+        "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+        "option_b": "NO + Cl_{2} -> NOCl",
+        "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+        "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+    },
+    "130": {
+        "id": "ARC-Challenge/validation/Mercury_7038273",
+        "answer": "A",
+        "instruction": "Atlikdamas eksperimentą, studentas surenka kelis skirtingus vandens temperatūros, du masės matavimus ir tris tūrio matavimus. Koks iš šių būtų geriausias būdas organizuoti duomenis?",
+        "option_a": "lentelėje",
+        "option_b": "grafike",
+        "option_c": "rašytinėje naratyvoje",
+        "option_d": "iliustruota nuotraukomis"
+    },
+    "131": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407574",
+        "answer": "A",
+        "instruction": "Kuris dujos išskiria gamintojai, kurias vartotojai įkvepia, kad išgyventų?",
+        "option_a": "deguonis",
+        "option_b": "azotas",
+        "option_c": "vandens garai",
+        "option_d": "anglies dioksidas"
+    },
+    "132": {
+        "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+        "answer": "B",
+        "instruction": "Kur būtų LABIAUSIAI pavojinga dirbti su elektriniais įrankiais?",
+        "option_a": "garaže",
+        "option_b": "šalia baseino",
+        "option_c": "šalia televizoriaus ar kompiuterio",
+        "option_d": "šaltame rūsyje"
+    },
+    "133": {
+        "id": "ARC-Challenge/validation/Mercury_7128695",
+        "answer": "C",
+        "instruction": "Mokslininkas padaro atradimą atlikdamas tyrimą, tačiau nesugeba išlaikyti aiškių atliktų testų įrašų. Kaip įrašų trūkumas veikia mokslininko darbą?",
+        "option_a": "Tai panaikina procedūras ir išvadas.",
+        "option_b": "Tai daro gautus duomenis tyrime neteisingus.",
+        "option_c": "Tai neleidžia kitiems mokslininkams patvirtinti rezultatų.",
+        "option_d": "Tai draudžia kitiems mokslininkams kurti naujas hipotezes."
+    },
+    "134": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400178",
+        "answer": "C",
+        "instruction": "Kuri mišinys gali būti atskirtas į jo ingredientus?",
+        "option_a": "bulvių traškučiai",
+        "option_b": "šokoladinis tortas",
+        "option_c": "vaisių salotos",
+        "option_d": "kiaušiniai maišytiniai"
+    },
+    "135": {
+        "id": "ARC-Challenge/validation/Mercury_7189823",
+        "answer": "A",
+        "instruction": "Ugnikalnis išsiveržia ir uždengia aplinkinius plotus lava ir vulkaninėmis pelenais. Kai ekosistema pradeda atsigauti, kuris augalų tipas greičiausiai bus pirmas kolonizuoti žemę aplink išsiveržimą?",
+        "option_a": "samanos",
+        "option_b": "laukiniai gėlės",
+        "option_c": "kietmedžio medžiai",
+        "option_d": "amžinai žaliuojantys krūmai"
+    },
+    "136": {
+        "id": "ARC-Challenge/validation/Mercury_412683",
+        "answer": "D",
+        "instruction": "Kokia yra 2 Hz bangos, kurios ilgis yra 10 m, greitis?",
+        "option_a": "5 m/s",
+        "option_b": "8 m/s",
+        "option_c": "12 m/s",
+        "option_d": "20 m/s"
+    },
+    "137": {
+        "id": "ARC-Challenge/validation/Mercury_184258",
+        "answer": "A",
+        "instruction": "Kuris iš šių srauto charakteristikų labiausiai tiesiogiai veikia srauto nuosėdas?",
+        "option_a": "nuolydis",
+        "option_b": "aukštis",
+        "option_c": "pagrindo lygis",
+        "option_d": "vandens kokybė"
+    },
+    "138": {
+        "id": "ARC-Challenge/validation/Mercury_192168",
+        "answer": "D",
+        "instruction": "Moksliniai modeliai yra labai paplitę. Kuriai iš žemiau pateiktų paskirčių fizinis modelis būtų mažiausiai naudingas?",
+        "option_a": "mokslo reiškinių simuliavimui",
+        "option_b": "sudėtingos idėjos supaprastinimui",
+        "option_c": "vizualizacijos leidimui",
+        "option_d": "duomenų rodymui"
+    },
+    "139": {
+        "id": "ARC-Challenge/validation/Mercury_LBS10399",
+        "answer": "D",
+        "instruction": "Mikroskopas padidina objektą 50 kartų. Kiek ilgas yra objektas, jei vaizdas atrodo 0,5 cm ilgio?",
+        "option_a": "100 cm",
+        "option_b": "25 cm",
+        "option_c": "2.5 cm",
+        "option_d": "0.01 cm"
+    },
+    "140": {
+        "id": "ARC-Challenge/validation/Mercury_7228603",
+        "answer": "C",
+        "instruction": "Kuris iš šių yra homologinių chromosomų dalių mainų rezultatas mejozės proceso metu?",
+        "option_a": "atsitiktiniai mutacijos",
+        "option_b": "sumažėjęs gemalo skaičius",
+        "option_c": "palikuonys su unikaliomis savybių kombinacijomis",
+        "option_d": "sumažėjęs alelių skaičius kiekvienoje chromosomoje"
+    },
+    "141": {
+        "id": "ARC-Challenge/validation/MEA_2013_5_3",
+        "answer": "D",
+        "instruction": "Saulė klasifikuojama kaip žvaigždė. Koks bruožas identifikuoja Saulę kaip žvaigždę?",
+        "option_a": "Saulė sukasi aplink savo ašį.",
+        "option_b": "Saulė yra už Paukščių Tako galaktikos ribų.",
+        "option_c": "Saulė yra Didžiojo Vežimo dalis.",
+        "option_d": "Saulė gamina šviesą ir energiją branduolinėje reakcijoje."
+    },
+    "142": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+        "answer": "C",
+        "instruction": "Žiemą arktinio lapės kailis yra baltas. Vasarą kailis patamsėja iki raudonai rudos spalvos. Kas greičiausiai sukelia lapės kailio spalvos pasikeitimą?",
+        "option_a": "saulės šviesos kiekis",
+        "option_b": "lapės buveinė",
+        "option_c": "lapės genai",
+        "option_d": "lapės amžius"
+    },
+    "143": {
+        "id": "ARC-Challenge/validation/Mercury_7221095",
+        "answer": "A",
+        "instruction": "Kurie iš šių yra abiotinis elementas ekosistemoje?",
+        "option_a": "vidutinės metinės kritulių kiekis ekosistemoje",
+        "option_b": "ekosistemoje randamų gamintojų tipai",
+        "option_c": "predatorių populiacijos dydis ekosistemoje",
+        "option_d": "mikroorganizmai, gyvenantys ekosistemos dirvožemyje"
+    },
+    "144": {
+        "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+        "answer": "C",
+        "instruction": "Vandens garai egzistuoja atmosferoje kaip ___.",
+        "option_a": "matoma dujos",
+        "option_b": "matoma skystis",
+        "option_c": "nematoma dujos",
+        "option_d": "nematoma skystis"
+    },
+    "145": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406939",
+        "answer": "C",
+        "instruction": "Koks yra būdas, kaip popieriaus lapas gali pereiti per cheminę reakciją?",
+        "option_a": "perlenkti popierių per pusę",
+        "option_b": "pamirkiti popierių vandenyje",
+        "option_c": "sudeginti popierių ugnimi",
+        "option_d": "nukirpti popierių žirklėmis"
+    },
+    "146": {
+        "id": "ARC-Challenge/validation/Mercury_7219415",
+        "answer": "C",
+        "instruction": "Kuris pavyzdys yra selektyviai pralaidžios ląstelės membranos funkcija?",
+        "option_a": "palaikyti ląstelės formą",
+        "option_b": "gaminti baltymus ląstelei",
+        "option_c": "riboti cheminių medžiagų difuziją iš ląstelės",
+        "option_d": "kaupiant atliekas ląstelei"
+    },
+    "147": {
+        "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+        "answer": "B",
+        "instruction": "Kokio tipo tiltas naudoja kabelius kaip atramą?",
+        "option_a": "trikampis tiltas",
+        "option_b": "pakabinamasis tiltas",
+        "option_c": "sijos tiltas",
+        "option_d": "išsikišęs tiltas"
+    },
+    "148": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+        "answer": "D",
+        "instruction": "Šernai beveik išnyko dėl medžioklės, sausros ir ligų. Dabar šernų populiacijose yra labai mažai genetinės įvairovės. Koks iš šių teiginių yra ribotos genetinės įvairovės dabartinėse šernų populiacijose, palyginti su ankstesnėmis šernų populiacijomis, turinčiomis daugiau įvairovės, rezultatas?",
+        "option_a": "Dabartinėse populiacijose šernai yra labiau atsparūs naujoms ligoms.",
+        "option_b": "Jaunų šernų išgyvenamumo rodiklis dabartinėse populiacijose padidėjo.",
+        "option_c": "Dabartinėse populiacijose šernai mažiau sugeba kryžmintis su kitomis rūšimis.",
+        "option_d": "Dabartinės šernų populiacijos mažiau tikėtina, kad sugebės prisitaikyti prie aplinkos pokyčių."
+    },
+    "149": {
+        "id": "ARC-Challenge/validation/Mercury_7135310",
+        "answer": "C",
+        "instruction": "Kodėl mašinos išėjimo energija visada yra mažesnė už įėjimo energiją?",
+        "option_a": "Kai mašina veikia, dalis energijos sunaikinama.",
+        "option_b": "Mašina turi įveikti nuolatinę magnetizmo jėgą.",
+        "option_c": "Naudinga energija mažėja, kai energija perduodama aplinkai.",
+        "option_d": "Kai energija konvertuojama, dalis energijos išsiskiria kaip šiluma."
+    },
+    "150": {
+        "id": "ARC-Challenge/validation/Mercury_414131",
+        "answer": "C",
+        "instruction": "Kuris apibūdina visų elementų savybę?",
+        "option_a": "Visi elementai yra metalai.",
+        "option_b": "Visi elementai turi šešis elektronus.",
+        "option_c": "Visi elementai yra gryni junginiai.",
+        "option_d": "Visi elementai egzistuoja kietojoje fazėje."
+    },
+    "151": {
+        "id": "ARC-Challenge/validation/Mercury_7112753",
+        "answer": "B",
+        "instruction": "Norint rasti vabalų populiaciją, mokslininkai turi naudoti labai specializuotą įrangą. Koks veiksnys labiausiai apribotų galimybę rasti vabalus?",
+        "option_a": "klimatas",
+        "option_b": "išlaidos",
+        "option_c": "pavyzdžio dydis",
+        "option_d": "politika"
+    },
+    "152": {
+        "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+        "answer": "D",
+        "instruction": "Mokiniai aplankė Morris W. Offit teleskopą, esantį Merilando kosmoso stipendijų observatorijoje Baltimorėje. Jie sužinojo apie žvaigždes, planetas ir mėnulį. Mokiniai užfiksavo žemiau pateiktą informaciją. • Žvaigždžių raštai išlieka tokie patys, tačiau jų vietos danguje atrodo, kad keičiasi. • Saulė, planetos ir mėnulis atrodo, kad juda danguje. • Proxima Centauri yra artimiausia žvaigždė mūsų saulės sistemai. • Polaris yra žvaigždė, kuri yra dalis žvaigždžių rašto, vadinamo Mažuoju Dipperiu. Kuri teiginys geriausiai paaiškina, kodėl saulė atrodo, kad juda per dangų kiekvieną dieną?",
+        "option_a": "Saulė sukasi aplink Žemę.",
+        "option_b": "Žemė sukasi aplink saulę.",
+        "option_c": "Saulė sukasi apie savo ašį.",
+        "option_d": "Žemė sukasi apie savo ašį."
+    },
+    "153": {
+        "id": "ARC-Challenge/validation/Mercury_7236023",
+        "answer": "B",
+        "instruction": "Oro masė yra 1000 metrų aukštyje žemo slėgio centre Šiaurės pusrutulio audros. Kuri iš šių galimybių geriausiai apibūdina oro dalelių judėjimą šioje oro masėje dėl audros sąlygų ir Žemės sukimosi, kai oro masė juda į išorę?",
+        "option_a": "Oro dalelės juda aukštyn ir į kairę.",
+        "option_b": "Oro dalelės juda aukštyn ir į dešinę.",
+        "option_c": "Oro dalelės juda žemyn ir į kairę.",
+        "option_d": "Oro dalelės juda žemyn ir į dešinę."
+    },
+    "154": {
+        "id": "ARC-Challenge/validation/Mercury_7270008",
+        "answer": "C",
+        "instruction": "Paviršinis anglies gavyba apima visos augmenijos ir akmenų, esančių virš anglies, pašalinimą. Kurie du Žemės subsistemai yra labiausiai paveikti paviršinės gavybos?",
+        "option_a": "litosfera ir atmosfera",
+        "option_b": "biosfera ir hidrosfera",
+        "option_c": "litosfera ir biosfera",
+        "option_d": "atmosfera ir hidrosfera"
+    },
+    "155": {
+        "id": "ARC-Challenge/validation/Mercury_7099768",
+        "answer": "D",
+        "instruction": "Kai boulingo kamuolys yra paleidžiamas iš boulerio rankos, energija kamuolyje yra iš dalies",
+        "option_a": "saugoma kamuolyje, kol jis nesusiduria su kėlikais.",
+        "option_b": "padidinta, kai trintis taikoma kamuoliui.",
+        "option_c": "paverčiama iš kinetinės energijos į gravitacinę potencialią energiją.",
+        "option_d": "paverčiama į šilumą ir garsą, kai jis susiduria su grindimis."
+    },
+    "156": {
+        "id": "ARC-Challenge/validation/Mercury_7269238",
+        "answer": "D",
+        "instruction": "Dyzeliniai varikliai gali deginti daugybę kuro rūšių. Koks kuras būtų labiausiai atsinaujinantis kuras dyzeliniam varikliui?",
+        "option_a": "įprastas dyzelinis kuras",
+        "option_b": "distiliuotas kerosinas",
+        "option_c": "įprastai gaminamas augalinis aliejus",
+        "option_d": "organiniu būdu gaminamas augalinis aliejus"
+    },
+    "157": {
+        "id": "ARC-Challenge/validation/Mercury_7187915",
+        "answer": "A",
+        "instruction": "Amanda ir Jake sužinojo apie kinetinę ir potencialią energijos formas paprastame elektros rate. Ratas, kurį jie studijuoja, turi bateriją, laidus ir lemputę. Kuri yra potencialios energijos forma rate?",
+        "option_a": "cheminė energija baterijoje",
+        "option_b": "šviesos energija iš lemputės",
+        "option_c": "šilumos energija, prarasta iš elektros laidų",
+        "option_d": "elektrinė energija, judanti per lemputę"
+    },
+    "158": {
+        "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+        "answer": "D",
+        "instruction": "Kuri veika rodo cheminį pokytį?",
+        "option_a": "Ilgi plaukai yra kirpami ir džiovinami.",
+        "option_b": "Medinis pieštukas yra smailinamas ir lūžta.",
+        "option_c": "Ledo kubelis tirpsta ir virsta skaidriu skysčiu.",
+        "option_d": "Geležinis nagas tampa oranžinis ir trupantis paviršiuje."
+    },
+    "159": {
+        "id": "ARC-Challenge/validation/Mercury_7159775",
+        "answer": "A",
+        "instruction": "Janette atlieka tyrimą, kad sužinotų, kurie maisto produktai ją labiau vargina. Ji valgo vieną iš keturių skirtingų maisto produktų kiekvieną dieną tuo pačiu metu keturias dienas ir tada užrašo, kaip jaučiasi. Ji paprašo savo draugės Carmen atlikti tą patį tyrimą, kad sužinotų, ar ji gautų panašius rezultatus. Kas padarytų tyrimą sunkiausiai pakartojamą?",
+        "option_a": "nuovargio kiekio matavimas",
+        "option_b": "užtikrinti, kad būtų valgomi tie patys maisto produktai",
+        "option_c": "pastebėjimų fiksavimas toje pačioje lentelėje",
+        "option_d": "užtikrinti, kad maisto produktai būtų toje pačioje temperatūroje"
+    },
+    "160": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402239",
+        "answer": "C",
+        "instruction": "Koks yra geriausias būdas taupyti gamtos išteklius namuose?",
+        "option_a": "Išmeskite visą stiklą į šiukšliadėžę.",
+        "option_b": "Naudokite popierinius rankšluosčius išvalyti išsiliejimus.",
+        "option_c": "Sutrumpinkite laiką, praleidžiamą po dušu.",
+        "option_d": "Laistykite veją kiekvieną dieną."
+    },
+    "161": {
+        "id": "ARC-Challenge/validation/Mercury_184013",
+        "answer": "C",
+        "instruction": "Kuris iš šių būtų mažiausiai žalingas žemei?",
+        "option_a": "7.2 balo žemės drebėjimas",
+        "option_b": "tropinė audra",
+        "option_c": "elektrinė audra",
+        "option_d": "uolienų išsiveržimas"
+    },
+    "162": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+        "answer": "D",
+        "instruction": "Kuris geriausiai paaiškina, kodėl bendras produktų masė būtų mažesnė nei bendras reagentų svoris po cheminės reakcijos?",
+        "option_a": "Įvyko fizinis pokytis.",
+        "option_b": "Reakcijoje dalyvavę atomai prarado masę.",
+        "option_c": "Naujoje tirpale buvo sukurti nuosėdos.",
+        "option_d": "Dujų buvo išleista į atmosferą."
+    },
+    "163": {
+        "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+        "answer": "D",
+        "instruction": "Grupė nori sužinoti, ar vandens paukščių, skrendančių per Arkanzasą, skaičius keičiasi kiekvienais metais. Kokią metodiką jie turėtų naudoti, kad surinktų šią informaciją?",
+        "option_a": "Sugauti kiek įmanoma daugiau paukščių vienais metais. Surinkti duomenis apie kiekvieno paukščio buvimo vietą.",
+        "option_b": "Kitų metų pavasario pirmąją dieną suskaičiuoti paukščių skaičių didžiausiame valstijos ežere. Palyginti duomenis su praėjusiais metais.",
+        "option_c": "Pastatyti stebėtoją valstijos sienos vietoje. Leisti tam žmogui skaičiuoti paukščius, kai jie skrenda į valstiją. Tai daryti dvejose metų.",
+        "option_d": "Pasirinkti vieną dieną per metus migracijos metu. Suskaičiuoti paukščių skaičių dešimtyje skirtingų ežerų visoje valstijoje. Tai daryti tą pačią dieną kiekvienais metais dešimt metų."
+    },
+    "164": {
+        "id": "ARC-Challenge/validation/Mercury_7183015",
+        "answer": "A",
+        "instruction": "Naujausias straipsnis mokslo žurnale paaiškina konvekcinių srovių ir plokščių tektonikos santykį. Kai skystis mantijoje cirkuliuoja, jis sukelia žemės plokščių judėjimą. Kas labiausiai tikėtina sukelia skysčių cirkuliaciją Žemėje?",
+        "option_a": "energijos perdavimai",
+        "option_b": "globalinis atšilimas",
+        "option_c": "potvynio svyravimai",
+        "option_d": "vandenynų srovės"
+    },
+    "165": {
+        "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+        "answer": "D",
+        "instruction": "Kurie iš šių yra aseksualinio reprodukcijos pavyzdys?",
+        "option_a": "Žuvys deda apvaisintas kiaušinius smėlio duobėje.",
+        "option_b": "Sėklos formuojasi pušų kankorėžiuose, kai žiedadulkės pasiekia kankorėžius.",
+        "option_c": "Žuvys išleidžia kiaušialąstes ir spermatozoidus vandens paviršiuje.",
+        "option_d": "Medžiai siunčia šaknis primenančius išsiplėtimus, kurie gamina naujas stiebas."
+    },
+    "166": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401286",
+        "answer": "B",
+        "instruction": "Daugelis nykstančių gyvūnų yra gaudomi, žymimi ir vėl paleidžiami į jų aplinką. Žyma gali būti koduota plastiko arba metalo dalis, kuri yra saugiai pritvirtinta prie kūno. Kokia yra labiausiai tikėtina priežastis žymėti gyvūną?",
+        "option_a": "stebėti jų valgymo įpročius",
+        "option_b": "stebėti jų klajojimo įpročius",
+        "option_c": "stebėti jų miego įpročius",
+        "option_d": "stebėti jų reprodukcijos įpročius"
+    },
+    "167": {
+        "id": "ARC-Challenge/validation/Mercury_7207358",
+        "answer": "C",
+        "instruction": "Moderni atomo teorija geriausiai apibūdinama kaip šių veiklų rezultatas?",
+        "option_a": "John Dalton eksperimentai ankstyvaisiais 1800-aisiais",
+        "option_b": "dviejų svarbių mokslininkų diskusijos",
+        "option_c": "daugelio mokslininkų tyrimai per daugelį metų",
+        "option_d": "Demokrito idėjos apie atomus prieš daugiau nei 2000 metų"
+    },
+    "168": {
+        "id": "ARC-Challenge/validation/Mercury_7015435",
+        "answer": "A",
+        "instruction": "Kokie yra stiprios rūgšties ir stiprios šarmų reakcijos produktai?",
+        "option_a": "druska ir vanduo",
+        "option_b": "du skirtingi elementai",
+        "option_c": "silpna rūgštis ir silpnas šarmas",
+        "option_d": "vandenilio jonai ir hidroksido jonai"
+    },
+    "169": {
+        "id": "ARC-Challenge/validation/Mercury_7044678",
+        "answer": "A",
+        "instruction": "Kuri teiginys geriausiai paaiškina, kas nutinka lapui, kai jis praranda labai reikalingą vandenį?",
+        "option_a": "Jo turgoro slėgis sumažėja.",
+        "option_b": "Jo atmosferos slėgis sumažėja.",
+        "option_c": "Jo transpiracijos greitis padidėja.",
+        "option_d": "Jo fotosintezės greitis padidėja."
+    },
+    "170": {
+        "id": "ARC-Challenge/validation/Mercury_400905",
+        "answer": "D",
+        "instruction": "Saulė yra maždaug 1,5 x 10^8 km atstumu nuo Žemės. Šviesos greitis yra 3,0 x 10^8 m/sec. Koks yra atstumas nuo Saulės iki Žemės šviesos sekundėmis?",
+        "option_a": "2.0 šviesos sekundės",
+        "option_b": "0.5 šviesos sekundės",
+        "option_c": "2.0 x 10^-3 šviesos sekundės",
+        "option_d": "5.0 x 10^2 šviesos sekundės"
+    },
+    "171": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+        "answer": "D",
+        "instruction": "Ką fotosintezė gamina, kas padeda augalams augti?",
+        "option_a": "vanduo",
+        "option_b": "deguonis",
+        "option_c": "baltymai",
+        "option_d": "cukrus"
+    },
+    "172": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+        "answer": "D",
+        "instruction": "Automobilių avarijoje saugos diržas padeda išvengti sužeidimų taikydamas jėgą",
+        "option_a": "mažesnę nei judančio keleivio jėga",
+        "option_b": "didesnę nei judančio automobilio jėga",
+        "option_c": "ta pačia kryptimi kaip automobilio judėjimas",
+        "option_d": "priešinga kryptimi nei keleivio judėjimas"
+    },
+    "173": {
+        "id": "ARC-Challenge/validation/Mercury_7141908",
+        "answer": "C",
+        "instruction": "Mokslininkai atrado naują sudėtingo organizmo rūšį vandenyno dugne. Organizmas greičiausiai",
+        "option_a": "yra vienaląstis.",
+        "option_b": "yra bakterijų forma.",
+        "option_c": "sudarytas iš kelių ląstelių.",
+        "option_d": "neturi organizuoto branduolio."
+    },
+    "174": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406029",
+        "answer": "D",
+        "instruction": "Mokslinėje veikloje Mia turėjo kiekvieną naktį nupiešti Mėnulio paveikslą. Jei Mia nupiešė naują mėnulį, kokio tipo mėnulį Mia nupiešė maždaug po savaitės?",
+        "option_a": "gibbous",
+        "option_b": "pilnas mėnulis",
+        "option_c": "naujas mėnulis",
+        "option_d": "pirmasis ketvirtis"
+    },
+    "175": {
+        "id": "ARC-Challenge/validation/Mercury_7105123",
+        "answer": "C",
+        "instruction": "Fosilijų įrašai rodo, kad rūšių pokyčiai paprastai",
+        "option_a": "sustoja, kai susidaro rūšis.",
+        "option_b": "pagreitėja esant stabiliai aplinkai.",
+        "option_c": "vyksta per daugelį kartų.",
+        "option_d": "yra nepriklausomi nuo aplinkos."
+    },
+    "176": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400339",
+        "answer": "C",
+        "instruction": "Kuri teiginys nėra priežastis, kodėl medžiai augtų skirtingais aukščiais miške?",
+        "option_a": "Kai kurie reikalauja mažiau saulės šviesos nei kiti.",
+        "option_b": "Medžiai buvo pasodinti skirtingais metais.",
+        "option_c": "Paukščiai stato lizdus trumpesniuose medžiuose.",
+        "option_d": "Aukštesni medžiai turi lapus tik ant viršutinių šakų."
+    },
+    "177": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415366",
+        "answer": "B",
+        "instruction": "Medžiai reikia deguonies. Šaknys, esančios arti žemės paviršiaus, sugeria deguonį, kurio medžiui reikia. Kurie organizmai padeda medžiams gauti deguonį?",
+        "option_a": "plaktukai, darantys skyles medyje",
+        "option_b": "žemės kirminai, darantys skyles žemėje šalia medžio",
+        "option_c": "grybai, augantys medžio šaknyse",
+        "option_d": "voverės, valgydamos graikinius riešutus ant žemės šalia medžio"
+    },
+    "178": {
+        "id": "ARC-Challenge/validation/Mercury_7168123",
+        "answer": "B",
+        "instruction": "Anita bėgo aplink trasą savo mokykloje. Bėgimo pabaigoje ji įkvėpė daugiau oro į plaučius, o jos širdies ritmas padidėjo. Kokie sistemos reguliuoja Anitos kvėpavimo dažnį ir širdies ritmą?",
+        "option_a": "raumenų ir kaulų",
+        "option_b": "nervų ir endokrininė",
+        "option_c": "virškinimo ir išskyrimo",
+        "option_d": "kvėpavimo ir kraujotakos"
+    },
+    "179": {
+        "id": "ARC-Challenge/validation/Mercury_7141400",
+        "answer": "A",
+        "instruction": "Ūkininkas kiekvienais metais sodina kukurūzus lauke keletą metų. Kiekvienais metais jis pastebi, kad jo kukurūzų derlius iš akro sumažėjo, nors oro sąlygos buvo labai panašios. Koks abiotiškas faktorius labiausiai tikėtina sukelia kukurūzų derliaus sumažėjimą?",
+        "option_a": "dirvožemio maistingųjų medžiagų sumažėjimas",
+        "option_b": "kritulių padidėjimas",
+        "option_c": "vėjo greičio padidėjimas",
+        "option_d": "saulės šviesos sumažėjimas"
+    },
+    "180": {
+        "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+        "answer": "D",
+        "instruction": "Kurie iš šių procesų paprastai užtrunka ilgiausiai?",
+        "option_a": "Karšta lava atvėsta ir formuoja naują uolieną.",
+        "option_b": "Vandens garai kondensuojasi ir sudaro debesis.",
+        "option_c": "Seisminė banga keliauja per mantiją.",
+        "option_d": "Vandenyno baseinas formuojasi tarp dviejų žemynų."
+    },
+    "181": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406705",
+        "answer": "B",
+        "instruction": "Annos klasė skaičiavo drugelius mokyklos sode už užduotį. Annos rezultatai skyrėsi nuo likusios klasės. Ką ji turėtų daryti?",
+        "option_a": "Pakeisti užduotį.",
+        "option_b": "Palikti rezultatus tokius, kokie yra.",
+        "option_c": "Suderinti savo rezultatus su klase.",
+        "option_d": "Prašyti mokytojo, kad suskaičiuotų už ją."
+    },
+    "182": {
+        "id": "ARC-Challenge/validation/Mercury_7186148",
+        "answer": "B",
+        "instruction": "Studentas maišo puodelį karštos šokolado su šaukštu. Kaip šiluma perduodama tarp karšto šokolado ir tos šaukšto dalies, kuri yra karštame šokolade?",
+        "option_a": "Kondukcija perduoda energiją iš šaukšto į karštą šokoladą.",
+        "option_b": "Kondukcija perduoda energiją iš karšto šokolado į šaukštą.",
+        "option_c": "Konvekcija perduoda energiją iš šaukšto į karštą šokoladą.",
+        "option_d": "Konvekcija perduoda energiją iš karšto šokolado į šaukštą."
+    },
+    "183": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+        "answer": "B",
+        "instruction": "Dideli paukščiai valgė mažus gyvūnus tam tikroje teritorijoje. Jei visi dideli paukščiai mirštų nuo ligos, mažų gyvūnų skaičius toje teritorijoje greičiausiai",
+        "option_a": "sumažėtų",
+        "option_b": "padidėtų",
+        "option_c": "liktų toks pats"
+    },
+    "184": {
+        "id": "ARC-Challenge/validation/Mercury_7005478",
+        "answer": "B",
+        "instruction": "Žmogaus kūno temperatūra yra santykinai pastovi. Koks yra grįžtamojo ryšio mechanizmas, kuris padeda žmogaus kūnui išlaikyti normalią temperatūrą šaltoje aplinkoje?",
+        "option_a": "Iš odos išsiskiria vanduo.",
+        "option_b": "Raumenys dreba mažais judesiais.",
+        "option_c": "Širdies plakimo dažnis sulėtėja.",
+        "option_d": "Plaučiai įkvepia papildomą orą."
+    },
+    "185": {
+        "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+        "answer": "D",
+        "instruction": "Kuris iš šių būtų efektyviausias mažinant oro eismo spūstis užimtoje oro uoste?",
+        "option_a": "teikti našumo atsiliepimus pilotams",
+        "option_b": "teikti skrydžių informaciją keleiviams",
+        "option_c": "padidinti lėktuvų skaičių oro uoste",
+        "option_d": "padidinti nusileidimo takų skaičių oro uoste"
+    },
+    "186": {
+        "id": "ARC-Challenge/validation/Mercury_7037573",
+        "answer": "D",
+        "instruction": "Kokia yra geriausia praktika, kurios reikia laikytis atliekant eksperimentą?",
+        "option_a": "atsargiai elgtis su karštu stiklu",
+        "option_b": "išjungti degiklius, kai jų nenaudojate",
+        "option_c": "išstudijuoti laboratorijos procedūras prieš atliekant eksperimentą",
+        "option_d": "pasitikrinti su savo mokytoju dėl cheminių medžiagų šalinimo procedūros"
+    },
+    "187": {
+        "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+        "answer": "B",
+        "instruction": "Kameronas perka naują stalą. Jis nori įsitikinti, kad stalas tilps kambario kampe. Kai Kameronas perka naują stalą, kas iš šių geriausiai padės jam įsitikinti, kad stalas tilps?",
+        "option_a": "nuotrauka, rodanti kilimą jo kambaryje",
+        "option_b": "jo kambario matmenų diagrama",
+        "option_c": "piešinys, rodantis, kaip surinkti stalą",
+        "option_d": "įrankių, kurių jam reikia stalui surinkti, sąrašas"
+    },
+    "188": {
+        "id": "ARC-Challenge/validation/Mercury_7092295",
+        "answer": "C",
+        "instruction": "Kuri veika sukuria konkurenciją tarp aplinkosaugos problemų ir ekonominės naudos?",
+        "option_a": "apsaugoti nykstančias laukines gyvūnų rūšis",
+        "option_b": "vėl įvežti laukinius gyvūnus į jų natūralias buveines",
+        "option_c": "naudoti miškų žemę namams statyti",
+        "option_d": "naudoti miesto autobusus transportavimui"
+    },
+    "189": {
+        "id": "ARC-Challenge/validation/Mercury_7131828",
+        "answer": "C",
+        "instruction": "Daugelyje tropinių regionų uodai gali nešti parazitą, kuris gali sukelti užkrečiamą ligą tarp žmonių. Kas geriausiai apibūdina šią santykių rūšį tarp uodų ir žmonių?",
+        "option_a": "predatorius-aukos",
+        "option_b": "konkurencija dėl išteklių",
+        "option_c": "biotiniai veiksniai, sąveikaujantys tarpusavyje",
+        "option_d": "energijos perdavimas tarp gamintojo ir vartotojo"
+    },
+    "190": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+        "answer": "B",
+        "instruction": "Fanning gali padaryti medienos ugnį karštesnę, nes fanning",
+        "option_a": "padaro maistą pakankamai karštą, kad jis degtų",
+        "option_b": "prideda daugiau deguonies, reikalingo degimui",
+        "option_c": "padidina medienos kiekį, kurį galima deginti",
+        "option_d": "teikia energiją, reikalingą ugniai išlaikyti"
+    },
+    "191": {
+        "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+        "answer": "B",
+        "instruction": "Eksperimentas atliekamas su uždara talpa. Talpa pradeda su 70 laipsnių F temperatūra ir 20 psi oro slėgiu. Talpa kaitinama, o slėgis talpos viduje tolygiai didėja su padidėjusia temperatūra. Jei talpa atvėsinama atgal iki 70 laipsnių F, koks bus oro slėgis?",
+        "option_a": "10 psi",
+        "option_b": "20 psi",
+        "option_c": "30 psi",
+        "option_d": "40 psi"
+    },
+    "192": {
+        "id": "ARC-Challenge/validation/Mercury_7120908",
+        "answer": "D",
+        "instruction": "Skridiklis yra be variklio lėktuvas. Be dydžio, kas būtų pagrindiniai dalykai, kuriuos reikėtų apsvarstyti projektuojant skridiklį, kad jis galėtų nuvažiuoti didelį atstumą?",
+        "option_a": "aplinkos poveikis ir masė",
+        "option_b": "kaina ir aplinkos poveikis",
+        "option_c": "stiprumas ir kaina",
+        "option_d": "masė ir stiprumas"
+    },
+    "193": {
+        "id": "ARC-Challenge/validation/Mercury_180443",
+        "answer": "C",
+        "instruction": "Kokia Mėnulio fazė įvyksta po augančio gibboso?",
+        "option_a": "mažėjantis gibbosas",
+        "option_b": "augantis pusmėnulis",
+        "option_c": "pilnas mėnulis",
+        "option_d": "naujas mėnulis"
+    },
+    "194": {
+        "id": "ARC-Challenge/validation/Mercury_7238963",
+        "answer": "A",
+        "instruction": "Žmonių įdubęs smakras yra koduojamas dominuojančiu aleliu C. Smakras be įdubimo yra koduojamas recesyviniu aleliu c. Vyras su alelių kombinacija cc šiai savybei sukuria zigotą su moterimi, turinčia alelių kombinaciją Cc šiai savybei. Kokios alelių kombinacijos galėtų pasireikšti zigotoje?",
+        "option_a": "Cc arba cc",
+        "option_b": "CC arba Cc",
+        "option_c": "Tik CC",
+        "option_d": "Tik Cc"
+    },
+    "195": {
+        "id": "ARC-Challenge/validation/Mercury_184765",
+        "answer": "B",
+        "instruction": "Kuris iš šių dalykų greičiausiai bus rezultatas, kai bus iškirstos didelės nuolatinės miškų teritorijos?",
+        "option_a": "Deguonies procentas šioje teritorijoje padidės.",
+        "option_b": "Erozijos kiekis šioje teritorijoje padidės.",
+        "option_c": "Rūšių įvairovė šioje teritorijoje padidės.",
+        "option_d": "Dirvožemio maistingųjų medžiagų kiekis šioje teritorijoje padidės."
+    },
+    "196": {
+        "id": "ARC-Challenge/validation/Mercury_7235813",
+        "answer": "D",
+        "instruction": "Anglies ciklai per įvairius rezervuarus Žemėje. Laikas, per kurį susidaro šie rezervuarai, labai skiriasi. Kuris procesas anglies cikle užtrunka milijonus metų, kad susidarytų nurodytas rezervuaras?",
+        "option_a": "anglies įtraukimas per virškinimą į gyvūnų audinius",
+        "option_b": "anglies išsiskyrimas į atmosferą kvėpuojant",
+        "option_c": "atmosferinė anglis, įtraukta į cukrus augaluose",
+        "option_d": "anglies skaidymas augalų audiniuose, kad susidarytų aliejus"
+    },
+    "197": {
+        "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+        "answer": "B",
+        "instruction": "Miške, kaip dekompozitoriai padeda kitiems organizmams išgyventi?",
+        "option_a": "Jie išskiria deguonį į orą, kurį kvėpuoja gyvūnai.",
+        "option_b": "Jie deda maistingąsias medžiagas į dirvą, kurias augalai naudoja augimui.",
+        "option_c": "Jie suteikia prieglobstį miškuose, kur gyvūnai gali slėptis.",
+        "option_d": "Jie naudoja saulės šviesą, kad pagamintų maistą augalams ir gyvūnams."
+    },
+    "198": {
+        "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+        "answer": "C",
+        "instruction": "Žmogaus veiksmai veikia aplinką. Koks žmogaus veiksmas veikia mažiausią aplinkos plotą?",
+        "option_a": "miško deginimas",
+        "option_b": "kasyklinių degalų deginimas",
+        "option_c": "naujo sąvartyno kasimas",
+        "option_d": "chemikalų purškimas ant pasėlių"
+    },
+    "199": {
+        "id": "ARC-Challenge/validation/Mercury_7162838",
+        "answer": "D",
+        "instruction": "Laboratoriniai žiurkės buvo šeriamos mėlynėmis, braškėmis arba špinatų papildais kartu su jų įprastu maistu. Po aštuonių savaičių žiurkėms buvo atlikti atminties ir motorinių įgūdžių testai. Žiurkės, gavusios mėlynių papildą, parodė didžiausią pažangą. Koks yra nepriklausomas (manipuliuojamas) tyrimo kintamasis?",
+        "option_a": "motorinių įgūdžių testas",
+        "option_b": "senėjimo procesas",
+        "option_c": "atminties testas",
+        "option_d": "papildai"
+    },
+    "200": {
+        "id": "ARC-Challenge/validation/Mercury_SC_405973",
+        "answer": "B",
+        "instruction": "Kelios paukščių rūšys gyvena mažoje saloje. Audra sunaikina didžiąją dalį augalų, kuriais paukščiai maitinasi ir kuria savo lizdus. Kuri paukščių rūšis labiausiai tikėtina, kad išgyvens saloje?",
+        "option_a": "paukščiai, kurių yra daugiausia",
+        "option_b": "paukščiai, kurie geriausiai prisitaiko",
+        "option_c": "paukščiai, kurie gali skristi toliausiai",
+        "option_d": "paukščiai su stipriausiais snapais"
+    },
+    "201": {
+        "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+        "answer": "B",
+        "instruction": "Kuri teiginys yra nuomonė?",
+        "option_a": "Daugelis augalų yra žali.",
+        "option_b": "Daugelis augalų yra gražūs.",
+        "option_c": "Augalams reikia saulės šviesos.",
+        "option_d": "Augalai gali augti skirtingose vietose."
+    },
+    "202": {
+        "id": "ARC-Challenge/validation/Mercury_7103180",
+        "answer": "B",
+        "instruction": "Kuris biomas turi daugiausiai augalijos?",
+        "option_a": "dykuma",
+        "option_b": "miškas",
+        "option_c": "pieva",
+        "option_d": "tundra"
+    },
+    "203": {
+        "id": "ARC-Challenge/validation/Mercury_7221865",
+        "answer": "C",
+        "instruction": "Grupė studentų stebėjo burbuliukų susidarymą, kai vanduo virė. Kas nutiko medžiagai dėl fizinio vandens pokyčio?",
+        "option_a": "Burbuliukuose buvo sukurta nauja medžiaga.",
+        "option_b": "Senoji medžiaga buvo sunaikinta, kai vanduo tapo dujomis.",
+        "option_c": "Medžiaga buvo išsaugota, kai ji pakeitė formą.",
+        "option_d": "Medžiagos sudėtis pasikeitė."
+    },
+    "204": {
+        "id": "ARC-Challenge/validation/Mercury_7242743",
+        "answer": "D",
+        "instruction": "Baltymai, kurie yra sintetinami ribosomų subvienetuose, patiria išsamius posttransliacinius modifikavimus ir yra supakuojami bei nukreipiami į tinkamą vietą. Kuri ląstelės struktūrinė dalis dalyvauja tokiuose modifikavimuose?",
+        "option_a": "endoplazminis tinklas",
+        "option_b": "lizosomos",
+        "option_c": "mitochondrijos",
+        "option_d": "Golgio aparatas"
+    },
+    "205": {
+        "id": "ARC-Challenge/validation/Mercury_7103565",
+        "answer": "C",
+        "instruction": "Didelio slėgio sistemos neleidžia orui kilti į šaltas atmosferos sritis, kur vanduo gali kondensuotis. Koks rezultatas greičiausiai bus, jei didelio slėgio sistema ilgą laiką išliks tam tikroje teritorijoje?",
+        "option_a": "rūkas",
+        "option_b": "lietus",
+        "option_c": "sausra",
+        "option_d": "tornadas"
+    },
+    "206": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415541",
+        "answer": "D",
+        "instruction": "Kuris iš šių objektų greičiausiai plauks vandenyje?",
+        "option_a": "stiklinis marbelis",
+        "option_b": "plieno kamuolys",
+        "option_c": "kietas gumos kamuolys",
+        "option_d": "stalo teniso kamuolys"
+    },
+    "207": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+        "answer": "A",
+        "instruction": "Mokinys išima ledo kubelių formą iš šaldiklio ir padeda ją ant stalo. Ledo kubeliai yra kieti ir šaltai. Mokinys pamiršta grąžinti ledo kubelių formą atgal į šaldiklį. Kitą dieną ledo kubeliai turėtų būti",
+        "option_a": "skysti ir šiltesni",
+        "option_b": "kieti ir šiltesni",
+        "option_c": "skysti ir šaltesni",
+        "option_d": "kieti ir šaltesni"
+    },
+    "208": {
+        "id": "ARC-Challenge/validation/Mercury_7097318",
+        "answer": "D",
+        "instruction": "Voverė numetė giliuką iš ąžuolo šakos. Kas iš šių dalykų pasikeis, kai giliukas kris nuo medžio ant žemės?",
+        "option_a": "giliuko masė",
+        "option_b": "jėga, veikianti giliuką",
+        "option_c": "giliuko tankis",
+        "option_d": "giliuko greitis"
+    },
+    "209": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+        "answer": "B",
+        "instruction": "Žemiau pateikta lygtis rodo produktus, susidarančius, kai sidabro nitrato (AgNO3) tirpalas reaguoja su natrio chlorido (NaCl) tirpalu. AgNO3 + NaCl (reaktantai) -> NaNO3 + AgCl (produktai) Šioje lygtiesje bendras reaktantų masė yra",
+        "option_a": "didesnė už bendrą produktų masę",
+        "option_b": "lygi bendrai produktų masei",
+        "option_c": "lygi AgCl masei",
+        "option_d": "mažesnė už AgCl masę"
+    },
+    "210": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415397",
+        "answer": "C",
+        "instruction": "Koks pokytis sukuria struktūrą Žemės paviršiuje?",
+        "option_a": "Potvynis priverčia žmones palikti miestą.",
+        "option_b": "Žemės drebėjimas sukelia bangas lauke.",
+        "option_c": "Ugnikalnis sukuria naują žemę su lava.",
+        "option_d": "Nuslinkimas į įlanką sukelia potvynio bangą."
+    },
+    "211": {
+        "id": "ARC-Challenge/validation/Mercury_7246348",
+        "answer": "A",
+        "instruction": "Kuri funkcija nesiformuoja kaip tektoninių plokščių atsiskyrimo rezultatas?",
+        "option_a": "duobė",
+        "option_b": "plyšio slėnis",
+        "option_c": "vandenyno baseinas",
+        "option_d": "vidurio vandenyno kalnagūbris"
+    },
+    "212": {
+        "id": "ARC-Challenge/validation/Mercury_7270200",
+        "answer": "A",
+        "instruction": "Mokslininkai paaiškino, kaip aminorūgštys, angliavandeniai, nukleorūgštys ir riebalų rūgštys galėjo būti sintetizuotos Žemėje prieš pasirodant gyvoms organizmams. Kuris iš šių atradimų labiausiai palaikytų teiginį, kad gyvenimas spontaniškai atsirado iš šių biocheminių medžiagų?",
+        "option_a": "Šios cheminės medžiagos gali savaime susirinkti į struktūrą, kuri replikacija.",
+        "option_b": "Šios cheminės medžiagos šiandien naudojamos gyvose organizmose.",
+        "option_c": "Šios cheminės medžiagos randamos kitoje planetoje.",
+        "option_d": "Šios cheminės medžiagos gali savaime susirinkti į virusą."
+    },
+    "213": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415026",
+        "answer": "C",
+        "instruction": "Kuriuos gyvūnus labiausiai tikėtina, kad padės potvynis pakrantės zonoje?",
+        "option_a": "elniai",
+        "option_b": "rakunai",
+        "option_c": "aligatoriai",
+        "option_d": "koyotei"
+    },
+    "214": {
+        "id": "ARC-Challenge/validation/Mercury_7143518",
+        "answer": "D",
+        "instruction": "Beaveriai žinomi dėl to, kad stato užtvankas per upes ir upelius, kirsdami medžius ir rinkdami krūmus bei krūmynus. Beavių populiacija Jungtinėse Valstijose sumažėjo dėl žmonių gaudymo. Koks ekologinis padarinys greičiausiai įvyksta sumažėjus beavių populiacijai?",
+        "option_a": "žymus žuvų populiacijos sumažėjimas",
+        "option_b": "žymus miško ekosistemų padidėjimas",
+        "option_c": "žymus vandens garavimo padidėjimas",
+        "option_d": "žymus tvenkinių buveinių skaičiaus sumažėjimas"
+    },
+    "215": {
+        "id": "ARC-Challenge/validation/Mercury_7032340",
+        "answer": "D",
+        "instruction": "Iš pateiktų pasirinkimų, kuris atspindi natūralią pasaulį naudojant modelį?",
+        "option_a": "skaityti knygą apie lapių bendruomenę",
+        "option_b": "žiūrėti nuotrauką apie lapių bendruomenę",
+        "option_c": "tirti lapių bendruomenę naudojant internetą",
+        "option_d": "stebėti lapių bendruomenę eksponate zoologijos sode"
+    },
+    "216": {
+        "id": "ARC-Challenge/validation/Mercury_415263",
+        "answer": "C",
+        "instruction": "Kuris iš šių yra randamas eukariotų ląstelėje, bet ne prokariotų ląstelėje?",
+        "option_a": "DNR",
+        "option_b": "citoplazma",
+        "option_c": "branduolys",
+        "option_d": "ląstelės membrana"
+    },
+    "217": {
+        "id": "ARC-Challenge/validation/Mercury_7090720",
+        "answer": "B",
+        "instruction": "Etilo alkoholis yra alternatyvus kuras, pagamintas iš kukurūzų. Koks yra vienas nepalankus etilo alkoholio naudojimo kaip kuro poveikis?",
+        "option_a": "sumažėjusios kuro gamybos sąnaudos",
+        "option_b": "žemės ūkio žemės, skirtos maisto gamybai, sumažėjimas",
+        "option_c": "fossilinių degalų vartojimo padidėjimas",
+        "option_d": "padidėjęs anglies pėdsakas vairuojant automobilius"
+    },
+    "218": {
+        "id": "ARC-Challenge/validation/Mercury_SC_410964",
+        "answer": "D",
+        "instruction": "Mokiniai tiria, kaip veikia durų skambutis. Koks yra labiausiai tikėtinas stebėjimas, padarytas tyrimo metu?",
+        "option_a": "Visi durų skambučiai skamba gražiai.",
+        "option_b": "Baterija yra geriausias energijos šaltinis durų skambučiui.",
+        "option_c": "Dauguma žmonių mieliau naudoja durų skambutį nei beldžia.",
+        "option_d": "Durų skambutis naudoja vielą, apvyniotą aplink magnetą."
+    },
+    "219": {
+        "id": "ARC-Challenge/validation/Mercury_7057313",
+        "answer": "A",
+        "instruction": "Širdies raumuo geriausiai apibūdinamas kaip",
+        "option_a": "tos pačios rūšies ląstelės dirbančios kartu.",
+        "option_b": "skirtingos sistemos dirbančios kartu.",
+        "option_c": "tos pačios rūšies organai sudarantys sistemą.",
+        "option_d": "skirtingi organai atliekantys funkciją."
+    },
+    "220": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402101",
+        "answer": "D",
+        "instruction": "Kokios savybės gali būti randamos tiek Žemės, tiek Mėnulio paviršiuje?",
+        "option_a": "augalai",
+        "option_b": "vandenynai",
+        "option_c": "gyvūnai",
+        "option_d": "kalnai"
+    },
+    "221": {
+        "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+        "answer": "C",
+        "instruction": "Kai kurios bakterijų rūšys gamina medžiagą, kuri yra nuodinga vabzdžiams, bet nekenksminga žmonėms. Mokslininkai izoliuoja geną, kuris kontroliuoja šios medžiagos gamybą. Kuri iš šių priežasčių yra geriausia, kad šį geną įterptume į kukurūzų augalus?",
+        "option_a": "Kukurūzai augs greičiau.",
+        "option_b": "Reikės mažiau trąšų.",
+        "option_c": "Reikės mažiau pesticidų.",
+        "option_d": "Kukurūzai bus maistingesni."
+    },
+    "222": {
+        "id": "ARC-Challenge/validation/Mercury_7038133",
+        "answer": "B",
+        "instruction": "Mokinis planuoja tyrimą, kad apskaičiuotų skirtingų kamuoliukų greičius, kai jie rieda žemyn nuolydžiu. Kokia informacija yra mažiausiai reikalinga mokiniui užrašyti?",
+        "option_a": "kiekvieno kamuoliuko dydis",
+        "option_b": "nuolydžio storis",
+        "option_c": "nuolydžio ilgis",
+        "option_d": "laikas, per kurį kamuoliukas juda"
+    },
+    "223": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407169",
+        "answer": "D",
+        "instruction": "Kaip buveinė su mažu tvenkiniu patiria ilgą sausros laikotarpį, kas iš šių variantų labiausiai tikėtina, kad nutiks daugeliui žuvų tvenkinyje?",
+        "option_a": "Jos prisitaikytų prie sausos aplinkos.",
+        "option_b": "Jos gyventų kitose vandens šaltiniuose.",
+        "option_c": "Jos persikeltų į kitą buveinę.",
+        "option_d": "Jos negalėtų išgyventi."
+    },
+    "224": {
+        "id": "ARC-Challenge/validation/Mercury_7103215",
+        "answer": "C",
+        "instruction": "Studentas nori nustatyti česnako poveikį grybelio rūšies augimui. Kelios grybelio kultūrų mėginiai auginami toje pačioje agarų ir šviesos kiekio. Kiekvienam mėginiui suteikiamas skirtingas česnako kiekis. Koks yra nepriklausomas kintamasis šiame tyrime?",
+        "option_a": "agarų kiekis",
+        "option_b": "šviesos kiekis",
+        "option_c": "česnako kiekis",
+        "option_d": "augimo kiekis"
+    },
+    "225": {
+        "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+        "answer": "B",
+        "instruction": "Kuri iš šių augalų ląstelės dalių funkcija yra panašiausia gyvūnų skeletui?",
+        "option_a": "ląstelių membrana",
+        "option_b": "ląstelių siena",
+        "option_c": "chloroplastas",
+        "option_d": "branduolys"
+    },
+    "226": {
+        "id": "ARC-Challenge/validation/Mercury_7018008",
+        "answer": "A",
+        "instruction": "Kas geriausiai apibūdina atomo elektrinę savybę?",
+        "option_a": "neutrali",
+        "option_b": "izoliuota",
+        "option_c": "teigiamai įkrauta",
+        "option_d": "neigiamai įkrauta"
+    },
+    "227": {
+        "id": "ARC-Challenge/validation/Mercury_7166530",
+        "answer": "B",
+        "instruction": "Ira turėjo paruošti laboratorinį tyrimą po pamokų. Jis gavo medžiagas, chemikalus, įrangą ir apsauginius drabužius iš savo mokytojo. Greitai, bet atsargiai, jis atliko žingsnius rašytinėje eksperimento procedūroje. Kad sutaupytų laiko, jis nusprendė vėliau užrašyti savo stebėjimus ir rezultatus. Kas greičiausiai bus neigiamai paveikta jo sprendimo?",
+        "option_a": "gebėjimas sekti nurodymus",
+        "option_b": "gebėjimas parašyti galiojantį ataskaitą",
+        "option_c": "gebėjimas laikytis saugos gairių",
+        "option_d": "gebėjimas pateikti išvadą"
+    },
+    "228": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400047",
+        "answer": "B",
+        "instruction": "Mokinys paliko šokolado plytelę saulėje karštą dieną. Kai šokoladas ištirpo, kuri savybė pasikeitė?",
+        "option_a": "jos masė",
+        "option_b": "jos forma",
+        "option_c": "jos svoris",
+        "option_d": "jos sudėtis"
+    },
+    "229": {
+        "id": "ARC-Challenge/validation/Mercury_7044100",
+        "answer": "C",
+        "instruction": "Kokiu būdu dirvožemio maistingosios medžiagos žemės ūkyje gali būti išeikvotos?",
+        "option_a": "pernelyg didelis ganymas",
+        "option_b": "vėjo erozija",
+        "option_c": "padidėjęs laistymas",
+        "option_d": "padidėjęs tręšimas"
+    },
+    "230": {
+        "id": "ARC-Challenge/validation/Mercury_7075145",
+        "answer": "A",
+        "instruction": "Kurie iš šių procesų leidžia ląstelėms įsisavinti vandenį?",
+        "option_a": "osmosis",
+        "option_b": "mitozė",
+        "option_c": "fotosintezė",
+        "option_d": "kvėpavimas"
+    },
+    "231": {
+        "id": "ARC-Challenge/validation/Mercury_192290",
+        "answer": "D",
+        "instruction": "Nors jie priklauso tai pačiai šeimai, erelis ir pelikanas yra skirtingi. Koks yra vienas skirtumas tarp jų?",
+        "option_a": "jų pageidavimas valgyti žuvį",
+        "option_b": "jų gebėjimas skristi",
+        "option_c": "jų reprodukcijos metodas",
+        "option_d": "jų maisto gaudymo metodas"
+    },
+    "232": {
+        "id": "ARC-Challenge/validation/Mercury_7093975",
+        "answer": "D",
+        "instruction": "Koks yra natūralus upių išdžiūvimo priežastis?",
+        "option_a": "teršalų",
+        "option_b": "erozija",
+        "option_c": "vandens lygių kilimas",
+        "option_d": "kritulių trūkumas"
+    },
+    "233": {
+        "id": "ARC-Challenge/validation/Mercury_7085820",
+        "answer": "D",
+        "instruction": "Kai vanduo pradeda užšalti, vandens molekulės",
+        "option_a": "įgyja šiluminę energiją.",
+        "option_b": "judina laisviau.",
+        "option_c": "padidėja dydžiu.",
+        "option_d": "sumažėja greičiu."
+    },
+    "234": {
+        "id": "ARC-Challenge/validation/MEA_2016_5_6",
+        "answer": "C",
+        "instruction": "Vandeniu pripildytas balionas dedamas į šaldiklį. Kokia vandens savybė pasikeis, kai vanduo pasieks užšalimo tašką?",
+        "option_a": "spalva",
+        "option_b": "masė",
+        "option_c": "būklė",
+        "option_d": "svoris"
+    },
+    "235": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+        "answer": "B",
+        "instruction": "Ką reikia, kad susidarytų debesys?",
+        "option_a": "Vandens garai turi sušilti.",
+        "option_b": "Vandens garai turi prarasti šilumos energiją.",
+        "option_c": "Krituliai turi pradėti kristi ir nubėgti.",
+        "option_d": "Transpiracija turi pridėti vandens garų į atmosferą."
+    },
+    "236": {
+        "id": "ARC-Challenge/validation/Mercury_7250023",
+        "answer": "A",
+        "instruction": "Visos ląstelės, prokariotinės ir eukariotinės, turi keletą bendrų bruožų. Koks ląstelės bruožas randamas tiek prokariotinėse, tiek eukariotinėse ląstelėse?",
+        "option_a": "ribosoma",
+        "option_b": "chloroplasto membrana",
+        "option_c": "branduolys",
+        "option_d": "endoplazminis tinklas"
+    },
+    "237": {
+        "id": "ARC-Challenge/validation/Mercury_7003955",
+        "answer": "D",
+        "instruction": "Kokio tipo krūvį turi atskiros plaukų sruogos, kai jos stovi išsitiesusios dėl statinės elektros?",
+        "option_a": "neutralūs krūviai",
+        "option_b": "neutrali iškrova",
+        "option_c": "nuolatinis teigiamas krūvis",
+        "option_d": "laikini teigiami krūviai"
+    },
+    "238": {
+        "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+        "answer": "D",
+        "instruction": "Vėjas yra natūralus išteklius, kuris teikia naudą Pietryčių Česapiko įlankos pakrantei. Kaip šie vėjai galėtų geriausiai pasitarnauti žmonėms?",
+        "option_a": "Vėjai galėtų nupūsti naftos išsiliejimus į įlanką.",
+        "option_b": "Vėjai galėtų būti paversti iškastiniu kuru.",
+        "option_c": "Vėjai galėtų nupūsti oro taršą link žemės.",
+        "option_d": "Vėjai galėtų būti paversti elektros energija."
+    },
+    "239": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+        "answer": "D",
+        "instruction": "Kiek laiko Žemei užtrunka atlikti vieną revoliuciją aplink Saulę?",
+        "option_a": "diena",
+        "option_b": "savaitė",
+        "option_c": "mėnuo",
+        "option_d": "metai"
+    },
+    "240": {
+        "id": "ARC-Challenge/validation/Mercury_SC_411306",
+        "answer": "D",
+        "instruction": "Kai kurie skirtingi augalų tipai turi bendrų savybių. Kokia savybė yra bendra daugumai augalų?",
+        "option_a": "jų šaknų dydis",
+        "option_b": "jų lapų forma",
+        "option_c": "jų gėlių spalva",
+        "option_d": "jų ląstelių struktūra"
+    },
+    "241": {
+        "id": "ARC-Challenge/validation/Mercury_7241115",
+        "answer": "C",
+        "instruction": "Kuris įvykis greičiausiai leido įvykti žinduolių įvairovės sprogimui, kuris įvyko kreidos periode?",
+        "option_a": "superkontinento Pangea susidarymas",
+        "option_b": "intensyvi vulkaninė veikla",
+        "option_c": "vėsesnės temperatūros",
+        "option_d": "kylantys jūros lygiai"
+    },
+    "242": {
+        "id": "ARC-Challenge/validation/Mercury_7042735",
+        "answer": "C",
+        "instruction": "Mokslų pamokoje buvo pagamintas vandens ir netoksiško junginio tirpalas. Ką reikėtų daryti su tirpalu, kai demonstracija baigta?",
+        "option_a": "Jis turėtų būti nuleistas į kanalizaciją.",
+        "option_b": "Jis turėtų būti pilamas į perdirbimo konteinerį.",
+        "option_c": "Jis turėtų būti pilamas į atliekų konteinerį.",
+        "option_d": "Jis turėtų būti dedamas į pavojingų medžiagų šalinimo konteinerį."
+    },
+    "243": {
+        "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+        "answer": "D",
+        "instruction": "Kuris iš šių yra pagrindinis streso tipas, kurį fiksuota staklė daro medienos gabalui?",
+        "option_a": "tempimas",
+        "option_b": "pjovimas",
+        "option_c": "torsija",
+        "option_d": "suspaudimas"
+    },
+    "244": {
+        "id": "ARC-Challenge/validation/Mercury_176015",
+        "answer": "D",
+        "instruction": "Grupė studentų tiria dvi medžiagas, kad nustatytų, kuri yra stalo druska, o kuri - stalo cukrus. Kaip studentai geriausiai identifikuotų kiekvieną medžiagą?",
+        "option_a": "pastebėdami, ar jos tirpsta vandenyje",
+        "option_b": "tyrindami medžiagos spalvą",
+        "option_c": "stebėdami, ar jos prilimpa prie paviršiaus",
+        "option_d": "nagrinėdami kristalo formą"
+    },
+    "245": {
+        "id": "ARC-Challenge/validation/Mercury_7215180",
+        "answer": "C",
+        "instruction": "Mokslininkai renka granito mėginius vakarų Nevados kalnuose. Kuris iš šių formatų geriausiai tinka rodyti ir palyginti mineralų procentą, rastą viename granito mėginyje?",
+        "option_a": "stulpelinė diagrama",
+        "option_b": "linijinė diagrama",
+        "option_c": "skritulinė diagrama",
+        "option_d": "sklaidos diagrama"
+    },
+    "246": {
+        "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+        "answer": "B",
+        "instruction": "Gyvūnas turi šešis kojas. Kas tai greičiausiai yra?",
+        "option_a": "voras",
+        "option_b": "musė",
+        "option_c": "drakonas",
+        "option_d": "šimtakojis"
+    },
+    "247": {
+        "id": "ARC-Challenge/validation/Mercury_177818",
+        "answer": "C",
+        "instruction": "Laiko tarpas tarp nakties ir dienos Žemėje skiriasi visus metus. Šis laiko svyravimas paaiškinamas pirmiausia",
+        "option_a": "Saulės padėtimi.",
+        "option_b": "Mėnulio padėtimi.",
+        "option_c": "Žemės nuolydžio kampu",
+        "option_d": "Žemės atstumu nuo Saulės"
+    },
+    "248": {
+        "id": "ARC-Challenge/validation/Mercury_SC_405487",
+        "answer": "B",
+        "instruction": "Vienais metais ąžuolai parke pradėjo gaminti daugiau gilių nei įprastai. Kitais metais parko voverių populiacija taip pat padidėjo. Kas geriausiai paaiškina, kodėl kitais metais buvo daugiau voverių?",
+        "option_a": "Pavėsingų vietų padaugėjo.",
+        "option_b": "Maisto šaltinių padaugėjo.",
+        "option_c": "Deguonies lygiai padidėjo.",
+        "option_d": "Prieinamo vandens padaugėjo."
+    },
+    "249": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400612",
+        "answer": "C",
+        "instruction": "Žemės paviršius nuolat keičiasi dėl erozijos ir oro poveikio. Palyginti su Žeme, Mėnulyje yra mažai erozijos ir oro poveikio dėl",
+        "option_a": "Mėnulio gravitacijos trūkumo.",
+        "option_b": "plonos Mėnulio atmosferos.",
+        "option_c": "oro ir vandens trūkumo Mėnulyje.",
+        "option_d": "gyvų organizmų trūkumo Mėnulyje."
+    },
+    "250": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400655",
+        "answer": "A",
+        "instruction": "Kuris iš šių yra didžiausias pokytis, kuris gali būti pastebėtas tarp vasaros ir žiemos?",
+        "option_a": "dienos šviesos kiekiai",
+        "option_b": "vandenynų bangų aukščiai",
+        "option_c": "audrų skaičius",
+        "option_d": "debesų dydžiai"
+    },
+    "251": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415735",
+        "answer": "C",
+        "instruction": "Anya padėjo ledo kubelį ant šaligatvio šiltą dieną. Ledo kubelis greitai ištirpo ir susidarė balutė. Koks procesas sukėlė ledo kubelio tirpimą?",
+        "option_a": "Šiluma, perduodama per ledo kubelį konvekcija.",
+        "option_b": "Šiluma, perduodama iš oro į ledo kubelį spinduliavimu.",
+        "option_c": "Šiluma, perduodama iš oro ir šaligatvio kondukcija.",
+        "option_d": "Šiluma, perduodama per ledo kubelį į šaligatvį kondukcija."
+    },
+    "252": {
+        "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+        "answer": "D",
+        "instruction": "Merkurijus, artimiausia planeta Saulei, turi ekstremalias paviršiaus temperatūras, svyruojančias nuo 465°C saulėje iki -180°C tamsoje. Kodėl Merkurijuje yra toks didelis temperatūrų svyravimas?",
+        "option_a": "Planeta per maža, kad išlaikytų šilumą.",
+        "option_b": "Planeta šyla tik vienoje pusėje.",
+        "option_c": "Planeta atspindi šilumą iš savo tamsiosios pusės.",
+        "option_d": "Planeta neturi atmosferos, kad išlaikytų šilumą."
+    },
+    "253": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+        "answer": "B",
+        "instruction": "Kodėl vyriški vabzdžiai būtų gydomi, kad būtų užkirstas kelias spermatozoidų gamybai?",
+        "option_a": "Kad padidėtų moterų vabzdžių skaičius",
+        "option_b": "Kad sumažėtų bendras vabzdžių populiacijos skaičius",
+        "option_c": "Kad būtų sukurtos naujos vabzdžių rūšys",
+        "option_d": "Kad vabzdžiai nesusiporuotų"
+    },
+    "254": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+        "answer": "D",
+        "instruction": "Pagrindinė medžio kamieno funkcija yra teikti",
+        "option_a": "oro",
+        "option_b": "vaisių",
+        "option_c": "saulės šviesos",
+        "option_d": "palaikymą"
+    },
+    "255": {
+        "id": "ARC-Challenge/validation/Mercury_7017990",
+        "answer": "A",
+        "instruction": "Kuri veika nereprezentuoja saugos procedūrą laboratorijoje?",
+        "option_a": "chemikalų mėginių ragavimas",
+        "option_b": "karščiui atsparių pirštinių naudojimas, jei stikliniai indai yra karšti",
+        "option_c": "ilgo plauko surišimas",
+        "option_d": "chemikalų purslų plovimas dideliu kiekiu vandens"
+    },
+    "256": {
+        "id": "ARC-Challenge/validation/Mercury_7264023",
+        "answer": "D",
+        "instruction": "Kurie iš šių elementų greičiausiai nėra organinėje junginyje?",
+        "option_a": "anglis",
+        "option_b": "vandenilis",
+        "option_c": "azotas",
+        "option_d": "kalis"
+    },
+    "257": {
+        "id": "ARC-Challenge/validation/Mercury_7138513",
+        "answer": "A",
+        "instruction": "Sala turi daug paukščių rūšių, nėra vietinių gyvačių rūšių ir yra nedaug didelių plėšrūnų. Rudos gyvatės valgo paukščių kiaušinius. Koks yra labiausiai tikėtinas rezultatas, jei rudos gyvatės atsitiktinai būtų išleistos saloje?",
+        "option_a": "daugiau gyvačių ir mažiau paukščių",
+        "option_b": "daugiau gyvačių ir daugiau paukščių",
+        "option_c": "mažiau gyvačių ir mažiau paukščių",
+        "option_d": "mažiau gyvačių ir daugiau paukščių"
+    },
+    "258": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401663",
+        "answer": "B",
+        "instruction": "Kuris objektas gali padėti studentui taupyti išteklius, jei jis juos dės į kompostą?",
+        "option_a": "trąšos",
+        "option_b": "pupelių augalai",
+        "option_c": "stikliniai indai",
+        "option_d": "plastikiniai pipetės"
+    },
+    "259": {
+        "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+        "answer": "C",
+        "instruction": "Didelis kiekis nuosėdų yra pakeliamas vandens, kai vanduo teka žemyn upėmis ir srautais. Kai vanduo upėje ar sraute teka greitai ir tada pradeda lėtėti, kas greičiausiai nutiks su nuosėdų dalelėmis, kurias vanduo neša?",
+        "option_a": "Didėjantis didesnių nuosėdų dalelių kiekis, kurį neša vanduo.",
+        "option_b": "Didėjantis mažesnių nuosėdų dalelių kiekis, kurį neša vanduo.",
+        "option_c": "Mažėjantis didesnių nuosėdų dalelių kiekis, kurį neša vanduo.",
+        "option_d": "Mažėjantis mažesnių nuosėdų dalelių kiekis, kurį neša vanduo."
+    },
+    "260": {
+        "id": "ARC-Challenge/validation/Mercury_7195440",
+        "answer": "B",
+        "instruction": "Kiekvienais metais yra iškertama maždaug 50 milijonų akrų tropinių miškų. Koks poveikis greičiausiai atsirastų dėl šių miškų kirtimo?",
+        "option_a": "dirvožemio erozijos sumažėjimas",
+        "option_b": "biodiversiteto sumažėjimas",
+        "option_c": "oro kokybės pagerėjimas",
+        "option_d": "vandens kokybės pagerėjimas"
+    },
+    "261": {
+        "id": "ARC-Challenge/validation/Mercury_7220378",
+        "answer": "C",
+        "instruction": "Klimato kaita gali sumažinti ledo kiekį, plūduriuojančio pasaulio vandenynuose. Kaip ši kaita greičiausiai pakeis maisto tiekimą, prieinamą jūriniams vartotojams?",
+        "option_a": "sumažinant druskos kiekį, ištirpusiame vandenyno vandenyje",
+        "option_b": "padidindama vandens gebėjimą atskirti į skirtingas sluoksnius",
+        "option_c": "pakeisdama temperatūros sąlygas, kurių reikalauja vienaląsčiai gamintojai",
+        "option_d": "neleidžiant organizmams greitai reaguoti į aplinkos pokyčius"
+    },
+    "262": {
+        "id": "ARC-Challenge/validation/Mercury_7234483",
+        "answer": "B",
+        "instruction": "Dabartinė, dominuojanti teorija apie gyvenimo kilmę Žemėje priklauso nuo prebiotinių medžiagų, kurios pirmiausia išsivystė kokią savybę?",
+        "option_a": "stabilus atskyrimas nuo aplinkos",
+        "option_b": "susirinkimas į savireplikuojančias struktūras",
+        "option_c": "bruožų saugojimas cheminiu kodu",
+        "option_d": "energiją kaupiamų molekulių kaupimas"
+    },
+    "263": {
+        "id": "ARC-Challenge/validation/Mercury_7179358",
+        "answer": "B",
+        "instruction": "Klimatinė gaisrų ekosistema reikalauja periodinių miško gaisrų stabilumui palaikyti. Koks iš šių būtų labiausiai tikėtinas rezultatas, jei būtų užkirstas kelias natūraliems gaisrams šioje ekosistemoje?",
+        "option_a": "Pušų rūšys daugintųsi greičiau.",
+        "option_b": "Plačialapės rūšys pakeistų pušų rūšis.",
+        "option_c": "Degimo zonos būtų lengviau suvaldomos.",
+        "option_d": "Medžiai plėstųsi į anksčiau neapželdintas teritorijas."
+    },
+    "264": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+        "answer": "C",
+        "instruction": "Kaip rūkymas tabako greičiausiai neigiamai paveiks asmens gebėjimą sėkmingai užsiimti fizine veikla?",
+        "option_a": "Tai trukdo pusiausvyrai ir koordinacijai.",
+        "option_b": "Tai sumažina gebėjimą greitai priimti sprendimus.",
+        "option_c": "Tai sumažina ištvermę ir širdies bei kraujagyslių efektyvumą.",
+        "option_d": "Tai sumažina raumenų susitraukimų greitį ir jėgą."
+    },
+    "265": {
+        "id": "ARC-Challenge/validation/Mercury_7100695",
+        "answer": "D",
+        "instruction": "Kuri geologinė struktūra greičiausiai susiformuos ilgiausiai?",
+        "option_a": "įtrūkimas",
+        "option_b": "duobė",
+        "option_c": "upės vingis",
+        "option_d": "kalnų grandinė"
+    },
+    "266": {
+        "id": "ARC-Challenge/validation/MEA_2016_5_7",
+        "answer": "B",
+        "instruction": "Mokinis stebi, kad vienaląstis organizmas ir augalo lapas turi panašias žalias dalis. Mokinis mano, kad abu organizmai naudoja žalias dalis gyventi. Koks įrodymas patvirtina išvadą, kad abu organizmai reikia žalių dalių gyventi?",
+        "option_a": "Abu organizmai naudoja žalias dalis judėti.",
+        "option_b": "Abu organizmai miršta, jei žali dalys yra pašalintos.",
+        "option_c": "Abiejose organizmose stebimos žalios dalys, gaminančios šviesą.",
+        "option_d": "Abiejose organizmose žalios dalys gali gaminti daugiau žalių dalių."
+    },
+    "267": {
+        "id": "ARC-Challenge/validation/Mercury_7027230",
+        "answer": "A",
+        "instruction": "Kuri tema būtų geriausia tirti, kad būtų galima rasti būdų sumažinti žmonių sukeltas aplinkos problemas?",
+        "option_a": "saulės šviesos konvertavimas į elektrą",
+        "option_b": "naujų anglies atsargų paieška",
+        "option_c": "rezervuarų, kuriuose yra naftos, paieška",
+        "option_d": "miškų konvertavimas į žemės ūkio paskirties žemę"
+    },
+    "268": {
+        "id": "ARC-Challenge/validation/Mercury_7245053",
+        "answer": "B",
+        "instruction": "Kurie iš šių junginių yra organinis junginys?",
+        "option_a": "vanduo (H2O)",
+        "option_b": "heksanas (C6H14)",
+        "option_c": "amonis (NH3)",
+        "option_d": "sieros dioksidas (SO2)"
+    },
+    "269": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+        "answer": "A",
+        "instruction": "Pagrindinė augalo sėklos funkcija yra",
+        "option_a": "saugoti maistą, kuris bus naudojamas ankstyvojo vystymosi metu",
+        "option_b": "pritraukti žiedadulkes, kurios bus naudojamos vystymosi metu",
+        "option_c": "įsisavinti šviesos energiją, kuri bus naudojama fotosintezės metu",
+        "option_d": "gaminti chlorofilą, kuris bus naudojamas fotosintezės metu"
+    },
+    "270": {
+        "id": "ARC-Challenge/validation/Mercury_7189035",
+        "answer": "D",
+        "instruction": "Skotas žiūrėjo į raudonų ir baltų gėlių kryžminimo rezultatus. Koks yra labiausiai tikėtinas kryžminimo rezultatas, kuris demonstruoja neišsamią dominavimą?",
+        "option_a": "0% rožinių gėlių",
+        "option_b": "25% baltų gėlių",
+        "option_c": "50% raudonų gėlių",
+        "option_d": "100% rožinių gėlių"
+    },
+    "271": {
+        "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+        "answer": "B",
+        "instruction": "Jolie norėjo pusryčiams valgyti kietai virtą kiaušinį. Ji kiaušinį įdėjo į verdantį vandenį penkiolikai minučių. Kai ji sulaužė lukštą, skystos kiaušinio dalys tapo kietos. Tai buvo todėl,",
+        "option_a": "šildymas pašalino vandenį iš kiaušinio.",
+        "option_b": "šildymas pakeitė cheminius ryšius kiaušinyje.",
+        "option_c": "virimas atnešė kietas kiaušinio dalis į paviršių.",
+        "option_d": "skystame kiaušinyje gyvenančios bakterijos buvo nužudytos."
+    },
+    "272": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400172",
+        "answer": "A",
+        "instruction": "Kuris mokslininkas teigė, kad Žemė yra visatos centras?",
+        "option_a": "Aristotelis",
+        "option_b": "Kopernikas",
+        "option_c": "Einstainas",
+        "option_d": "Niutonas"
+    },
+    "273": {
+        "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+        "answer": "D",
+        "instruction": "Patelės ruoniai paprastai grįžta į tas pačias paplūdimius metai iš metų, kad pagimdytų. Jei žmonės nuolat trikdys juos tuose paplūdimiuose, kaip ruoniai greičiausiai reaguos?",
+        "option_a": "Jie pakeis spalvą.",
+        "option_b": "Jie pagimdys daugiau jauniklių.",
+        "option_c": "Jie dažniau medžios maistui.",
+        "option_d": "Jie pagimdys kituose paplūdimiuose."
+    },
+    "274": {
+        "id": "ARC-Challenge/validation/MEA_2010_8_11",
+        "answer": "A",
+        "instruction": "Kai skysčių vandens molekulių judėjimas sulėtėja, kas greičiausiai nutinka?",
+        "option_a": "Skystas vanduo virsta kietu.",
+        "option_b": "Skystas vanduo kondensuojasi.",
+        "option_c": "Skystas vanduo patiria cheminę reakciją.",
+        "option_d": "Skystas vanduo virsta garais."
+    },
+    "275": {
+        "id": "ARC-Challenge/validation/Mercury_7187058",
+        "answer": "A",
+        "instruction": "Kiekvieną naktį Džonis skaito šalia lempos, kurią apšviečia kaitrinė lemputė. Koks yra geriausias rodiklis, kad elektros energijos perdavimas į lemputę yra neefektyvus?",
+        "option_a": "Lemputė įkaista.",
+        "option_b": "Lemputė skleidžia šviesą.",
+        "option_c": "Lempa naudoja varinius laidus.",
+        "option_d": "Lempą galima išjungti jungikliu."
+    },
+    "276": {
+        "id": "ARC-Challenge/validation/Mercury_7185133",
+        "answer": "A",
+        "instruction": "Tracey mokėsi apie struktūrinę organizaciją gyvūnuose. Koks struktūrinės organizacijos lygis geriausiai apibūdina kiaušinį?",
+        "option_a": "ląstelė",
+        "option_b": "audinys",
+        "option_c": "sistema",
+        "option_d": "organas"
+    },
+    "277": {
+        "id": "ARC-Challenge/validation/Mercury_7183733",
+        "answer": "B",
+        "instruction": "Everglades regione Amerikos aligatoriaus kūno būklė glaudžiai susijusi su vandens gyliu. Kai vandens lygis pakyla per aukštai, gyvūnų rūšys išsisklaido plačiau, dėl to sumažėja kūno būklė, nes jie negali rasti pakankamai maisto šaltinių. Kai vandens lygis nukrenta, gyvūnų rūšys susirenka mažesnėse teritorijose, leidžiančiose aligatoriams efektyviau medžioti. Šis scenarijus yra pavyzdys, kaip aligatorių išgyvenimas priklauso nuo to, kuris veiksnys yra ribojamas?",
+        "option_a": "skaidymo greitis",
+        "option_b": "grobio buveinės plotas",
+        "option_c": "produkcijos išvestis",
+        "option_d": "vandens apykaita"
+    },
+    "278": {
+        "id": "ARC-Challenge/validation/Mercury_7205345",
+        "answer": "D",
+        "instruction": "Kai gaminamas stalo druska (NaCl), kuris iš šių geriausiai apibūdina natrio (Na) ir chloro (Cl) atomų veiksmus?",
+        "option_a": "Natrio atomai pakeičia chloro atomus.",
+        "option_b": "Natrio ir chloro atomai sumaišomi kartu.",
+        "option_c": "Natrio atomai tirpsta chloro atomuose.",
+        "option_d": "Natrio ir chloro atomai cheminiu būdu jungiasi."
+    },
+    "279": {
+        "id": "ARC-Challenge/validation/Mercury_176838",
+        "answer": "A",
+        "instruction": "Kuri iš šių nėra kraujotakos sistemos funkcija?",
+        "option_a": "suskaldyti maistą į maistingąsias medžiagas",
+        "option_b": "pervežti maistingąsias medžiagas ir deguonį",
+        "option_c": "pašalinti atliekas iš organizmo",
+        "option_d": "ginti organizmą nuo svetimų įsibrovėlių"
+    },
+    "280": {
+        "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+        "answer": "D",
+        "instruction": "Kolibriai gali sustoti ore ir skristi labai greitai. Tai naudinga kolibriui visais atvejais, išskyrus",
+        "option_a": "greitai pabėgti nuo plėšrūnų.",
+        "option_b": "lengvai pasiekti gėles.",
+        "option_c": "likti vienoje vietoje gerti nektarą.",
+        "option_d": "išlaikyti kiaušinius šiltus."
+    },
+    "281": {
+        "id": "ARC-Challenge/validation/Mercury_7166180",
+        "answer": "B",
+        "instruction": "Augalų augimą veikia aplinkos veiksniai, tokie kaip gravitacija. Jei sėkla leidžiama daiginti ir augti, kai ji yra pasukta šonu, kas greičiausiai įvyks?",
+        "option_a": "šaknys augs žemyn, stiebai augs žemyn",
+        "option_b": "šaknys augs žemyn, stiebai augs aukštyn",
+        "option_c": "šaknys augs aukštyn, stiebai augs žemyn",
+        "option_d": "šaknys augs aukštyn, stiebai augs aukštyn"
+    },
+    "282": {
+        "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+        "answer": "C",
+        "instruction": "Mokinis stebėjo uolieną, sudarytą iš daugybės mažų smėlio dalelių, išdėstytų šviesių ir tamsių sluoksnių. Kuris iš šių teiginių apibūdina, kaip greičiausiai susiformavo šio tipo uoliena?",
+        "option_a": "Molis buvo sutrintas ir užšaldytas po ledynu.",
+        "option_b": "Lava iš vulkano greitai atvėso vandenyje.",
+        "option_c": "Upių nuosėdos buvo lėtai sutankintos ir suklijuotos kartu.",
+        "option_d": "Mineraliniai nuosėdos sukietėjo į kietą uolieną požeminėse urvuose."
+    },
+    "283": {
+        "id": "ARC-Challenge/validation/Mercury_7267593",
+        "answer": "A",
+        "instruction": "Kurios iš šių gamtos katastrofų yra labiausiai nenuspėjamos?",
+        "option_a": "žemės drebėjimai",
+        "option_b": "uraganai",
+        "option_c": "tornadai",
+        "option_d": "sniego pūgos"
+    },
+    "284": {
+        "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+        "answer": "B",
+        "instruction": "Žmogus NEGALI išgyventi praradus kurį nors iš šių?",
+        "option_a": "Apendiksas",
+        "option_b": "Kepenys",
+        "option_c": "Plaučiai",
+        "option_d": "Inkstas"
+    },
+    "285": {
+        "id": "ARC-Challenge/validation/Mercury_7218750",
+        "answer": "C",
+        "instruction": "Kokio tipo vandens rezervuaras visada galėtų suteikti gėlo vandens?",
+        "option_a": "vidaus ežerai",
+        "option_b": "upių deltai",
+        "option_c": "kalnų ledynai",
+        "option_d": "tropiniai jūros"
+    },
+    "286": {
+        "id": "ARC-Challenge/validation/Mercury_7026198",
+        "answer": "A",
+        "instruction": "Elementas kriptonas yra dujos, kurios rodo beveik jokios cheminės veiklos. Norėdami rasti kitą elementą su panašiomis savybėmis, ką studentas turėtų ieškoti Periodinės elementų lentelės?",
+        "option_a": "elementas toje pačioje grupėje",
+        "option_b": "elementas toje pačioje periodėje",
+        "option_c": "elementas su ta pačia bendrai krūviu",
+        "option_d": "elementas su ta pačia atomine mase"
+    },
+    "287": {
+        "id": "ARC-Challenge/validation/Mercury_7081760",
+        "answer": "B",
+        "instruction": "Norint klasifikuoti naujai atrastą organizmą, mokslininkas tiria organizmo struktūrą, DNR ir gyvenimo ciklą. Mokslininkas greičiausiai naudos tyrimo rezultatus, kad",
+        "option_a": "sukurtų naujas mokslines metodikas.",
+        "option_b": "peržiūrėtų mokslines žinias.",
+        "option_c": "sudarytų naujas hipotezes.",
+        "option_d": "paneigtų mokslines teorijas."
+    },
+    "288": {
+        "id": "ARC-Challenge/validation/Mercury_7130603",
+        "answer": "C",
+        "instruction": "Kuri iš išvardytų kiekių matuojama vienetu, kuris nėra džoulis?",
+        "option_a": "šiluma",
+        "option_b": "šviesa",
+        "option_c": "galia",
+        "option_d": "darbas"
+    },
+    "289": {
+        "id": "ARC-Challenge/validation/Mercury_7074865",
+        "answer": "C",
+        "instruction": "Kuri iš šių teiginių yra teisinga apie dumblius, bakterijas ir žydinčius augalus?",
+        "option_a": "Jie yra neorganiniai.",
+        "option_b": "Visi jie turi chlorofilą.",
+        "option_c": "Jie sudaryti iš ląstelių.",
+        "option_d": "Visi jie maitinasi kitais organizmais."
+    },
+    "290": {
+        "id": "ARC-Challenge/validation/Mercury_7042700",
+        "answer": "D",
+        "instruction": "Kuris prietaisas nebūtų reikalingas atliekant gyvūnų skrodimą?",
+        "option_a": "pirštinės",
+        "option_b": "apsauginiai akiniai",
+        "option_c": "laboratorinis chalatas",
+        "option_d": "saugos dušas"
+    },
+    "291": {
+        "id": "ARC-Challenge/validation/Mercury_7071365",
+        "answer": "D",
+        "instruction": "Kuris palyginimas tarp drugelių ir kandžių yra faktinė teiginys?",
+        "option_a": "Drugeliai yra gražesni ir smagiau juos stebėti nei kandys.",
+        "option_b": "Drugeliai geriau skrenda nei kandys.",
+        "option_c": "Drugeliai ir kandys dienos metu yra daug laimingesni.",
+        "option_d": "Drugeliai ir kandys turi vienodą kojų skaičių."
+    },
+    "292": {
+        "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+        "answer": "C",
+        "instruction": "Augalams ir gyvūnams reikia maisto augimui. Kas nutinka su didžiąja dalimi maisto, kurį gamina augalai?",
+        "option_a": "Maistas išskiriamas kaip dujos.",
+        "option_b": "Maistas paverčiamas į vandenį.",
+        "option_c": "Maistas saugomas būsimam naudojimui.",
+        "option_d": "Maistas naudojamas saulės šviesai sugerti."
+    },
+    "293": {
+        "id": "ARC-Challenge/validation/Mercury_7026443",
+        "answer": "D",
+        "instruction": "Kuris šuns bruožas yra paveldimas?",
+        "option_a": "Šuo vengia katės.",
+        "option_b": "Šuo šoka ant sofos.",
+        "option_c": "Šuo vartosi pagal komandą.",
+        "option_d": "Šuo seilėjasi, kai užuodžia maistą."
+    },
+    "294": {
+        "id": "ARC-Challenge/validation/Mercury_7008138",
+        "answer": "B",
+        "instruction": "Kuri teiginys apibūdina asteroidus ir kometas?",
+        "option_a": "Asteroidai yra dujiniai, o kometos yra kietos.",
+        "option_b": "Asteroidai yra kieti, o kometos yra dujinės.",
+        "option_c": "T tanto asteroidai, tiek kometos yra kietos.",
+        "option_d": "T tanto asteroidai, tiek kometos yra dujinės."
+    },
+    "295": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402104",
+        "answer": "D",
+        "instruction": "Toksinių chemikalų išmetimas į tvenkinį greičiausiai sukels",
+        "option_a": "deguonies lygio padidėjimą tvenkinyje.",
+        "option_b": "augalų šalia tvenkinio greitesnį augimą.",
+        "option_c": "toksinių chemikalų neturėjimą jokio poveikio tvenkiniui.",
+        "option_d": "žuvų tvenkinyje sužalojimą arba išnykimą."
+    },
+    "296": {
+        "id": "ARC-Challenge/validation/Mercury_7086013",
+        "answer": "D",
+        "instruction": "Humboldt upės baseinas yra vienas svarbiausių kelių neatsinaujinančių išteklių šaltinių. Kuris iš šių neatsinaujinančių išteklių gaunamas iš Humboldt upės baseino?",
+        "option_a": "anglis iš kalnų telkinių",
+        "option_b": "nafta ir dujos iš požeminių rezervuarų",
+        "option_c": "elektrinė energija iš hidroelektrinių generatorių",
+        "option_d": "mineralai iš aukso, sidabro ir vario gavybos"
+    },
+    "297": {
+        "id": "ARC-Challenge/validation/Mercury_7248238",
+        "answer": "D",
+        "instruction": "Moskito žuvys, rastos Bahamų salose, gyvena įvairiuose izoliuotuose gėlo vandens tvenkiniuose, kurie kadaise buvo vienas vandens telkinys. Kai keli patinai ir patelės moskito žuvų yra paimami iš dviejų izoliuotų tvenkinių ir dedami į vieną tvenkinį, kiekvienos moskito žuvies veisimosi pasirinkimas yra žuvys iš savo originalaus tvenkinio. Kas labiausiai tikėtina lėmė šį veisimosi pasirinkimą?",
+        "option_a": "Maisto prieinamumas turėjo įtakos žuvų veisimosi pasirinkimams.",
+        "option_b": "Konkursas dėl tinkamo partnerio turėjo įtakos veisimosi pasirinkimams.",
+        "option_c": "Plėšrūnai tvenkinyje turėjo įtakos žuvų veisimosi pasirinkimams.",
+        "option_d": "Speciacija dėl reprodukcinės izoliacijos turėjo įtakos veisimosi pasirinkimams."
+    }
+}

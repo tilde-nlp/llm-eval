@@ -1,0 +1,2682 @@
+{
+    "0": {
+        "id": "ARC-Challenge/validation/Mercury_7099103",
+        "answer": "D",
+        "instruction": "Savvaļas avenes vairojas aseksuāli, izaugot jaunas saknes, kad stublāji pieskaras zemei. Tās arī vairojas seksuāli caur savām ziediem. Kāda ir priekšrocība, ka avenes var vairoties gan seksuāli, gan aseksuāli?",
+        "option_a": "Tas ļauj augiem augt augstāk.",
+        "option_b": "Tas ražo ziedus, kas pievelk kukaiņus.",
+        "option_c": "Tas ražo avenes, kurām ir vairāk garšas.",
+        "option_d": "Tas ļauj avenes pielāgoties jaunajiem apstākļiem."
+    },
+    "1": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+        "answer": "C",
+        "instruction": "Kurš no šiem apraksta mehānisko enerģiju ratiņiem, kas atrodas miera stāvoklī stāvā kalnā?",
+        "option_a": "Ratiņiem nav mehāniskās enerģijas.",
+        "option_b": "Ratiņu mehāniskā enerģija ir pilnībā kinētiskā.",
+        "option_c": "Ratiņu mehāniskā enerģija ir pilnībā potenciālā.",
+        "option_d": "Ratiņu mehāniskā enerģija ir puse potenciālā un puse kinētiskā."
+    },
+    "2": {
+        "id": "ARC-Challenge/validation/Mercury_7090738",
+        "answer": "A",
+        "instruction": "Kura jautājuma atbildi var iegūt, veicot zinātnisku izpēti?",
+        "option_a": "Kā saules enerģija ietekmē mākoņu veidošanos?",
+        "option_b": "Kāpēc tīģeri ir skaistāki par iguānām?",
+        "option_c": "Kura ir labākā mācību joma koledžā?",
+        "option_d": "Vai cilvēkiem vajadzētu ieguldīt kosmosa ceļojumos?"
+    },
+    "3": {
+        "id": "ARC-Challenge/validation/Mercury_7130883",
+        "answer": "B",
+        "instruction": "Inženieru klasei ir uzdots izstrādāt robotu. Robotam jābūt projektētam, izmantojot elektromagnētisko enerģiju kā vienīgo enerģijas avotu. Par kuru tēmu inženieru klase visdrīzāk mācās?",
+        "option_a": "bateriju un ķīmiskās enerģijas izmantošana",
+        "option_b": "kā var izmantot starojuma enerģiju un saules kolektorus",
+        "option_c": "kinētiskās enerģijas pārvēršana potenciālajā enerģijā",
+        "option_d": "kā siltuma enerģiju var pārvērst elektriskajā enerģijā"
+    },
+    "4": {
+        "id": "ARC-Challenge/validation/Mercury_7190155",
+        "answer": "B",
+        "instruction": "Dažādas augu un dzīvnieku sugas dzīvo Amazones lietus mežā. Kāds ir visdrīzākais rezultāts lielām meža izciršanas platībām Amazones lietus mežā?",
+        "option_a": "dzīvnieku populāciju pieaugums",
+        "option_b": "skābekļa ražošanas samazināšanās",
+        "option_c": "nokrišņu pieaugums",
+        "option_d": "piesārņotāju samazināšanās"
+    },
+    "5": {
+        "id": "ARC-Challenge/validation/Mercury_177398",
+        "answer": "B",
+        "instruction": "Auto, kas pārvietojas ziemeļaustrumu virzienā ar ātrumu 50 km/h, pārstāv kuru no sekojošajiem?",
+        "option_a": "ātrums",
+        "option_b": "ātrums ar virzienu",
+        "option_c": "paātrinājums",
+        "option_d": "lēnināšana"
+    },
+    "6": {
+        "id": "ARC-Challenge/validation/Mercury_7246995",
+        "answer": "C",
+        "instruction": "Dažām augu šūnām ir nepieciešama enerģija, lai pārvadītu barības vielas caur šūnu membrānu. Kura veida enerģijas pārvēršana šīs augu šūnas izmanto, lai ievedu barības vielu molekulu šūnu membrānā?",
+        "option_a": "siltuma enerģija uz kinētisko enerģiju",
+        "option_b": "potenciālā enerģija uz gaismas enerģiju",
+        "option_c": "ķīmiskā enerģija uz kinētisko enerģiju",
+        "option_d": "kinētiskā enerģija uz potenciālo enerģiju"
+    },
+    "7": {
+        "id": "ARC-Challenge/validation/Mercury_189490",
+        "answer": "A",
+        "instruction": "Gregora Mendela novērojums par zirņu augiem ir piemērs",
+        "option_a": "pētījumos balstītiem pierādījumiem, kas atbalsta zinātnisko teoriju.",
+        "option_b": "secinājumam, ko pārbauda hipotēze.",
+        "option_c": "nejaušai testēšanai eksperimenta laikā.",
+        "option_d": "pierādījumiem par un pret zinātnisko modeli."
+    },
+    "8": {
+        "id": "ARC-Challenge/validation/Mercury_7139790",
+        "answer": "C",
+        "instruction": "Astoņkājim ir īpašas šūnas ādā, ko sauc par hromatoforiem, kas ļauj astoņkājim gandrīz nekavējoties mainīt savu krāsu. Hromatofori visdrīzāk palīdz astoņkājim",
+        "option_a": "peldēt ātrāk.",
+        "option_b": "elpot lēnāk.",
+        "option_c": "slēpties no plēsējiem.",
+        "option_d": "regulēt ķermeņa temperatūru."
+    },
+    "9": {
+        "id": "ARC-Challenge/validation/Mercury_7282608",
+        "answer": "C",
+        "instruction": "Notekūdeņi no mājām nav visi vienādi. Pelēkie ūdeņi attiecas uz mājas notekūdeņiem no izlietnēm un vannām. Tajos nav cilvēku bioloģisko atkritumu, tāpēc tos var atkārtoti izmantot, nevis apstrādāt kā kanalizāciju. Kuri pelēko ūdeņu izmantošanas veidi demonstrē labu pārvaldību?",
+        "option_a": "trauku mazgāšana un dzeršana",
+        "option_b": "dzeršana un ziedu dobes laistīšana",
+        "option_c": "ziedu dobes laistīšana un koku laistīšana",
+        "option_d": "koku laistīšana un trauku mazgāšana"
+    },
+    "10": {
+        "id": "ARC-Challenge/validation/Mercury_7145513",
+        "answer": "B",
+        "instruction": "Dzīves procesi prasa enerģiju. Biochemiskie procesi ietver specifiskas reakcijas. Kas ir biochemisko procesu raksturīga iezīme, kas kopīga visiem dzīvniekiem?",
+        "option_a": "darbojas jebkurā pH līmenī",
+        "option_b": "siltums, kas izdalās kā produkts",
+        "option_c": "izmanto tikai anaerobo elpošanu",
+        "option_d": "uzsūktās enerģijas daudzums"
+    },
+    "11": {
+        "id": "ARC-Challenge/validation/Mercury_7018148",
+        "answer": "B",
+        "instruction": "Lielākā daļa elementu, kas atrodami elementu periodiskajā tabulā, ir",
+        "option_a": "gāzes.",
+        "option_b": "metāli.",
+        "option_c": "šķidrumi.",
+        "option_d": "nemetāli."
+    },
+    "12": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401294",
+        "answer": "B",
+        "instruction": "Augu lapu forma, kas labi izdzīvo lietainā klimatā, visbiežāk ir",
+        "option_a": "sarkanas un spīdīgas.",
+        "option_b": "platas un plakanas.",
+        "option_c": "biezas un vaskainas.",
+        "option_d": "as un šauras."
+    },
+    "13": {
+        "id": "ARC-Challenge/validation/Mercury_7207410",
+        "answer": "C",
+        "instruction": "Vēja mednieki ir cilvēki, kuri tuvojas vētrām, lai tās novērotu un veiktu mērījumus. Kādas zināšanas vēja mednieki ir pievienojuši vētru pētījumam, kas visvairāk palīdzējis mainīt teorijas par vētru veidošanos?",
+        "option_a": "viņu uzskati par vētru nodarītajiem postījumiem",
+        "option_b": "viņu personiskā pieredze vētrās",
+        "option_c": "viņu dati, kas savākti vētru sākumā",
+        "option_d": "viņu entuziasms pētīt dažādas vētras"
+    },
+    "14": {
+        "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+        "answer": "A",
+        "instruction": "Kurš no šiem vislabāk raksturo cietā ledus bloka masu?",
+        "option_a": "materiāla daudzums blokā",
+        "option_b": "telpas daudzums, ko bloks aizņem",
+        "option_c": "gravitācijas spēks, kas iedarbojas uz bloku",
+        "option_d": "attālums starp molekulām blokā"
+    },
+    "15": {
+        "id": "ARC-Challenge/validation/Mercury_7201705",
+        "answer": "A",
+        "instruction": "Daudzās pasaules daļās zeme, kas ir pārāk sausa lauksaimniecībai, tiek izmantota lopu ganīšanai. Pārganošana šajās zemēs iznīcina vietējās augu sugas un izjauc dabisko augsnes segumu. Kā pārganošana noved pie tuksnešošanās?",
+        "option_a": "palielinot augšņu erozijas ātrumu",
+        "option_b": "ļaujot svešzemju sugām kolonizēt zemi",
+        "option_c": "samazinot pieejamo pārtiku lopiem",
+        "option_d": "izraisot zemi ātrāk uzsūkt lietus ūdeni"
+    },
+    "16": {
+        "id": "ARC-Challenge/validation/Mercury_7133858",
+        "answer": "B",
+        "instruction": "Materija var piedzīvot dažādas izmaiņas. Kas vislabāk demonstrē ķīmisku izmaiņu?",
+        "option_a": "sāls izšķīdināšana",
+        "option_b": "koka dedzināšana",
+        "option_c": "ūdens vārīšanās",
+        "option_d": "ledus kušana"
+    },
+    "17": {
+        "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+        "answer": "D",
+        "instruction": "Kurš no šiem nav instinktīva uzvedība?",
+        "option_a": "putns, kas būvē ligzdu",
+        "option_b": "bruņurupucis, kas apglabā savas olas",
+        "option_c": "lācis, kas ziemā guļ",
+        "option_d": "zirgs, kas velk arklu"
+    },
+    "18": {
+        "id": "ARC-Challenge/validation/Mercury_7198380",
+        "answer": "D",
+        "instruction": "Atšķirīgas zābērnieku sugas dzīvoja tajā pašā ekosistēmā. Kurš faktors visdrīzāk palielinājās, radot lielāku konkurenci par resursiem starp zābērniekiem?",
+        "option_a": "augsnes auglība",
+        "option_b": "ražotāju populācija apgabalā",
+        "option_c": "plēsoņu atstātie pārtikas atkritumi",
+        "option_d": "primāro patērētāju pārvietošanās ātrums apgabalā"
+    },
+    "19": {
+        "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+        "answer": "C",
+        "instruction": "Kādas ķirzakas sugas galvenokārt ēd augļus no viena konkrēta koka veida. Ja vīruss nogalina lielāko daļu šo koku, kuras individuālās ķirzakas visdrīzāk izdzīvos?",
+        "option_a": "ķirzakas, kas var kāpt augstāk augļu kokos",
+        "option_b": "ķirzakas, kurām ir tumšāka krāsojuma",
+        "option_c": "ķirzakas, kas var atrast citus pārtikas veidus",
+        "option_d": "ķirzakas, kas ražo vairāk pēcnācēju"
+    },
+    "20": {
+        "id": "ARC-Challenge/validation/Mercury_7217053",
+        "answer": "B",
+        "instruction": "Bioloģiskā evolūcija var notikt caur visām šīm izņemot",
+        "option_a": "konkurenci.",
+        "option_b": "fosilizāciju.",
+        "option_c": "variāciju.",
+        "option_d": "adaptāciju."
+    },
+    "21": {
+        "id": "ARC-Challenge/validation/Mercury_7233660",
+        "answer": "C",
+        "instruction": "Daži zinātnieki teorētizē, ka plākšņu kustība varētu mainīt ūdens līmeni Zemes jūrās. Kā plākšņu kustības raksturs ierobežotu iespējamos jūras līmeņa izmaiņas?",
+        "option_a": "izraisot tikai nelielas izmaiņas",
+        "option_b": "mainot tikai dažas specifiskas okeāna baseinus",
+        "option_c": "izraisot izmaiņas ļoti lēnā tempā",
+        "option_d": "izraisot pāra izmaiņas ar vienādām un pretējām sekām"
+    },
+    "22": {
+        "id": "ARC-Challenge/validation/Mercury_7115395",
+        "answer": "A",
+        "instruction": "Kuri pārmaiņas visdrīzāk negatīvi ietekmēs ekosistēmu?",
+        "option_a": "ceļa būvniecība",
+        "option_b": "koka stādīšana",
+        "option_c": "salda ūdens avota pievienošana",
+        "option_d": "dabiskā patvēruma izveide"
+    },
+    "23": {
+        "id": "ARC-Challenge/validation/MSA_2013_8_3",
+        "answer": "D",
+        "instruction": "Ģeologi ir identificējuši septiņas galvenās tektoniskās plātnes Zemes virsmā. Kurš pierādījums vislabāk norāda, ka tektoniskās plātnes saduras?",
+        "option_a": "Vējš erodē virsmas iežu veidojumus.",
+        "option_b": "Fosilijas datējas tūkstošiem gadu senumā.",
+        "option_c": "Mazie akmeņi paliek aiz, kad ledāji atkāpjās.",
+        "option_d": "Vecākas iežu kārtas atrodas virs jaunākām iežu kārtām."
+    },
+    "24": {
+        "id": "ARC-Challenge/validation/Mercury_7205135",
+        "answer": "C",
+        "instruction": "Kā daļiņas dzelzs blokā tiek ietekmētas, kad bloks tiek izkusis?",
+        "option_a": "Daļiņas iegūst masu.",
+        "option_b": "Daļiņām ir mazāk enerģijas.",
+        "option_c": "Daļiņas pārvietojas ātrāk.",
+        "option_d": "Daļiņas palielinās tilpumā."
+    },
+    "25": {
+        "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+        "answer": "A",
+        "instruction": "Sara ieslēdz lukturīti un tur objektu gaismā. Kā viņa varēs noteikt, vai objekts ir necaurspīdīgs?",
+        "option_a": "Gaisma neizies cauri.",
+        "option_b": "Kāda gaisma tiks atstarota.",
+        "option_c": "Gaisma salieksies leņķī.",
+        "option_d": "Gaisma skaidri izies cauri."
+    },
+    "26": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+        "answer": "E",
+        "instruction": "Kurš no šiem orgāniem NAV novietots vēderā?",
+        "option_a": "aknas",
+        "option_b": "nieres",
+        "option_c": "kuņģis",
+        "option_d": "urīnpūslis",
+        "option_e": "sirds"
+    },
+    "27": {
+        "id": "ARC-Challenge/validation/Mercury_7181685",
+        "answer": "A",
+        "instruction": "Ziedu krāsas iezīme ir ļoti mainīga noteiktām rozā augu sugām, kas noved pie ziedu veidošanās dažādās krāsās. Kā radās ziedu krāsas variācija rozā augos?",
+        "option_a": "caur mutāciju",
+        "option_b": "caur apputeksnēšanu",
+        "option_c": "caur dabisko atlasi",
+        "option_d": "caur aseksuālo reprodukciju"
+    },
+    "28": {
+        "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+        "answer": "D",
+        "instruction": "Sniega zaķis divas reizes gadā maina savu kažoku. Vasarā zaķa kažoks ir brūns. Ziemā kažoks ir balts. Kurš no šiem apgalvojumiem vislabāk izskaidro kažoka maiņas priekšrocību?",
+        "option_a": "Kažoka maiņa palīdz zaķim palikt tīram.",
+        "option_b": "Kažoka maiņa palīdz zaķim ātri pārvietoties.",
+        "option_c": "Kažoka maiņa palīdz zaķa mājvietai būt siltai.",
+        "option_d": "Kažoka maiņa palīdz zaķim saplūst ar savu vidi."
+    },
+    "29": {
+        "id": "ARC-Challenge/validation/Mercury_7008120",
+        "answer": "A",
+        "instruction": "Binārie zvaigznes tiek izmantotas zinātnieku, lai noteiktu zvaigznes",
+        "option_a": "masi.",
+        "option_b": "spīdumu.",
+        "option_c": "attālumu no Zemes.",
+        "option_d": "attālumu no Saules."
+    },
+    "30": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+        "answer": "B",
+        "instruction": "Zēns var redzēt savu seju, kad skatās mierīgā dīķī. Kura fiziskā īpašība dīķī to padara iespējamu?",
+        "option_a": "elastība",
+        "option_b": "atspoguļošanās",
+        "option_c": "temperatūra",
+        "option_d": "tilpums"
+    },
+    "31": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+        "answer": "B",
+        "instruction": "Students stādīja divas pupiņu sēklas divās identiskās podiņos, kuros bija tāda paša veida augsne. Viņš vienu podiņu novietoja skapī, bet otru pie saulaina loga. Katru dienu viņš ieleja 15 mililitrus ūdens katrā podiņā. Kurš faktors bija atšķirīgs abiem podiņiem?",
+        "option_a": "ūdens daudzums",
+        "option_b": "gaismas daudzums",
+        "option_c": "augsnes veids",
+        "option_d": "sēklu veids"
+    },
+    "32": {
+        "id": "ARC-Challenge/validation/Mercury_7141698",
+        "answer": "B",
+        "instruction": "Kad notiek zibens, tas uzsilda apkārtējo gaisu. Karstais gaiss paplašinās un rada pērkona skaņu. Zibens enerģija tiek pārvērsta kādā enerģijas veidā, lai radītu pērkona skaņu?",
+        "option_a": "gravitācijas",
+        "option_b": "mehāniskās",
+        "option_c": "kodolenerģijas",
+        "option_d": "radiantās"
+    },
+    "33": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407314",
+        "answer": "A",
+        "instruction": "Divu klašu studenti veica to pašu izpēti. Katras klases rezultāti bija atšķirīgi. Kāds ir labākais veids, kā studentiem noteikt, kāpēc rezultāti bija atšķirīgi?",
+        "option_a": "Pārskatīt izpētes laikā veiktos soļus.",
+        "option_b": "Mainīt izpētes hipotēzi.",
+        "option_c": "Pētīt datus par līdzīgām izpētēm.",
+        "option_d": "Veikt citu izpēti."
+    },
+    "34": {
+        "id": "ARC-Challenge/validation/Mercury_406781",
+        "answer": "C",
+        "instruction": "Kura mijiedarbība starp dzīvniekiem vislabāk kontrolē sugas populāciju?",
+        "option_a": "savvaļas dzīvnieki iezīmējot savas teritorijas",
+        "option_b": "remora zivis ceļojot kopā ar haizivīm",
+        "option_c": "lauvas medījot zebras",
+        "option_d": "vilki ceļojot baros"
+    },
+    "35": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400845",
+        "answer": "B",
+        "instruction": "Zibens var radīt visas šīs enerģijas formas, izņemot",
+        "option_a": "siltuma enerģiju.",
+        "option_b": "saules enerģiju.",
+        "option_c": "gaismas enerģiju.",
+        "option_d": "elektrisko enerģiju."
+    },
+    "36": {
+        "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+        "answer": "B",
+        "instruction": "Janet ir saņēmusi dažus minerālus, kurus identificēt. Viens no viņas paraugiem ir dzeltens. Kurš no šiem minerāliem visdrīzāk būs dzeltens?",
+        "option_a": "Talks",
+        "option_b": "Sērs",
+        "option_c": "Gipsis",
+        "option_d": "Hematīts"
+    },
+    "37": {
+        "id": "ARC-Challenge/validation/Mercury_7171938",
+        "answer": "D",
+        "instruction": "Zemes okeāna paisumi ir spēcīgi ietekmēti no Mēness. Kurās Mēness fāzēs okeāna paisumi ir viszemākie uz Zemes?",
+        "option_a": "pilnā un pirmajā ceturksnī",
+        "option_b": "pilnā mēnesī un jaunā mēnesī",
+        "option_c": "pēdējā ceturksnī un jaunā mēnesī",
+        "option_d": "pirmajā ceturksnī un pēdējā ceturksnī"
+    },
+    "38": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415354",
+        "answer": "C",
+        "instruction": "Kuru no šīm uzvedībām delfīns iemācās?",
+        "option_a": "ēst mazus zivis",
+        "option_b": "peldēt sālsūdenī",
+        "option_c": "noturēt bumbu uz sava deguna",
+        "option_d": "elpot caur savu elpceļu"
+    },
+    "39": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+        "answer": "C",
+        "instruction": "Kuru īpašību kaķis visdrīzāk manto no saviem vecākiem?",
+        "option_a": "būt ar rētu",
+        "option_b": "vajāt rotaļlietu",
+        "option_c": "būt ar baltu vilnu",
+        "option_d": "zināt savu vārdu"
+    },
+    "40": {
+        "id": "ARC-Challenge/validation/Mercury_7251685",
+        "answer": "B",
+        "instruction": "Kura aktivitāte visefektīvāk nodrošina osteocītu pareizu darbību?",
+        "option_a": "elpošanas ātruma palielināšana",
+        "option_b": "minerālvielām bagātu pārtikas produktu patēriņš",
+        "option_c": "stresa vingrinājumu samazināšana",
+        "option_d": "ūdens bez joniem dzeršana"
+    },
+    "41": {
+        "id": "ARC-Challenge/validation/Mercury_7267995",
+        "answer": "C",
+        "instruction": "Dažas augu sugas un dzīvnieku sugas ir atkarīgas viena no otras. Kuri no šiem dzīvniekiem palīdz tūkstošiem augu sugu vairoties?",
+        "option_a": "vistas",
+        "option_b": "zemeņu tārpi",
+        "option_c": "medus bites",
+        "option_d": "kāpurķēžu"
+    },
+    "42": {
+        "id": "ARC-Challenge/validation/Mercury_7193043",
+        "answer": "B",
+        "instruction": "Nepamatnie augi var pārņemt teritorijas, kuras kādreiz apdzīvoja vietējās augu sugas. Kurš abiotiskais process ir vismazāk iespējams, lai izraisītu nepamatnieku augu invāziju?",
+        "option_a": "plūdi",
+        "option_b": "nolūšana",
+        "option_c": "putekļu vētras",
+        "option_d": "ledāju kušana"
+    },
+    "43": {
+        "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+        "answer": "C",
+        "instruction": "Zemūdens kuģi ir izpētījuši daudzas okeāna daļas. Kad zemūdens kuģi nolaižas, zinātnieki novēro, ka palielinās -",
+        "option_a": "gaismas daudzums",
+        "option_b": "ūdens temperatūra",
+        "option_c": "ūdens spiediens",
+        "option_d": "okeāna organismu veidi"
+    },
+    "44": {
+        "id": "ARC-Challenge/validation/Mercury_7154263",
+        "answer": "B",
+        "instruction": "Fitoplanktoni ir augu līdzīgi mikroskopiski organismi, kas peld ūdenī, piemēram, okeānā. Tie uzņem oglekļa dioksīdu fotosintēzes procesā. Kas visdrīzāk notiktu, ja fitoplanktonu populācija tiktu iznīcināta?",
+        "option_a": "Jūras temperatūra samazinātos.",
+        "option_b": "Siltumnīcefekta gāzes palielinātos.",
+        "option_c": "Atmosfēras skābeklis palielinātos.",
+        "option_d": "Jūras līmenis strauji samazinātos."
+    },
+    "45": {
+        "id": "ARC-Challenge/validation/Mercury_7032743",
+        "answer": "C",
+        "instruction": "Kura čūskas iezīme, visticamāk, tiek apgūta, nevis mantota?",
+        "option_a": "ātrums",
+        "option_b": "pleķaina kažokāda",
+        "option_c": "medību stratēģijas",
+        "option_d": "nagu, kas neatslēdzas"
+    },
+    "46": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+        "answer": "B",
+        "instruction": "Kad kaķēni izaug par kaķiem, to ķermeņa svars parasti",
+        "option_a": "samazinās",
+        "option_b": "palielinās",
+        "option_c": "paliek nemainīgs"
+    },
+    "47": {
+        "id": "ARC-Challenge/validation/Mercury_7115273",
+        "answer": "C",
+        "instruction": "Lielas aļģu ziedēšanas uz ezera virsmas kavē kuru abiotisko faktoru nonākt līdz dibenam?",
+        "option_a": "ūdens",
+        "option_b": "sāls",
+        "option_c": "gaisma",
+        "option_d": "skābeklis"
+    },
+    "48": {
+        "id": "ARC-Challenge/validation/Mercury_7205555",
+        "answer": "A",
+        "instruction": "Ūdenim ir daudzas unikālas ķīmiskās īpašības. Kura ūdens īpašība padara ūdeni par labu kristālisko sāļu šķīdinātāju?",
+        "option_a": "stipra polaritāte",
+        "option_b": "vāja vadītspēja",
+        "option_c": "augsta viskozitāte",
+        "option_d": "zems pH"
+    },
+    "49": {
+        "id": "ARC-Challenge/validation/Mercury_7192990",
+        "answer": "A",
+        "instruction": "Meža ugunsgrēki notiek daudzās vietās sausuma apstākļu dēļ. Ja sausuma apstākļi turpinās ilgu laiku, kas var apdraudēt koku atkārtotu apmešanos?",
+        "option_a": "augsnes biezuma samazināšanās",
+        "option_b": "erozijas apjoma samazināšanās",
+        "option_c": "baktēriju populācijas pieaugums",
+        "option_d": "skābekļa ražošanas pieaugums"
+    },
+    "50": {
+        "id": "ARC-Challenge/validation/Mercury_SC_408859",
+        "answer": "A",
+        "instruction": "Amerikas aligatori ir izplatīti Floridas mitrājos. Tie ir pazīstami ar to, ka ēd vardes, bruņurupučus, zivis, peles un putnus. Kādu lomu Amerikas aligators ieņem savā ekosistēmā?",
+        "option_a": "patērētājs",
+        "option_b": "sadalītājs",
+        "option_c": "maldītājs",
+        "option_d": "ražotājs"
+    },
+    "51": {
+        "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+        "answer": "C",
+        "instruction": "Sue izmērīja, cik daudz cukura izšķīdīs aukstā ūdenī, siltā ūdenī un karstā ūdenī. Ko viņa, visticamāk, novēroja?",
+        "option_a": "Aukstais ūdens izšķīdināja visvairāk cukura.",
+        "option_b": "Siltā ūdens izšķīdināja visvairāk cukura.",
+        "option_c": "Karstais ūdens izšķīdināja visvairāk cukura.",
+        "option_d": "Aukstais ūdens, siltais ūdens un karstais ūdens izšķīdināja vienādu cukura daudzumu."
+    },
+    "52": {
+        "id": "ARC-Challenge/validation/Mercury_180058",
+        "answer": "A",
+        "instruction": "Kolektīvs, kas atklāts Kolorādo, datēts ar agrīno mezozoja ēru. Gadu vēlāk līdzīgs fosīls tiek atrasts Vaomingā, kas arī datēts ar agrīno mezozoja ēru. Šie divi organismi, visticamāk, dzīvoja",
+        "option_a": "tajā pašā vidē apmēram tajā pašā laikā.",
+        "option_b": "tajā pašā vidē atšķirīgos laikos.",
+        "option_c": "atšķirīgās vidēs apmēram tajā pašā laikā.",
+        "option_d": "atšķirīgās vidēs atšķirīgos laikos."
+    },
+    "53": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400050",
+        "answer": "C",
+        "instruction": "Kas notiek, kad temperatūra mājā ir zemāka par termostata iestatīto temperatūru?",
+        "option_a": "Katls pārkarst.",
+        "option_b": "Termostats kļūs karsts.",
+        "option_c": "Katls automātiski ieslēgsies.",
+        "option_d": "Termostats izdos pīkstošu skaņu."
+    },
+    "54": {
+        "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+        "answer": "D",
+        "instruction": "Kurš nav galvenais strīdīgais jautājums, kas saistīts ar kodolenerģijas izmantošanu?",
+        "option_a": "kodolatkritumu produktu apsaimniekošana",
+        "option_b": "veselības riski apgabalos, kas atrodas ap kodolspēkstacijām",
+        "option_c": "ūdens ķermeņu termālā piesārņošana, kas tiek izmantoti dzesēšanai",
+        "option_d": "bezdarbs, kas saistīts ar pāreju uz kodolenerģiju"
+    },
+    "55": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+        "answer": "A",
+        "instruction": "Kura viela nav noteikta tilpuma un nav noteikta forma?",
+        "option_a": "gāze",
+        "option_b": "šķidrums",
+        "option_c": "cieta viela"
+    },
+    "56": {
+        "id": "ARC-Challenge/validation/Mercury_7233678",
+        "answer": "A",
+        "instruction": "Zinātnieki uzskata, ka kontinenta dreifēšana Zemes ģeoloģiskajā vēsturē ir būtiski ietekmējusi Zemes siltāku un vēsāku klimatu ciklus. Kurš apgalvojums raksturo kontinenta īpašību, kas visdrīzāk izraisīs izmaiņas globālajā klimatā, kad kontinenti dreifē?",
+        "option_a": "Kontinenta atrašanās vieta ietekmē tā virsmas atstarojošās spējas.",
+        "option_b": "Kontinenta plātnes dziļums nosaka tā specifisko siltumu.",
+        "option_c": "Kontinenta dreifēšana absorbē lielus kinētiskās enerģijas apjomus.",
+        "option_d": "Kontinenta temperatūru ietekmē tā tuvākais okeāns."
+    },
+    "57": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+        "answer": "B",
+        "instruction": "Augi parasti nevajag ēst citus organismu, jo augi",
+        "option_a": "nepieciešamību pēc pārtikas enerģijas, lai dzīvotu.",
+        "option_b": "pārvērš saules gaismu pārtikas enerģijā.",
+        "option_c": "iegūst visu savu pārtikas enerģiju no augsnes.",
+        "option_d": "uzkrāj pārtikas enerģiju savās saknēs."
+    },
+    "58": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+        "answer": "A",
+        "instruction": "Cietā fāzē (stāvoklī) vielai ir",
+        "option_a": "noteikta forma un noteikts tilpums",
+        "option_b": "noteikta forma, bet nav noteikta tilpuma",
+        "option_c": "nav noteiktas formas, bet ir noteikts tilpums",
+        "option_d": "nav noteiktas formas un nav noteikta tilpuma"
+    },
+    "59": {
+        "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+        "answer": "A",
+        "instruction": "Kā mainītos golfa bumbas mērāmās īpašības, ja to pārvietotu no Zemes uz Mēness?",
+        "option_a": "Tam būtu tāda pati masa, bet atšķirīgs svars.",
+        "option_b": "Tam būtu tāds pats svars, bet atšķirīga masa.",
+        "option_c": "Tam būtu tāda pati blīvuma, bet atšķirīga masa.",
+        "option_d": "Tam būtu tāda pati masa, bet atšķirīga blīvuma."
+    },
+    "60": {
+        "id": "ARC-Challenge/validation/LEAP__7_10354",
+        "answer": "D",
+        "instruction": "Joanes zinātnes skolotājs brīdināja klasi būt skeptiskiem, mācoties par jauniem zinātniskiem atklājumiem. Kāpēc ir svarīgi būt skeptiskiem par jauniem atklājumiem zinātnē?",
+        "option_a": "jo daudzi zinātniskie atklājumi nav balstīti uz faktiem",
+        "option_b": "jo lielākajai daļai zinātnisko atklājumu nav zinātniskas vērtības",
+        "option_c": "jo lielākā daļa zinātnieku pieļauj kļūdas, formulējot zinātniskos atklājumus",
+        "option_d": "jo visiem zinātniskajiem atklājumiem ir jābūt kritiski izvērtētiem, pirms tos var pieņemt"
+    },
+    "61": {
+        "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+        "answer": "B",
+        "instruction": "Automobilī, kurš no šiem komponentiem ir paredzēts, lai sniegtu atgriezenisko saiti vadītājam?",
+        "option_a": "stūre",
+        "option_b": "ātruma mērītājs",
+        "option_c": "bremžu pedālis",
+        "option_d": "automobiļa atslēga"
+    },
+    "62": {
+        "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+        "answer": "C",
+        "instruction": "Kurš no šiem definē savienojumu?",
+        "option_a": "dažādas vielas sajauktas kopā",
+        "option_b": "atomus un molekulas sajauktas kopā",
+        "option_c": "dažādu elementu atomi apvienoti kopā",
+        "option_d": "tā paša elementa atomi apvienoti kopā"
+    },
+    "63": {
+        "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+        "answer": "D",
+        "instruction": "Ledusskapis izmanto elektrību, lai radītu aukstu vietu pārtikas uzglabāšanai. Kādu negatīvu ietekmi ledusskapja lietošana atstāj uz vidi?",
+        "option_a": "Elektrība, kas nepieciešama, lai uzturētu pārtiku aukstu, var būt dārga.",
+        "option_b": "Ja elektrība izslēdzas, pārtika sabojājas un var izraisīt slimības.",
+        "option_c": "Pārtikas uzglabāšana ilgāk samazina iepirkšanās braucienu skaitu un degvielas patēriņu.",
+        "option_d": "Vecie ledusskapji satur ķīmiskas vielas un aizņem vietu atkritumu poligonos."
+    },
+    "64": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+        "answer": "B",
+        "instruction": "Augiem ir specializēti audi stublāju galos. Ko šie audi palīdz augiem darīt?",
+        "option_a": "sagremot pārtiku",
+        "option_b": "augt augstāk",
+        "option_c": "ražot pārtiku",
+        "option_d": "uzsūkt ūdeni"
+    },
+    "65": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415491",
+        "answer": "C",
+        "instruction": "Zeme ap Sauli riņķo reizi gadā. Aptuveni cik reizes mēness riņķo ap Zemi gadā?",
+        "option_a": "1",
+        "option_b": "7",
+        "option_c": "13",
+        "option_d": "28"
+    },
+    "66": {
+        "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+        "answer": "A",
+        "instruction": "Hose ir divi stieples magnēti. Viņš spiež divu magnētu galus kopā un pēc tam atlaida. Magnēti ātri attālinās. Kurš no šiem apgalvojumiem vislabāk izskaidro, kāpēc tas notiek?",
+        "option_a": "Divu magnētu ziemeļu poli ir vērsti viens pret otru.",
+        "option_b": "Viens magnēts ir ziemeļu pols, bet otrs magnēts ir dienvidu pols.",
+        "option_c": "Magnētu gali atgrūž viens otru, bet centri pievelk.",
+        "option_d": "Viens magnēts uzkrāj enerģiju, bet otrs magnēts atbrīvo enerģiju."
+    },
+    "67": {
+        "id": "ARC-Challenge/validation/Mercury_416648",
+        "answer": "A",
+        "instruction": "Paramecijs un volvox abi var vairoties seksuāli. Kā seksuālā reprodukcija volvox atšķiras no seksuālās reprodukcijas paramecijā?",
+        "option_a": "Volvox kolonijas ražo gametas.",
+        "option_b": "Volvox šūnas veic konjugāciju.",
+        "option_c": "Volvox kolonijas ražo vienšūnu pēcnācējus.",
+        "option_d": "Volvox šūnas vairojas ar veģetatīvo pumpurošanos."
+    },
+    "68": {
+        "id": "ARC-Challenge/validation/Mercury_7207620",
+        "answer": "A",
+        "instruction": "Daži instrumenti reģistrē skābekļa līmeni Zemes atmosfēras ozona slānī. Šo datu uzkrāšana daudzu gadu garumā ir piemērs",
+        "option_a": "pierādījumu veidošanai, veicot nepārtrauktu izpēti.",
+        "option_b": "hipotēzes identificēšanai, kas atbalsta datus.",
+        "option_c": "secinājumu izdarīšanai par pierādījumiem no rezultātiem.",
+        "option_d": "datu piedāvāšanai, kas ir viegli saprotami."
+    },
+    "69": {
+        "id": "ARC-Challenge/validation/Mercury_7164850",
+        "answer": "A",
+        "instruction": "Zinību klase izstrādāja plakātu, lai parādītu, kā veidojās barjeru salas Floridas piekrastē. Studentu darbs parādīja vēja, viļņu un paisuma ietekmi uz smiltīm, kas veidoja šīs salas. Plakatā, kuru sistēmu pāris studentiem vajadzētu teikt, ka visvairāk ietekmēja barjeru salu veidošanos?",
+        "option_a": "hidrosfēra un atmosfēra",
+        "option_b": "atmosfēra un litospēra",
+        "option_c": "biosfēra un hidrosfēra",
+        "option_d": "litospēra un biosfēra"
+    },
+    "70": {
+        "id": "ARC-Challenge/validation/Mercury_7011270",
+        "answer": "B",
+        "instruction": "Cik ilgi Mēnesim nepieciešams, lai pabeigtu vienu revolūciju ap Zemi?",
+        "option_a": "7 dienas",
+        "option_b": "30 dienas",
+        "option_c": "90 dienas",
+        "option_d": "365 dienas"
+    },
+    "71": {
+        "id": "ARC-Challenge/validation/Mercury_7090598",
+        "answer": "C",
+        "instruction": "Kurš no šiem procesiem ietver lielu siltuma enerģijas pārvietošanu?",
+        "option_a": "erozija",
+        "option_b": "sedimentācija",
+        "option_c": "subdukcija",
+        "option_d": "cementācija"
+    },
+    "72": {
+        "id": "ARC-Challenge/validation/Mercury_SC_412337",
+        "answer": "D",
+        "instruction": "Izmeklēšanas laikā siltums tika nodots no šķidruma uz vidi. Kurš skaidrojumu pāris vislabāk var izskaidrot šo rezultātu?",
+        "option_a": "Šķidruma temperatūra paaugstinājās, vai arī šķidrums kļuva par gāzi.",
+        "option_b": "Šķidruma temperatūra paaugstinājās, vai arī šķidrums kļuva par cietu vielu.",
+        "option_c": "Šķidruma temperatūra samazinājās, vai arī šķidrums kļuva par gāzi.",
+        "option_d": "Šķidruma temperatūra samazinājās, vai arī šķidrums kļuva par cietu vielu."
+    },
+    "73": {
+        "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+        "answer": "C",
+        "instruction": "Šūnu struktūra, kas padara augu šūnu stingrāku nekā dzīvnieku šūnu, ir",
+        "option_a": "šūnu membrāna.",
+        "option_b": "citoplazma.",
+        "option_c": "šūnu siena.",
+        "option_d": "ribosoma."
+    },
+    "74": {
+        "id": "ARC-Challenge/validation/Mercury_7124338",
+        "answer": "D",
+        "instruction": "Jautājoša prāta klātbūtne būtu noderīga zinātniekam, jo tā novestu zinātnieku pie",
+        "option_a": "kreativitātes palielināšanas.",
+        "option_b": "neuzticēšanās citu zinātnieku darbam.",
+        "option_c": "darba pie publicēto hipotēžu pieņemšanas.",
+        "option_d": "pētījumu veikšanas, lai apstiprinātu vai noraidītu teorijas."
+    },
+    "75": {
+        "id": "ARC-Challenge/validation/Mercury_405454",
+        "answer": "D",
+        "instruction": "Kura gatavošanas ierīce vismaz maina vidi?",
+        "option_a": "gāzes grils",
+        "option_b": "elektriskā cepšanas panna",
+        "option_c": "mikroviļņu krāsns",
+        "option_d": "saules plīts"
+    },
+    "76": {
+        "id": "ARC-Challenge/validation/Mercury_7007875",
+        "answer": "B",
+        "instruction": "Kas ir atbildīgs par vēja radīšanu?",
+        "option_a": "vilnis darbība",
+        "option_b": "saules enerģija",
+        "option_c": "koki, kas pūš",
+        "option_d": "gravitācijas spēks"
+    },
+    "77": {
+        "id": "ARC-Challenge/validation/Mercury_417146",
+        "answer": "A",
+        "instruction": "Lielāko daļu skābekļa atmosfērā ražo aļģes. Kur lielākā daļa aļģu dzīvo?",
+        "option_a": "krasta okeāns",
+        "option_b": "dziļais okeāns",
+        "option_c": "dīķi",
+        "option_d": "ezeri"
+    },
+    "78": {
+        "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+        "answer": "B",
+        "instruction": "Kad cilvēki staigāja uz Mēness, viņi atklāja, ka varēja lekt augstāk nekā uz Zemes. Kāpēc tas ir taisnība?",
+        "option_a": "Uz Mēness nav atmosfēras.",
+        "option_b": "Mēness izsaka mazāku gravitācijas spēku nekā Zeme.",
+        "option_c": "Kosmosa uzvalki palīdzēja viņiem lekt augstāk.",
+        "option_d": "Mēness griežas ātrāk nekā Zeme."
+    },
+    "79": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407695",
+        "answer": "D",
+        "instruction": "Huans un LaKeisha ripo dažus objektus pa rampu. Viņi vēlas redzēt, kurš objekts ripo vislīdzāk. Ko viņiem vajadzētu darīt, lai varētu atkārtot savu izpēti?",
+        "option_a": "Ielieciet objektus grupās.",
+        "option_b": "Mainiet rampas augstumu.",
+        "option_c": "Izvēlieties dažādus objektus ripošanai.",
+        "option_d": "Pierakstiet izpētes detaļas."
+    },
+    "80": {
+        "id": "ARC-Challenge/validation/Mercury_7158673",
+        "answer": "D",
+        "instruction": "Ana ir skrējēja pa šķēršļiem. Pabeidzot sacensības, viņa pamanīja, ka jūtas karsta, jo izdalās siltuma enerģija. Kurš ir visdrīzākā siltuma enerģijas avots?",
+        "option_a": "berze no gaisa",
+        "option_b": "siltums, ko uzsūc no saules",
+        "option_c": "mehāniskā enerģija, ko uzsūc",
+        "option_d": "enerģijas pārvēršanās, kas notiek viņas ķermenī"
+    },
+    "81": {
+        "id": "ARC-Challenge/validation/Mercury_7018515",
+        "answer": "C",
+        "instruction": "Visdrīzākais iemesls, kāpēc skaņa ceļo ātrāk sālsūdenī nekā saldūdenī, ir tas, ka sālsūdens",
+        "option_a": "ir elastīgāks.",
+        "option_b": "uzsūc siltumu ātrāk.",
+        "option_c": "ir ar augstāku blīvumu.",
+        "option_d": "labāk atspoguļo skaņu."
+    },
+    "82": {
+        "id": "ARC-Challenge/validation/Mercury_412551",
+        "answer": "D",
+        "instruction": "Skrējputniem ir divas krāsu variācijas: sarkana un pelēka. Kādu priekšrocību pelēkais skrējputns iegūst salīdzinājumā ar sarkano skrējputnu vidē, kas sastāv no kokiem ar tumšu mizu?",
+        "option_a": "ligzdošana",
+        "option_b": "barošana",
+        "option_c": "vairošanās",
+        "option_d": "slēpšanās"
+    },
+    "83": {
+        "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+        "answer": "D",
+        "instruction": "Trīs beisbola spēlētāji izpēta, kurš var mest beisbola bumbu vislielākajā attālumā. Viņi iezīmē laukumu rotaļu laukumā savai izpētei. Ko viņiem vajadzētu saglabāt nemainīgu?",
+        "option_a": "Spēlētāju augstums",
+        "option_b": "Mestās beisbola bumbas krāsa",
+        "option_c": "Kārtība, kādā spēlētāji met",
+        "option_d": "Vieta, no kuras spēlētāji met"
+    },
+    "84": {
+        "id": "ARC-Challenge/validation/Mercury_7120890",
+        "answer": "A",
+        "instruction": "Kurš vislabāk parāda, ka viļņi pārnes enerģiju?",
+        "option_a": "zvana skanēšana tornī",
+        "option_b": "lapa krītot no koka",
+        "option_c": "bumbas ripošana lejā pa kalnu",
+        "option_d": "karoga kustība vējā"
+    },
+    "85": {
+        "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+        "answer": "A",
+        "instruction": "Kura īpašība attiecas uz dzīvniekiem tikai vienā no šiem taksonomiskajiem grupām: rāpuļi, zīdītāji, putni, abinieki vai zivis?",
+        "option_a": "ir mati",
+        "option_b": "dēj olas",
+        "option_c": "ir peldplēves kājas",
+        "option_d": "elpo ar žaunām"
+    },
+    "86": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415348",
+        "answer": "D",
+        "instruction": "Kura ir mantojama koka iezīme?",
+        "option_a": "salauzta zars uz priedes",
+        "option_b": "dobums ozolā",
+        "option_c": "rēta uz kļavas",
+        "option_d": "biezs stumbrs uz pekanriekstu koka"
+    },
+    "87": {
+        "id": "ARC-Challenge/validation/Mercury_7014368",
+        "answer": "C",
+        "instruction": "Garās krasta straumes ir okeāna viļņi, kas krīt pludmalēs ļoti mazos leņķos. Vietās, kur pastāv garās krasta straumes, kādu ietekmi tās atstāj uz sauszemes?",
+        "option_a": "Tās veido kalnus.",
+        "option_b": "Tās izraisa zemestrīces.",
+        "option_c": "Tās pārvieto smiltis, veidojot smilšu bankas.",
+        "option_d": "Tās rada iekšzemes sālsūdens upes."
+    },
+    "88": {
+        "id": "ARC-Challenge/validation/Mercury_7245193",
+        "answer": "C",
+        "instruction": "Lauku teritorija tika attīrīta līdz kailai klintij ceļa būvei, taču ceļš nekad netika uzbūvēts. Teritorija sāka atkal augt. Kuri organismi visdrīzāk atkal parādījās pirmie?",
+        "option_a": "kokus",
+        "option_b": "krūmus",
+        "option_c": "liķenes un sūnas",
+        "option_d": "nezāles un krabgrāns"
+    },
+    "89": {
+        "id": "ARC-Challenge/validation/Mercury_7251668",
+        "answer": "D",
+        "instruction": "Dafniju populācija dienā no viena metra dziļa dīķa apakšas migrē uz dīķa virsmu naktī. Uz kuru faktoru, visticamāk, reaģē dafniiju populācija?",
+        "option_a": "ūdens pH",
+        "option_b": "ūdens caurredzamība",
+        "option_c": "ūdens spiediens",
+        "option_d": "ūdens temperatūra"
+    },
+    "90": {
+        "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+        "answer": "A",
+        "instruction": "Kad cilvēka sviedri iztvaiko, cilvēks jūtas vēsāks. Kurš no šiem apgalvojumiem vislabāk apraksta, kāpēc svīšana palīdz cilvēkam justies vēsāk?",
+        "option_a": "Siltums tiek uzsūkts sviedros, kad tie iztvaiko.",
+        "option_b": "Siltums tiek uzsūkts ķermenī, kad sviedri iztvaiko.",
+        "option_c": "Sviedru ūdens temperatūra samazinās, kad tas iztvaiko.",
+        "option_d": "Ūdens temperatūra ķermenī paaugstinās, kad sviedri iztvaiko."
+    },
+    "91": {
+        "id": "ARC-Challenge/validation/Mercury_7082145",
+        "answer": "D",
+        "instruction": "Kā jāizmanto līniju grafiks, lai attēlotu attāluma un laika datus kustīgai objektam?",
+        "option_a": "Y ass jāapzīmē kā laiks, kas ir atkarīgā mainīgā.",
+        "option_b": "Y ass jāapzīmē kā attālums, kas ir neatkarīgā mainīgā.",
+        "option_c": "X ass jāapzīmē kā attālums, kas ir atkarīgā mainīgā.",
+        "option_d": "X ass jāapzīmē kā laiks, kas ir neatkarīgā mainīgā."
+    },
+    "92": {
+        "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+        "answer": "D",
+        "instruction": "Studenti mācās par dabas resursiem Merilendā. Viena studentu grupa pēta informāciju par atjaunojamiem dabas resursiem štatā. Otrā grupa pēta informāciju par neatjaunojamiem dabas resursiem štatā. Resursi, kurus studenti izpēta, ietver augus, dzīvniekus, augsni, minerālus, ūdeni, ogles un naftu. Kurš no šiem cilvēku darbībām negatīvi ietekmē dabas resursu?",
+        "option_a": "makšķerēšana ezerā",
+        "option_b": "ūdens izmantošana elektrības ražošanai",
+        "option_c": "vietējo augu stādīšana gar ezera krastu",
+        "option_d": "notekūdeņu novadīšana no lauksaimniecības zemēm ezerā"
+    },
+    "93": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+        "answer": "A",
+        "instruction": "Dažu dzīvnieku spalva ziemā kļūst biezāka un pavasarī tiek nometta. Šie novērojumi parāda, kā dzīvnieki",
+        "option_a": "reaģē uz izmaiņām vidē",
+        "option_b": "pārvietojas no vietas uz vietu, lai izdzīvotu",
+        "option_c": "uzkrāj taukus ziemai",
+        "option_d": "sacensībā ar citiem dzīvniekiem par pārtiku"
+    },
+    "94": {
+        "id": "ARC-Challenge/validation/Mercury_7006790",
+        "answer": "B",
+        "instruction": "Kurš no šiem vislabāk izskaidro logu vibrāciju cēloni pērkona negaisa laikā?",
+        "option_a": "elektriskā enerģija",
+        "option_b": "skaņas enerģija",
+        "option_c": "gaismas enerģija",
+        "option_d": "siltuma enerģija"
+    },
+    "95": {
+        "id": "ARC-Challenge/validation/Mercury_7284043",
+        "answer": "C",
+        "instruction": "Ziloņi Āfrikas savannā ēd krūmus un mazas koku. Šī uzvedība attīra zemi un ļauj augt zālēm. Zālēdāji, piemēram, gazeles, ēd zāli. Lauvas medī gazeles. Kuri divi organismi šajā scenārijā ir visvairāk sadarbības attiecībās?",
+        "option_a": "ziloņi un krūmi",
+        "option_b": "krūmi un lauvas",
+        "option_c": "ziloņi un gazeles",
+        "option_d": "gazeles un lauvas"
+    },
+    "96": {
+        "id": "ARC-Challenge/validation/Mercury_7175455",
+        "answer": "D",
+        "instruction": "Austrālijā pusdienlaikā temperatūra var pārsniegt 110°F (43°C). Lai uzturētu savu ķermeni vēsu, kenguri laiza savas rokas, pārklājot tās ar biezu siekalu slāni. Kad siekalas iztvaiko, tās darbojas kā dzesēšanas mehānisms un pazemina kengura ķermeņa temperatūru. Kurš termins vislabāk raksturo šo aktivitāti?",
+        "option_a": "dabiskā atlase",
+        "option_b": "aizsardzības mehānisms",
+        "option_c": "strukturālās pielāgošanās",
+        "option_d": "uzvedības pielāgošanās"
+    },
+    "97": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401714",
+        "answer": "B",
+        "instruction": "Laboratorijas eksperimentā studenti pārbauda nezināmas pulvera identitāti. Kura metode ir vispiemērotākā, lai pārvietotu pulveri uz svariem?",
+        "option_a": "saskrāpēt ar otu uz pārvietošanas papīra",
+        "option_b": "izsist ar laboratorijas lāpstiņu uz pārvietošanas papīra",
+        "option_c": "saspiežot ar pirkstiem un pacelt uz pārvietošanas papīra",
+        "option_d": "izliet no pudeles uz pārvietošanas papīra"
+    },
+    "98": {
+        "id": "ARC-Challenge/validation/Mercury_409529",
+        "answer": "B",
+        "instruction": "Roberts ir zvejnieks, kurš vēlas atrast veidu, kā noķert vairāk zivju. Viņš nolēma izmēģināt dažādu izmēru āķus. Roberts noķēra 4 sams, 3 foreles un 7 līdakas, izmantojot kā ēsmu tārpus. Kas ir neatkarīgā (manipulētā) mainīgā Roberts izpētē?",
+        "option_a": "ēsmu veids",
+        "option_b": "āķa izmērs",
+        "option_c": "noķerto zivju veids",
+        "option_d": "noķerto zivju skaits"
+    },
+    "99": {
+        "id": "ARC-Challenge/validation/Mercury_7223038",
+        "answer": "C",
+        "instruction": "Ir daudz zvaigžņu izmēru un krāsu. Kurš no šiem vislabāk raksturo kategoriju, kurā tiktu iekļauta Saule?",
+        "option_a": "zilās supergigantu zvaigznes",
+        "option_b": "sarkanās gigantiskās zvaigznes",
+        "option_c": "dzeltenās galvenās secības zvaigznes",
+        "option_d": "baltās punduru zvaigznes"
+    },
+    "100": {
+        "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+        "answer": "C",
+        "instruction": "Daudzas dabas resursu atrodami Merilendā un apkārtnē. Daži no šiem dabas resursiem ir atjaunojami, bet citi nav atjaunojami. Cilvēki izmanto abus resursu veidus ikdienas aktivitātēs. Dabas resursu izmantošana bieži rada atkritumus. Pārstrādes centri ir vietas, kur cilvēki nogādā materiālus, kurus var atkārtoti izmantot, lai izgatavotu jaunus produktus. Kā pārstrāde papīra pozitīvi ietekmē vidi?",
+        "option_a": "samazina gaisa piesārņojumu",
+        "option_b": "palielina augsnes eroziju",
+        "option_c": "samazina nocirsto koku skaitu",
+        "option_d": "palielina dzīvotņu iznīcināšanu"
+    },
+    "101": {
+        "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+        "answer": "A",
+        "instruction": "Rīta godība ir ziedoša vīte, kas kāpj kokiem un žogiem. Kurš no šiem uzvedības veidiem visvairāk palīdz rīta godības augam kāpt pa žogu?",
+        "option_a": "stublāji, kas saraujas pieskāriena dēļ",
+        "option_b": "stublāji, kas uzbriest ūdens dēļ",
+        "option_c": "ziedi, kas atveras gaismas dēļ",
+        "option_d": "saknes, kas aug gravitācijas dēļ"
+    },
+    "102": {
+        "id": "ARC-Challenge/validation/Mercury_7139493",
+        "answer": "B",
+        "instruction": "Kas, visticamāk, ir atbildīgs par čūsku kukaiņu spēju izdzīvot atkārtotas saskares ar insekticīdiem?",
+        "option_a": "suņu daudzveidība",
+        "option_b": "ģenētiskā daudzveidība",
+        "option_c": "ekosistēmu daudzveidība",
+        "option_d": "populācijas daudzveidība"
+    },
+    "103": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+        "answer": "A",
+        "instruction": "Saules paneļi tiek izmantoti saules gaismas uzsūkšanai. Kurš krāsas panelis uzsūks visvairāk saules gaismas?",
+        "option_a": "melns",
+        "option_b": "zaļš",
+        "option_c": "balts",
+        "option_d": "dzeltena"
+    },
+    "104": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+        "answer": "A",
+        "instruction": "Kurš no šiem ģenētiskajiem stāvokļiem rodas no problēmām ar segregāciju?",
+        "option_a": "Trisomija 16: stāvoklis, kas rodas, kad zigota saņem trīs hromosomas 16 kopijas",
+        "option_b": "Huntingtona slimība: stāvoklis, kas rodas, kad zigota saņem mutētu dominējošo alelu",
+        "option_c": "Hemofilija: stāvoklis, kas rodas, kad zigota saņem X hromosomu ar noteiktu recesīvo alelu",
+        "option_d": "Siklā šūnu anēmija: stāvoklis, kas rodas, kad zigota saņem recesīvo alelu hemoglobīnam no katra vecāka"
+    },
+    "105": {
+        "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+        "answer": "B",
+        "instruction": "Students uzsilda divas katliņas ar ūdeni uz plīts, izmantojot augstāko iestatījumu. Vienā katliņā ir 1 L ūdens, bet otrā katliņā ir 3 L ūdens. Students uzsilda katru katliņu, līdz ūdens sāk vārīties. Kurš no šiem apgalvojumiem vislabāk raksturo to, kas notiek ar ūdeni katliņos?",
+        "option_a": "Ūdens abos katliņos sāk vārīties vienlaicīgi.",
+        "option_b": "Ūdens abos katliņos sāk vārīties vienādā temperatūrā.",
+        "option_c": "3 L ūdens kļūst karstāks nekā 1 L ūdens pirms vārīšanās.",
+        "option_d": "3 L ūdens uzsūc siltumu ātrāk nekā 1 L ūdens."
+    },
+    "106": {
+        "id": "ARC-Challenge/validation/Mercury_7115063",
+        "answer": "A",
+        "instruction": "Kurš no šiem ir visdrīzāk traucēt mitrāju ekosistēmu?",
+        "option_a": "māju attīstības būvniecība",
+        "option_b": "vietējo savvaļas ziedu stādīšana",
+        "option_c": "intensīvas lietus periods",
+        "option_d": "pērkona negaiss"
+    },
+    "107": {
+        "id": "ARC-Challenge/validation/Mercury_7144795",
+        "answer": "D",
+        "instruction": "Kāds ir visdrīzākā sugas raksturojums, kurai ir vislabākās izdzīvošanas iespējas šajās vides izmaiņās?",
+        "option_a": "populācija ar daudziem indivīdiem",
+        "option_b": "liela sugu daudzveidība pašreizējā kopienā",
+        "option_c": "pielāgojumi, kas ļauj indivīdiem dzīvot dažādos apstākļos",
+        "option_d": "uzvedība, kas veicina pielāgojumu attīstību jaunās vidēs"
+    },
+    "108": {
+        "id": "ARC-Challenge/validation/Mercury_400934",
+        "answer": "C",
+        "instruction": "Saskaņā ar elementu periodisko tabulu, kurai elementu grupai ir līdzīgas īpašības?",
+        "option_a": "H, C, I",
+        "option_b": "He, H, Al",
+        "option_c": "He, Ne, Ar",
+        "option_d": "Na, Ca, Al"
+    },
+    "109": {
+        "id": "ARC-Challenge/validation/Mercury_7004410",
+        "answer": "B",
+        "instruction": "Viens no pārtikas tīklu ierobežojumiem ekosistēmas attēlošanā ir tas, ka tie",
+        "option_a": "neietver ražotājus ekosistēmā.",
+        "option_b": "neietver visas sugas ekosistēmā.",
+        "option_c": "neparāda patērētājus ekosistēmā.",
+        "option_d": "neparāda plēsēju un upura attiecības ekosistēmā."
+    },
+    "110": {
+        "id": "ARC-Challenge/validation/Mercury_7029505",
+        "answer": "C",
+        "instruction": "Kā asins grupas atšķiras viena no otras ABO asins klasifikācijā?",
+        "option_a": "atšķirīgas sarkano asins šūnu izmēri",
+        "option_b": "atšķirīgas balto asins šūnu izmēri",
+        "option_c": "atšķirīgas marķieru olbaltumvielas uz sarkanajām asins šūnām",
+        "option_d": "atšķirīgas marķieru olbaltumvielas uz baltajām asins šūnām"
+    },
+    "111": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+        "answer": "A",
+        "instruction": "Ledus kubs izkūst un pēc tam iztvaiko. Ledus kubs un ūdens tvaiks ir ar to pašu",
+        "option_a": "masu.",
+        "option_b": "blīvumu.",
+        "option_c": "tilpumu.",
+        "option_d": "temperatūru."
+    },
+    "112": {
+        "id": "ARC-Challenge/validation/Mercury_7245893",
+        "answer": "B",
+        "instruction": "Kura gremošanas sistēmas daļa vispirms izraisa ķīmiskas izmaiņas pārtikā?",
+        "option_a": "zobi mutē",
+        "option_b": "siekalas mutē",
+        "option_c": "enzīmi kuņģī",
+        "option_d": "enzīmi zarnās"
+    },
+    "113": {
+        "id": "ARC-Challenge/validation/Mercury_7246925",
+        "answer": "D",
+        "instruction": "Leicīns ir viena no aminoskābēm, kuras jūsu ķermenis nepieciešams, bet nevar izgatavot. Kas no šiem notiek, lai cilvēka ķermenis varētu iegūt leicīnu?",
+        "option_a": "Ķermenis pārvērš citas aminoskābes leicīnā.",
+        "option_b": "Ķermenis uzkrāj ogļhidrātus, kas satur leicīnu.",
+        "option_c": "Ķermenis sadala taukskābes, lai iegūtu leicīnu.",
+        "option_d": "Ķermenis sagremo olbaltumvielas pārtikā, lai iegūtu leicīnu."
+    },
+    "114": {
+        "id": "ARC-Challenge/validation/Mercury_7138688",
+        "answer": "D",
+        "instruction": "Kura procedūra vislabāk palīdz noteikt, vai izmeklēšana ir zinātniski derīga?",
+        "option_a": "veicot piezīmes par aprīkojuma stāvokli, kas izmantots procedūrā",
+        "option_b": "veicot izmeklēšanu ar grupu cilvēku",
+        "option_c": "veicot procedūru rūpīgi vienu reizi",
+        "option_d": "atkārtojot izmeklēšanu vairākas reizes"
+    },
+    "115": {
+        "id": "ARC-Challenge/validation/Mercury_SC_408700",
+        "answer": "C",
+        "instruction": "Emīlija pagatavo tasi tējas un samaisīja to ar karoti. Karote kļuva silta. Kā siltums no tējas tika nodots karotei?",
+        "option_a": "konvekcija",
+        "option_b": "radiācija",
+        "option_c": "vadītspēja",
+        "option_d": "iztvaikošana"
+    },
+    "116": {
+        "id": "ARC-Challenge/validation/Mercury_7100608",
+        "answer": "B",
+        "instruction": "Maikla ģimene būvē jaunu māju. Viņi vēlētos izmantot elektrību, ko ražo atjaunojamie resursi. Kurš no šiem enerģijas avotiem palīdzētu ģimenei sasniegt savu mērķi?",
+        "option_a": "benzīna dzinējs",
+        "option_b": "saules paneļi uz jumta",
+        "option_c": "oglekļa spēkstacija",
+        "option_d": "kodolspēkstacija"
+    },
+    "117": {
+        "id": "ARC-Challenge/validation/Mercury_7133648",
+        "answer": "C",
+        "instruction": "Kura uzdevuma izpilde virtuvē ir fiziskās pārmaiņas piemērs?",
+        "option_a": "olu cepšana",
+        "option_b": "kūkas cepšana",
+        "option_c": "sviesta izkausēšana",
+        "option_d": "maizes grauzdēšana"
+    },
+    "118": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401244",
+        "answer": "D",
+        "instruction": "Kura akmens veids ir visnoderīgākais dzīvo organismu vēstures pētīšanā?",
+        "option_a": "bazalts",
+        "option_b": "marmors",
+        "option_c": "granīts",
+        "option_d": "kaļķakmens"
+    },
+    "119": {
+        "id": "ARC-Challenge/validation/Mercury_400397",
+        "answer": "C",
+        "instruction": "Kuru no šīm uzvedībām lācis visdrīzāk iemācījās, dzīvojot savā vidē?",
+        "option_a": "dzerot ūdeni",
+        "option_b": "ēdot zivis",
+        "option_c": "atverot atkritumu tvertnes vākus",
+        "option_d": "aizsargājot savus mazuļus"
+    },
+    "120": {
+        "id": "ARC-Challenge/validation/Mercury_7245088",
+        "answer": "D",
+        "instruction": "Kāds ir ogļhidrātu sastāvs?",
+        "option_a": "lipīdi, kas saistās, lai veidotu fosfolipīdus",
+        "option_b": "monomēri, kas saistās, lai veidotu polimērus",
+        "option_c": "aminoskābes, kas saistās, lai veidotu polipeptīdus",
+        "option_d": "saharīdi, kas saistās, lai veidotu polisaharīdus"
+    },
+    "121": {
+        "id": "ARC-Challenge/validation/Mercury_408809",
+        "answer": "C",
+        "instruction": "Pelēm noteikta suga izrāda nepilnīgu dominanci apmatojuma krāsā. Melna (BB) peles un baltas (bb) peles pēcnācēji ir pelēkas (Bb) peles. Krustojums starp divām pelēkām pelēm visdrīzāk radīs pēcnācējus ar kādu procentu no apmatojuma krāsām?",
+        "option_a": "25% melni, 75% pelēki",
+        "option_b": "25% pelēki, 75% balti",
+        "option_c": "25% balti, 25% melni, 50% pelēki",
+        "option_d": "25% pelēki, 25% melni, 50% balti"
+    },
+    "122": {
+        "id": "ARC-Challenge/validation/Mercury_7068863",
+        "answer": "C",
+        "instruction": "Students pētīja dzelzs ietekmi uz augu augšanu. Četri identiski augi saņēma atšķirīgu dzelzs piedevu daudzumu laistīšanas laikā. Šo pētījumu varēja uzlabot, ja būtu",
+        "option_a": "zemeņu tārpi augsnē.",
+        "option_b": "mazāk augu eksperimentā.",
+        "option_c": "augi, kas saņēma ūdeni bez dzelzs piedevām.",
+        "option_d": "augi, kas saņēma atšķirīgu saules gaismas daudzumu."
+    },
+    "123": {
+        "id": "ARC-Challenge/validation/Mercury_7166880",
+        "answer": "D",
+        "instruction": "Klājs vēro laika apstākļus, lai sagatavotos rītdienas ceļojumam uz pludmali. Laika prognoze paredz, ka naktī ienāks zema spiediena sistēma. Kādi laika apstākļi, visticamāk, Klājam būs rīt no rīta?",
+        "option_a": "migains",
+        "option_b": "saulains",
+        "option_c": "skaidrs un vēsāks",
+        "option_d": "mākoņains un lietains"
+    },
+    "124": {
+        "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+        "answer": "A",
+        "instruction": "Kurš nav drošības noteikums zinātnes laboratorijā?",
+        "option_a": "Precīzi izmēriet šķidrumus mērtrauka.",
+        "option_b": "Nekad negrieziet priekšmetus, turēdami tos rokās.",
+        "option_c": "Valdiet aizsargbrilles, strādājot ar bīstamām vielām.",
+        "option_d": "Piezīmējot smaržas, viļņojiet dūmus pret savu degunu, nevis liekot seju virs avota."
+    },
+    "125": {
+        "id": "ARC-Challenge/validation/Mercury_7018445",
+        "answer": "D",
+        "instruction": "Caur kuru materiālu skaņa ceļos visātrāk?",
+        "option_a": "korķis",
+        "option_b": "ūdens",
+        "option_c": "gaiss",
+        "option_d": "tērauds"
+    },
+    "126": {
+        "id": "ARC-Challenge/validation/Mercury_7033653",
+        "answer": "C",
+        "instruction": "Kura ir labākā vienība, lai izmērītu attālumus starp Zemi un citām Saules sistēmām Visumā?",
+        "option_a": "jūdzes",
+        "option_b": "kilometri",
+        "option_c": "gaismas gadi",
+        "option_d": "astronomiskās vienības"
+    },
+    "127": {
+        "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+        "answer": "D",
+        "instruction": "Četras stieples ar vienādu biezumu, bet izgatavotas no dažādiem metāliem, tika testētas ar vienādām svara devām, lai noskaidrotu, kura ir viselastīgākā. Kurš no šiem ir labākais veids, kā ziņot par šī eksperimenta rezultātiem?",
+        "option_a": "katra izmantotā stieples veida saraksts",
+        "option_b": "katra stieples skice pirms testēšanas",
+        "option_c": "tabula, kas parāda, cik daudz katra stieple svēra",
+        "option_d": "stabiņu diagramma, kas parāda, cik daudz katra stieple saliecās"
+    },
+    "128": {
+        "id": "ARC-Challenge/validation/Mercury_7159268",
+        "answer": "A",
+        "instruction": "Pēc pēdējā ledus laikmeta polāro un kalnu ledāju kušana izraisīja okeānu ūdens līmeņa paaugstināšanos. Kas visdrīzāk ir rezultāts okeānu ūdens līmeņa paaugstināšanai?",
+        "option_a": "palielinājums esošo piekrastes mitrāju sāls saturā",
+        "option_b": "palielinājums esošo rifu organismu skaitā",
+        "option_c": "samazinājums viļņu skaitā katru dienu",
+        "option_d": "samazinājums okeāna grunts dziļumā"
+    },
+    "129": {
+        "id": "ARC-Challenge/validation/Mercury_400885",
+        "answer": "D",
+        "instruction": "Kura vienādojums ir līdzsvarots ķīmiskais vienādojums?",
+        "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+        "option_b": "NO + Cl_{2} -> NOCl",
+        "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+        "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+    },
+    "130": {
+        "id": "ARC-Challenge/validation/Mercury_7038273",
+        "answer": "A",
+        "instruction": "Veicot eksperimentu, students savāc vairākas dažādas ūdens temperatūras, divus masas mērījumus un trīs tilpuma mērījumus. Kurš no šiem būtu labākais veids, kā organizēt datus?",
+        "option_a": "tabulā",
+        "option_b": "grafikā",
+        "option_c": "rakstiskā stāstā",
+        "option_d": "ilustrēts ar attēliem"
+    },
+    "131": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407574",
+        "answer": "A",
+        "instruction": "Kāds gāze tiek izdalīta no ražotājiem, ko patērētāji uzņem, lai izdzīvotu?",
+        "option_a": "skābeklis",
+        "option_b": "slāpeklis",
+        "option_c": "ūdens tvaiks",
+        "option_d": "oglekļa dioksīds"
+    },
+    "132": {
+        "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+        "answer": "B",
+        "instruction": "Kur būtu VISBīstamāk strādāt ar elektriskiem rīkiem?",
+        "option_a": "garāžā",
+        "option_b": "blakus peldbaseinam",
+        "option_c": "tuvu televizoram vai datoram",
+        "option_d": "aukstā pagrabā"
+    },
+    "133": {
+        "id": "ARC-Challenge/validation/Mercury_7128695",
+        "answer": "C",
+        "instruction": "Zinātnieks veic atklājumu, veicot izpēti, bet nespēj uzturēt skaidrus testu ierakstus. Kā trūkums ierakstu uzturēšanā ietekmē zinātnieka darbu?",
+        "option_a": "Tas padara procedūras un secinājumus nederīgus.",
+        "option_b": "Tas padara pētījumā iegūtos datus nepareizus.",
+        "option_c": "Tas novērš citu zinātnieku iespēju apstiprināt rezultātus.",
+        "option_d": "Tas aizliedz citiem zinātniekiem izstrādāt jaunas hipotēzes."
+    },
+    "134": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400178",
+        "answer": "C",
+        "instruction": "Kura maisījuma sastāvdaļas var atdalīt?",
+        "option_a": "kartupeļu čipsi",
+        "option_b": "šokolādes kūka",
+        "option_c": "augļu salāti",
+        "option_d": "olu kultenis"
+    },
+    "135": {
+        "id": "ARC-Challenge/validation/Mercury_7189823",
+        "answer": "A",
+        "instruction": "Vulcāns izplešas un pārklāj apkārtējo teritoriju ar lavu un vulkānisko pelnu. Kad ekosistēma sāk atjaunoties, kurš augu veids visdrīzāk būs pirmais, kas kolonizēs zemi apkārtnē ap izvirdumu?",
+        "option_a": "sūnas",
+        "option_b": "savvaļas ziedi",
+        "option_c": "cietie koki",
+        "option_d": "mūžzaļie krūmi"
+    },
+    "136": {
+        "id": "ARC-Challenge/validation/Mercury_412683",
+        "answer": "D",
+        "instruction": "Kāda ir 2 Hz viļņa ātrums, kam ir viļņa garums 10 m?",
+        "option_a": "5 m/s",
+        "option_b": "8 m/s",
+        "option_c": "12 m/s",
+        "option_d": "20 m/s"
+    },
+    "137": {
+        "id": "ARC-Challenge/validation/Mercury_184258",
+        "answer": "A",
+        "instruction": "Kurš no šiem straumes raksturlielumiem vistiešāk ietekmē straumes nogulsnes?",
+        "option_a": "slīpums",
+        "option_b": "augstums",
+        "option_c": "pamatslānis",
+        "option_d": "ūdens kvalitāte"
+    },
+    "138": {
+        "id": "ARC-Challenge/validation/Mercury_192168",
+        "answer": "D",
+        "instruction": "Zinātniskie modeļi ir ļoti izplatīti. Kādā nolūkā fiziskais modelis būtu vismazāk noderīgs?",
+        "option_a": "zinātnisko parādību simulēšanai",
+        "option_b": "kompleksas idejas vienkāršošanai",
+        "option_c": "vizualizācijas nodrošināšanai",
+        "option_d": "datu attēlošanai"
+    },
+    "139": {
+        "id": "ARC-Challenge/validation/Mercury_LBS10399",
+        "answer": "D",
+        "instruction": "Mikroskops palielina objektu ar 50x palielinājumu. Cik garš ir objekts, ja attēls šķiet 0.5 cm garš?",
+        "option_a": "100 cm",
+        "option_b": "25 cm",
+        "option_c": "2.5 cm",
+        "option_d": "0.01 cm"
+    },
+    "140": {
+        "id": "ARC-Challenge/validation/Mercury_7228603",
+        "answer": "C",
+        "instruction": "Kurš no šiem ir rezultāts homologu hromosomu daļu apmaiņai mejozes procesā?",
+        "option_a": "nejaušas mutācijas",
+        "option_b": "samazināts gametu skaits",
+        "option_c": "pēcnācēji ar unikālām īpašību kombinācijām",
+        "option_d": "samazināts alelu skaits katrā hromosomā"
+    },
+    "141": {
+        "id": "ARC-Challenge/validation/MEA_2013_5_3",
+        "answer": "D",
+        "instruction": "Saule tiek klasificēta kā zvaigzne. Kura iezīme identificē Sauli kā zvaigzni?",
+        "option_a": "Saule griežas ap savu asi.",
+        "option_b": "Saule atrodas ārpus Piena Ceļa galaktikas.",
+        "option_c": "Saule ir Lielā lāča sastāvdaļa.",
+        "option_d": "Saule ražo gaismu un enerģiju kodolreakcijā."
+    },
+    "142": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+        "answer": "C",
+        "instruction": "Ziemā arktiskā lapsa ir balta. Vasarā tās kažoks kļūst tumšāks un iegūst sarkani brūnu nokrāsu. Kas visdrīzāk izraisa lapsas kažoka krāsas maiņu?",
+        "option_a": "saules gaismas daudzums",
+        "option_b": "lapsas biotops",
+        "option_c": "lapsas gēni",
+        "option_d": "lapsas vecums"
+    },
+    "143": {
+        "id": "ARC-Challenge/validation/Mercury_7221095",
+        "answer": "A",
+        "instruction": "Kurš no šiem ir abiotisks elements ekosistēmā?",
+        "option_a": "vidējais gada nokrišņu daudzums ekosistēmā",
+        "option_b": "ražotāju veidi, kas sastopami ekosistēmā",
+        "option_c": "plēsoņu populācijas lielums ekosistēmā",
+        "option_d": "mikroorganismi, kas dzīvo ekosistēmas augsnē"
+    },
+    "144": {
+        "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+        "answer": "C",
+        "instruction": "Ūdens tvaiks pastāv atmosfērā kā ___.",
+        "option_a": "redzama gāze",
+        "option_b": "redzama šķidruma",
+        "option_c": "neredzama gāze",
+        "option_d": "neredzams šķidrums"
+    },
+    "145": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406939",
+        "answer": "C",
+        "instruction": "Kāds ir veids, kā papīra gabals var iziet cauri ķīmiskai pārmaiņai?",
+        "option_a": "salocīt papīru uz pusēm",
+        "option_b": "iemērkt papīru ūdenī",
+        "option_c": "dedzināt papīru ar uguni",
+        "option_d": "sagriezt papīru ar šķērēm"
+    },
+    "146": {
+        "id": "ARC-Challenge/validation/Mercury_7219415",
+        "answer": "C",
+        "instruction": "Kura piemēra funkcija ir selektīvi caurlaidīgajai šūnas membrānai?",
+        "option_a": "atbalstīt šūnas formu",
+        "option_b": "ražot olbaltumvielas šūnai",
+        "option_c": "ierobežot ķīmiskās vielas, kas difundē no šūnas",
+        "option_d": "uzglabāt atkritumproduktu šūnai"
+    },
+    "147": {
+        "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+        "answer": "B",
+        "instruction": "Kura veida tilts izmanto kabeļus atbalstam?",
+        "option_a": "truss tilts",
+        "option_b": "suspensijas tilts",
+        "option_c": "stara tilts",
+        "option_d": "kanti tilts"
+    },
+    "148": {
+        "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+        "answer": "D",
+        "instruction": "Šķirnes kaķi ir nonākuši tuvu izmiršanai medību, sausuma un slimību dēļ. Tagad šķirnes kaķu populācijām ir ļoti maz ģenētiskās variācijas. Kurš no šiem ir ierobežotās ģenētiskās variācijas rezultāts pašreizējās šķirnes kaķu populācijās salīdzinājumā ar agrākajām šķirnes kaķu populācijām ar lielāku variāciju?",
+        "option_a": "Pašreizējās populācijās esošie šķirnes kaķi ir izturīgāki pret jaunām slimībām.",
+        "option_b": "Jauno šķirnes kaķu izdzīvošanas līmenis ir palielinājies pašreizējās populācijās.",
+        "option_c": "Pašreizējās populācijās esošie šķirnes kaķi ir mazāk spējīgi krustoties ar citām sugām.",
+        "option_d": "Pašreizējās šķirnes kaķu populācijas ir mazāk spējīgas pielāgoties vides izmaiņām."
+    },
+    "149": {
+        "id": "ARC-Challenge/validation/Mercury_7135310",
+        "answer": "C",
+        "instruction": "Kāpēc mašīnas izlaides enerģija vienmēr ir mazāka par ieejas enerģiju?",
+        "option_a": "Daļa enerģijas tiek iznīcināta, kad mašīna darbojas.",
+        "option_b": "Mašīnai jāuzveic nemainīga magnētiskā spēka iedarbība.",
+        "option_c": "Noderīgā enerģija samazinās, kad enerģija tiek pārsūtīta apkārtējā vidē.",
+        "option_d": "Daļa enerģijas tiek atbrīvota kā siltums, kad tā tiek pārvērsta."
+    },
+    "150": {
+        "id": "ARC-Challenge/validation/Mercury_414131",
+        "answer": "C",
+        "instruction": "Kas raksturo visiem elementiem piemītošo īpašību?",
+        "option_a": "Visi elementi ir metāli.",
+        "option_b": "Visiem elementiem ir seši elektroni.",
+        "option_c": "Visi elementi ir tīras vielas.",
+        "option_d": "Visi elementi pastāv cietajā fāzē."
+    },
+    "151": {
+        "id": "ARC-Challenge/validation/Mercury_7112753",
+        "answer": "B",
+        "instruction": "Lai atrastu vaboles populāciju, zinātniekiem jāizmanto ļoti specializēts aprīkojums. Kurš faktors visdrīzāk ierobežos iespēju atrast vaboles?",
+        "option_a": "klimats",
+        "option_b": "izmaksas",
+        "option_c": "paraugu lielums",
+        "option_d": "politika"
+    },
+    "152": {
+        "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+        "answer": "D",
+        "instruction": "Studenti apmeklēja Morisa W. Offita teleskopu, kas atrodas Merilendas Kosmosa granta observatorijā Baltimorā. Viņi uzzināja par zvaigznēm, planētām un mēnesi. Studenti ierakstīja informāciju zemāk. • Zvaigžņu raksti paliek nemainīgi, bet to atrašanās vietas debesīs šķiet mainās. • Saule, planētas un mēness šķiet, ka pārvietojas debesīs. • Proxima Centauri ir tuvākā zvaigzne mūsu Saules sistēmai. • Polārais ir zvaigzne, kas ir daļa no zvaigžņu raksta, ko sauc par Mazais lācis. Kurš apgalvojums vislabāk izskaidro, kāpēc saule šķiet, ka katru dienu pārvietojas pāri debesīm?",
+        "option_a": "Saule riņķo ap Zemi.",
+        "option_b": "Zeme riņķo ap sauli.",
+        "option_c": "Saule riņķo ap savu asi.",
+        "option_d": "Zeme riņķo ap savu asi."
+    },
+    "153": {
+        "id": "ARC-Challenge/validation/Mercury_7236023",
+        "answer": "B",
+        "instruction": "Gaisa masa atrodas 1000 metru augstum zema spiediena centrā Ziemeļu puslodē. Kurš no šiem vislabāk raksturo gaisa daļiņu kustību šajā gaisa masā, ņemot vērā vētras apstākļus un Zemes rotāciju, kad gaisa masa pārvietojas uz āru?",
+        "option_a": "Gaisa daļiņas pārvietojas uz augšu un pa kreisi.",
+        "option_b": "Gaisa daļiņas pārvietojas uz augšu un pa labi.",
+        "option_c": "Gaisa daļiņas pārvietojas uz leju un pa kreisi.",
+        "option_d": "Gaisa daļiņas pārvietojas uz leju un pa labi."
+    },
+    "154": {
+        "id": "ARC-Challenge/validation/Mercury_7270008",
+        "answer": "C",
+        "instruction": "Virszemes ogļu ieguve ietver visu veģetāciju un akmeņus, kas atrodas virs ogļu ieguves. Kuri divi Zemes apakšsistēmas visvairāk tiek ietekmēti no virszemes ieguves?",
+        "option_a": "litosfēra un atmosfēra",
+        "option_b": "biosfēra un hidrosfēra",
+        "option_c": "litosfēra un biosfēra",
+        "option_d": "atmosfēra un hidrosfēra"
+    },
+    "155": {
+        "id": "ARC-Challenge/validation/Mercury_7099768",
+        "answer": "D",
+        "instruction": "Kad bumbieris tiek izmests no bumbiera rokas, enerģija bumbierī daļēji",
+        "option_a": "tiek uzkrāta bumbierī, līdz tas trāpa skaitļiem.",
+        "option_b": "palielinās, kad berze tiek pielietota bumbierim.",
+        "option_c": "tiek pārvērsta no kinētiskās enerģijas par gravitācijas potenciālo enerģiju.",
+        "option_d": "tiek pārvērsta siltumā un skaņā, kad tas saskaras ar grīdu."
+    },
+    "156": {
+        "id": "ARC-Challenge/validation/Mercury_7269238",
+        "answer": "D",
+        "instruction": "Dīzeļdzinēji var dedzināt daudzas degvielas. Kura degviela būtu visatjaunojamāka degviela dīzeļdzinējam?",
+        "option_a": "parastā dīzeļdegviela",
+        "option_b": "destilēts kerosīns",
+        "option_c": "parastā veidā ražota augu eļļa",
+        "option_d": "organiski ražota augu eļļa"
+    },
+    "157": {
+        "id": "ARC-Challenge/validation/Mercury_7187915",
+        "answer": "A",
+        "instruction": "Amanda un Džeiks uzzināja par kinētiskajām un potenciālajām enerģijas formām vienkāršā elektriskajā ķēdē. Ķēde, ko viņi pētī, satur akumulatoru, vadus un spuldzi. Kura ir potenciālās enerģijas forma ķēdē?",
+        "option_a": "ķīmiskā enerģija akumulatorā",
+        "option_b": "gaismas enerģija no spuldzes",
+        "option_c": "siltuma enerģija, kas zaudēta no elektriskajiem vadiem",
+        "option_d": "elektriskā enerģija, kas plūst caur spuldzi"
+    },
+    "158": {
+        "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+        "answer": "D",
+        "instruction": "Kura darbība demonstrē ķīmisku pārmaiņu?",
+        "option_a": "Garie mati tiek nogriezti un izžāvēti.",
+        "option_b": "Koka zīmulis tiek asināts un saplīst.",
+        "option_c": "Ledus gabals izkūst un kļūst par caurspīdīgu šķidrumu.",
+        "option_d": "Dzelzs nagla kļūst oranža un pārslaina uz virsmas."
+    },
+    "159": {
+        "id": "ARC-Challenge/validation/Mercury_7159775",
+        "answer": "A",
+        "instruction": "Janette veic izpēti, lai noskaidrotu, kuri ēdieni viņai rada lielāku nogurumu. Viņa katru dienu četras dienas ēd vienu no četriem dažādiem ēdieniem tajā pašā laikā un pēc tam ieraksta, kā viņa jūtas. Viņa lūdz savu draudzeni Karmenu veikt to pašu izpēti, lai noskaidrotu, vai viņa iegūst līdzīgus rezultātus. Kas padarītu izpēti visgrūtāk atkārtojamu?",
+        "option_a": "noguruma daudzuma mērīšana",
+        "option_b": "pārliecināšanās, ka tiek ēsti tie paši ēdieni",
+        "option_c": "novērojumu ierakstīšana tajā pašā tabulā",
+        "option_d": "pārliecināšanās, ka ēdieni ir tajā pašā temperatūrā"
+    },
+    "160": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402239",
+        "answer": "C",
+        "instruction": "Kāds ir labākais veids, kā saglabāt dabas resursus mājās?",
+        "option_a": "Izmetiet visu stiklu atkritumos.",
+        "option_b": "Izmantojiet papīra dvieļus, lai notīrītu traipus.",
+        "option_c": "Saīsiniet laiku, ko pavadāt dušā.",
+        "option_d": "Laistiet zālienu katru dienu."
+    },
+    "161": {
+        "id": "ARC-Challenge/validation/Mercury_184013",
+        "answer": "C",
+        "instruction": "Kurš no šiem būtu vismazāk postošs zemei?",
+        "option_a": "7.2 magnitūdas zemestrīce",
+        "option_b": "tropu vētras viļņi",
+        "option_c": "elektriskā vētra",
+        "option_d": "vulkāna izvirdums"
+    },
+    "162": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+        "answer": "D",
+        "instruction": "Kura vislabāk izskaidro, kāpēc produkta(s) kopējā masa būtu mazāka par reaģenta(s) kopējo svaru pēc ķīmiskās reakcijas?",
+        "option_a": "Notika fiziska izmaiņa.",
+        "option_b": "Reakcijā iesaistītie atomi zaudēja masu.",
+        "option_c": "Jaunajā šķīdumā tika izveidoti nogulumi.",
+        "option_d": "Gāzes tika izlaistas atmosfērā."
+    },
+    "163": {
+        "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+        "answer": "D",
+        "instruction": "Grupa vēlas noskaidrot, vai ūdensputnu skaits, kas lido cauri Arkanzasai, katru gadu mainās. Kuru metodi viņi būtu jāizmanto, lai iegūtu šo informāciju?",
+        "option_a": "Noķert pēc iespējas vairāk putnu vienā gadā. Vākt datus par katra putna atrašanās vietu.",
+        "option_b": "Nākamā gada pirmajā pavasara dienā saskaitīt putnu skaitu lielākajā ezerā štatā. Salīdzināt datus ar pagājušo gadu.",
+        "option_c": "Novietot novērotāju vietā uz štata robežas. Lūgt šai personai saskaitīt putnus, kad tie lido iekšā štatā. To darīt divus gadus.",
+        "option_d": "Izvēlēties vienu dienu gadā migrācijas laikā. Saskaitīt putnu skaitu desmit dažādos ezeros visā štatā. To darīt katru gadu tajā pašā dienā desmit gadus."
+    },
+    "164": {
+        "id": "ARC-Challenge/validation/Mercury_7183015",
+        "answer": "A",
+        "instruction": "Nesenā rakstā zinātnes žurnālā tiek skaidrota konvekcijas plūsmu un plātņu tektonikas attiecība. Kad šķidrums mantijā cirkulē, tas izraisa garozas plātņu kustību. Kas visdrīzāk izraisa šķidrumu cirkulāciju Zemes iekšienē?",
+        "option_a": "enerģijas pārvade",
+        "option_b": "globālā sasilšana",
+        "option_c": "peldēšanas svārstības",
+        "option_d": "okeāna plūsmas"
+    },
+    "165": {
+        "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+        "answer": "D",
+        "instruction": "Kurš no šiem ir aseksuālās reprodukcijas piemērs?",
+        "option_a": "Bruņurupuči dēj apaugļotas olas bedrē smiltīs.",
+        "option_b": "Sēklas veidojas priedes čiekuros pēc tam, kad ziedputekšņi sasniedz čiekurus.",
+        "option_c": "Zivis izdala olu šūnas un spermatozoīdus ūdens virsmā.",
+        "option_d": "Koki izsūta sakņu līdzīgas izplešanās, kas ražo jaunus stublājus."
+    },
+    "166": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401286",
+        "answer": "B",
+        "instruction": "Daudzas apdraudētas dzīvnieku sugas tiek noķertas, marķētas un pēc tam atbrīvotas atpakaļ to vidē. Marķējums var būt kodēta plastmasas vai metāla daļa, kas tiek novietota drošā vietā uz ķermeņa. Kāds ir visdrīzākais iemesls, kāpēc marķēt dzīvnieku?",
+        "option_a": "lai uzraudzītu viņu ēšanas ieradumus",
+        "option_b": "lai uzraudzītu viņu klaiņošanas ieradumus",
+        "option_c": "lai uzraudzītu viņu miega ieradumus",
+        "option_d": "lai uzraudzītu viņu vairošanās ieradumus"
+    },
+    "167": {
+        "id": "ARC-Challenge/validation/Mercury_7207358",
+        "answer": "C",
+        "instruction": "Mūsdienu atomu teorija vislabāk tiek aprakstīta kā šo aktivitāšu rezultāts?",
+        "option_a": "Džona Daltona eksperimenti 19. gadsimta sākumā",
+        "option_b": "diskusijas starp diviem svarīgiem zinātniekiem",
+        "option_c": "daudzu zinātnieku pētījumi daudzu gadu garumā",
+        "option_d": "Demokrita idejas par atomiem pirms vairāk nekā 2000 gadiem"
+    },
+    "168": {
+        "id": "ARC-Challenge/validation/Mercury_7015435",
+        "answer": "A",
+        "instruction": "Kādi ir reakcijas produkti starp spēcīgu skābi un spēcīgu bāzi?",
+        "option_a": "sāls un ūdens",
+        "option_b": "divi atšķirīgi elementi",
+        "option_c": "vāja skābe un vāja bāze",
+        "option_d": "ūdeņraža joni un hidroksīda joni"
+    },
+    "169": {
+        "id": "ARC-Challenge/validation/Mercury_7044678",
+        "answer": "A",
+        "instruction": "Kura izteikšana vislabāk izskaidro, kas notiek ar lapu, kad tā ir zaudējusi nepieciešamo ūdeni?",
+        "option_a": "Tās turgora spiediens samazinās.",
+        "option_b": "Tās atmosfēras spiediens samazinās.",
+        "option_c": "Tās transpirācijas ātrums palielinās.",
+        "option_d": "Tās fotosintēzes ātrums palielinās."
+    },
+    "170": {
+        "id": "ARC-Challenge/validation/Mercury_400905",
+        "answer": "D",
+        "instruction": "Saule atrodas aptuveni 1.5 x 10^8 km attālumā no Zemes. Gaismas ātrums ir 3.0 x 10^8 m/sec. Kāds ir attālums no Saules līdz Zemei gaismas sekundēs?",
+        "option_a": "2.0 gaismas sekundes",
+        "option_b": "0.5 gaismas sekundes",
+        "option_c": "2.0 x 10^-3 gaismas sekundes",
+        "option_d": "5.0 x 10^2 gaismas sekundes"
+    },
+    "171": {
+        "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+        "answer": "D",
+        "instruction": "Ko fotosintēze ražo, kas palīdz augiem augt?",
+        "option_a": "ūdens",
+        "option_b": "skābeklis",
+        "option_c": "olbaltumvielas",
+        "option_d": "cukurs"
+    },
+    "172": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+        "answer": "D",
+        "instruction": "Autoavārijā drošības josta palīdz novērst traumas, pielietojot spēku",
+        "option_a": "mazāku par kustīgā pasažiera spēku",
+        "option_b": "lielāku par kustīgā auto spēku",
+        "option_c": "tajā pašā virzienā kā auto kustība",
+        "option_d": "pretējā virzienā nekā pasažiera kustība"
+    },
+    "173": {
+        "id": "ARC-Challenge/validation/Mercury_7141908",
+        "answer": "C",
+        "instruction": "Zinātnieki atrada jaunu sarežģīta organisma sugu okeāna dibenā. Organisms, visticamāk,",
+        "option_a": "ir vienšūnu.",
+        "option_b": "ir baktēriju forma.",
+        "option_c": "ir izgatavots no vairākiem šūnām.",
+        "option_d": "trūkst organizētas kodola."
+    },
+    "174": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406029",
+        "answer": "D",
+        "instruction": "Zinātniskai aktivitātei Mija katru nakti bija jāzīmē Mēness attēls. Ja Mija uzzīmēja jauno Mēnesi, kāda veida Mēnesi Mija uzzīmēja apmēram nedēļu vēlāk?",
+        "option_a": "gibbs",
+        "option_b": "pilns Mēness",
+        "option_c": "jaunais Mēness",
+        "option_d": "pirmais ceturksnis"
+    },
+    "175": {
+        "id": "ARC-Challenge/validation/Mercury_7105123",
+        "answer": "C",
+        "instruction": "Fosiliju ieraksti norāda, ka sugu izmaiņas parasti",
+        "option_a": "apstājas, kad suga veidojas.",
+        "option_b": "paātrinās stabilos apstākļos.",
+        "option_c": "notiek daudzu paaudžu garumā.",
+        "option_d": "ir neatkarīgas no vides."
+    },
+    "176": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400339",
+        "answer": "C",
+        "instruction": "Kura apgalvojums nav iemesls, kāpēc koki mežā aug atšķirīgā augstumā?",
+        "option_a": "Dažiem ir nepieciešams mazāk saules gaismas nekā citiem.",
+        "option_b": "Koki tika stādīti dažādos gados.",
+        "option_c": "Putni būvē ligzdas īsajos kokā.",
+        "option_d": "Augstākajiem kokiem lapas ir tikai augšējos zaros."
+    },
+    "177": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415366",
+        "answer": "B",
+        "instruction": "Kokiem nepieciešams skābeklis. Saknes, kas atrodas tuvu zemes virsmai, uzņem skābekli, kas kokam nepieciešams. Kuri organismi palīdz kokiem iegūt skābekli?",
+        "option_a": "koka dzenīši, kas izveido caurumus kokā",
+        "option_b": "zemeņu tārpi, kas izveido caurumus zemē tuvu kokam",
+        "option_c": "sēnes, kas aug koka pamatnē",
+        "option_d": "vistas, kas ēd valriekstus uz zemes tuvu kokam"
+    },
+    "178": {
+        "id": "ARC-Challenge/validation/Mercury_7168123",
+        "answer": "B",
+        "instruction": "Anita skrēja apkārt skolas trasei. Skrējiena beigās viņa ieelpoja vairāk gaisa un viņas sirdsdarbības ātrums bija palielinājies. Kuri sistēmas regulē Anitas elpošanas ātrumu un sirdsdarbības ātrumu?",
+        "option_a": "muskuļu un skeleta",
+        "option_b": "nervu un endokrīnā",
+        "option_c": "gremošanas un izdalīšanas",
+        "option_d": "elpošanas un asinsrites"
+    },
+    "179": {
+        "id": "ARC-Challenge/validation/Mercury_7141400",
+        "answer": "A",
+        "instruction": "Lauksaimnieks katru gadu stāda kukurūzu laukā vairākus gadus. Katru gadu viņš pamanīja, ka viņa raža uz akru ir samazinājusies, lai gan laika apstākļi ir bijuši ļoti līdzīgi. Kura abiotiskā faktora izmaiņas visdrīzāk izraisa kukurūzas ražas samazināšanos?",
+        "option_a": "augsnes barības vielu samazināšanās",
+        "option_b": "nokrišņu palielināšanās",
+        "option_c": "vēja ātruma palielināšanās",
+        "option_d": "saules gaismas samazināšanās"
+    },
+    "180": {
+        "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+        "answer": "D",
+        "instruction": "Kurš no šiem procesiem parasti aizņem visilgāko laiku?",
+        "option_a": "Karsta lava atdziest un veido jaunu akmeni.",
+        "option_b": "Ūdens tvaiks kondensējas, veidojot mākoņus.",
+        "option_c": "Seismiskā viļņa ceļojums caur mantiju.",
+        "option_d": "Okeāna baseins veidojas starp divām kontinentēm."
+    },
+    "181": {
+        "id": "ARC-Challenge/validation/Mercury_SC_406705",
+        "answer": "B",
+        "instruction": "Annai bija jāskaita tauriņi skolas dārzā uz uzdevumu. Annas rezultāti atšķīrās no pārējās klases. Ko viņai vajadzētu darīt?",
+        "option_a": "Mainīt uzdevumu.",
+        "option_b": "Atstāt rezultātus tādus, kādi tie ir.",
+        "option_c": "Saskaņot savus rezultātus ar klasi.",
+        "option_d": "Lūgt skolotājam saskaitīt viņai."
+    },
+    "182": {
+        "id": "ARC-Challenge/validation/Mercury_7186148",
+        "answer": "B",
+        "instruction": "Students sajauc karstā šokolāde ar karoti. Kā tiek pārnesta siltuma enerģija starp karsto šokolādi un to karotes daļu, kas ir karstajā šokolādē?",
+        "option_a": "Kondukcija pārnes enerģiju no karotes uz karsto šokolādi.",
+        "option_b": "Kondukcija pārnes enerģiju no karstās šokolādes uz karoti.",
+        "option_c": "Konvekcija pārnes enerģiju no karotes uz karsto šokolādi.",
+        "option_d": "Konvekcija pārnes enerģiju no karstās šokolādes uz karoti."
+    },
+    "183": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+        "answer": "B",
+        "instruction": "Lieli putni ir ēduši mazus dzīvniekus kādā teritorijā. Ja visi lieli putni nomirtu no slimības, mazo dzīvnieku skaits šajā teritorijā, visticamāk,",
+        "option_a": "samazinātos",
+        "option_b": "palielinātos",
+        "option_c": "paliktu nemainīgs"
+    },
+    "184": {
+        "id": "ARC-Challenge/validation/Mercury_7005478",
+        "answer": "B",
+        "instruction": "Cilvēka ķermeņa temperatūra ir relatīvi konstanta. Kurš ir atgriezeniskās saites mehānisms, kas palīdz cilvēka ķermenim uzturēt normālu temperatūru aukstā vidē?",
+        "option_a": "No ādas izdalās ūdens.",
+        "option_b": "Muskuļi trīc mazos kustībās.",
+        "option_c": "Sirdsdarbības ātrums palēninās.",
+        "option_d": "Plaušas ieelpo papildu gaisu."
+    },
+    "185": {
+        "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+        "answer": "D",
+        "instruction": "Kurš no šiem būtu visefektīvākais gaisa satiksmes sastrēgumu samazināšanai aizņemtā lidostā?",
+        "option_a": "sniedzot veiktspējas atsauksmes pilotam",
+        "option_b": "sniedzot lidojumu informāciju pasažieriem",
+        "option_c": "palielinot lidmašīnu skaitu lidostā",
+        "option_d": "palielinot skrejceļu skaitu lidostā"
+    },
+    "186": {
+        "id": "ARC-Challenge/validation/Mercury_7037573",
+        "answer": "D",
+        "instruction": "Kāda ir labākā prakse, ko ievērot, veicot eksperimentu?",
+        "option_a": "uzmanīgi rīkoties ar karstām stikla traukiem",
+        "option_b": "izslēgt degļus, kad tos neizmanto",
+        "option_c": "iepazīties ar laboratorijas procedūrām pirms eksperimenta veikšanas",
+        "option_d": "pārbaudīt ar savu skolotāju procedūru ķīmisko vielu iznīcināšanai"
+    },
+    "187": {
+        "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+        "answer": "B",
+        "instruction": "Kamerons meklē jaunu galdu. Viņš vēlas pārliecināties, ka galds iederēsies istabas stūrī. Kad Kamerons meklē jauno galdu, kas no tālāk minētā vislabāk palīdzēs viņam pārliecināties, ka galds iederēsies?",
+        "option_a": "attēls, kurā redzams paklājs viņa istabā",
+        "option_b": "diagramma ar viņa istabas izmēriem",
+        "option_c": "zīmējums, kurā parādīts, kā salikt galdu",
+        "option_d": "rīku saraksts, kas viņam nepieciešams, lai saliktu galdu"
+    },
+    "188": {
+        "id": "ARC-Challenge/validation/Mercury_7092295",
+        "answer": "C",
+        "instruction": "Kura darbība rada konkurenci starp vides jautājumiem un ekonomiskajiem ieguvumiem?",
+        "option_a": "apdraudēto savvaļas dzīvnieku aizsardzība",
+        "option_b": "savvaļas dzīvnieku atjaunošana viņu dabiskajās dzīvotnēs",
+        "option_c": "meža zemes izmantošana māju būvniecībai",
+        "option_d": "pilsētas autobusu izmantošana transportam"
+    },
+    "189": {
+        "id": "ARC-Challenge/validation/Mercury_7131828",
+        "answer": "C",
+        "instruction": "Daudzās tropiskajās teritorijās odi var pārnēsāt parazītu, kas var izraisīt infekcijas slimību cilvēkiem. Kas vislabāk raksturo šo attiecību veidu starp odiem un cilvēkiem?",
+        "option_a": "plēsējs-upuris",
+        "option_b": "konkurence par resursiem",
+        "option_c": "biotiskie faktori, kas mijiedarbojas savā starpā",
+        "option_d": "enerģijas pārvade starp ražotāju un patērētāju"
+    },
+    "190": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+        "answer": "B",
+        "instruction": "Ventilēšana var padarīt koka uguni karstāku, jo ventilēšana",
+        "option_a": "padara ēdienu tik karstu, ka tas deg",
+        "option_b": "pievieno vairāk skābekļa, kas nepieciešams degšanai",
+        "option_c": "palielina koka daudzumu, kas ir jādedzina",
+        "option_d": "nodrošina enerģiju, kas nepieciešama, lai uguns turpinātu degt"
+    },
+    "191": {
+        "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+        "answer": "B",
+        "instruction": "Tiek veikts eksperiments ar noslēgtu trauku. Trauks sākotnēji ir ar temperatūru 70 grādi F un gaisa spiedienu 20 psi. Trauks tiek uzsildīts, un spiediens traukā vienmērīgi palielinās ar paaugstinātu temperatūru. Ja trauks tiek atdzesēts atpakaļ līdz 70 grādiem F, kāds būs gaisa spiediens?",
+        "option_a": "10 psi",
+        "option_b": "20 psi",
+        "option_c": "30 psi",
+        "option_d": "40 psi"
+    },
+    "192": {
+        "id": "ARC-Challenge/validation/Mercury_7120908",
+        "answer": "D",
+        "instruction": "Gaisa kuģis ir bezmotora lidmašīna. Papildus izmēram, kas būtu galvenie faktori, kas jāņem vērā, projektējot gaisa kuģi, lai pārvarētu lielu attālumu?",
+        "option_a": "vides ietekme un masa",
+        "option_b": "izmaksas un vides ietekme",
+        "option_c": "izturība un izmaksas",
+        "option_d": "masa un izturība"
+    },
+    "193": {
+        "id": "ARC-Challenge/validation/Mercury_180443",
+        "answer": "C",
+        "instruction": "Kura Mēness fāze notiek pēc pieaugošā izliektā Mēness?",
+        "option_a": "samazinošais izliektā Mēness",
+        "option_b": "pieaugošais pusmēness",
+        "option_c": "pilns Mēness",
+        "option_d": "jaunais Mēness"
+    },
+    "194": {
+        "id": "ARC-Challenge/validation/Mercury_7238963",
+        "answer": "A",
+        "instruction": "Cilvēkiem šķeltā zoda gēnu nosaka dominējošais alels C. Zods bez šķelšanās tiek kodēts ar recesīvo alelu c. Vīrietis ar alelu kombināciju cc attiecīgajam raksturojumam ražo zigotu ar sievieti, kurai ir alelu kombinācija Cc attiecīgajam raksturojumam. Kuras alelu kombinācijas varētu rasties zigotā?",
+        "option_a": "Cc vai cc",
+        "option_b": "CC vai Cc",
+        "option_c": "Tikai CC",
+        "option_d": "Tikai Cc"
+    },
+    "195": {
+        "id": "ARC-Challenge/validation/Mercury_184765",
+        "answer": "B",
+        "instruction": "Kurš no šiem visdrīzāk būs rezultāts lielu nepārtrauktu mežu platību izciršanai?",
+        "option_a": "Skābekļa procents šajā teritorijā palielināsies.",
+        "option_b": "Erozijas apjoms šajā teritorijā palielināsies.",
+        "option_c": "Sugu daudzveidība šajā teritorijā palielināsies.",
+        "option_d": "Augsnes barības vielu daudzums šajā teritorijā palielināsies."
+    },
+    "196": {
+        "id": "ARC-Challenge/validation/Mercury_7235813",
+        "answer": "D",
+        "instruction": "Ogļi cirkulē caur dažādiem rezervuāriem uz Zemes. Laiks, kas nepieciešams šo rezervuāru veidošanai, ļoti atšķiras. Kurš process ogļu ciklā prasa miljonus gadu, lai izveidotu norādīto rezervuāru?",
+        "option_a": "ogļu iekļaušana, sagremojot dzīvnieku audos",
+        "option_b": "ogļu izdalīšana atmosfērā elpojot",
+        "option_c": "atmosfēras ogļi, kas iekļauti cukuros augos",
+        "option_d": "ogļu sadalīšana augu audos, lai veidotu eļļu"
+    },
+    "197": {
+        "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+        "answer": "B",
+        "instruction": "Mežā, kā dekompozitori palīdz citiem organismiem izdzīvot?",
+        "option_a": "Viņi izdala skābekli gaisā, ko dzīvnieki elpo.",
+        "option_b": "Viņi ievieto barības vielas augsnē, ko augi izmanto augšanai.",
+        "option_c": "Viņi nodrošina patvērumu mežos, kur dzīvnieki var paslēpties.",
+        "option_d": "Viņi izmanto saules gaismu, lai ražotu pārtiku augiem un dzīvniekiem."
+    },
+    "198": {
+        "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+        "answer": "C",
+        "instruction": "Cilvēku darbības ietekmē vidi. Kura cilvēku darbība ietekmē vismazāko vides platību?",
+        "option_a": "meža dedzināšana",
+        "option_b": "fosilo kurināmo dedzināšana",
+        "option_c": "jauna atkritumu izgāztuve rakšana",
+        "option_d": "ķīmisko vielu izsmidzināšana uz kultūrām"
+    },
+    "199": {
+        "id": "ARC-Challenge/validation/Mercury_7162838",
+        "answer": "D",
+        "instruction": "Laboratorijas žurkas tika barotas ar mellenēm, zemenēm vai spinātiem papildinājumos kopā ar viņu parasto pārtiku. Pēc astoņām nedēļām žurkām tika veikti atmiņas un motorisko prasmju testi. Žurkas, kuras saņēma melleņu papildinājumu, parādīja vislielāko uzlabojumu. Kurš ir neatkarīgais (manipulētais) mainīgais šajā izpētē?",
+        "option_a": "motorisko prasmju tests",
+        "option_b": "novecošanas process",
+        "option_c": "atmiņas tests",
+        "option_d": "papildinājumi"
+    },
+    "200": {
+        "id": "ARC-Challenge/validation/Mercury_SC_405973",
+        "answer": "B",
+        "instruction": "Uz nelielas salas dzīvo vairāku veidu putni. Vētra iznīcina lielāko daļu augu, uz kuriem putni barojas un būvē savas ligzdas. Kurš putnu veids visdrīzāk izdzīvos uz salas?",
+        "option_a": "putni, kuriem ir vislielākais skaits",
+        "option_b": "putni, kuri vislabāk spēj pielāgoties",
+        "option_c": "putni, kuri var lidot vislielākos attālumus",
+        "option_d": "putni ar visstiprākajiem knābjiem"
+    },
+    "201": {
+        "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+        "answer": "B",
+        "instruction": "Kurš apgalvojums ir viedoklis?",
+        "option_a": "Daudzi augi ir zaļi.",
+        "option_b": "Daudzi augi ir skaisti.",
+        "option_c": "Augiem nepieciešama saules gaisma.",
+        "option_d": "Augi var augt dažādās vietās."
+    },
+    "202": {
+        "id": "ARC-Challenge/validation/Mercury_7103180",
+        "answer": "B",
+        "instruction": "Kura bioma ir visvairāk veģetācijas?",
+        "option_a": "tuksnesis",
+        "option_b": "mežs",
+        "option_c": "zālājs",
+        "option_d": "tundra"
+    },
+    "203": {
+        "id": "ARC-Challenge/validation/Mercury_7221865",
+        "answer": "C",
+        "instruction": "Grupa studentu novēroja burbuļu veidošanos, kad ūdens vārījās. Kas notika ar vielu fiziskās izmaiņas dēļ ūdenim?",
+        "option_a": "Jauna viela tika radīta burbuļos.",
+        "option_b": "Vecā viela tika iznīcināta, kad ūdens pārvērtās gāzē.",
+        "option_c": "Viela tika saglabāta, kad tā mainīja formu.",
+        "option_d": "Vielas sastāvs mainījās."
+    },
+    "204": {
+        "id": "ARC-Challenge/validation/Mercury_7242743",
+        "answer": "D",
+        "instruction": "Olbaltumvielas, kas tiek sintezētas ribosomu apakšvienībās, piedzīvo plašu posttranslācijas modifikāciju un tiek iepakotas un novirzītas uz atbilstošo galamērķi. Kurš šūnas strukturālais komponents ir iesaistīts šādā modifikācijā?",
+        "option_a": "endoplazmatiskais retikuls",
+        "option_b": "lizosomas",
+        "option_c": "mitohondriji",
+        "option_d": "Golži aparāts"
+    },
+    "205": {
+        "id": "ARC-Challenge/validation/Mercury_7103565",
+        "answer": "C",
+        "instruction": "Augsta spiediena sistēmas aptur gaisa pacelšanos aukstākajās atmosfēras daļās, kur ūdens var kondensēties. Kas visdrīzāk notiks, ja augsta spiediena sistēma paliks kādā teritorijā ilgu laiku?",
+        "option_a": "migla",
+        "option_b": "lietus",
+        "option_c": "sausums",
+        "option_d": "vētra"
+    },
+    "206": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415541",
+        "answer": "D",
+        "instruction": "Kurš no šiem objektiem visdrīzāk peldēs ūdenī?",
+        "option_a": "stikla marbles",
+        "option_b": "tērauda bumba",
+        "option_c": "cieta gumijas bumba",
+        "option_d": "galda tenisa bumba"
+    },
+    "207": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+        "answer": "A",
+        "instruction": "Students izņem ledus kubiņu trauku no saldētavas un novieto to uz galda. Ledus kubi ir cieti un auksti. Students aizmirst atgriezt ledus kubiņu trauku atpakaļ saldētavā. Nākamajā dienā ledus kubi būs",
+        "option_a": "šķidri un siltāki",
+        "option_b": "cieti un siltāki",
+        "option_c": "šķidri un aukstāki",
+        "option_d": "cieti un aukstāki"
+    },
+    "208": {
+        "id": "ARC-Challenge/validation/Mercury_7097318",
+        "answer": "D",
+        "instruction": "Vārna nometa zīlīti no ozola zara. Kas no šiem mainīsies, kad zīlīte krīt no koka uz zemi?",
+        "option_a": "zīlītes masa",
+        "option_b": "spēks uz zīlīti",
+        "option_c": "zīlītes blīvums",
+        "option_d": "zīlītes ātrums"
+    },
+    "209": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+        "answer": "B",
+        "instruction": "Zemāk redzamā vienādojuma parāda produktus, kas veidojas, kad sudraba nitrāta (AgNO3) šķīdums reaģē ar nātrija hlorīda (NaCl) šķīdumu. AgNO3 + NaCl (reaktanti) -> NaNO3 + AgCl (produkti) Šajā vienādojumā reaktantu kopējā masa ir",
+        "option_a": "lielāka par produktu kopējo masu",
+        "option_b": "vienāda ar produktu kopējo masu",
+        "option_c": "vienāda ar AgCl masu",
+        "option_d": "mazāka par AgCl masu"
+    },
+    "210": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415397",
+        "answer": "C",
+        "instruction": "Kura izmaiņa veido struktūru uz Zemes virsmas?",
+        "option_a": "Plūdi liek cilvēkiem pamest pilsētu.",
+        "option_b": "Zemes drebēšana rada viļņus laukā.",
+        "option_c": "Vulcāns veido jaunu zemi ar lavu.",
+        "option_d": "Atslīdēšana līcī rada paisuma vilni."
+    },
+    "211": {
+        "id": "ARC-Challenge/validation/Mercury_7246348",
+        "answer": "A",
+        "instruction": "Kura iezīme neveidojas tektonisko plākšņu atdalīšanās rezultātā?",
+        "option_a": "grāvis",
+        "option_b": "plaisas ieleja",
+        "option_c": "okeāna baseins",
+        "option_d": "vid-oceāna grēda"
+    },
+    "212": {
+        "id": "ARC-Challenge/validation/Mercury_7270200",
+        "answer": "A",
+        "instruction": "Zinātnieki ir izskaidrojuši, kā aminoskābes, ogļhidrāti, nukleīnskābes un taukskābes varēja tikt sintezētas uz Zemes pirms dzīvo organismu parādīšanās. Kurš no šiem atklājumiem visvairāk atbalstītu apgalvojumu, ka dzīvība spontāni radās no šiem biokemiskajiem savienojumiem?",
+        "option_a": "Šie ķīmiskie savienojumi var pašorganizēties struktūrā, kas replikējas.",
+        "option_b": "Šos ķīmiskos savienojumus šodien izmanto dzīvie organismi.",
+        "option_c": "Šie ķīmiskie savienojumi ir atrasti uz citas planētas.",
+        "option_d": "Šie ķīmiskie savienojumi var pašorganizēties vīrusā."
+    },
+    "213": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415026",
+        "answer": "C",
+        "instruction": "Kuri dzīvnieki visdrīzāk tiktu palīdzēti plūdos piekrastes apgabalā?",
+        "option_a": "briedi",
+        "option_b": "rūķi",
+        "option_c": "aligatoru",
+        "option_d": "koyote"
+    },
+    "214": {
+        "id": "ARC-Challenge/validation/Mercury_7143518",
+        "answer": "D",
+        "instruction": "Bebri ir pazīstami ar to, ka tie būvē dambjus pāri upēm un strautiem, nogāžot kokus un vācot krūmus un krūmus. Bebru populācija Amerikas Savienotajās Valstīs ir samazinājusies cilvēku slazdošanas dēļ. Kāda ir ekoloģiska sekas, kas visdrīzāk notiek, samazinoties bebriem populācijai?",
+        "option_a": "ievērojams zivju populāciju samazinājums",
+        "option_b": "ievērojams meža ekosistēmu pieaugums",
+        "option_c": "ievērojams ūdens iztvaikošanas pieaugums",
+        "option_d": "ievērojams dīķu biotopu skaita samazinājums"
+    },
+    "215": {
+        "id": "ARC-Challenge/validation/Mercury_7032340",
+        "answer": "D",
+        "instruction": "No uzskaitītajām izvēlēm, kura attēlo dabisko pasauli, izmantojot modeli?",
+        "option_a": "lasīt grāmatu par prēriju suņu kopienu",
+        "option_b": "skatīties attēlu par prēriju suņu kopienu",
+        "option_c": "pētīt prēriju suņu kopienu, izmantojot internetu",
+        "option_d": "novērot prēriju suņu kopienu izstādē zooloģiskajā dārzā"
+    },
+    "216": {
+        "id": "ARC-Challenge/validation/Mercury_415263",
+        "answer": "C",
+        "instruction": "Kurš no šiem atrodas eikariotiskajā šūnā, bet ne prokariotiskajā šūnā?",
+        "option_a": "DNS",
+        "option_b": "citoplazma",
+        "option_c": "kodols",
+        "option_d": "šūnu membrāna"
+    },
+    "217": {
+        "id": "ARC-Challenge/validation/Mercury_7090720",
+        "answer": "B",
+        "instruction": "Etilspirts ir alternatīvs degviela, kas izgatavota no kukurūzas. Kas ir viens no nelabvēlīgajiem efektiem, lietojot etilspirtu kā degvielu?",
+        "option_a": "samazinātas degvielas ražošanas izmaksas",
+        "option_b": "samazināšanās lauksaimniecības zemes, kas pieejama pārtikas ražošanai",
+        "option_c": "palielināšanās fosilo degvielu patēriņā",
+        "option_d": "palielināta oglekļa pēdas nospiedums, braucot ar automašīnām"
+    },
+    "218": {
+        "id": "ARC-Challenge/validation/Mercury_SC_410964",
+        "answer": "D",
+        "instruction": "Studenti pēta, kā darbojas durvju zvans. Kurš, visticamāk, ir novērojums, kas veikts izpētes laikā?",
+        "option_a": "Visi durvju zvani izdala patīkamas skaņas.",
+        "option_b": "Akumulators ir labākais enerģijas avots durvju zvanam.",
+        "option_c": "Lielākā daļa cilvēku dod priekšroku durvju zvana izmantošanai, nevis klauvēšanai.",
+        "option_d": "Durvju zvans izmanto stiepli, kas ir aptīta ap magnētu."
+    },
+    "219": {
+        "id": "ARC-Challenge/validation/Mercury_7057313",
+        "answer": "A",
+        "instruction": "Sirds muskuļa vislabāk raksturo kā",
+        "option_a": "tādu pašu šūnu kopīgu darbību.",
+        "option_b": "atšķirīgu sistēmu kopīgu darbību.",
+        "option_c": "tādu pašu orgānu veidošanu sistēmā.",
+        "option_d": "atšķirīgu orgānu funkciju izpildi."
+    },
+    "220": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402101",
+        "answer": "D",
+        "instruction": "Kādas iezīmes var atrast gan Zemes, gan Mēness virsmā?",
+        "option_a": "augi",
+        "option_b": "okeāni",
+        "option_c": "dzīvnieki",
+        "option_d": "kalni"
+    },
+    "221": {
+        "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+        "answer": "C",
+        "instruction": "Dažas baktēriju sugas ražo vielu, kas ir toksiska kukaiņiem, bet nekaitīga cilvēkiem. Zinātnieki ir izolējuši gēnu, kas kontrolē šīs vielas ražošanu. Kurš no šiem ir labākais iemesls, lai ievietotu šo gēnu kukurūzas augos?",
+        "option_a": "Kukurūza augs ātrāk.",
+        "option_b": "Būs nepieciešams mazāk mēslojuma.",
+        "option_c": "Būs nepieciešams mazāk pesticīdu.",
+        "option_d": "Kukurūza būs barojošāka."
+    },
+    "222": {
+        "id": "ARC-Challenge/validation/Mercury_7038133",
+        "answer": "B",
+        "instruction": "Students plāno izpēti, lai aprēķinātu dažādu bumbu ātrumus, kad tās ripo pa rampu. Kurš informācijas gabals ir vismazāk nepieciešams, lai students to pierakstītu?",
+        "option_a": "katras bumbas izmērs",
+        "option_b": "rampas biezums",
+        "option_c": "rampas garums",
+        "option_d": "laiks, kas nepieciešams bumbai, lai pārvietotos"
+    },
+    "223": {
+        "id": "ARC-Challenge/validation/Mercury_SC_407169",
+        "answer": "D",
+        "instruction": "Kā biotops ar mazu dīķi piedzīvo ilgu sausumu, kas no šiem visdrīzāk notiks ar daudziem dīķa zivīm?",
+        "option_a": "Viņi pielāgosies sausajai videi.",
+        "option_b": "Viņi dzīvotu uz citiem ūdens avotiem.",
+        "option_c": "Viņi pārvietotos uz citu biotopu.",
+        "option_d": "Viņi nespētu izdzīvot."
+    },
+    "224": {
+        "id": "ARC-Challenge/validation/Mercury_7103215",
+        "answer": "C",
+        "instruction": "Students vēlas noteikt ķiploku ietekmi uz sēņu sugu augšanu. Daudzi sēņu kultūru paraugi tiek audzēti vienādā agarā un gaismā. Katram paraugam tiek piešķirts atšķirīgs ķiploku daudzums. Kas ir neatkarīgā mainīgā šajā izpētē?",
+        "option_a": "agaru daudzums",
+        "option_b": "gaismas daudzums",
+        "option_c": "ķiploku daudzums",
+        "option_d": "augšanas daudzums"
+    },
+    "225": {
+        "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+        "answer": "B",
+        "instruction": "Kurš no šiem augu šūnas daļām pilda funkciju, kas visvairāk līdzīga dzīvnieku skeleta funkcijai?",
+        "option_a": "šūnu membrāna",
+        "option_b": "šūnu siena",
+        "option_c": "hloroplasts",
+        "option_d": "kodols"
+    },
+    "226": {
+        "id": "ARC-Challenge/validation/Mercury_7018008",
+        "answer": "A",
+        "instruction": "Kas vislabāk raksturo atoma elektrisko īpašību?",
+        "option_a": "neitrāls",
+        "option_b": "izolēts",
+        "option_c": "pozitīvi lādēts",
+        "option_d": "negatīvi lādēts"
+    },
+    "227": {
+        "id": "ARC-Challenge/validation/Mercury_7166530",
+        "answer": "B",
+        "instruction": "Ira pēc skolas bija jāveic laboratorijas izpēte. Viņš ieguva materiālus, ķīmiskās vielas, aprīkojumu un aizsargapģērbu no sava skolotāja. Ātri, bet uzmanīgi, viņš veica soļus rakstiskajā eksperimenta procedūrā. Lai ietaupītu laiku, viņš nolēma savas novērošanas un rezultātus ierakstīt vēlāk. Kas visdrīzāk tiks negatīvi ietekmēts viņa lēmuma dēļ?",
+        "option_a": "spēja sekot norādījumiem",
+        "option_b": "spēja uzrakstīt derīgu ziņojumu",
+        "option_c": "spēja ievērot drošības vadlīnijas",
+        "option_d": "spēja izdarīt secinājumus"
+    },
+    "228": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400047",
+        "answer": "B",
+        "instruction": "Students atstāja šokolādes batoniņu saulē karstā dienā. Kad šokolāde izkusa, kura īpašība mainījās?",
+        "option_a": "tās masa",
+        "option_b": "tās forma",
+        "option_c": "tās svars",
+        "option_d": "tās sastāvs"
+    },
+    "229": {
+        "id": "ARC-Challenge/validation/Mercury_7044100",
+        "answer": "C",
+        "instruction": "Kādā veidā var izsīkt augsnes barības vielas lauksaimniecības zemē?",
+        "option_a": "pārmērīga ganīšana",
+        "option_b": "vēja erozija",
+        "option_c": "palielināta apūdeņošana",
+        "option_d": "palielināta mēslošana"
+    },
+    "230": {
+        "id": "ARC-Challenge/validation/Mercury_7075145",
+        "answer": "A",
+        "instruction": "Kura no šiem procesiem ļauj šūnām uzņemt ūdeni?",
+        "option_a": "osmosis",
+        "option_b": "mitoze",
+        "option_c": "fotosintēze",
+        "option_d": "elpošana"
+    },
+    "231": {
+        "id": "ARC-Challenge/validation/Mercury_192290",
+        "answer": "D",
+        "instruction": "Lai gan tie pieder pie vienas un tās pašas ģimenes, ērglis un pelikāns ir atšķirīgi. Kāda ir viena atšķirība starp tiem?",
+        "option_a": "viņu priekšroka ēst zivis",
+        "option_b": "viņu spēja lidot",
+        "option_c": "viņu vairošanās metode",
+        "option_d": "viņu pārtikas ķeršanas metode"
+    },
+    "232": {
+        "id": "ARC-Challenge/validation/Mercury_7093975",
+        "answer": "D",
+        "instruction": "Kāds ir dabisks iemesls upju izžūšanai?",
+        "option_a": "piesārņojums",
+        "option_b": "erozija",
+        "option_c": "ūdens līmeņu paaugstināšanās",
+        "option_d": "nokrišņu trūkums"
+    },
+    "233": {
+        "id": "ARC-Challenge/validation/Mercury_7085820",
+        "answer": "D",
+        "instruction": "Kad ūdens sāk sasalst, ūdens molekulas",
+        "option_a": "iegūst siltuma enerģiju.",
+        "option_b": "pārvietojas brīvāk.",
+        "option_c": "palielinās izmērā.",
+        "option_d": "samazinās ātrumā."
+    },
+    "234": {
+        "id": "ARC-Challenge/validation/MEA_2016_5_6",
+        "answer": "C",
+        "instruction": "Ūdens piepildīts balons tiek novietots saldētavā. Kura ūdens īpašība mainīsies, kad ūdens sasniegs sasalšanas punktu?",
+        "option_a": "krāsa",
+        "option_b": "masa",
+        "option_c": "stāvoklis",
+        "option_d": "svars"
+    },
+    "235": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+        "answer": "B",
+        "instruction": "Kas jādara pirms mākoņu veidošanās?",
+        "option_a": "Ūdens tvaikam jāuzsilst.",
+        "option_b": "Ūdens tvaikam jāzaudē siltuma enerģija.",
+        "option_c": "Nokrišņiem jāsāk krist un jāplūst prom.",
+        "option_d": "Transpirācijai jāpapildina atmosfēra ar ūdens tvaiku."
+    },
+    "236": {
+        "id": "ARC-Challenge/validation/Mercury_7250023",
+        "answer": "A",
+        "instruction": "Visām šūnām, prokariotiskām un eukariotiskām, ir dažas kopīgas iezīmes. Kura šūnas iezīme ir sastopama gan prokariotiskajās, gan eukariotiskajās šūnās?",
+        "option_a": "ribosoma",
+        "option_b": "hloroplastu membrāna",
+        "option_c": "kodols",
+        "option_d": "endoplazmatiskais tīkls"
+    },
+    "237": {
+        "id": "ARC-Challenge/validation/Mercury_7003955",
+        "answer": "D",
+        "instruction": "Kāds ir individuālo matu šķiedru lādiņš, kad tie stāv uz galiem statiskās elektrības dēļ?",
+        "option_a": "neitrāli lādiņi",
+        "option_b": "neitrāla izlāde",
+        "option_c": "pastāvīgs pozitīvs lādiņš",
+        "option_d": "pagaidu pozitīvi lādiņi"
+    },
+    "238": {
+        "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+        "answer": "D",
+        "instruction": "Vējš ir dabisks resurss, kas sniedz labumu Česapīka līča dienvidaustrumu krastam. Kā šie vēji varētu vislabāk sniegt labumu cilvēkiem?",
+        "option_a": "Vēji varētu pūst naftas noplūdes līcī.",
+        "option_b": "Vēji varētu tikt pārveidoti par fosilo degvielu.",
+        "option_c": "Vēji varētu pūst gaisa piesārņojumu virzienā uz krastu.",
+        "option_d": "Vēji varētu tikt pārveidoti par elektrisko enerģiju."
+    },
+    "239": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+        "answer": "D",
+        "instruction": "Cik ilgi Zemei nepieciešams, lai veiktu vienu revolūciju ap Sauli?",
+        "option_a": "diena",
+        "option_b": "nedēļa",
+        "option_c": "mēnesis",
+        "option_d": "gads"
+    },
+    "240": {
+        "id": "ARC-Challenge/validation/Mercury_SC_411306",
+        "answer": "D",
+        "instruction": "Dažādām augu sugām ir kopīgas iezīmes. Kura iezīme ir visvairāk augu kopīga?",
+        "option_a": "to sakņu izmērs",
+        "option_b": "to lapu forma",
+        "option_c": "to ziedu krāsa",
+        "option_d": "to šūnu struktūra"
+    },
+    "241": {
+        "id": "ARC-Challenge/validation/Mercury_7241115",
+        "answer": "C",
+        "instruction": "Kura notikuma dēļ visdrīzāk notika zīdītāju daudzveidības eksplozija, kas notika Kretacejas periodā?",
+        "option_a": "superkontinenta Pangea veidošanās",
+        "option_b": "intensīva vulkāniskā aktivitāte",
+        "option_c": "aukstāki temperatūras",
+        "option_d": "jūras līmeņa paaugstināšanās"
+    },
+    "242": {
+        "id": "ARC-Challenge/validation/Mercury_7042735",
+        "answer": "C",
+        "instruction": "Zinību stundā tiek iegūta ūdens un netoksiskas vielas šķīdums. Ko vajadzētu darīt ar šķīdumu, kad demonstrācija ir pabeigta?",
+        "option_a": "To vajadzētu izliet kanalizācijā.",
+        "option_b": "To vajadzētu izliet pārstrādes tvertnē.",
+        "option_c": "To vajadzētu izliet atkritumu tvertnē.",
+        "option_d": "To vajadzētu ievietot bīstamo materiālu iznīcināšanas tvertnē."
+    },
+    "243": {
+        "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+        "answer": "D",
+        "instruction": "Kurš no šiem ir galvenais spriedzes veids, ko fiksēts skava izsaka uz koka gabala?",
+        "option_a": "stiepes",
+        "option_b": "šķērsgriezums",
+        "option_c": "vērpes",
+        "option_d": "saspiešana"
+    },
+    "244": {
+        "id": "ARC-Challenge/validation/Mercury_176015",
+        "answer": "D",
+        "instruction": "Grupa studentu pēta divas vielas, lai noteiktu, kura ir galda sāls un kura ir galda cukurs. Kā studenti vislabāk identificētu katru vielu?",
+        "option_a": "pamanot, vai tās izšķīst ūdenī",
+        "option_b": "pētot vielas krāsu",
+        "option_c": "novērojot, vai tās pielīp pie virsmas",
+        "option_d": "pārbaudot kristāla formu"
+    },
+    "245": {
+        "id": "ARC-Challenge/validation/Mercury_7215180",
+        "answer": "C",
+        "instruction": "Zinātnieki vāc granīta paraugus Rietumu Nevada kalnos. Kurš no šiem formātiem ir vislabākais, lai attēlotu un salīdzinātu minerālu procentuālo daudzumu vienā granīta paraugā?",
+        "option_a": "stabu diagramma",
+        "option_b": "līniju diagramma",
+        "option_c": "aplīšu diagramma",
+        "option_d": "izkliedes diagramma"
+    },
+    "246": {
+        "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+        "answer": "B",
+        "instruction": "Dzīvniekam ir seši kājas. Kas tas, visticamāk, ir?",
+        "option_a": "zirneklis",
+        "option_b": "muša",
+        "option_c": "čūskas",
+        "option_d": "simts kāju"
+    },
+    "247": {
+        "id": "ARC-Challenge/validation/Mercury_177818",
+        "answer": "C",
+        "instruction": "Laika posms starp nakti un dienu uz Zemes mainās visa gada garumā. Šo laika variāciju galvenokārt izskaidro",
+        "option_a": "Saules pozīcija.",
+        "option_b": "Mēness pozīcija.",
+        "option_c": "Zemes slīpuma leņķis",
+        "option_d": "Zemes attālums no Saules"
+    },
+    "248": {
+        "id": "ARC-Challenge/validation/Mercury_SC_405487",
+        "answer": "B",
+        "instruction": "Vienā gadā ozolu koki parkā sāka ražot vairāk zīdkoku nekā parasti. Nākamajā gadā parkā arī palielinājās čipmanku populācija. Kas vislabāk izskaidro, kāpēc nākamajā gadā bija vairāk čipmanku?",
+        "option_a": "Apslēptās zonas palielinājās.",
+        "option_b": "Pārtikas avoti palielinājās.",
+        "option_c": "Skābekļa līmeņi palielinājās.",
+        "option_d": "Pieejamais ūdens palielinājās."
+    },
+    "249": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400612",
+        "answer": "C",
+        "instruction": "Zemes virsma pastāvīgi mainās no laikapstākļu un erozijas ietekmes. Salīdzinājumā ar Zemi, uz Mēness ir maz laikapstākļu un erozijas, jo",
+        "option_a": "uz Mēness nav gravitācijas.",
+        "option_b": "uz Mēness ir plāna atmosfēra.",
+        "option_c": "uz Mēness nav gaisa un ūdens.",
+        "option_d": "uz Mēness nav dzīvo radību."
+    },
+    "250": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400655",
+        "answer": "A",
+        "instruction": "Kura no šiem ir vislielākā izmaiņa, ko var novērot starp vasaru un ziemu?",
+        "option_a": "gaismas dienu skaits",
+        "option_b": "okeāna viļņu augstumi",
+        "option_c": "vētru skaits",
+        "option_d": "mākoņu izmēri"
+    },
+    "251": {
+        "id": "ARC-Challenge/validation/Mercury_SC_415735",
+        "answer": "C",
+        "instruction": "Anja uzsita ledus gabalu uz ietves siltā dienā. Ledus gabals drīz izkusa, veidojot peļķi. Kāds process izraisīja ledus gabala izkusšanu?",
+        "option_a": "Siltums, kas caur ledus gabalu pārvietojās ar konvekciju.",
+        "option_b": "Siltums, kas no gaisa pārvietojās uz ledus gabalu ar starojumu.",
+        "option_c": "Siltums, kas no gaisa un ietves pārvietojās ar vadītspēju.",
+        "option_d": "Siltums, kas caur ledus gabalu pārvietojās uz ietvi ar vadītspēju."
+    },
+    "252": {
+        "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+        "answer": "D",
+        "instruction": "Merkurs, planēta, kas atrodas vistuvāk Saulei, ir ekstremālas virsmas temperatūras, kas svārstās no 465°C saules gaismā līdz -180°C tumsā. Kāpēc uz Merkura ir tik liels temperatūras diapazons?",
+        "option_a": "Planēta ir pārāk maza, lai saglabātu siltumu.",
+        "option_b": "Planēta tiek uzsildīta tikai no vienas puses.",
+        "option_c": "Planēta atspoguļo siltumu no tās tumšās puses.",
+        "option_d": "Planētai trūkst atmosfēras, lai saglabātu siltumu."
+    },
+    "253": {
+        "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+        "answer": "B",
+        "instruction": "Kāpēc vīriešu kukaiņiem tiktu veikta ārstēšana, lai novērstu spermatozoīdu ražošanu?",
+        "option_a": "Lai palielinātu sieviešu kukaiņu skaitu",
+        "option_b": "Lai samazinātu kopējo kukaiņu populāciju",
+        "option_c": "Lai radītu jaunas kukaiņu sugas",
+        "option_d": "Lai novērstu kukaiņu pārošanos"
+    },
+    "254": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+        "answer": "D",
+        "instruction": "Koksnes stumbra galvenā funkcija ir nodrošināt",
+        "option_a": "gaisu",
+        "option_b": "augļus",
+        "option_c": "saules gaismu",
+        "option_d": "atbalstu"
+    },
+    "255": {
+        "id": "ARC-Challenge/validation/Mercury_7017990",
+        "answer": "A",
+        "instruction": "Kura darbība nepārstāv drošības procedūru laboratorijā?",
+        "option_a": "ķīmisko paraugu nogaršošana",
+        "option_b": "karstumizturīgu cimdu izmantošana, ja stikla trauki ir karsti",
+        "option_c": "garo matu sasiešana",
+        "option_d": "ķīmiskā šķidruma izšļakstīšana ar daudz ūdens"
+    },
+    "256": {
+        "id": "ARC-Challenge/validation/Mercury_7264023",
+        "answer": "D",
+        "instruction": "Kurš no šiem elementiem, visticamāk, netiks atrasts organiskajā savienojumā?",
+        "option_a": "ogleklis",
+        "option_b": "ūdeņradis",
+        "option_c": "slāpeklis",
+        "option_d": "kālijs"
+    },
+    "257": {
+        "id": "ARC-Challenge/validation/Mercury_7138513",
+        "answer": "A",
+        "instruction": "Salai ir daudz putnu sugu, nav vietējo čūsku sugu un ir maz lielo plēsēju. Brūnās čūskas ēd putnu olas. Kāds, visticamāk, būs rezultāts, ja brūnās čūskas nejauši tiks palaistas salā?",
+        "option_a": "vairāk čūsku un mazāk putnu",
+        "option_b": "vairāk čūsku un vairāk putnu",
+        "option_c": "mazāk čūsku un mazāk putnu",
+        "option_d": "mazāk čūsku un vairāk putnu"
+    },
+    "258": {
+        "id": "ARC-Challenge/validation/Mercury_SC_401663",
+        "answer": "B",
+        "instruction": "Kāds students var saglabāt resursus, novietojot kuri objektus komposta kaudzē?",
+        "option_a": "mēslojumi",
+        "option_b": "pupas augi",
+        "option_c": "stikla kolbas",
+        "option_d": "plastmasas pipetes"
+    },
+    "259": {
+        "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+        "answer": "C",
+        "instruction": "Liels daudzums nogulumu tiek paņemts no ūdens, kad ūdens plūst lejup pa upēm un strautiem. Kad ūdens upē vai strautā ir plūdis ātri un tad sāk palēnināties, kas, visticamāk, notiks ar nogulumu daļiņām, ko ūdens nes?",
+        "option_a": "Lielāku nogulumu daļiņu daudzums, ko nes ūdens, palielināsies.",
+        "option_b": "Mazāku nogulumu daļiņu daudzums, ko nes ūdens, palielināsies.",
+        "option_c": "Lielāku nogulumu daļiņu daudzums, ko nes ūdens, samazināsies.",
+        "option_d": "Mazāku nogulumu daļiņu daudzums, ko nes ūdens, samazināsies."
+    },
+    "260": {
+        "id": "ARC-Challenge/validation/Mercury_7195440",
+        "answer": "B",
+        "instruction": "Katru gadu tiek iznīcināti aptuveni 50 miljoni akru tropu mežu. Kurš efekts visdrīzāk rastos no šo mežu iznīcināšanas?",
+        "option_a": "augsnē erozijas samazināšanās",
+        "option_b": "bioloģiskās daudzveidības samazināšanās",
+        "option_c": "gaisa kvalitātes uzlabošanās",
+        "option_d": "ūdens kvalitātes uzlabošanās"
+    },
+    "261": {
+        "id": "ARC-Challenge/validation/Mercury_7220378",
+        "answer": "C",
+        "instruction": "Klimata pārmaiņas, iespējams, samazina ledus daudzumu, kas peld pasaules okeānos. Kā šī izmaiņa visdrīzāk var mainīt pārtikas piegādi, kas pieejama jūras patērētāju organismiem?",
+        "option_a": "samazinot sāls daudzumu, kas izšķīdis okeāna ūdenī",
+        "option_b": "palielinot ūdens spēju atdalīties atsevišķās slāņos",
+        "option_c": "mainot temperatūras apstākļus, kas nepieciešami vienšūnu ražotājiem",
+        "option_d": "novēršot organismu ātru reakciju uz vides izmaiņām"
+    },
+    "262": {
+        "id": "ARC-Challenge/validation/Mercury_7234483",
+        "answer": "B",
+        "instruction": "Pašreizējā, dominējošā teorija par dzīvības izcelsmi uz Zemes ir atkarīga no prebiotiskām vielām, kurām vispirms attīstījās kura īpašība?",
+        "option_a": "stabila atdalīšanās no apkārtējās vides",
+        "option_b": "salikšanās pašreplikējošās struktūrās",
+        "option_c": "īpašību uzkrāšana ķīmiski kodētā formā",
+        "option_d": "enerģiju uzkrājošo molekulu uzkrāšanās"
+    },
+    "263": {
+        "id": "ARC-Challenge/validation/Mercury_7179358",
+        "answer": "B",
+        "instruction": "Klimatiska uguns ekosistēma prasa periodiskas meža ugunsgrēkus, lai saglabātu stabilitāti. Kurš no šiem būtu visdrīzākā sekas, ja tiktu novērsti dabiskie ugunsgrēki šajā ekosistēmā?",
+        "option_a": "Priežu sugas vairosies ātrāk.",
+        "option_b": "Platas lapu sugas aizstās priežu sugas.",
+        "option_c": "Dedzināšanas zonas tiks vieglāk ierobežotas.",
+        "option_d": "Koki izplatīsies iepriekš neapmežotās teritorijās."
+    },
+    "264": {
+        "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+        "answer": "C",
+        "instruction": "Kā smēķēšana tabakas varētu negatīvi ietekmēt indivīda spēju gūt panākumus fiziskajās aktivitātēs?",
+        "option_a": "Tā traucē līdzsvaru un koordināciju.",
+        "option_b": "Tā samazina spēju ātri pieņemt lēmumus.",
+        "option_c": "Tā samazina izturību un sirds un asinsvadu efektivitāti.",
+        "option_d": "Tā samazina muskuļu kontrakciju ātrumu un spēku."
+    },
+    "265": {
+        "id": "ARC-Challenge/validation/Mercury_7100695",
+        "answer": "D",
+        "instruction": "Kura ģeoloģiskā struktūra, visticamāk, veidosies visilgāk?",
+        "option_a": "sadalījums",
+        "option_b": "iegruvums",
+        "option_c": "upe meandrs",
+        "option_d": "kalnu grēda"
+    },
+    "266": {
+        "id": "ARC-Challenge/validation/MEA_2016_5_7",
+        "answer": "B",
+        "instruction": "Students novēro, ka vienšūnu organisms un auga lapa ir līdzīgas zaļas daļas. Students domā, ka abi organismi izmanto zaļās daļas, lai dzīvotu. Kurš pierādījums atbalsta secinājumu, ka abi organismi nepieciešami zaļās daļas, lai dzīvotu?",
+        "option_a": "Abi organismi izmanto zaļās daļas, lai pārvietotos.",
+        "option_b": "Abi organismi mirst, ja zaļās daļas tiek noņemtas.",
+        "option_c": "Abos organismos novēro, ka zaļās daļas ražo gaismu.",
+        "option_d": "Abos organismos zaļās daļas var radīt vairāk zaļo daļu."
+    },
+    "267": {
+        "id": "ARC-Challenge/validation/Mercury_7027230",
+        "answer": "A",
+        "instruction": "Kura tēma būtu vislabākā, lai pētītu veidus, kā samazināt cilvēku radītās vides problēmas?",
+        "option_a": "saules gaismas pārvēršana elektrībā",
+        "option_b": "jaunu ogļu rezervju meklēšana",
+        "option_c": "ūdens rezervuāru, kas satur naftu, atrašana",
+        "option_d": "mežu pārvēršana lauksaimniecības zemē"
+    },
+    "268": {
+        "id": "ARC-Challenge/validation/Mercury_7245053",
+        "answer": "B",
+        "instruction": "Kurš no šiem savienojumiem ir organiskais savienojums?",
+        "option_a": "ūdens (H2O)",
+        "option_b": "heksāns (C6H14)",
+        "option_c": "amonjaks (NH3)",
+        "option_d": "sēra dioksīds (SO2)"
+    },
+    "269": {
+        "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+        "answer": "A",
+        "instruction": "Auga sēklas galvenā funkcija ir",
+        "option_a": "uzglabāt barību, kas tiks izmantota agrīnā attīstībā",
+        "option_b": "piesaistīt ziedputekšņus, kas tiks izmantoti attīstības laikā",
+        "option_c": "uzņemt gaismas enerģiju, kas tiks izmantota fotosintēzē",
+        "option_d": "ražot hlorofilu, kas tiks izmantots fotosintēzē"
+    },
+    "270": {
+        "id": "ARC-Challenge/validation/Mercury_7189035",
+        "answer": "D",
+        "instruction": "Skots skatījās uz sarkano un balto ziedu krustošanas rezultātiem. Kāds ir visdrīzākais rezultāts krustošanai, kas demonstrē nepilnīgu dominanci?",
+        "option_a": "0% rozā ziedi",
+        "option_b": "25% balto ziedu",
+        "option_c": "50% sarkano ziedu",
+        "option_d": "100% rozā ziedi"
+    },
+    "271": {
+        "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+        "answer": "B",
+        "instruction": "Džolija vēlējās brokastīs ēst vārītu olu. Viņa ielika olu verdošā ūdenī piecpadsmit minūtes. Kad viņa saplēsa čaumalu, olu šķidrie komponenti bija kļuvuši cieti. Tas bija tāpēc,",
+        "option_a": "sildīšana no olu izņēma ūdeni.",
+        "option_b": "sildīšana mainīja ķīmiskās saites olā.",
+        "option_c": "vārīšana izcēla cietās olu daļas virsmas.",
+        "option_d": "baktērijas, kas dzīvoja šķidrajā olā, tika nogalinātas."
+    },
+    "272": {
+        "id": "ARC-Challenge/validation/Mercury_SC_400172",
+        "answer": "A",
+        "instruction": "Kurš zinātnieks apgalvoja, ka Zeme ir Visuma centrs?",
+        "option_a": "Aristotelis",
+        "option_b": "Koperniks",
+        "option_c": "Einstīns",
+        "option_d": "Ņūtons"
+    },
+    "273": {
+        "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+        "answer": "D",
+        "instruction": "Sieviešu roņi parasti atgriežas pie tām pašām pludmalēm gadu no gada, lai dzemdētu. Ja viņus atkārtoti traucē cilvēki šajās pludmalēs, kā visdrīzāk roņi reaģēs?",
+        "option_a": "Viņi mainīs krāsu.",
+        "option_b": "Viņi dzemdēs vairāk mazuļu.",
+        "option_c": "Viņi biežāk medīs pārtiku.",
+        "option_d": "Viņi dzemdēs citās pludmalēs."
+    },
+    "274": {
+        "id": "ARC-Challenge/validation/MEA_2010_8_11",
+        "answer": "A",
+        "instruction": "Kad šķidrā ūdens molekulu kustība palēninās, kas visdrīzāk notiek?",
+        "option_a": "Šķidrais ūdens veido cietu vielu.",
+        "option_b": "Šķidrais ūdens kondensējas.",
+        "option_c": "Šķidrais ūdens piedzīvo ķīmisku pārmaiņu.",
+        "option_d": "Šķidrais ūdens kļūst par tvaiku."
+    },
+    "275": {
+        "id": "ARC-Challenge/validation/Mercury_7187058",
+        "answer": "A",
+        "instruction": "Katru nakti Džonijs lasa blakus lampai, kuru apgaismo kvēlspuldze. Kas ir labākais rādītājs, ka elektriskās enerģijas pārvade uz lampu ir neefektīva?",
+        "option_a": "Spuldze sakarst.",
+        "option_b": "Spuldze ražo gaismu.",
+        "option_c": "Lampa izmanto vara vadus.",
+        "option_d": "Lampu var izslēgt ar slēdzi."
+    },
+    "276": {
+        "id": "ARC-Challenge/validation/Mercury_7185133",
+        "answer": "A",
+        "instruction": "Treisa mācījās par struktūru organizāciju dzīvniekos. Kurš struktūras organizācijas līmenis vislabāk raksturo olu?",
+        "option_a": "šūna",
+        "option_b": "audu",
+        "option_c": "sistēma",
+        "option_d": "orgāns"
+    },
+    "277": {
+        "id": "ARC-Challenge/validation/Mercury_7183733",
+        "answer": "B",
+        "instruction": "Evergladesā Amerikas aligatora ķermeņa stāvoklis ir cieši saistīts ar ūdens dziļumu. Kad ūdens līmenis paaugstinās pārāk augstu, dzīvnieku sugas izkliedējas plašākā teritorijā, izraisot ķermeņa stāvokļa pasliktināšanos, jo nav iespējams atrast pietiekamus pārtikas avotus. Kad ūdens līmenis krītas, dzīvnieku sugas pulcējas mazākās teritorijās, ļaujot aligatoriem efektīvāk medīt. Šis scenārijs ir piemērs tam, kā aligatoru izdzīvošana ir atkarīga no kāda faktora ierobežošanas?",
+        "option_a": "sadalīšanās ātrums",
+        "option_b": "upura dzīvotņu platība",
+        "option_c": "ražotāju iznākums",
+        "option_d": "ūdens apgrozījums"
+    },
+    "278": {
+        "id": "ARC-Challenge/validation/Mercury_7205345",
+        "answer": "D",
+        "instruction": "Kad tiek ražots galda sāls (NaCl), kurš no sekojošajiem vislabāk raksturo nātrija (Na) un hloru (Cl) atomu darbības?",
+        "option_a": "Nātrija atomi aizvieto hloru atomus.",
+        "option_b": "Nātrija un hloru atomi sajaucas kopā.",
+        "option_c": "Nātrija atomi izšķīst hloru atomos.",
+        "option_d": "Nātrija un hloru atomi ķīmiski saistās."
+    },
+    "279": {
+        "id": "ARC-Challenge/validation/Mercury_176838",
+        "answer": "A",
+        "instruction": "Kurš no šiem nav asinsrites sistēmas uzdevums?",
+        "option_a": "sadalīt pārtiku barības vielās",
+        "option_b": "pārvadāt barības vielas un skābekli",
+        "option_c": "noņemt atkritumproduktu no ķermeņa",
+        "option_d": "aizsargāt ķermeni pret svešiem iebrucējiem"
+    },
+    "280": {
+        "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+        "answer": "D",
+        "instruction": "Kolibri var karot gaisā un lidot ļoti ātri. Tas ir izdevīgi kolibri visos šajos gadījumos, izņemot",
+        "option_a": "ātri izbēgt no plēsējiem.",
+        "option_b": "viegli sasniegt ziedus.",
+        "option_c": "palikt vienā vietā, lai dzertu nektāru.",
+        "option_d": "turēt olas siltas."
+    },
+    "281": {
+        "id": "ARC-Challenge/validation/Mercury_7166180",
+        "answer": "B",
+        "instruction": "Augu augšanu ietekmē vides faktori, piemēram, gravitācija. Ja sēklai ļauj dīgt un augt, kad tā ir pagriezta sānis, kas visdrīzāk notiks?",
+        "option_a": "saknes augs uz leju, stublāji augs uz leju",
+        "option_b": "saknes augs uz leju, stublāji augs uz augšu",
+        "option_c": "saknes augs uz augšu, stublāji augs uz leju",
+        "option_d": "saknes augs uz augšu, stublāji augs uz augšu"
+    },
+    "282": {
+        "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+        "answer": "C",
+        "instruction": "Students novēroja akmeni, kas sastāv no daudziem maziem smilšu daļiņām, kas sakārtotas gaišās un tumšās krāsās slāņos. Kurš no šiem apgalvojumiem visprecīzāk apraksta, kā šāda veida akmens visdrīzāk veidojās?",
+        "option_a": "Māls tika saspiests un sasalts zem ledāja.",
+        "option_b": "Lava no vulkāna ātri atdzisa ūdenī.",
+        "option_c": "Upes nogulumi tika lēnām saspiesti un cementēti kopā.",
+        "option_d": "Minerālu nogulsnes sacietēja cietā akmenī pazemes alās."
+    },
+    "283": {
+        "id": "ARC-Challenge/validation/Mercury_7267593",
+        "answer": "A",
+        "instruction": "Kuri no šiem dabas katastrofām ir visneparedzamākās?",
+        "option_a": "zemestrīces",
+        "option_b": "vētras",
+        "option_c": "tornādi",
+        "option_d": "sniega vētras"
+    },
+    "284": {
+        "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+        "answer": "B",
+        "instruction": "Cilvēks CANNOT izdzīvot zaudējumu, kas no sekojošajiem?",
+        "option_a": "Apendiks",
+        "option_b": "Aknas",
+        "option_c": "Plauša",
+        "option_d": "Nieru"
+    },
+    "285": {
+        "id": "ARC-Challenge/validation/Mercury_7218750",
+        "answer": "C",
+        "instruction": "Kura veida ūdens rezervuārs vienmēr varētu nodrošināt saldūdeni?",
+        "option_a": "iekšzemes ezeri",
+        "option_b": "upju deltās",
+        "option_c": "kalnu ledāji",
+        "option_d": "tropu jūras"
+    },
+    "286": {
+        "id": "ARC-Challenge/validation/Mercury_7026198",
+        "answer": "A",
+        "instruction": "Elements kryptons ir gāze, kas praktiski neizrāda ķīmisko aktivitāti. Lai atrastu citu elementu ar līdzīgām īpašībām, ko studentam vajadzētu meklēt Periodiskajā elementu tabulā?",
+        "option_a": "elements tajā pašā grupā",
+        "option_b": "elements tajā pašā periodā",
+        "option_c": "elements ar to pašu neto lādiņu",
+        "option_d": "elements ar to pašu atomu masu"
+    },
+    "287": {
+        "id": "ARC-Challenge/validation/Mercury_7081760",
+        "answer": "B",
+        "instruction": "Lai klasificētu jaunatklātu organismu, zinātnieks pēta organisma struktūru, DNS un dzīves ciklu. Zinātnieks visdrīzāk izmantos izpētes rezultātus, lai",
+        "option_a": "izstrādātu jaunas zinātniskās metodes.",
+        "option_b": "pārskatītu zinātniskās zināšanas.",
+        "option_c": "veidotu jaunas hipotēzes.",
+        "option_d": "noraidītu zinātniskās teorijas."
+    },
+    "288": {
+        "id": "ARC-Challenge/validation/Mercury_7130603",
+        "answer": "C",
+        "instruction": "Kura no sarakstā minētajām daudzumiem tiek mērīta citā vienībā nekā džouls?",
+        "option_a": "siltums",
+        "option_b": "gaisma",
+        "option_c": "jauda",
+        "option_d": "darbs"
+    },
+    "289": {
+        "id": "ARC-Challenge/validation/Mercury_7074865",
+        "answer": "C",
+        "instruction": "Kurš no šiem apgalvojumiem ir patiesi attiecībā uz aļģēm, baktērijām un ziedošiem augiem?",
+        "option_a": "Tie ir neorganiski.",
+        "option_b": "Visiem ir hlorofils.",
+        "option_c": "Tie sastāv no šūnām.",
+        "option_d": "Visi barojas no citiem organismiem."
+    },
+    "290": {
+        "id": "ARC-Challenge/validation/Mercury_7042700",
+        "answer": "D",
+        "instruction": "Kuru aprīkojumu nevajadzētu izmantot dzīvnieku dissekcijas laikā?",
+        "option_a": "cimdi",
+        "option_b": "aizsargbrilles",
+        "option_c": "laboratorijas halāts",
+        "option_d": "drošības duša"
+    },
+    "291": {
+        "id": "ARC-Challenge/validation/Mercury_7071365",
+        "answer": "D",
+        "instruction": "Kura salīdzinājums starp tauriņiem un pūkainēm ir fakts?",
+        "option_a": "Tauriņi ir skaistāki un interesantāki vērot nekā pūkainītes.",
+        "option_b": "Tauriņi labāk lido nekā pūkainītes.",
+        "option_c": "Tauriņi un pūkainītes ir daudz laimīgāki dienas laikā.",
+        "option_d": "Tauriņiem un pūkainītēm ir vienāds kāju skaits."
+    },
+    "292": {
+        "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+        "answer": "C",
+        "instruction": "Augiem un dzīvniekiem nepieciešama pārtika augšanai. Kas notiek ar lielāko daļu pārtikas, ko ražo augi?",
+        "option_a": "Pārtika tiek izlaista kā gāze.",
+        "option_b": "Pārtika tiek pārvērsta ūdenī.",
+        "option_c": "Pārtika tiek uzkrāta turpmākai lietošanai.",
+        "option_d": "Pārtika tiek izmantota saules gaismas uzsūkšanai."
+    },
+    "293": {
+        "id": "ARC-Challenge/validation/Mercury_7026443",
+        "answer": "D",
+        "instruction": "Kura no suņa iezīme tiek mantota?",
+        "option_a": "Suns izvairās no mājas kaķa.",
+        "option_b": "Suns lec uz dīvāna.",
+        "option_c": "Suns ripo uz komandu.",
+        "option_d": "Suns siekalojas, kad jūt ēdiena smaku."
+    },
+    "294": {
+        "id": "ARC-Challenge/validation/Mercury_7008138",
+        "answer": "B",
+        "instruction": "Kura izteiksme apraksta asteroīdus un komētas?",
+        "option_a": "Asteroīdi ir gāzveida, un komētas ir cietas.",
+        "option_b": "Asteroīdi ir cieti, un komētas ir gāzveida.",
+        "option_c": "Gan asteroīdi, gan komētas ir cieti.",
+        "option_d": "Gan asteroīdi, gan komētas ir gāzveida."
+    },
+    "295": {
+        "id": "ARC-Challenge/validation/Mercury_SC_402104",
+        "answer": "D",
+        "instruction": "Toksisku ķīmiju izmešana dīķī visdrīzāk radīs",
+        "option_a": "skābekļa līmeņa paaugstināšanos dīķī.",
+        "option_b": "augu tuvumā dīķim augšanu ātrāk.",
+        "option_c": "toksiskajām ķīmijām nav ietekmes uz dīķi.",
+        "option_d": "zivīm dīķī tiktu nodarīts kaitējums vai tās mirtu."
+    },
+    "296": {
+        "id": "ARC-Challenge/validation/Mercury_7086013",
+        "answer": "D",
+        "instruction": "Humboldt upes baseins ir viens no svarīgākajiem vairāku neatsvaidzinošo resursu avotiem. Kurš no šiem neatsvaidzinošajiem resursiem tiek iegūts no Humboldt upes baseina?",
+        "option_a": "ogle no kalnu noguldījumiem",
+        "option_b": "nafta un gāze no pazemes rezervuāriem",
+        "option_c": "elektriskā enerģija no hidroelektrostacijām",
+        "option_d": "minerāli no zelta, sudraba un vara ieguves"
+    },
+    "297": {
+        "id": "ARC-Challenge/validation/Mercury_7248238",
+        "answer": "D",
+        "instruction": "Mosquito fish, kas sastopami Bahamu salās, dzīvo dažādās izolētās saldūdens dīķos, kas kādreiz bija vienota ūdens masa. Kad no diviem izolētiem dīķiem tiek ņemti vairāki tēviņi un mātītes un ievietoti vienā dīķī, katra moskītu zivs vairošanās preferences ir par zivīm no tās oriģinālā dīķa. Kurš no šiem visdrīzāk izraisīja šo vairošanās preference?",
+        "option_a": "Pārtikas pieejamība ietekmēja zivju vairošanās preferences.",
+        "option_b": "Konkurence par piemērotu partneri ietekmēja vairošanās preferences.",
+        "option_c": "Plēsoņas dīķī ietekmēja zivju vairošanās preferences.",
+        "option_d": "Speciācija, kas radusies reproduktīvās izolācijas dēļ, ietekmēja vairošanās preferences."
+    }
+}
