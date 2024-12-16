@@ -44,7 +44,7 @@ def process_documents(root_dir):
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Filter documents by standard deviation of perplexity using KenLM.")
+    parser = argparse.ArgumentParser(description="Convert JSON corpus to JSONL. Discard faulty datapoints.")
     parser.add_argument("--in_path", required=True,
                         help="Path to the folder containing lang-id folders with {lang-id}-output.jsonl files")
 
