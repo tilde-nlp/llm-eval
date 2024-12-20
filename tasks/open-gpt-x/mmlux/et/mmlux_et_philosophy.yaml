@@ -1,0 +1,6 @@
+dataset_name: philosophy_ET
+description: ''
+tag: mmlux_et_humanities_tasks
+include: _default_template_yaml
+task: mmlux_et_philosophy
+task_alias: philosophy_et

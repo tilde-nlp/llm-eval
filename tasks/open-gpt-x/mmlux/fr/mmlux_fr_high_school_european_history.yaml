@@ -1,0 +1,6 @@
+dataset_name: high_school_european_history_FR
+description: ''
+tag: mmlux_fr_humanities_tasks
+include: _default_template_yaml
+task: mmlux_fr_high_school_european_history
+task_alias: high_school_european_history_fr

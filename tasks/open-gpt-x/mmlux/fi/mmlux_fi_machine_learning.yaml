@@ -1,0 +1,6 @@
+dataset_name: machine_learning_FI
+description: ''
+tag: mmlux_fi_stem_tasks
+include: _default_template_yaml
+task: mmlux_fi_machine_learning
+task_alias: machine_learning_fi

@@ -1,0 +1,6 @@
+dataset_name: astronomy_ET
+description: ''
+tag: mmlux_et_stem_tasks
+include: _default_template_yaml
+task: mmlux_et_astronomy
+task_alias: astronomy_et

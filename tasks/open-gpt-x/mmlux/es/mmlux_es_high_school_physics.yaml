@@ -1,0 +1,6 @@
+dataset_name: high_school_physics_ES
+description: ''
+tag: mmlux_es_stem_tasks
+include: _default_template_yaml
+task: mmlux_es_high_school_physics
+task_alias: high_school_physics_es

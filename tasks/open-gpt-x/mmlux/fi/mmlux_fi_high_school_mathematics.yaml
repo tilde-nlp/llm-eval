@@ -1,0 +1,6 @@
+dataset_name: high_school_mathematics_FI
+description: ''
+tag: mmlux_fi_stem_tasks
+include: _default_template_yaml
+task: mmlux_fi_high_school_mathematics
+task_alias: high_school_mathematics_fi

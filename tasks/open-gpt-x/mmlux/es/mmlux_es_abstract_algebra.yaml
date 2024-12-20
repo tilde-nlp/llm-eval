@@ -1,0 +1,6 @@
+dataset_name: abstract_algebra_ES
+description: ''
+tag: mmlux_es_stem_tasks
+include: _default_template_yaml
+task: mmlux_es_abstract_algebra
+task_alias: abstract_algebra_es

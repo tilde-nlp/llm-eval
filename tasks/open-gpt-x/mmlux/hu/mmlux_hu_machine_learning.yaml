@@ -1,0 +1,6 @@
+dataset_name: machine_learning_HU
+description: ''
+tag: mmlux_hu_stem_tasks
+include: _default_template_yaml
+task: mmlux_hu_machine_learning
+task_alias: machine_learning_hu

@@ -1,0 +1,6 @@
+dataset_name: professional_accounting_FR
+description: ''
+tag: mmlux_fr_other_tasks
+include: _default_template_yaml
+task: mmlux_fr_professional_accounting
+task_alias: professional_accounting_fr

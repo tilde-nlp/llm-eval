@@ -1,0 +1,6 @@
+dataset_name: human_aging_HU
+description: ''
+tag: mmlux_hu_other_tasks
+include: _default_template_yaml
+task: mmlux_hu_human_aging
+task_alias: human_aging_hu

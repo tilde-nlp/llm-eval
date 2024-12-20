@@ -1,0 +1,6 @@
+dataset_name: miscellaneous_FI
+description: ''
+tag: mmlux_fi_other_tasks
+include: _default_template_yaml
+task: mmlux_fi_miscellaneous
+task_alias: miscellaneous_fi
