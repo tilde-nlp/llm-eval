@@ -1,0 +1,6 @@
+dataset_name: nutrition_LT
+description: ''
+tag: mmlux_lt_other_tasks
+include: _default_template_yaml
+task: mmlux_lt_nutrition
+task_alias: nutrition_lt

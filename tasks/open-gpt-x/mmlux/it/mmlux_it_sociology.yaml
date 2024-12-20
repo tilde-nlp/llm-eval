@@ -1,0 +1,6 @@
+dataset_name: sociology_IT
+description: ''
+tag: mmlux_it_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_it_sociology
+task_alias: sociology_it

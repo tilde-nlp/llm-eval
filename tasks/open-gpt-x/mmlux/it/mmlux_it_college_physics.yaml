@@ -1,0 +1,6 @@
+dataset_name: college_physics_IT
+description: ''
+tag: mmlux_it_stem_tasks
+include: _default_template_yaml
+task: mmlux_it_college_physics
+task_alias: college_physics_it

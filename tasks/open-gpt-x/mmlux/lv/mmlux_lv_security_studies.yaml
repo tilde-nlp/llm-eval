@@ -1,0 +1,6 @@
+dataset_name: security_studies_LV
+description: ''
+tag: mmlux_lv_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_lv_security_studies
+task_alias: security_studies_lv

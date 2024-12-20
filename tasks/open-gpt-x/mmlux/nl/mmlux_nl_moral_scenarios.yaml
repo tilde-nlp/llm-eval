@@ -1,0 +1,6 @@
+dataset_name: moral_scenarios_NL
+description: ''
+tag: mmlux_nl_humanities_tasks
+include: _default_template_yaml
+task: mmlux_nl_moral_scenarios
+task_alias: moral_scenarios_nl

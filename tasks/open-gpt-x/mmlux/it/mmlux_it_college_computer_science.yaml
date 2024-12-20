@@ -1,0 +1,6 @@
+dataset_name: college_computer_science_IT
+description: ''
+tag: mmlux_it_stem_tasks
+include: _default_template_yaml
+task: mmlux_it_college_computer_science
+task_alias: college_computer_science_it

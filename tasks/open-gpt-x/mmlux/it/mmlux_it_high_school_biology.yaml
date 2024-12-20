@@ -1,0 +1,6 @@
+dataset_name: high_school_biology_IT
+description: ''
+tag: mmlux_it_stem_tasks
+include: _default_template_yaml
+task: mmlux_it_high_school_biology
+task_alias: high_school_biology_it

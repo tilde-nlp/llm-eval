@@ -1,0 +1,6 @@
+dataset_name: professional_law_LT
+description: ''
+tag: mmlux_lt_humanities_tasks
+include: _default_template_yaml
+task: mmlux_lt_professional_law
+task_alias: professional_law_lt

@@ -1,0 +1,6 @@
+dataset_name: high_school_statistics_LV
+description: ''
+tag: mmlux_lv_stem_tasks
+include: _default_template_yaml
+task: mmlux_lv_high_school_statistics
+task_alias: high_school_statistics_lv

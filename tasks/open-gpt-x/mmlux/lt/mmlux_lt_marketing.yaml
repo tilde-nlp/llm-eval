@@ -1,0 +1,6 @@
+dataset_name: marketing_LT
+description: ''
+tag: mmlux_lt_other_tasks
+include: _default_template_yaml
+task: mmlux_lt_marketing
+task_alias: marketing_lt

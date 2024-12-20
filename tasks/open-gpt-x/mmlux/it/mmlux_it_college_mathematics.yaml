@@ -1,0 +1,6 @@
+dataset_name: college_mathematics_IT
+description: ''
+tag: mmlux_it_stem_tasks
+include: _default_template_yaml
+task: mmlux_it_college_mathematics
+task_alias: college_mathematics_it

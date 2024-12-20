@@ -1,0 +1,9 @@
+group: mmlux_lt_other
+group_alias: other_lt
+task:
+- mmlux_lt_other_tasks
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: true
+metadata:
+  version: '1.0'

@@ -1,0 +1,6 @@
+dataset_name: world_religions_LT
+description: ''
+tag: mmlux_lt_humanities_tasks
+include: _default_template_yaml
+task: mmlux_lt_world_religions
+task_alias: world_religions_lt

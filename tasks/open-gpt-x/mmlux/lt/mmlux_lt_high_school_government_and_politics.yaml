@@ -1,0 +1,6 @@
+dataset_name: high_school_government_and_politics_LT
+description: ''
+tag: mmlux_lt_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_lt_high_school_government_and_politics
+task_alias: high_school_government_and_politics_lt

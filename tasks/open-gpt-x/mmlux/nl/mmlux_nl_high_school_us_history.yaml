@@ -1,0 +1,6 @@
+dataset_name: high_school_us_history_NL
+description: ''
+tag: mmlux_nl_humanities_tasks
+include: _default_template_yaml
+task: mmlux_nl_high_school_us_history
+task_alias: high_school_us_history_nl

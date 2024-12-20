@@ -1,0 +1,6 @@
+dataset_name: conceptual_physics_NL
+description: ''
+tag: mmlux_nl_stem_tasks
+include: _default_template_yaml
+task: mmlux_nl_conceptual_physics
+task_alias: conceptual_physics_nl

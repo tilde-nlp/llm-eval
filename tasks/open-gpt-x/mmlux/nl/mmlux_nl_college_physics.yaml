@@ -1,0 +1,6 @@
+dataset_name: college_physics_NL
+description: ''
+tag: mmlux_nl_stem_tasks
+include: _default_template_yaml
+task: mmlux_nl_college_physics
+task_alias: college_physics_nl

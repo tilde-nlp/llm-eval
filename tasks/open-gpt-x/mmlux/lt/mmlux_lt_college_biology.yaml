@@ -1,0 +1,6 @@
+dataset_name: college_biology_LT
+description: ''
+tag: mmlux_lt_stem_tasks
+include: _default_template_yaml
+task: mmlux_lt_college_biology
+task_alias: college_biology_lt

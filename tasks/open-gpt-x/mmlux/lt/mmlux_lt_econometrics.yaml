@@ -1,0 +1,6 @@
+dataset_name: econometrics_LT
+description: ''
+tag: mmlux_lt_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_lt_econometrics
+task_alias: econometrics_lt
