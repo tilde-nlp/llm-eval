@@ -1,0 +1,7 @@
+include: _arcx_e_yaml
+task: arcx_e_sv
+dataset_path: openGPT-X/arcx
+dataset_name: easy_SV
+training_split: train
+validation_split: validation
+test_split: test

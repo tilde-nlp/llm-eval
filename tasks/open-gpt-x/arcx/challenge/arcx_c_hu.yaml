@@ -1,0 +1,7 @@
+include: _arcx_c_yaml
+task: arcx_c_hu
+dataset_path: openGPT-X/arcx
+dataset_name: challenge_HU
+training_split: train
+validation_split: validation
+test_split: test

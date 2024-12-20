@@ -1,0 +1,7 @@
+include: _arcx_e_yaml
+task: arcx_e_cs
+dataset_path: openGPT-X/arcx
+dataset_name: easy_CS
+training_split: train
+validation_split: validation
+test_split: test
