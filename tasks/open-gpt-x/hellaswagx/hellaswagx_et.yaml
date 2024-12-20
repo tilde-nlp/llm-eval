@@ -1,0 +1,6 @@
+include: _hellaswagx_yaml
+task: hellaswagx_et
+dataset_path: openGPT-X/hellaswagx
+dataset_name: ET
+training_split: train
+validation_split: validation

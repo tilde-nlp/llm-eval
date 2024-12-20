@@ -1,0 +1,6 @@
+include: _hellaswagx_yaml
+task: hellaswagx_sk
+dataset_path: openGPT-X/hellaswagx
+dataset_name: SK
+training_split: train
+validation_split: validation
