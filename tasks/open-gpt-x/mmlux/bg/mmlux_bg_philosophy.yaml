@@ -1,0 +1,6 @@
+dataset_name: philosophy_BG
+description: ''
+tag: mmlux_bg_humanities_tasks
+include: _default_template_yaml
+task: mmlux_bg_philosophy
+task_alias: philosophy_bg

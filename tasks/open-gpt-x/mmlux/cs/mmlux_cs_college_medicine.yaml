@@ -1,0 +1,6 @@
+dataset_name: college_medicine_CS
+description: ''
+tag: mmlux_cs_other_tasks
+include: _default_template_yaml
+task: mmlux_cs_college_medicine
+task_alias: college_medicine_cs

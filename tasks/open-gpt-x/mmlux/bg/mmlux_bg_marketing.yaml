@@ -1,0 +1,6 @@
+dataset_name: marketing_BG
+description: ''
+tag: mmlux_bg_other_tasks
+include: _default_template_yaml
+task: mmlux_bg_marketing
+task_alias: marketing_bg

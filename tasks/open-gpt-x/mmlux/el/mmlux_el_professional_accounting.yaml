@@ -1,0 +1,6 @@
+dataset_name: professional_accounting_EL
+description: ''
+tag: mmlux_el_other_tasks
+include: _default_template_yaml
+task: mmlux_el_professional_accounting
+task_alias: professional_accounting_el

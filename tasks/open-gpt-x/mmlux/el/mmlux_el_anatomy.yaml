@@ -1,0 +1,6 @@
+dataset_name: anatomy_EL
+description: ''
+tag: mmlux_el_stem_tasks
+include: _default_template_yaml
+task: mmlux_el_anatomy
+task_alias: anatomy_el

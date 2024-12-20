@@ -1,0 +1,6 @@
+dataset_name: elementary_mathematics_BG
+description: ''
+tag: mmlux_bg_stem_tasks
+include: _default_template_yaml
+task: mmlux_bg_elementary_mathematics
+task_alias: elementary_mathematics_bg

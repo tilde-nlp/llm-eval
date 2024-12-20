@@ -1,0 +1,9 @@
+group: mmlux_bg_humanities
+group_alias: humanities_bg
+task:
+- mmlux_bg_humanities_tasks
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: true
+metadata:
+  version: '1.0'

@@ -1,0 +1,6 @@
+dataset_name: human_sexuality_DE
+description: ''
+tag: mmlux_de_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_de_human_sexuality
+task_alias: human_sexuality_de

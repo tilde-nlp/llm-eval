@@ -1,0 +1,6 @@
+dataset_name: high_school_chemistry_EL
+description: ''
+tag: mmlux_el_stem_tasks
+include: _default_template_yaml
+task: mmlux_el_high_school_chemistry
+task_alias: high_school_chemistry_el

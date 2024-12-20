@@ -1,0 +1,6 @@
+dataset_name: public_relations_DE
+description: ''
+tag: mmlux_de_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_de_public_relations
+task_alias: public_relations_de

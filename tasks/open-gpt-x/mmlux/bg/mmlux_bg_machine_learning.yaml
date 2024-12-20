@@ -1,0 +1,6 @@
+dataset_name: machine_learning_BG
+description: ''
+tag: mmlux_bg_stem_tasks
+include: _default_template_yaml
+task: mmlux_bg_machine_learning
+task_alias: machine_learning_bg

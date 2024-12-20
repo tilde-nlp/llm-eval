@@ -1,0 +1,6 @@
+dataset_name: clinical_knowledge_DE
+description: ''
+tag: mmlux_de_other_tasks
+include: _default_template_yaml
+task: mmlux_de_clinical_knowledge
+task_alias: clinical_knowledge_de

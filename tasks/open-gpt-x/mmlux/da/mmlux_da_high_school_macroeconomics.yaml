@@ -1,0 +1,6 @@
+dataset_name: high_school_macroeconomics_DA
+description: ''
+tag: mmlux_da_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_da_high_school_macroeconomics
+task_alias: high_school_macroeconomics_da

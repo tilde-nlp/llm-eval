@@ -1,0 +1,6 @@
+dataset_name: formal_logic_DA
+description: ''
+tag: mmlux_da_humanities_tasks
+include: _default_template_yaml
+task: mmlux_da_formal_logic
+task_alias: formal_logic_da

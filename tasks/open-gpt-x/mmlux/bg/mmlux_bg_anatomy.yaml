@@ -1,0 +1,6 @@
+dataset_name: anatomy_BG
+description: ''
+tag: mmlux_bg_stem_tasks
+include: _default_template_yaml
+task: mmlux_bg_anatomy
+task_alias: anatomy_bg

@@ -1,0 +1,6 @@
+dataset_name: moral_disputes_DA
+description: ''
+tag: mmlux_da_humanities_tasks
+include: _default_template_yaml
+task: mmlux_da_moral_disputes
+task_alias: moral_disputes_da

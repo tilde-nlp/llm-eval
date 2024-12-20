@@ -1,0 +1,6 @@
+dataset_name: sociology_BG
+description: ''
+tag: mmlux_bg_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_bg_sociology
+task_alias: sociology_bg

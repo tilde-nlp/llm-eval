@@ -1,0 +1,6 @@
+dataset_name: professional_psychology_DE
+description: ''
+tag: mmlux_de_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_de_professional_psychology
+task_alias: professional_psychology_de

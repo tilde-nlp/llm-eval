@@ -1,0 +1,6 @@
+dataset_name: management_DE
+description: ''
+tag: mmlux_de_other_tasks
+include: _default_template_yaml
+task: mmlux_de_management
+task_alias: management_de

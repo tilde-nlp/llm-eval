@@ -1,0 +1,9 @@
+group: mmlux_de_humanities
+group_alias: humanities_de
+task:
+- mmlux_de_humanities_tasks
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: true
+metadata:
+  version: '1.0'

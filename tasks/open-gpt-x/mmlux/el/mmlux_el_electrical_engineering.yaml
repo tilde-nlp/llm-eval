@@ -1,0 +1,6 @@
+dataset_name: electrical_engineering_EL
+description: ''
+tag: mmlux_el_stem_tasks
+include: _default_template_yaml
+task: mmlux_el_electrical_engineering
+task_alias: electrical_engineering_el
