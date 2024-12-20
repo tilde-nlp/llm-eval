@@ -1,0 +1,6 @@
+dataset_name: medical_genetics_SL
+description: ''
+tag: mmlux_sl_other_tasks
+include: _default_template_yaml
+task: mmlux_sl_medical_genetics
+task_alias: medical_genetics_sl

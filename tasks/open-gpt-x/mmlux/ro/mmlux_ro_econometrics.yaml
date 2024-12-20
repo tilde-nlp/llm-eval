@@ -1,0 +1,6 @@
+dataset_name: econometrics_RO
+description: ''
+tag: mmlux_ro_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_ro_econometrics
+task_alias: econometrics_ro

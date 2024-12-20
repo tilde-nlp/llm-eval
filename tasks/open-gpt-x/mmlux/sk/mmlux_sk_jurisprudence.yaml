@@ -1,0 +1,6 @@
+dataset_name: jurisprudence_SK
+description: ''
+tag: mmlux_sk_humanities_tasks
+include: _default_template_yaml
+task: mmlux_sk_jurisprudence
+task_alias: jurisprudence_sk

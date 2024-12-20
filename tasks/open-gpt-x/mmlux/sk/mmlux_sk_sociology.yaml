@@ -1,0 +1,6 @@
+dataset_name: sociology_SK
+description: ''
+tag: mmlux_sk_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_sk_sociology
+task_alias: sociology_sk

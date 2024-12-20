@@ -1,0 +1,6 @@
+dataset_name: miscellaneous_SV
+description: ''
+tag: mmlux_sv_other_tasks
+include: _default_template_yaml
+task: mmlux_sv_miscellaneous
+task_alias: miscellaneous_sv

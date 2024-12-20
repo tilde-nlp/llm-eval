@@ -1,0 +1,6 @@
+dataset_name: high_school_computer_science_RO
+description: ''
+tag: mmlux_ro_stem_tasks
+include: _default_template_yaml
+task: mmlux_ro_high_school_computer_science
+task_alias: high_school_computer_science_ro

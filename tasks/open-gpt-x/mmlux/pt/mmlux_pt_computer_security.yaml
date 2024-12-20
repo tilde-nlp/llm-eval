@@ -1,0 +1,6 @@
+dataset_name: computer_security_PT-PT
+description: ''
+tag: mmlux_pt_stem_tasks
+include: _default_template_yaml
+task: mmlux_pt_computer_security
+task_alias: computer_security_pt

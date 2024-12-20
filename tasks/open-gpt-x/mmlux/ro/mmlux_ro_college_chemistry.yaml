@@ -1,0 +1,6 @@
+dataset_name: college_chemistry_RO
+description: ''
+tag: mmlux_ro_stem_tasks
+include: _default_template_yaml
+task: mmlux_ro_college_chemistry
+task_alias: college_chemistry_ro

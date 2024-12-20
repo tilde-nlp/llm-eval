@@ -1,0 +1,6 @@
+dataset_name: prehistory_SL
+description: ''
+tag: mmlux_sl_humanities_tasks
+include: _default_template_yaml
+task: mmlux_sl_prehistory
+task_alias: prehistory_sl

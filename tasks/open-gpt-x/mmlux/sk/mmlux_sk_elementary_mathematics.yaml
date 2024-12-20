@@ -1,0 +1,6 @@
+dataset_name: elementary_mathematics_SK
+description: ''
+tag: mmlux_sk_stem_tasks
+include: _default_template_yaml
+task: mmlux_sk_elementary_mathematics
+task_alias: elementary_mathematics_sk

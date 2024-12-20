@@ -1,0 +1,9 @@
+group: mmlux_sv_stem
+group_alias: stem_sv
+task:
+- mmlux_sv_stem_tasks
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: true
+metadata:
+  version: '1.0'

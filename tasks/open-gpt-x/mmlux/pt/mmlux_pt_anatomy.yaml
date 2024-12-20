@@ -1,0 +1,6 @@
+dataset_name: anatomy_PT-PT
+description: ''
+tag: mmlux_pt_stem_tasks
+include: _default_template_yaml
+task: mmlux_pt_anatomy
+task_alias: anatomy_pt

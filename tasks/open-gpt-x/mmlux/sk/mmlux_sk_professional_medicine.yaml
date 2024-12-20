@@ -1,0 +1,6 @@
+dataset_name: professional_medicine_SK
+description: ''
+tag: mmlux_sk_other_tasks
+include: _default_template_yaml
+task: mmlux_sk_professional_medicine
+task_alias: professional_medicine_sk

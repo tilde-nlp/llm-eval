@@ -1,0 +1,6 @@
+dataset_name: high_school_geography_SK
+description: ''
+tag: mmlux_sk_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_sk_high_school_geography
+task_alias: high_school_geography_sk

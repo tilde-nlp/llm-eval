@@ -1,0 +1,6 @@
+dataset_name: us_foreign_policy_SK
+description: ''
+tag: mmlux_sk_social_sciences_tasks
+include: _default_template_yaml
+task: mmlux_sk_us_foreign_policy
+task_alias: us_foreign_policy_sk

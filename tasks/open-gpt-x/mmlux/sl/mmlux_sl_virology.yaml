@@ -1,0 +1,6 @@
+dataset_name: virology_SL
+description: ''
+tag: mmlux_sl_other_tasks
+include: _default_template_yaml
+task: mmlux_sl_virology
+task_alias: virology_sl

@@ -1,0 +1,11 @@
+group: mmlux_sv
+task:
+- mmlux_sv_stem
+- mmlux_sv_other
+- mmlux_sv_social_sciences
+- mmlux_sv_humanities
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: true
+metadata:
+  version: 2

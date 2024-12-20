@@ -1,0 +1,6 @@
+dataset_name: high_school_world_history_SV
+description: ''
+tag: mmlux_sv_humanities_tasks
+include: _default_template_yaml
+task: mmlux_sv_high_school_world_history
+task_alias: high_school_world_history_sv

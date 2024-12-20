@@ -1,0 +1,6 @@
+dataset_name: global_facts_SL
+description: ''
+tag: mmlux_sl_other_tasks
+include: _default_template_yaml
+task: mmlux_sl_global_facts
+task_alias: global_facts_sl

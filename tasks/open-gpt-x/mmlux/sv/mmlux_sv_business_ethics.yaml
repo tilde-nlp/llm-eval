@@ -1,0 +1,6 @@
+dataset_name: business_ethics_SV
+description: ''
+tag: mmlux_sv_other_tasks
+include: _default_template_yaml
+task: mmlux_sv_business_ethics
+task_alias: business_ethics_sv

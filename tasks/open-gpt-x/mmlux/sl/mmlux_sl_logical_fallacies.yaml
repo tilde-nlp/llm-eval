@@ -1,0 +1,6 @@
+dataset_name: logical_fallacies_SL
+description: ''
+tag: mmlux_sl_humanities_tasks
+include: _default_template_yaml
+task: mmlux_sl_logical_fallacies
+task_alias: logical_fallacies_sl
