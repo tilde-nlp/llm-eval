@@ -152,7 +152,7 @@ for task in "${tasks[@]}"; do
         symlink_target="${task_lang_folder}/utils.py"
 
         if [ -f "$utils_source_file" ]; then
-            ln -sf "../../utils.py" "$symlink_target"
+            ln -sf "$utils_source_file" "$symlink_target"
             echo "Created symlink: $symlink_target -> $utils_source_file"
         else
             echo "No utils.py file found for task: $task. Skipping symlink creation."
