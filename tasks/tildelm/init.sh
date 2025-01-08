@@ -49,7 +49,7 @@ dataset_kwargs:
 
     if [ "$task" == "hellaswag_tlm" ]; then
         yaml_content+="output_type: multiple_choice
-process_docs: !function hellaswag_tlm.utils.process_docs
+process_docs: !function utils.process_docs
 doc_to_text: \"query\"
 doc_to_target: \"{{label.lstrip()}}\"
 doc_to_choice: \"choices\"
@@ -79,7 +79,7 @@ metadata:
 "
     elif [ "$task" == "arc_tlm" ]; then
         yaml_content+="output_type: multiple_choice
-process_docs: !function arc_tlm.utils.process_docs
+process_docs: !function utils.process_docs
 doc_to_text: \"query\"
 doc_to_target: \"gold\"
 doc_to_choice: \"choices\"
@@ -110,6 +110,22 @@ for task in "${tasks[@]}"; do
     fi
 done
 
+# Step 1: Copy task-specific utils.py files
+for task in "${tasks[@]}"; do
+    utils_source_file="${task}_utils.py"
+    utils_destination_file="${task}/utils.py"
+
+    if [ -f "$utils_source_file" ]; then
+        # Create the task folder if it doesn't exist
+        mkdir -p "$task"
+        # Copy the utils.py file
+        cp "$utils_source_file" "$utils_destination_file"
+        echo "Copied: $utils_source_file -> $utils_destination_file"
+    else
+        echo "Utils file not found for task: $task. Skipping."
+    fi
+done
+
 # Exit if all task-level folders already exist
 if ! $task_folder_created; then
     echo "All task-level folders already exist. Exiting script."
@@ -129,6 +145,17 @@ for task in "${tasks[@]}"; do
         if [ ! -d "$task_lang_folder" ]; then
             mkdir -p "$task_lang_folder"
             echo "Created folder: $task_lang_folder"
+        fi
+
+        # Create a symlink to the utils.py file if it exists
+        utils_source_file="${task}/utils.py"
+        symlink_target="${task_lang_folder}/utils.py"
+
+        if [ -f "$utils_source_file" ]; then
+            ln -sf "../../utils.py" "$symlink_target"
+            echo "Created symlink: $symlink_target -> $utils_source_file"
+        else
+            echo "No utils.py file found for task: $task. Skipping symlink creation."
         fi
 
         # Create the YAML file at the task-language level
