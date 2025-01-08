@@ -33,7 +33,7 @@ dataset_kwargs:
 
     # Add all splits to the YAML content
     for split in $split_list; do
-        yaml_content+="    ${split}: lm_eval/tasks/tildelm/${task}/${lang}/${task}-${lang}-${split}.jsonl
+        yaml_content+="    ${split}: lm-evaluation-harness/lm_eval/tasks/tildelm/${task}/${lang}/${task}-${lang}-${split}.jsonl
 "
     done
 
