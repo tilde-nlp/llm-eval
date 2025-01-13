@@ -14,7 +14,6 @@ def preprocess(text):
 def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:
     def _process_doc(doc):
         # breakpoint()
-        print(doc)
         out_doc = {
             "id": doc["id"],
             "query": doc["question"].strip() + "\nA. " + doc["choices"][0] + "\nB. " + doc["choices"][1] + "\nC. " + doc["choices"][2] + "\nD. " + doc["choices"][3] + "\nAnswer:",
