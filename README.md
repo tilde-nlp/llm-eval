@@ -19,8 +19,22 @@
 
 ## Benching
 
+Expected runtime ***per language*** using a single LUMI node (model parallelism=True and data parallelism=2) (x refers to open-gpt-x):
+
+- Hellaswag(x) (batch=4) (10-shot) ~ 15 h
+- MMLU(x) (batch=2) (5-shot) ~ 4 h
+- ARC Easy(x) (batch=2/4) (25-shot) ~ 4 h 
+- ARC Challenge(x) (batch=2/4) (25-shot) ~ 2h
+
+***NOTE***: 
+It is not trivial to see LUMI memory usage, so faster times are likely possible by maxing batch size. 
+For this particular setup, using 'auto' for batch size results in OOM. Expected runtime is based on tqdm estimate, so it is more like an ***upper bound***.
+
+
 ## Tokenizer hack
 
-When loading via lm-eval HF wrapper, the tokenizer is expected to have ***special_tokens_map.json*** and ***tokenizer_config.json*** files.
-This is contrary to when loading via explicit HF call, where config etc is somehow magically inferred or inherited from model's config.
-To resolve this issue, run     ..... some conversion script ......
+When loading a model via lm-eval HF wrapper, the tokenizer is expected to have ***special_tokens_map.json*** and ***tokenizer_config.json*** files.
+This is contrary to when loading via explicit HF call, where tokenizer config etc is somehow magically inferred or inherited from model's config.
+To resolve this issue, run ***generate_tokenizer_files.py***
+
+
