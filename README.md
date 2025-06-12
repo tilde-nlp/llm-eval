@@ -19,6 +19,9 @@
 
 ## Benching
 
+TODO: redo this with vllm
+TODO: vllm - investigate batch size vs concurrency (currently concurrent setups sometimes time out and die)
+
 Expected runtime ***per language*** using a single LUMI node (model parallelism=True and data parallelism=2) (x refers to open-gpt-x):
 
 - Hellaswag(x) (batch=4) (10-shot) ~ 15 h
