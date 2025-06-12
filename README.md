@@ -37,4 +37,8 @@ When loading a model via lm-eval HF wrapper, the tokenizer is expected to have *
 This is contrary to when loading via explicit HF call, where tokenizer config etc is somehow magically inferred or inherited from model's config.
 To resolve this issue, run ***generate_tokenizer_files.py***
 
+## TODO:
+
+- EU20: move all dataset_path: openGPT-X/xxxx to Eurolingua/xxxx
+
 
