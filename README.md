@@ -19,9 +19,6 @@
 
 ## Benching
 
-TODO: redo this with vllm
-TODO: vllm - investigate batch size vs concurrency (currently concurrent setups sometimes time out and die)
-
 Expected runtime ***per language*** using a single LUMI node (model parallelism=True and data parallelism=2) (x refers to open-gpt-x):
 
 - Hellaswag(x) (batch=4) (10-shot) ~ 15 h
@@ -43,5 +40,8 @@ To resolve this issue, run ***generate_tokenizer_files.py***
 ## TODO:
 
 - EU20: move all dataset_path: openGPT-X/xxxx to Eurolingua/xxxx
+- Redo all benches with vllm, measure speed vs accelerate
+- vllm - investigate batch size vs concurrency (currently concurrent setups sometimes time out and die)
+
 
 
