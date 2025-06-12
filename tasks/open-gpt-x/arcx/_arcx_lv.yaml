@@ -1,0 +1,10 @@
+group: arcx_lv
+group_alias: arcx_combined_lv
+task:
+- arcx_c_lv
+- arcx_e_lv
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: false
+metadata:
+  version: '1.0'
