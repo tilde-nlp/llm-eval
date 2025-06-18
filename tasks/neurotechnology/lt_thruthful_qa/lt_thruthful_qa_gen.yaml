@@ -1,6 +1,6 @@
 tag:
   - truthfulqa
-task: lt_truthful_qa_gen
+task: neurotechnology_truthfulqa_gen_lt
 dataset_path: neurotechnology/lt_thruthful_qa
 dataset_name: generation
 output_type: generate_until

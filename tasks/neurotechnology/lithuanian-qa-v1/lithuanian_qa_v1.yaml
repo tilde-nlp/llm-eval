@@ -1,6 +1,6 @@
 tag:
   - qa_history_culture_people
-task: lithuanian_qa_v1
+task: neurotechnology_qa_lt
 dataset_path: neurotechnology/lithuanian-qa-v1
 output_type: generate_until
 training_split: train

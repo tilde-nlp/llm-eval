@@ -1,6 +1,6 @@
 tag:
   - multiple_choice
-task: lt_hellaswag
+task: neurotechnology_hellaswag_lt
 dataset_path: neurotechnology/lt_hellaswag
 dataset_name: null
 output_type: multiple_choice
