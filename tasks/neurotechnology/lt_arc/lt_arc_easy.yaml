@@ -4,7 +4,7 @@ task: neurotechnology_arc_easy_lt
 dataset_path: neurotechnology/lt_arc
 dataset_name: ARC-Easy
 output_type: multiple_choice
-training_split: train
+training_split: null
 validation_split: validation
 test_split: test
 doc_to_text: "Question: {{question}}\nAnswer:"

@@ -41,5 +41,6 @@ filter_list:
         group_select: -1
         regex_pattern: "(-?[$0-9.,]{2,})|(-?[0-9]+)"
       - function: "take_first"
+
 metadata:
   version: 3.0
