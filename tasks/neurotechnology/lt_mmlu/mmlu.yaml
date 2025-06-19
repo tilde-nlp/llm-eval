@@ -1,4 +1,4 @@
-group: mmlu
+group: neurotechnology_mmlu_lt
 task:
 - neurotechnology_mmlu_stem_lt
 - neurotechnology_mmlu_other_lt
