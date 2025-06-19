@@ -1,0 +1,9 @@
+"dataset_name": "professional_psychology"
+"description": "The following are multiple choice questions (with answers) about professional\
+  \ psychology.\n\n"
+"fewshot_split": "validation"
+"include": "_default_template_yaml"
+"tag": "mmlu_social_sciences"
+"task": "neurotechnology_mmlu_professional_psychology_lt"
+"task_alias": "professional psychology"
+"validation_split": "validation"

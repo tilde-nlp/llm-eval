@@ -1,0 +1,9 @@
+"dataset_name": "marketing"
+"description": "The following are multiple choice questions (with answers) about marketing.\n\
+  \n"
+"fewshot_split": "validation"
+"include": "_default_template_yaml"
+"tag": "mmlu_other"
+"task": "neurotechnology_mmlu_marketing_lt"
+"task_alias": "marketing"
+"validation_split": "validation"

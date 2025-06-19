@@ -1,0 +1,9 @@
+"dataset_name": "econometrics"
+"description": "The following are multiple choice questions (with answers) about econometrics.\n\
+  \n"
+"fewshot_split": "validation"
+"include": "_default_template_yaml"
+"tag": "mmlu_social_sciences"
+"task": "neurotechnology_mmlu_econometrics_lt"
+"task_alias": "econometrics"
+"validation_split": "validation"

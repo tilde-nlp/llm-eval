@@ -1,0 +1,6 @@
+group: mmlu
+task:
+- neurotechnology_mmlu_stem_lt
+- neurotechnology_mmlu_other_lt
+- neurotechnology_mmlu_social_sciences_lt
+- neurotechnology_mmlu_humanities_lt

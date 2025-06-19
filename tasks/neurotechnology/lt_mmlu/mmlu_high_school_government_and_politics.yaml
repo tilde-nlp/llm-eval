@@ -1,0 +1,9 @@
+"dataset_name": "high_school_government_and_politics"
+"description": "The following are multiple choice questions (with answers) about high\
+  \ school government and politics.\n\n"
+"fewshot_split": "validation"
+"include": "_default_template_yaml"
+"tag": "mmlu_social_sciences"
+"task": "neurotechnology_mmlu_high_school_government_and_politics_lt"
+"task_alias": "high school government and politics"
+"validation_split": "validation"

@@ -1,0 +1,9 @@
+"dataset_name": "moral_scenarios"
+"description": "The following are multiple choice questions (with answers) about moral\
+  \ scenarios.\n\n"
+"fewshot_split": "validation"
+"include": "_default_template_yaml"
+"tag": "mmlu_humanities"
+"task": "neurotechnology_mmlu_moral_scenarios_lt"
+"task_alias": "moral scenarios"
+"validation_split": "validation"

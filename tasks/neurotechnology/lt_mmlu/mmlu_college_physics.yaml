@@ -1,0 +1,9 @@
+"dataset_name": "college_physics"
+"description": "The following are multiple choice questions (with answers) about college\
+  \ physics.\n\n"
+"fewshot_split": "validation"
+"include": "_default_template_yaml"
+"tag": "mmlu_stem"
+"task": "neurotechnology_mmlu_college_physics_lt"
+"task_alias": "college physics"
+"validation_split": "validation"

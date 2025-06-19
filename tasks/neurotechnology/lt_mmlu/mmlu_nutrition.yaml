@@ -1,0 +1,9 @@
+"dataset_name": "nutrition"
+"description": "The following are multiple choice questions (with answers) about nutrition.\n\
+  \n"
+"fewshot_split": "validation"
+"include": "_default_template_yaml"
+"tag": "mmlu_other"
+"task": "neurotechnology_mmlu_nutrition_lt"
+"task_alias": "nutrition"
+"validation_split": "validation"
