@@ -1,0 +1,19 @@
+task: llmzszl
+dataset_path: amu-cai/llmzszl-dataset
+output_type: multiple_choice
+test_split: test
+doc_to_text: |
+  {{question.strip()}}
+  A. {{answers[0]}}
+  B. {{answers[1]}}
+  C. {{answers[2]}}
+  D. {{answers[3]}}
+  Prawidłowa odpowiedź:
+doc_to_choice: "{{answers}}"
+doc_to_target: "{{correct_answer_index}}"
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0
