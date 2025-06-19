@@ -1,9 +1,12 @@
-"dataset_name": "college_computer_science"
-"description": "The following are multiple choice questions (with answers) about college\
-  \ computer science.\n\n"
-"fewshot_split": "validation"
-"include": "_default_template_yaml"
-"tag": "mmlu_stem"
-"task": "neurotechnology_mmlu_college_computer_science_lt"
-"task_alias": "college computer science"
-"validation_split": "validation"
+dataset_name: college_computer_science
+description: 'The following are multiple choice questions (with answers) about college
+  computer science.
+
+
+  '
+fewshot_split: validation
+include: _default_template_yaml
+tag: neurotechnology_mmlu_stem_lt
+task: neurotechnology_mmlu_college_computer_science_lt
+task_alias: college computer science
+validation_split: validation

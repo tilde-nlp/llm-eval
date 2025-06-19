@@ -1,9 +1,11 @@
-"dataset_name": "management"
-"description": "The following are multiple choice questions (with answers) about management.\n\
-  \n"
-"fewshot_split": "validation"
-"include": "_default_template_yaml"
-"tag": "mmlu_other"
-"task": "neurotechnology_mmlu_management_lt"
-"task_alias": "management"
-"validation_split": "validation"
+dataset_name: management
+description: 'The following are multiple choice questions (with answers) about management.
+
+
+  '
+fewshot_split: validation
+include: _default_template_yaml
+tag: neurotechnology_mmlu_other_lt
+task: neurotechnology_mmlu_management_lt
+task_alias: management
+validation_split: validation

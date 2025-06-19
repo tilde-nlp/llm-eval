@@ -1,9 +1,12 @@
-"dataset_name": "moral_disputes"
-"description": "The following are multiple choice questions (with answers) about moral\
-  \ disputes.\n\n"
-"fewshot_split": "validation"
-"include": "_default_template_yaml"
-"tag": "mmlu_humanities"
-"task": "neurotechnology_mmlu_moral_disputes_lt"
-"task_alias": "moral disputes"
-"validation_split": "validation"
+dataset_name: moral_disputes
+description: 'The following are multiple choice questions (with answers) about moral
+  disputes.
+
+
+  '
+fewshot_split: validation
+include: _default_template_yaml
+tag: neurotechnology_mmlu_humanities_lt
+task: neurotechnology_mmlu_moral_disputes_lt
+task_alias: moral disputes
+validation_split: validation

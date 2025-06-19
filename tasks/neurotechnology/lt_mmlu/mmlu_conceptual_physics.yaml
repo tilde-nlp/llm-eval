@@ -1,9 +1,12 @@
-"dataset_name": "conceptual_physics"
-"description": "The following are multiple choice questions (with answers) about conceptual\
-  \ physics.\n\n"
-"fewshot_split": "validation"
-"include": "_default_template_yaml"
-"tag": "mmlu_stem"
-"task": "neurotechnology_mmlu_conceptual_physics_lt"
-"task_alias": "conceptual physics"
-"validation_split": "validation"
+dataset_name: conceptual_physics
+description: 'The following are multiple choice questions (with answers) about conceptual
+  physics.
+
+
+  '
+fewshot_split: validation
+include: _default_template_yaml
+tag: neurotechnology_mmlu_stem_lt
+task: neurotechnology_mmlu_conceptual_physics_lt
+task_alias: conceptual physics
+validation_split: validation

@@ -81,7 +81,7 @@ def parse_args():
     parser.add_argument("--save_prefix_path", default="mmlu")
     parser.add_argument("--cot_prompt_path", default=None)
     parser.add_argument("--task_prefix", default="")
-    parser.add_argument("--group_prefix", default="")
+    parser.add_argument("--group_prefix", default="neurotechnology_")
     return parser.parse_args()
 
 
@@ -113,7 +113,7 @@ if __name__ == "__main__":
             "include": base_yaml_name,
             "tag": f"neurotechnology_mmlu_{args.task_prefix}_{category}_lt"
             if args.task_prefix != ""
-            else f"mmlu_{category}",
+            else f"neurotechnology_mmlu_{category}_lt",
             "task": f"neurotechnology_mmlu_{args.task_prefix}_{subject}_lt"
             if args.task_prefix != ""
             else f"neurotechnology_mmlu_{subject}_lt",
@@ -131,7 +131,7 @@ if __name__ == "__main__":
                 yaml_dict,
                 yaml_file,
                 allow_unicode=True,
-                default_style='"',
+                default_style='',
             )
 
     if args.task_prefix != "":

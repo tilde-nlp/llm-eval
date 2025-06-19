@@ -1,9 +1,11 @@
-"dataset_name": "philosophy"
-"description": "The following are multiple choice questions (with answers) about philosophy.\n\
-  \n"
-"fewshot_split": "validation"
-"include": "_default_template_yaml"
-"tag": "mmlu_humanities"
-"task": "neurotechnology_mmlu_philosophy_lt"
-"task_alias": "philosophy"
-"validation_split": "validation"
+dataset_name: philosophy
+description: 'The following are multiple choice questions (with answers) about philosophy.
+
+
+  '
+fewshot_split: validation
+include: _default_template_yaml
+tag: neurotechnology_mmlu_humanities_lt
+task: neurotechnology_mmlu_philosophy_lt
+task_alias: philosophy
+validation_split: validation
