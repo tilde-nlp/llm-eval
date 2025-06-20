@@ -5,7 +5,7 @@ description: 'The following are multiple choice questions (with answers) about e
   '
 fewshot_split: validation
 include: _default_template_yaml
-tag: neurotechnology_mmlu_social_sciences_lt
+tag: neurotechnology_mmlux_lt_social_sciences_tasks
 task: neurotechnology_mmlu_econometrics_lt
 task_alias: econometrics
 validation_split: validation

@@ -6,7 +6,7 @@ description: 'The following are multiple choice questions (with answers) about p
   '
 fewshot_split: validation
 include: _default_template_yaml
-tag: neurotechnology_mmlu_other_lt
+tag: neurotechnology_mmlux_lt_other_tasks
 task: neurotechnology_mmlu_professional_accounting_lt
 task_alias: professional accounting
 validation_split: validation

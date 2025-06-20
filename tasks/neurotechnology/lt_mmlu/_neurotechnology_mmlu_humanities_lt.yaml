@@ -1,0 +1,18 @@
+group: neurotechnology_mmlux_lt_humanities
+group_alias: neurotechnology_humanities_lt
+task:
+- neurotechnology_mmlux_lt_humanities_tasks
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: '1.0'
+
+
+
+
+

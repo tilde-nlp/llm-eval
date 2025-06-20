@@ -5,7 +5,7 @@ description: 'The following are multiple choice questions (with answers) about a
   '
 fewshot_split: validation
 include: _default_template_yaml
-tag: neurotechnology_mmlu_stem_lt
+tag: neurotechnology_mmlux_lt_stem_tasks
 task: neurotechnology_mmlu_astronomy_lt
 task_alias: astronomy
 validation_split: validation

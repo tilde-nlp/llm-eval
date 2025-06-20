@@ -1,0 +1,13 @@
+group: neurotechnology_mmlu_stem_lt
+group_alias: neurotechnology_stem_lt
+task:
+- neurotechnology_mmlux_lt_stem_tasks
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: '1.0'
