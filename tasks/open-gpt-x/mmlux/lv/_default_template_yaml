@@ -1,4 +1,4 @@
-dataset_path: opengpt-x/mmlux
+dataset_path: Eurolingua/mmlux
 test_split: test
 fewshot_split: dev # there is also a validation split with 10 examples, dev has 5 examples
 fewshot_config:
