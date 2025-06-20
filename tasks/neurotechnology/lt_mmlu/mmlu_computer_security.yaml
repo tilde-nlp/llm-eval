@@ -6,7 +6,7 @@ description: 'The following are multiple choice questions (with answers) about c
   '
 fewshot_split: validation
 include: _default_template_yaml
-tag: neurotechnology_mmlux_lt_stem_tasks
+tag: neurotechnology_mmlu_lt_stem_tasks
 task: neurotechnology_mmlu_computer_security_lt
 task_alias: computer security
 validation_split: validation

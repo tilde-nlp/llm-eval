@@ -1,14 +1,10 @@
-group: neurotechnology_mmlux_lt_humanities
-group_alias: neurotechnology_humanities_lt
+group: neurotechnology_mmlu_lt_humanities
+group_alias: humanities_lt
 task:
-- neurotechnology_mmlux_lt_humanities_tasks
-metric_list:
+  - neurotechnology_mmlu_lt_humanities_tasks
+aggregate_metric_list:
   - metric: acc
-    aggregation: mean
-    higher_is_better: true
-  - metric: acc_norm
-    aggregation: mean
-    higher_is_better: true
+    weight_by_size: True
 metadata:
   version: '1.0'
 

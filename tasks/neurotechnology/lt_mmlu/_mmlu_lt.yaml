@@ -1,16 +1,12 @@
 group: neurotechnology_mmlu_lt
 task:
-- neurotechnology_mmlu_stem_lt
-- neurotechnology_mmlu_other_lt
-- neurotechnology_mmlu_social_sciences_lt
-- neurotechnology_mmlu_humanities_lt
-metric_list:
+  - neurotechnology_mmlu_lt_stem
+  - neurotechnology_mmlu_lt_other
+  - neurotechnology_mmlu_lt_social_sciences
+  - neurotechnology_mmlu_lt_humanities
+aggregate_metric_list:
   - metric: acc
-    aggregation: mean
-    higher_is_better: true
-  - metric: acc_norm
-    aggregation: mean
-    higher_is_better: true
+    weight_by_size: True
 metadata:
   version: 2
 

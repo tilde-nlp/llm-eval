@@ -6,7 +6,7 @@ description: 'The following are multiple choice questions (with answers) about h
   '
 fewshot_split: validation
 include: _default_template_yaml
-tag: neurotechnology_mmlux_lt_stem_tasks
+tag: neurotechnology_mmlu_lt_stem_tasks
 task: neurotechnology_mmlu_high_school_computer_science_lt
 task_alias: high school computer science
 validation_split: validation

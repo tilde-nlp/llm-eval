@@ -5,7 +5,7 @@ description: 'The following are multiple choice questions (with answers) about m
   '
 fewshot_split: validation
 include: _default_template_yaml
-tag: neurotechnology_mmlux_lt_other_tasks
+tag: neurotechnology_mmlu_lt_other_tasks
 task: neurotechnology_mmlu_miscellaneous_lt
 task_alias: miscellaneous
 validation_split: validation

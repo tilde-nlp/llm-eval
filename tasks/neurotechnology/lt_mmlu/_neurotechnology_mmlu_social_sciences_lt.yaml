@@ -1,13 +1,9 @@
-group: neurotechnology_mmlux_lt_social_sciences
-group_alias: neurotechnology_social_sciences_lt
+group: neurotechnology_mmlu_lt_social_sciences
+group_alias: social_sciences_lt
 task:
-- neurotechnology_mmlux_lt_social_sciences_tasks
-metric_list:
+  - neurotechnology_mmlu_lt_social_sciences_tasks
+aggregate_metric_list:
   - metric: acc
-    aggregation: mean
-    higher_is_better: true
-  - metric: acc_norm
-    aggregation: mean
-    higher_is_better: true
+    weight_by_size: True
 metadata:
   version: '1.0'
