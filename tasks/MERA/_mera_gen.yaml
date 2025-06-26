@@ -1,0 +1,8 @@
+group: mera_ru_em
+task:
+- MERA_ru_EM
+metric_list:
+  - metric: exact_match
+    weight_by_size: true
+metadata:
+  version: 0
