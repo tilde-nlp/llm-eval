@@ -1,0 +1,20 @@
+tag: nat_exam_sr
+task: exam_sr
+dataset_path: mhardalov/exams
+dataset_name: crosslingual_sr
+output_type: multiple_choice
+training_split: train
+validation_split: validation
+test_split: null
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+doc_to_choice: !function utils.doc_to_choice
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+- metric: acc_norm
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 0
