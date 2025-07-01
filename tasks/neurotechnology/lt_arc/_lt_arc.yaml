@@ -1,0 +1,10 @@
+group: neurotechnology_arc_lt
+group_alias: neurotechnology_arc_combined_lt
+task:
+- neurotechnology_arc_chall_lt
+- neurotechnology_arc_easy_lt
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: false
+metadata:
+  version: '1.0'

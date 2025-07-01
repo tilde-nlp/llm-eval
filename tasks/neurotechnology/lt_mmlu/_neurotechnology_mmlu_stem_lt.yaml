@@ -1,0 +1,9 @@
+group: neurotechnology_mmlu_lt_stem
+group_alias: stem_lt
+task:
+  - neurotechnology_mmlu_lt_stem_tasks
+aggregate_metric_list:
+  - metric: acc
+    weight_by_size: True
+metadata:
+  version: '1.0'

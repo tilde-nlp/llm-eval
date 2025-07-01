@@ -1,0 +1,12 @@
+dataset_name: college_chemistry
+description: 'The following are multiple choice questions (with answers) about college
+  chemistry.
+
+
+  '
+fewshot_split: validation
+include: _default_template_yaml
+tag: neurotechnology_mmlu_lt_stem_tasks
+task: neurotechnology_mmlu_college_chemistry_lt
+task_alias: college chemistry
+validation_split: validation
