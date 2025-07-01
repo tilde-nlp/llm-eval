@@ -1,0 +1,12 @@
+dataset_name: professional_accounting
+description: 'The following are multiple choice questions (with answers) about professional
+  accounting.
+
+
+  '
+fewshot_split: validation
+include: _default_template_yaml
+tag: neurotechnology_mmlu_lt_other_tasks
+task: neurotechnology_mmlu_professional_accounting_lt
+task_alias: professional accounting
+validation_split: validation
