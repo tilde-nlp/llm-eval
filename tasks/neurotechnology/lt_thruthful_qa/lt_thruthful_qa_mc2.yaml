@@ -1,6 +1,6 @@
 tag:
   - truthfulqa_lt
-task: neurotechnology_truthfulqa_mc1_lt
+task: neurotechnology_truthfulqa_mc2_lt
 dataset_path: neurotechnology/lt_thruthful_qa
 dataset_name: multiple_choice
 output_type: multiple_choice
@@ -9,11 +9,12 @@ validation_split: validation
 test_split: null
 num_fewshot: 0
 doc_to_text: "{{ question }}"
-doc_to_choice: "{{ mc1_targets.choices }}"
-doc_to_target: "{{ mc1_targets.labels.index(1) }}"
-
+doc_to_target: 0
+doc_to_choice: "{{mc2_targets.choices}}"
+process_results: !function utils.process_results_mc2
 should_decontaminate: false
 doc_to_decontamination_query: question
+
 metric_list:
   - metric: acc
     aggregation: mean
@@ -21,5 +22,7 @@ metric_list:
   - metric: acc_norm
     aggregation: mean
     higher_is_better: true
+
+
 metadata:
   version: 2.0
