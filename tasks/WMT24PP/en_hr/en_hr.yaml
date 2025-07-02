@@ -1,0 +1,21 @@
+tag: WMT24PP
+task: MT__en___hr
+dataset_path: google/wmt24pp
+dataset_name: en-hr_HR
+output_type: generate_until
+generation_kwargs:
+  until: ["\n\n"]
+  do_sample: false
+  temperature: 0
+training_split: null
+validation_split: train
+test_split: null
+metric_list:
+- metric: bleu
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 0
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+process_results: !function utils.process_results
