@@ -4,12 +4,7 @@ dataset_path: jjelinska/eur-lex-sum-second
 dataset_name: danish
 output_type: generate_until
 generation_kwargs:
-  until: ['
-
-
-
-
-      ']
+  until: ["\n\n\n\n"]
   do_sample: false
   temperature: 0
 training_split: train
@@ -17,8 +12,9 @@ validation_split: validation
 test_split: test
 metric_list:
 - metric: rouge
-  config: '["rouge1", "rouge2", "rougeL"]'
+  config: ["rouge1", "rouge2", "rougeL"]
   aggregation: mean
+  higher_is_better: True
 metadata:
   version: 0
 doc_to_text: !function utils.doc_to_text
