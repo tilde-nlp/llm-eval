@@ -1,0 +1,19 @@
+task: SuperGLUE_COPA
+dataset_path: anzeo/Slovene_SuperGLUE_COPA
+dataset_name: default
+output_type: multiple_choice
+test_split: null
+validation_split: eval
+training_split: train
+doc_to_text: !function utils.doc_to_text
+doc_to_target: label
+doc_to_choice: !function utils.doc_to_choice
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0
