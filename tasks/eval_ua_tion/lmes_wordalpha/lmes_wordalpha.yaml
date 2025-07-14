@@ -1,0 +1,20 @@
+tag: eval_ua_tion
+task: lmes_wordalpha
+dataset_path: shamotskyi/lmes_wordalpha
+dataset_name: default
+output_type: multiple_choice
+training_split: train
+validation_split: null
+test_split: fewshot
+doc_to_text: !function utils.doc_to_text
+doc_to_target: correctAnswer
+doc_to_choice: !function utils.doc_to_choice
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0
