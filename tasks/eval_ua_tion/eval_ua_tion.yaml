@@ -1,0 +1,10 @@
+group: eval_ua_tion_ukr
+task:
+- eval_ua_tion
+metric_list:
+  - metric: acc
+    weight_by_size: true
+  - metric: acc_norm
+    weight_by_size: true
+metadata:
+  version: 1
