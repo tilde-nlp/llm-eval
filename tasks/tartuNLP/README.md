@@ -6,3 +6,7 @@ Accuracies are displayed for the models mentioned in the [paper](https://www.bjm
 
 The models are finetuned.
 No normalized accuracies are given.
+
+
+On [Est_QA](https://huggingface.co/datasets/jjelinska/EST_QA/) data F1 is given and is 49.20. The [paper](https://aclanthology.org/2023.nodalida-1.71.pdf)
+
