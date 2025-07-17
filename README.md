@@ -2,6 +2,7 @@
 
 ```
 git clone https://github.com/tilde-nlp/llm-eval.git
+cd llm-eval
 git submodule init
 git submodule update --init
 pip install -r requirements.txt
