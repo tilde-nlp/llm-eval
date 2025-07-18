@@ -1,0 +1,22 @@
+tag: euro_lex_summarization
+task: euro_lex_sum_slovak
+dataset_path: jjelinska/eur-lex-sum-second
+dataset_name: slovak
+output_type: generate_until
+generation_kwargs:
+  until: ["\n\n\n\n"]
+  do_sample: false
+  temperature: 0
+training_split: train
+validation_split: validation
+test_split: test
+metric_list:
+- metric: rouge
+  config: ["rouge1", "rouge2", "rougeL"]
+  aggregation: mean
+  higher_is_better: True
+metadata:
+  version: 0
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+process_results: !function utils.process_results
