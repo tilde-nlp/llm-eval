@@ -5,7 +5,8 @@ dataset_name: default
 output_type: multiple_choice
 training_split: train
 validation_split: null
-test_split: fewshot
+test_split: null
+fewshot_split: fewshot
 doc_to_text: !function utils.doc_to_text
 doc_to_target: correctAnswer
 doc_to_choice: !function utils.doc_to_choice
