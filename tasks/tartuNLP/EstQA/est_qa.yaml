@@ -1,0 +1,22 @@
+task: est_qa
+dataset_path: jjelinska/EST_QA
+dataset_name: default
+output_type: generate_until
+training_split: train
+validation_split: null
+test_split: test
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+generation_kwargs:
+  until: ["\n\n"]
+  do_sample: false
+  temperature: 0
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+  - metric: f1
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0
