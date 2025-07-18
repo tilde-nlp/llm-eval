@@ -1,4 +1,4 @@
-tag: nat_exam_sr
+tag: nat_exam
 task: exam_sr
 dataset_path: mhardalov/exams
 dataset_name: crosslingual_sr
