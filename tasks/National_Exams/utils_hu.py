@@ -4,7 +4,7 @@ def doc_to_text(doc):
         label = doc["question"]["choices"]["label"][i]
         text = doc["question"]["choices"]["text"][i]
         OUTPUT.append(f"{label}: {text}")
-    return f"{doc['question']['stem']}\n" + "\n".join(OUTPUT)+ "\n\nAnswer: "
+    return f"{doc['question']['stem']}\n" + "\n".join(OUTPUT)+ "\n\nA válasz: "
 
 
 def doc_to_choice(doc):
