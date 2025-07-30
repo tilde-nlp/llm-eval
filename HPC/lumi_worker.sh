@@ -8,7 +8,7 @@
 #SBATCH --tasks-per-node=1
 #SBATCH --cpus-per-task=56
 #SBATCH --mem=0
-#SBATCH --time=2:00:00
+#SBATCH --time=3:00:00
 #SBATCH --hint=nomultithread
 #SBATCH --job-name=vllm-4x2
 
@@ -74,14 +74,14 @@ SIF=$SCRATCH/vllm_local_2
 # TOKENIZER_MODE="auto"
 
 # --- euro lm 22b it
-MODEL_DIR=/scratch/project_465001281/MK/vllm/models/eurollm-22b-it-preview
-TOKENIZER=/scratch/project_465001281/MK/vllm/models/eurollm-22b-it-preview
-TOKENIZER_MODE="auto"
+#MODEL_DIR=/scratch/project_465001281/MK/vllm/models/eurollm-22b-it-preview
+#TOKENIZER=/scratch/project_465001281/MK/vllm/models/eurollm-22b-it-preview
+#TOKENIZER_MODE="auto"
 
 # --- tower lm
-# MODEL_DIR=/scratch/project_465001281/MK/vllm/models/tower-plus-72b
-# TOKENIZER=/scratch/project_465001281/MK/vllm/models/tower-plus-72b
-# TOKENIZER_MODE="auto"
+MODEL_DIR=/scratch/project_465001281/MK/vllm/models/tower-plus-72b
+TOKENIZER=/scratch/project_465001281/MK/vllm/models/tower-plus-72b
+TOKENIZER_MODE="auto"
 
 export MODEL_DIR
 export SIF

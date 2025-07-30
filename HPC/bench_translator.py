@@ -68,7 +68,7 @@ class ProgressBar:
         # get time metrics
         time_stuff = self.get_time_estimate(current_iter)
 
-        sys.stdout.write(f"\rProgress: [{bar}]\t{time_stuff}\n")
+        sys.stdout.write(f"\rProgress: [{bar}][{current_iter}/{self.total_iters}]\t{time_stuff}\n")
         sys.stdout.flush()
 
 
@@ -103,9 +103,9 @@ class VLLMTranslator:
         prompt = f"Translate to {language_code_to_name_dict[target_lang]}: {text}"
 
         # tower specific
-        # src_lang_name = language_code_to_name_dict[source_lang]
-        # trg_lang_name = language_code_to_name_dict[target_lang]
-        # prompt = f"Translate the following {src_lang_name} source text to {trg_lang_name}\n{src_lang_name}:{text}\n{trg_lang_name}: "
+        src_lang_name = language_code_to_name_dict[source_lang]
+        trg_lang_name = language_code_to_name_dict[target_lang]
+        prompt = f"Translate the following {src_lang_name} source text to {trg_lang_name}\n{src_lang_name}:{text}\n{trg_lang_name}: "
 
         payload = {
             "model": self.model_path,
