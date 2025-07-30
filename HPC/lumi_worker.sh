@@ -93,9 +93,33 @@ export TOKENIZER_MODE
 export VLLM_USE_TRITON_FLASH_ATTN=0
 
 ###############################################################################
+# 0.  Handle args
+###############################################################################
+set -euo pipefail
+
+# Require at least 2 arguments
+[[ $# -lt 2 ]] && { echo "Usage: $0 DATA_DIR NUM_INSTANCES [FEW_SHOT_FILE] [N_FEW_SHOT]"; exit 1; }
+
+DATA_DIR="${1%/}"  # remove trailing slash
+NUM_INSTANCES="$2"
+FEW_SHOT_FILE="${3:-}"
+N_FEW_SHOT="${4:-}"
+
+[[ ! -d "$DATA_DIR" ]] && { echo "DATA_DIR not found: $DATA_DIR"; exit 1; }
+[[ ! "$NUM_INSTANCES" =~ ^[1-9][0-9]*$ ]] && { echo "NUM_INSTANCES must be a positive integer"; exit 1; }
+
+if [[ -n "$FEW_SHOT_FILE" ]]; then
+  [[ ! -f "$FEW_SHOT_FILE" ]] && { echo "Few-shot file not found: $FEW_SHOT_FILE"; exit 1; }
+  [[ -z "$N_FEW_SHOT" ]] && N_FEW_SHOT=1
+else
+  N_FEW_SHOT=0
+fi
+
+[[ ! "$N_FEW_SHOT" =~ ^[0-9]+$ ]] && { echo "N_FEW_SHOT must be a non-negative integer"; exit 1; }
+
+###############################################################################
 # 1.  Figure out which source files still need work
 ###############################################################################
-DATA_DIR="${1%/}"  # remove trailing slash from input path if any
 
 pending=()
 for f in "$DATA_DIR"/*.jsonl; do
