@@ -1,0 +1,247 @@
+import json
+import requests
+import time
+import sys
+from typing import List, Dict, Any
+import argparse
+from pathlib import Path
+
+
+import logging
+
+handler = logging.StreamHandler(sys.stdout)
+handler.setLevel(logging.DEBUG)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+
+logging.root.handlers = []  # Remove any default handlers
+logging.root.addHandler(handler)
+logging.root.setLevel(logging.DEBUG)
+
+language_code_to_name_dict = {
+    "ar": "Arabic", "bg": "Bulgarian", "bs": "Bosnian", "cs": "Czech",
+    "da": "Danish", "de": "German", "el": "Greek", "en": "English",
+    "es": "Spanish", "et": "Estonian", "fi": "Finnish", "fr": "French",
+    "ga": "Irish", "hr": "Croatian", "hu": "Hungarian", "is": "Icelandic",
+    "it": "Italian", "lt": "Lithuanian", "lv": "Latvian", "mk": "Macedonian",
+    "mt": "Maltese", "nb": "Bokmål", "nl": "Dutch", "nn": "Nynorsk",
+    "no": "Norwegian", "pl": "Polish", "pt": "Portuguese", "ro": "Romanian",
+    "ru": "Russian", "sk": "Slovak", "sl": "Slovenian", "sq": "Albanian",
+    "sr": "Serbian", "sv": "Swedish", "th": "Thai", "tr": "Turkish", "uk": "Ukrainian"
+}
+
+def print_progress(current, total, bar_length=40):
+    percent = current / total
+    filled = int(bar_length * percent)
+    bar = "#" * filled + "-" * (bar_length - filled)
+    sys.stdout.write(f"\rProgress: [{bar}] {current}/{total}\n")
+    sys.stdout.flush()
+
+class VLLMTranslator:
+    def __init__(self, base_url: str, model_path: str):
+        self.base_url = base_url
+        self.model_path = model_path
+        self.session = requests.Session()
+
+    def translate_text(self, text: str, source_lang: str, target_lang: str,
+                       max_tokens: int = 1024, temperature: float = 0.0) -> str:
+        """
+        Send translation request to vLLM model
+        Optimized settings for sentence-level translation
+        """
+        # Construct translation prompt
+        prompt = f"Translate to {language_code_to_name_dict[target_lang]}: {text}"
+        
+        # tower specific
+        #src_lang_name = language_code_to_name_dict[source_lang]
+        #trg_lang_name = language_code_to_name_dict[target_lang]
+        #prompt = f"Translate the following {src_lang_name} source text to {trg_lang_name}\n{src_lang_name}:{text}\n{trg_lang_name}: "
+        
+
+        payload = {
+            "model": self.model_path,
+            "messages": [
+                {"role": "user", "content": prompt}
+            ],
+            "max_tokens": max_tokens,
+            "temperature": temperature,
+            "top_p": 0.95,
+            "frequency_penalty": 0.1,  # Reduce repetition
+            "presence_penalty": 0.0,
+            "add_generation_prompt": True,
+            "stop": ["\n\n", "Translate", "Translation:"]  # Stop tokens for clean output
+        }
+
+        try:
+            response = self.session.post(
+                f"{self.base_url}/v1/chat/completions",
+                headers={"Content-Type": "application/json"},
+                json=payload,
+                timeout=300
+            )
+            response.raise_for_status()
+
+            result = response.json()
+            #logging.debug(f"Received response: {json.dumps(result, indent=2)}")
+            translated_text = result["choices"][0]["message"]["content"].strip()
+
+            if translated_text.startswith(("Translation:", "Translated text:", target_lang.upper() + ":")):
+                lines = translated_text.split('\n')
+                translated_text = lines[1] if len(lines) > 1 else translated_text.split(':', 1)[1].strip()
+
+            return translated_text
+
+        except requests.RequestException as e:
+            logging.debug(f"Request failed: {e}")
+            return ""
+        except (KeyError, IndexError) as e:
+            logging.debug(f"Response parsing failed: {e}")
+            return ""
+
+    def process_jsonl_file(self, input_file: str, output_format: str = "text"):
+        """
+        Process JSONL file with translation requests
+        """
+        input_path = Path(input_file)
+
+        if not input_path.exists():
+            raise FileNotFoundError(f"Input file not found: {input_path}")
+
+        # identify input languages, exit if fail
+        name = input_path.stem  # gets filename without suffix (e.g., "news.en-lv")
+
+        try:
+            lang_part = name.split('.')[-1]  # e.g., "en-lv"
+            source_lang_id, target_lang_id = lang_part.split('-')
+        except ValueError:
+            raise ValueError(f"Filename format error in '{input_file}': expected pattern like '*.en-lv.jsonl'")
+
+        logging.info(f"{input_file}: Translating from {source_lang_id} to {target_lang_id}")
+
+        # Setup output
+        output_dir_path = input_path.parent
+        output_dir_path.mkdir(parents=True, exist_ok=True)
+
+        if output_format == "json":
+            output_path = output_dir_path / f"{input_path.stem}.translated.jsonl"
+        else:
+            output_path = output_dir_path / f"{input_path.stem}.translated.txt"
+
+        output_file = open(output_path, 'w', encoding='utf-8')
+        logging.info(f"{input_file}: Output will be written to: {output_path}")
+
+        # setup done flag
+        done_flag = f"{input_file}.done"
+
+        processed_count = 0
+        failed_count = 0
+
+        try:
+            with open(input_path, 'r', encoding='utf-8') as infile:
+                lines = list(infile)
+                total = len(lines)
+                #for line_num, line in enumerate(infile, 1):
+                for line_num, line in enumerate(lines, 1):
+                    try:
+                        # Parse JSON line
+                        data = json.loads(line.strip())
+
+                        if "source" not in data:
+                            logging.debug(f"{input_file}: Line {line_num}: Missing field 'source'")
+                            failed_count += 1
+                            continue
+
+                        source_text = data["source"]
+                        if not source_text or not source_text.strip():
+                            logging.debug(f"{input_file}: Line {line_num}: Empty text field")
+                            failed_count += 1
+                            continue
+
+                        # Translate text
+                        logging.info(f"Processing line {line_num}: {source_text[:50]}...")
+                        translated_text = self.translate_text(source_text, source_lang_id, target_lang_id)
+
+                        if translated_text:
+                            if output_format == "json":
+                                # Add translation to original data
+                                data['translation'] = translated_text
+                                output_file.write(json.dumps(data, ensure_ascii=False) + '\n')
+                                output_file.flush()
+                            else:
+                                # Output only translated text
+                                output_file.write(translated_text + '\n')
+                                output_file.flush()
+
+                            processed_count += 1
+                            logging.info(f"Translated: {translated_text[:50]}...")
+                        else:
+                            logging.info(f"{input_file}: Failed to translate line {line_num}")
+                            if output_format == "json":
+                                # Still write the original data even if translation fails
+                                output_file.write(json.dumps(data, ensure_ascii=False) + '\n')
+                                output_file.flush()
+                            failed_count += 1
+                        
+                        print_progress(line_num, total)
+                        
+                    except json.JSONDecodeError as e:
+                        logging.debug(f"{input_file}: Input line {line_num}: Invalid JSON - {e}")
+                        if output_format == "json":
+                            # Write original line as-is
+                            output_file.write(line)
+                            output_file.flush()
+                        failed_count += 1
+                        print_progress(line_num, total)
+                    except Exception as e:
+                        logging.debug(f"{input_file}: Input line {line_num}: Unexpected error - {e}")
+                        if output_format == "json":
+                            # Write original line as-is
+                            output_file.write(line)
+                            output_file.flush()
+                        failed_count += 1
+                        print_progress(line_num, total)
+
+        # close the file handle
+        finally:
+            output_file.close()
+
+        logging.info(f"\nTranslation completed:")
+        logging.info(f"Successfully processed: {processed_count}")
+        logging.info(f"Failed: {failed_count}")
+
+        # Successfully reached the end of input – mark as done
+        # with open(done_flag, 'w') as flag:
+        #     flag.write("finished\n")
+
+        # logging.info("Translation complete! Created done file: %s", done_flag)
+
+        logging.info(f"Output file: {output_path}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Translate JSONL data using vLLM model")
+    parser.add_argument("--input_file", required=True, help="Input JSONL file path")
+    parser.add_argument("--format", choices=["json", "text"], default="text",
+                        help="Output format: 'json' for JSONL with translations, 'text' for plain text")
+    parser.add_argument("-u", "--url", help="vLLM server URL",
+                        default="http://perkons.tilde.lv:6666")
+    parser.add_argument("-m", "--model", help="Model path",
+                        default="/local_data/martins/llm/lumi-ckpt/hf_toms_translate_step350456_high_LR_w_optimizer_100m_mix_filtered_yarn_convert")
+
+    args = parser.parse_args()
+
+    # Initialize translator
+    translator = VLLMTranslator(args.url, args.model)
+
+    try:
+        # Process the file
+        translator.process_jsonl_file(args.input_file, args.format)
+    except Exception as e:
+        logging.debug(f"Error: {e}")
+        return 1
+
+    return 0
+
+
+if __name__ == "__main__":
+    exit(main())
