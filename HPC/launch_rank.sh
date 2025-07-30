@@ -5,12 +5,20 @@ set -euo pipefail
 RANK=$1         # 0-7 within the node
 PORT=$2         # 8000, 8001, etc
 
-GPU0=$(( RANK * 2 ))              # 0,2,4,6
-GPU1=$(( GPU0 + 1 ))              # 1,3,5,7
+# TP is exported globally
+# GPUs per instance = 8 / TP
+GPUS_PER_INSTANCE=$((8 / TP))
+START_GPU=$(( RANK * GPUS_PER_INSTANCE ))
 
-export CUDA_VISIBLE_DEVICES=$GPU0,$GPU1
+# Build the CUDA_VISIBLE_DEVICES string
+DEVICES=()
+for ((i=0; i<GPUS_PER_INSTANCE; i++)); do
+  DEVICES+=($((START_GPU + i)))
+done
 
-echo "[task $RANK] → GPUs $GPU0,$GPU1  TP=$TP  port $PORT"
+export CUDA_VISIBLE_DEVICES=$(IFS=, ; echo "${DEVICES[*]}")
+
+echo "[task $RANK] → GPUs ${CUDA_VISIBLE_DEVICES}  TP=$TP  port $PORT"
 
 singularity exec --rocm \
   -B "$MODEL_DIR":"$MODEL_DIR" \
