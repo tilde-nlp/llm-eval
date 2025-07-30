@@ -7,7 +7,7 @@ PORT=$2         # 8000, 8001, etc
 
 # TP is exported globally
 # GPUs per instance = 8 / TP
-GPUS_PER_INSTANCE=$((8 / TP))
+GPUS_PER_INSTANCE=$TP
 START_GPU=$(( RANK * GPUS_PER_INSTANCE ))
 
 # Build the CUDA_VISIBLE_DEVICES string
