@@ -14,6 +14,7 @@ shift "$total"  # discard those we just stored
 
 # whatever is left are the port numbers
 PORTS=( "$@" )
+PORT_COUNT=${#PORTS[@]}
 
 echo "Client received ${#files[@]} files: ${files[*]}"
 echo "Client received ${#PORTS[@]} ports: ${PORTS[*]}"
@@ -27,23 +28,24 @@ wait_for_server () {
 for p in "${PORTS[@]}"; do wait_for_server "$p"; done
 
 echo "All servers are ready. Preparing data..."
-# TODO: make this configurable based on num ports
-# ── 3b. Split work into four ~equal chunks ────────────────────────────────────
-base=$(( total / 4 )); extra=$(( total % 4 ))
-offset=0
-for idx in {1..4}; do
-    size=$base; (( idx <= extra )) && (( size++ ))
-    declare -n grp="grp$idx"
-    grp=( "${files[@]:offset:size}" )
-    offset=$(( offset + size ))
 
-    # Log the group contents
-    echo "Group $idx (port: ${PORTS[$((idx-1))]}):"
-    for f in "${grp[@]}"; do
-        echo "  $f"
-    done
-done
-declare -a groups=(grp1 grp2 grp3 grp4)
+# FIXME: semi hardcoded for 4 port s
+## ── 3b. Split work into NUM_PORTS ~equal chunks ────────────────────────────────────
+#base=$(( total / PORT_COUNT )); extra=$(( total % PORT_COUNT ))
+#offset=0
+#for idx in {1..4}; do
+#    size=$base; (( idx <= extra )) && (( size++ ))
+#    declare -n grp="grp$idx"
+#    grp=( "${files[@]:offset:size}" )
+#    offset=$(( offset + size ))
+#
+#    # Log the group contents
+#    echo "Group $idx (port: ${PORTS[$((idx-1))]}):"
+#    for f in "${grp[@]}"; do
+#        echo "  $f"
+#    done
+#done
+#declare -a groups=(grp1 grp2 grp3 grp4)
 
 # ── 3c. Kick off translators ─────────────────────────────────────────────────
 export PYTHONNOUSERSITE=1
@@ -92,8 +94,57 @@ export -f translate_file
 
 # wait  # Wait for all backgrounded parallel jobs to finish
 
+# Distribute files evenly across ports and process in parallel
+declare -a assignments
 for i in "${!files[@]}"; do
     file="${files[$i]}"
-    port="${PORTS[$((i % ${#PORTS[@]}))]}"
-    echo -e "$file\t$port"
-done | parallel --ungroup -j50 --colsep '\t' translate_file {1} {2}
+    port="${PORTS[$((i % PORT_COUNT))]}"
+    assignments+=("$file $port")
+done
+
+# Group assignments by port
+declare -A grouped
+for entry in "${assignments[@]}"; do
+    port="${entry##* }"
+    grouped[$port]+="$entry"$'\n'
+done
+
+# Debug: show grouped jobs
+echo -e "\nJobs per port (before interleaving):"
+for port in "${PORTS[@]}"; do
+    echo "Port $port:"
+    echo -n "${grouped[$port]}" | sed 's/^/  - /'
+done
+
+# Build port-specific arrays and determine the maximum group size
+max_len=0
+for port in "${PORTS[@]}"; do
+    array_name="jobs_$port"
+    mapfile -t "$array_name" <<< "${grouped[$port]}"
+    eval "len=\${#${array_name}[@]}"
+    (( len > max_len )) && max_len=$len
+done
+
+# Interleave jobs across ports
+interleaved=()
+for ((i = 0; i < max_len; i++)); do
+    for port in "${PORTS[@]}"; do
+        array_name="jobs_$port"
+        eval "job=\"\${${array_name}[i]}\""
+        [[ -n $job ]] && interleaved+=("$job")
+    done
+done
+
+# Debug: show interleaved list
+echo -e "\nInterleaved jobs (to be run by parallel):"
+for job in "${interleaved[@]}"; do
+    echo "  $job"
+done
+
+# Run the tasks in parallel
+printf "%s\n" "${interleaved[@]}" | \
+    parallel --ungroup -j50 --colsep ' ' translate_file {1} {2}
+
+
+
+
