@@ -43,6 +43,21 @@ class VLLMTranslator:
         self.model_path = model_path
         self.session = requests.Session()
 
+    def _get_prompt_tildelm(self):
+        raise NotImplemented
+
+    def _get_prompt_tower(self):
+        raise NotImplemented
+
+    def _get_prompt_euro(self):
+        raise NotImplemented
+
+    def _get_prompt_gemma(self):
+        raise NotImplemented
+
+    def _get_prompt_llama(self):
+        raise NotImplemented
+
     def translate_text(self, text: str, source_lang: str, target_lang: str,
                        max_tokens: int = 1024, temperature: float = 0.0) -> str:
         """

@@ -2,8 +2,7 @@
 set -euo pipefail
 
 # sanity check
-echo "launch_client.sh parallel status:"
-which parallel || echo "❌ parallel not in PATH"
+which parallel >/dev/null || { echo "parallel not in PATH"; exit 1; }
 
 # --- args handed in from srun ---------------------------------------------
 total=$1        # how many file names follow

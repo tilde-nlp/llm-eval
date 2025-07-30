@@ -28,7 +28,8 @@ module use /appl/local/training/modules/AI-20240529/
 module load singularity-userfilesystems
 
 # sanity check
-which parallel || echo "❌ parallel not in PATH"
+which parallel >/dev/null || { echo "parallel not in PATH"; exit 1; }
+
 
 #Don't fully understand.
 #Necessary for faster internode communication.
@@ -72,8 +73,6 @@ SIF=$SCRATCH/vllm_local_2
 # TOKENIZER=/scratch/project_465001281/MK/vllm/models/eurollm-9b-it
 # TOKENIZER_MODE="auto"
 
-
-
 # --- euro lm 22b it
 MODEL_DIR=/scratch/project_465001281/MK/vllm/models/eurollm-22b-it-preview
 TOKENIZER=/scratch/project_465001281/MK/vllm/models/eurollm-22b-it-preview
@@ -90,6 +89,9 @@ export SCRATCH
 export TOKENIZER
 export TOKENIZER_MODE
 
+# --- some VLLM config stuff ---
+export VLLM_USE_TRITON_FLASH_ATTN=0
+
 ###############################################################################
 # 1.  Figure out which source files still need work
 ###############################################################################
@@ -103,7 +105,7 @@ done
 echo "→ ${#pending[@]} file(s) still need translation"
 
 if [[ ${#pending[@]} -eq 0 ]]; then
-    echo "✅ Everything already translated — exiting."
+    echo "Everything already translated — exiting."
     exit 0
 fi
 
@@ -116,22 +118,38 @@ total=${#files[@]}
 
 # ── 3a. Start a vLLM server on evey 2  GPUs ───────────────────────────────────────
 
-# --- some config stuff ---
-export VLLM_USE_TRITON_FLASH_ATTN=0
-PORTS=(8000 8001 8002 8003)
+NUM_INSTANCES=$2
 
-#export PORTS
-#export files
-#export total
+# Validate NUM_INSTANCES
+if [[ ! "$NUM_INSTANCES" =~ ^(1|2|4|8)$ ]]; then
+  echo "NUM_INSTANCES must be one of: 1, 2, 4, or 8"
+  exit 1
+fi
 
-echo "⇒ launching 4 vLLM instances (ports 8000-8004) on $(hostname)"
-rm -f /dev/shm/rocm_smi_card*
-RANKS=(0 1 2 3)
-# ── 3a. Start a vLLM server on each GPU ───────────────────────────────────────
+# Calculate TP (Tensor Parallelism)
+TP=$((8 / NUM_INSTANCES))
+export TP
+
+# Construct PORTS and RANKS arrays
+PORTS=()
+RANKS=()
+BASE_PORT=8000
+
+for ((i=0; i<NUM_INSTANCES; i++)); do
+  PORTS+=($((BASE_PORT + i)))
+  RANKS+=($i)
+done
+
+echo "Available ranks: ${RANKS[*]}"
+echo "Available ports: ${PORTS[*]}"
+
+# ── Start a vLLM server on each x GPU ───────────────────────────────────────────────
 for idx in "${!RANKS[@]}"; do
   RANK=${RANKS[$idx]}
+  PORT=${PORTS[$idx]}
+  echo "→ Launching rank $RANK on port $PORT"
   sleep 2
-  ./launch_rank.sh $RANK &
+  ./launch_rank.sh $RANK $PORT &
 done
 
 bash ./launch_client.sh "$total" "${files[@]}" "${PORTS[@]}"
