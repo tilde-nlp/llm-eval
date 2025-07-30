@@ -6,7 +6,6 @@ from typing import List, Dict, Any
 import argparse
 from pathlib import Path
 
-
 import logging
 
 handler = logging.StreamHandler(sys.stdout)
@@ -30,12 +29,48 @@ language_code_to_name_dict = {
     "sr": "Serbian", "sv": "Swedish", "th": "Thai", "tr": "Turkish", "uk": "Ukrainian"
 }
 
-def print_progress(current, total, bar_length=40):
-    percent = current / total
-    filled = int(bar_length * percent)
-    bar = "#" * filled + "-" * (bar_length - filled)
-    sys.stdout.write(f"\rProgress: [{bar}] {current}/{total}\n")
-    sys.stdout.flush()
+
+class ProgressBar:
+    def __init__(self, total_iters, bar_length=40):
+        self.total_iters = total_iters
+        self.bar_length = bar_length
+        self.start_time = time.time()
+
+    def format_hhmmss(self, seconds: int) -> str:
+        hours, remainder = divmod(int(seconds), 3600)
+        minutes, secs = divmod(remainder, 60)
+        return f"{hours:02}:{minutes:02}:{secs:02}"
+
+    def get_progress_bar(self, current):
+        percent = current / self.total_iters
+        filled = int(self.bar_length * percent)
+        bar = "#" * filled + "-" * (self.bar_length - filled)
+
+        return bar
+
+    def get_time_estimate(self, current):
+        current_time = time.time()
+        elapsed_time = int(current_time - self.start_time)
+        elapsed_string = self.format_hhmmss(elapsed_time)
+
+        # calculate the average time per iter
+        curr_avg = elapsed_time / current  # seconds
+
+        # calculate ETA
+        eta = curr_avg * (self.total_iters - current)
+        eta = self.format_hhmmss(eta)
+
+        return f"Elapsed: {elapsed_string}\tETA: {eta}"
+
+    def print_progress(self, current_iter):
+        # get progress bar
+        bar = self.get_progress_bar(current_iter)
+        # get time metrics
+        time_stuff = self.get_time_estimate(current_iter)
+
+        sys.stdout.write(f"\rProgress: [{bar}]\t{time_stuff}\n")
+        sys.stdout.flush()
+
 
 class VLLMTranslator:
     def __init__(self, base_url: str, model_path: str):
@@ -66,12 +101,11 @@ class VLLMTranslator:
         """
         # Construct translation prompt
         prompt = f"Translate to {language_code_to_name_dict[target_lang]}: {text}"
-        
+
         # tower specific
-        #src_lang_name = language_code_to_name_dict[source_lang]
-        #trg_lang_name = language_code_to_name_dict[target_lang]
-        #prompt = f"Translate the following {src_lang_name} source text to {trg_lang_name}\n{src_lang_name}:{text}\n{trg_lang_name}: "
-        
+        # src_lang_name = language_code_to_name_dict[source_lang]
+        # trg_lang_name = language_code_to_name_dict[target_lang]
+        # prompt = f"Translate the following {src_lang_name} source text to {trg_lang_name}\n{src_lang_name}:{text}\n{trg_lang_name}: "
 
         payload = {
             "model": self.model_path,
@@ -97,7 +131,7 @@ class VLLMTranslator:
             response.raise_for_status()
 
             result = response.json()
-            #logging.debug(f"Received response: {json.dumps(result, indent=2)}")
+            # logging.debug(f"Received response: {json.dumps(result, indent=2)}")
             translated_text = result["choices"][0]["message"]["content"].strip()
 
             if translated_text.startswith(("Translation:", "Translated text:", target_lang.upper() + ":")):
@@ -145,9 +179,6 @@ class VLLMTranslator:
         output_file = open(output_path, 'w', encoding='utf-8')
         logging.info(f"{input_file}: Output will be written to: {output_path}")
 
-        # setup done flag
-        done_flag = f"{input_file}.done"
-
         processed_count = 0
         failed_count = 0
 
@@ -155,7 +186,11 @@ class VLLMTranslator:
             with open(input_path, 'r', encoding='utf-8') as infile:
                 lines = list(infile)
                 total = len(lines)
-                #for line_num, line in enumerate(infile, 1):
+                # for line_num, line in enumerate(infile, 1):
+
+                # start progress bar
+                pp = ProgressBar(total)
+
                 for line_num, line in enumerate(lines, 1):
                     try:
                         # Parse JSON line
@@ -196,9 +231,8 @@ class VLLMTranslator:
                                 output_file.write(json.dumps(data, ensure_ascii=False) + '\n')
                                 output_file.flush()
                             failed_count += 1
-                        
-                        print_progress(line_num, total)
-                        
+                        pp.print_progress(line_num)
+
                     except json.JSONDecodeError as e:
                         logging.debug(f"{input_file}: Input line {line_num}: Invalid JSON - {e}")
                         if output_format == "json":
@@ -206,7 +240,8 @@ class VLLMTranslator:
                             output_file.write(line)
                             output_file.flush()
                         failed_count += 1
-                        print_progress(line_num, total)
+                        pp.print_progress(line_num)
+
                     except Exception as e:
                         logging.debug(f"{input_file}: Input line {line_num}: Unexpected error - {e}")
                         if output_format == "json":
@@ -214,7 +249,7 @@ class VLLMTranslator:
                             output_file.write(line)
                             output_file.flush()
                         failed_count += 1
-                        print_progress(line_num, total)
+                        pp.print_progress(line_num)
 
         # close the file handle
         finally:
