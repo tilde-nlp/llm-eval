@@ -34,7 +34,7 @@ class ProgressBar:
     def __init__(self, total_iters, bar_length=40):
         self.total_iters = total_iters
         self.bar_length = bar_length
-        self.start_time = time.time()
+        self.start_time = int(time.time())
 
     def format_hhmmss(self, seconds: int) -> str:
         hours, remainder = divmod(int(seconds), 3600)
@@ -57,7 +57,7 @@ class ProgressBar:
         curr_avg = elapsed_time / current  # seconds
 
         # calculate ETA
-        eta = curr_avg * (self.total_iters - current)
+        eta = int(curr_avg * (self.total_iters - current))
         eta = self.format_hhmmss(eta)
 
         return f"Elapsed: {elapsed_string}\tETA: {eta}"
