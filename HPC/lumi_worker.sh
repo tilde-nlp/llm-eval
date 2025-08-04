@@ -98,16 +98,32 @@ export VLLM_USE_TRITON_FLASH_ATTN=0
 set -euo pipefail
 
 # Require at least 2 arguments
-[[ $# -lt 2 ]] && { echo "Usage: $0 DATA_DIR NUM_INSTANCES [FEW_SHOT_FILE] [N_FEW_SHOT]"; exit 1; }
+[[ $# -lt 2 ]] && { echo "Usage: $0 DATA_DIR NUM_INSTANCES [MODEL_TYPE] [FEW_SHOT_FILE] [N_FEW_SHOT]"; exit 1; }
 
 DATA_DIR="${1%/}"  # remove trailing slash
 NUM_INSTANCES="$2"
-FEW_SHOT_FILE="${3:-}"
-N_FEW_SHOT="${4:-}"
+MODEL_TYPE="${3:tildelm}"
+FEW_SHOT_FILE="${4:file_not_provided}"
+N_FEW_SHOT="${5:-}"
 
+# mandatory args
 [[ ! -d "$DATA_DIR" ]] && { echo "DATA_DIR not found: $DATA_DIR"; exit 1; }
-[[ ! "$NUM_INSTANCES" =~ ^[1-9][0-9]*$ ]] && { echo "NUM_INSTANCES must be a positive integer"; exit 1; }
+# Validate NUM_INSTANCES
+if [[ ! "$NUM_INSTANCES" =~ ^(1|2|4|8)$ ]]; then
+  echo "NUM_INSTANCES must be one of: 1, 2, 4, or 8"
+  exit 1
+fi
 
+# optional args
+# allowed model types (space-separated)
+ALLOWED_MODELS="tildelm eurollm gemma tower llama"
+
+if [[ -n "$MODEL_TYPE" && ! " $ALLOWED_MODELS " =~ " $MODEL_TYPE " ]]; then
+  echo "Invalid MODEL_TYPE: '$MODEL_TYPE'. Must be one of: $ALLOWED_MODELS"
+  exit 1
+fi
+
+# few-shot config
 if [[ -n "$FEW_SHOT_FILE" ]]; then
   [[ ! -f "$FEW_SHOT_FILE" ]] && { echo "Few-shot file not found: $FEW_SHOT_FILE"; exit 1; }
   [[ -z "$N_FEW_SHOT" ]] && N_FEW_SHOT=1
@@ -117,13 +133,21 @@ fi
 
 [[ ! "$N_FEW_SHOT" =~ ^[0-9]+$ ]] && { echo "N_FEW_SHOT must be a non-negative integer"; exit 1; }
 
+# export python related args as globals for later use
+export FEW_SHOT_FILE
+export N_FEW_SHOT
+export MODEL_TYPE
+
 ###############################################################################
 # 1.  Figure out which source files still need work
 ###############################################################################
 
 pending=()
 for f in "$DATA_DIR"/*.jsonl; do
-    [[ -f "${f}.done" ]] || pending+=( "$f" )
+    [[ "$f" == *.translated.jsonl ]] && continue         # skip translated files
+    [[ -f "${f}.translated.jsonl" ]] && continue         # skip if already translated
+    [[ -f "${f}.done" ]] && continue                     # skip if already marked done
+    pending+=( "$f" )
 done
 
 echo "→ ${#pending[@]} file(s) still need translation"
@@ -141,14 +165,6 @@ files=( "${pending[@]}" )
 total=${#files[@]}
 
 # ── 3a. Start a vLLM server on evey 2  GPUs ───────────────────────────────────────
-
-NUM_INSTANCES=$2
-
-# Validate NUM_INSTANCES
-if [[ ! "$NUM_INSTANCES" =~ ^(1|2|4|8)$ ]]; then
-  echo "NUM_INSTANCES must be one of: 1, 2, 4, or 8"
-  exit 1
-fi
 
 # Calculate TP (Tensor Parallelism)
 TP=$((8 / NUM_INSTANCES))

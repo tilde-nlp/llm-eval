@@ -29,29 +29,11 @@ for p in "${PORTS[@]}"; do wait_for_server "$p"; done
 
 echo "All servers are ready. Preparing data..."
 
-# FIXME: semi hardcoded for 4 port s
-## ── 3b. Split work into NUM_PORTS ~equal chunks ────────────────────────────────────
-#base=$(( total / PORT_COUNT )); extra=$(( total % PORT_COUNT ))
-#offset=0
-#for idx in {1..4}; do
-#    size=$base; (( idx <= extra )) && (( size++ ))
-#    declare -n grp="grp$idx"
-#    grp=( "${files[@]:offset:size}" )
-#    offset=$(( offset + size ))
-#
-#    # Log the group contents
-#    echo "Group $idx (port: ${PORTS[$((idx-1))]}):"
-#    for f in "${grp[@]}"; do
-#        echo "  $f"
-#    done
-#done
-#declare -a groups=(grp1 grp2 grp3 grp4)
-
 # ── 3c. Kick off translators ─────────────────────────────────────────────────
 export PYTHONNOUSERSITE=1
 
-#### updated script
 # Function to run translation on a single file
+
 translate_file() {
     local file="$1"
     local port="$2"
@@ -66,7 +48,10 @@ translate_file() {
             --model "$MODEL_DIR" \
             --url "http://0.0.0.0:${port}" \
             --input_file "$file" \
-            --format "json"
+            --format "json" \
+            --few_shot_file "$FEW_SHOT_FILE" \
+            --n_few_shot "$N_FEW_SHOT" \
+            --model_type "$MODEL_TYPE"
     }
     then
         touch "${file}.done"
@@ -102,6 +87,23 @@ for i in "${!files[@]}"; do
     assignments+=("$file $port")
 done
 
+declare -A has_job
+for entry in "${assignments[@]}"; do
+  port="${entry##* }"
+  has_job[$port]=1
+done
+
+# rebuild PORTS/PORT_COUNT to only the ones we actually used
+old_ports=( "${PORTS[@]}" )
+PORTS=()
+for p in "${old_ports[@]}"; do
+    # use “:-” so that unset has_job[$p] becomes “” rather than an error
+    if [[ -n "${has_job[$p]:-}" ]]; then
+        PORTS+=( "$p" )
+    fi
+done
+PORT_COUNT=${#PORTS[@]}
+
 # Group assignments by port
 declare -A grouped
 for entry in "${assignments[@]}"; do
@@ -130,10 +132,12 @@ interleaved=()
 for ((i = 0; i < max_len; i++)); do
     for port in "${PORTS[@]}"; do
         array_name="jobs_$port"
-        eval "job=\"\${${array_name}[i]}\""
+        # ← changed here to default-empty expansion
+        eval "job=\"\${${array_name}[i]:-}\""
         [[ -n $job ]] && interleaved+=("$job")
     done
 done
+
 
 # Debug: show interleaved list
 echo -e "\nInterleaved jobs (to be run by parallel):"
@@ -144,7 +148,3 @@ done
 # Run the tasks in parallel
 printf "%s\n" "${interleaved[@]}" | \
     parallel --ungroup -j50 --colsep ' ' translate_file {1} {2}
-
-
-
-
