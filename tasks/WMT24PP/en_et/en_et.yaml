@@ -1,0 +1,30 @@
+tag: WMT24PP
+task: MT__en___et
+dataset_path: google/wmt24pp
+dataset_name: en-et_EE
+output_type: generate_until
+generation_kwargs:
+  until: ["\n\n"]
+  do_sample: false
+  temperature: 0
+training_split: train
+validation_split: train
+test_split: null
+process_docs: !function utils.filter_data
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+metric_list:
+  - metric: bleu
+    aggregation: mean
+    higher_is_better: true
+  - metric: meteor
+    aggregation: mean
+    higher_is_better: true
+  - metric: ter
+    aggregation: mean
+    higher_is_better: false
+  - metric: chrf
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1
