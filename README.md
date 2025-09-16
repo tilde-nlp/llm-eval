@@ -92,4 +92,5 @@ Once this script completes without errors and you are satisfied with the generat
 
 ### Adding a task X that has local data
 
-1. Panic
+1. Refer to tasks/tildelm
+
