@@ -1,6 +1,6 @@
 tag: lv_exam
 task: lv_exam_all_geography
-dataset_path: TildeSIA/Latvian_exams
+dataset_path: TildeAI/latvian_national_exams
 dataset_name: all_geography
 output_type: multiple_choice
 training_split: null
