@@ -1,0 +1,12 @@
+group: lv_exams
+task:
+- lv_exam
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+- metric: acc_norm
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 0

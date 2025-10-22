@@ -1,0 +1,20 @@
+tag: lv_exam
+task: lv_exam_latvian_language_12
+dataset_path: TildeAI/latvian_national_exams
+dataset_name: latvian_language_12
+output_type: multiple_choice
+training_split: null
+validation_split: null
+test_split: test
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+doc_to_choice: !function utils.doc_to_choice
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+- metric: acc_norm
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 0
