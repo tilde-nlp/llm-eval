@@ -1,0 +1,10 @@
+group: mera_ru
+task:
+- MERA_ru
+metric_list:
+  - metric: acc
+    weight_by_size: true
+  - metric: acc_norm
+    weight_by_size: true
+metadata:
+  version: 2
