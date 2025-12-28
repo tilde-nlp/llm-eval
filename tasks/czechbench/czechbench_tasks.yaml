@@ -1,0 +1,17 @@
+group: czechbench_tasks
+task:
+  - agree_cs
+  - anli_cs
+  - arc_easy_cs
+  - arc_challenge_cs
+  - belebele_cs
+  - ctkfacts_cs
+  - czechnews_cs
+  - fb_comments_cs
+  - gsm8k_cs
+  - klokanek_cs
+  - mall_reviews_cs
+  - mmlu_cs
+  - sqad_cs
+  - subjectivity_cs
+  - truthfulqa_cs
