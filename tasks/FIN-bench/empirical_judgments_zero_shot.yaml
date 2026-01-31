@@ -1,0 +1,20 @@
+tag: FIN_bench
+task: FIN_empirical_judgments_zero_shot_bench
+dataset_path: TurkuNLP/FIN-bench
+dataset_name: empirical_judgments_zero_shot
+output_type: multiple_choice
+training_split: null
+validation_split: null
+test_split: default
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+doc_to_choice: !function utils.doc_to_choice
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+- metric: acc_norm
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 0
