@@ -1,0 +1,8 @@
+task:
+  -squad_sk_tasks
+
+metric_list:
+  - metric: exact_match
+    weight_by_size: true
+metadata:
+  version: 0
